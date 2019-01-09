@@ -1,0 +1,69 @@
+Titre du rapport
+Code région	Libellé de la région	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat	Libellé de fonction	Date de début de la fonction
+94	Corse	ANGELINI	Jean-Christophe	M	27/11/1975	09	Commercants	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	ANGELINI BURESI	Vannina	F	29/12/1975	44	Professions rattachées à enseignt.	1/1/2018		
+94	Corse	ANTONINI	Danielle	F	5/9/1957	24	Médecins	1/1/2018		
+94	Corse	ARMANET	Guy	M	27/10/1964	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	BENEDETTI	François	M	17/10/1947	24	Médecins	2/1/2018		
+94	Corse	BERNARDI	François	M	29/7/1958	47	Fonctionnaires de catégorie A	1/1/2018		
+94	Corse	BIANCUCCI	Jean	M	8/5/1948	10	Artisans	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	BORROMEI	Vanina	F	10/8/1978	05	Industriels-Chefs entreprise	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	BOZZI	Valérie	F	18/3/1982	29	Avocats	1/1/2018	Président de groupe	2/1/2018
+94	Corse	CARLOTTI	Pascal	M	25/7/1976	20	Employés (secteur privé)	1/1/2018		
+94	Corse	CASALTA	Jean-François	M	11/12/1974	29	Avocats	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	CASALTA	Mattea	F	15/5/1958	09	Commercants	1/1/2018	Second vice-président de Assemblée de Corse	2/1/2018
+94	Corse	CASANOVA-SERVAS	Marie-Hélène	F	4/1/1969	29	Avocats	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	CECCOLI	François-Xavier	M	27/10/1968	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	CESARI	Marcel	M	9/11/1951	01	Agriculteurs propriétaires exploit.	1/1/2018		
+94	Corse	COGNETTI-TURCHINI	Catherine	F	20/5/1964	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	COLONNA	Romain	M	21/2/1982	41	Professeurs de faculté	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	COMBETTE	Christelle	F	16/3/1972	39	Autres professions libérales	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	DELPOUX	Jean-Louis	M	21/9/1950	65	Autres retraités	1/1/2018		
+94	Corse	DE ROCCA SERRA	Camille	M	21/5/1954	57	Sans profession déclarée	1/1/2018		
+94	Corse	DUVAL	Santa	F	8/1/1967	09	Commercants	1/1/2018		
+94	Corse	FAGNI	Muriel	F	12/9/1958	18	Cadres supérieurs (secteur privé)	1/1/2018		
+94	Corse	FAZI	Bianca	F	10/10/1960	24	Médecins	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	FELICIAGGI	Isabelle	F	20/3/1973	48	Fonctionnaires de catégorie B	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	FILIPPUTTI	Pierre-José	M	10/1/1975	42	Professeurs du secondaire et techn.	1/1/2018		
+94	Corse	FURIOLI	Laura	F	30/3/1985	29	Avocats	2/1/2018		
+94	Corse	GHIONGA	Pierre	M	5/9/1957	24	Médecins	1/1/2018		
+94	Corse	GIACOMETTI	Josepha	F	5/8/1983	57	Sans profession déclarée	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	GIOVANNINI	Fabienne	F	2/8/1962	57	Sans profession déclarée	1/1/2018		
+94	Corse	GIUDICI	Francis	M	29/5/1956	01	Agriculteurs propriétaires exploit.	1/1/2018		
+94	Corse	GRIMALDI	Stéphanie	F	27/5/1968	18	Cadres supérieurs (secteur privé)	1/1/2018		
+94	Corse	GUIDICELLI	Lauda	F	27/10/1985	47	Fonctionnaires de catégorie A	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	GUIDONI-DENSARI	Frédérique	F	7/5/1968	19	Autres cadres (secteur privé)	1/1/2018		
+94	Corse	GUISEPPI	Julie	F	23/9/1966	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	LACOMBE	Xavier	M	8/6/1965	44	Professions rattachées à enseignt.	1/1/2018		
+94	Corse	LEONETTI	Paul	M	30/7/1952	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	LUCIANI	Pierre-Jean	M	8/3/1945	64	Retraités des entreprises publiques	1/1/2018		
+94	Corse	LUCIANI	Xavier	M	24/3/1958	42	Professeurs du secondaire et techn.	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	MARIOTTI	Marie-Thérèse	F	17/9/1963	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	MAUPERTUIS	Marie-Antoinette	F	10/4/1967	41	Professeurs de faculté	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	MONDOLONI	Jean-Martin	M	24/10/1968	44	Professions rattachées à enseignt.	1/1/2018	Président de groupe	2/1/2018
+94	Corse	MORTINI	Lionel	M	8/5/1969	01	Agriculteurs propriétaires exploit.	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	NIVAGGIONI	Nadine	F	13/2/1962	18	Cadres supérieurs (secteur privé)	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	ORLANDI	François	M	1/11/1957	19	Autres cadres (secteur privé)	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	ORSUCCI	Jean-Charles	M	30/1/1972	48	Fonctionnaires de catégorie B	1/1/2018	Président de groupe	2/1/2018
+94	Corse	PADOVANI	Marie-Hélène	F	8/11/1969	57	Sans profession déclarée	1/1/2018		
+94	Corse	PARIGI	Paul	M	7/4/1966	56	Autres professions	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	PEDINIELLI	Chantal	F	2/7/1964	19	Autres cadres (secteur privé)	1/1/2018		
+94	Corse	PIERI	Marie-Anne	F	24/2/1959	30	Notaires	1/1/2018		
+94	Corse	POLI	Antoine	M	16/9/1968	20	Employés (secteur privé)	1/1/2018		
+94	Corse	POLI	Laura Maria	F	2/9/1986	29	Avocats	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	POLI	Pierre	M	13/1/1958	52	Employés (autres entrep. publiques)	1/1/2018		
+94	Corse	PONZEVERA	Juliette	F	17/3/1982	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	POZZO DI BORGO	Louis	M	24/4/1977	49	Fonctionnaires de catégorie C	1/1/2018		
+94	Corse	PROSPERI	Rosa	F	19/8/1960	29	Avocats	1/1/2018	Autre membre commission permanente	2/1/2018
+94	Corse	PUCCI	Joseph	M	1/1/1964	09	Commercants	1/1/2018		
+94	Corse	RIERA	Catherine	F	18/12/1962	18	Cadres supérieurs (secteur privé)	1/1/2018		
+94	Corse	SANTUCCI	Anne-Laure	F	31/7/1965	43	Enseignants 1er deg.-directeurs école	1/1/2018		
+94	Corse	SARGENTINI	François	M	16/8/1953	57	Sans profession déclarée	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+94	Corse	SIMEONI	Gilles	M	20/4/1967	29	Avocats	1/1/2018	Président Conseil exécutif de Corse	2/1/2018
+94	Corse	SIMEONI	Marie	F	27/8/1970	10	Artisans	2/1/2018		
+94	Corse	SIMONI	Pascale	F	10/10/1971	05	Industriels-Chefs entreprise	1/1/2018		
+94	Corse	STROMBONI	Jeanne	F	8/3/1961	18	Cadres supérieurs (secteur privé)	2/1/2018		
+94	Corse	TALAMONI	Jean-Guy	M	6/5/1960	29	Avocats	1/1/2018	Président de Assemblée de Corse	2/1/2018
+94	Corse	TOMASI	Anne	F	2/3/1985	42	Professeurs du secondaire et techn.	1/1/2018		
+94	Corse	TOMASI	Petr'Antone	M	22/12/1987	48	Fonctionnaires de catégorie B	1/1/2018	Président de groupe	2/1/2018
+94	Corse	VANNI	Hyacinthe	M	27/10/1968	48	Fonctionnaires de catégorie B	1/1/2018	Premier vice-président de Assemblée de Corse	2/1/2018

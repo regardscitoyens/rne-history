@@ -1,0 +1,76 @@
+Titre du rapport
+CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat
+01	NORD-OUEST	BAY	Nicolas	M	21/12/1977	56	Autres professions	1/7/2014
+01	NORD-OUEST	BRIOIS	Steeve	M	28/11/1972	51	Cadres (entreprises publiques)	1/7/2014
+01	NORD-OUEST	DELLI	Karima	F	4/3/1979	50	Cadres sup. (entreprises publiques)	1/7/2014
+01	NORD-OUEST	GODDYN	Sylvie	F	24/6/1964	54	Permanents politiques	1/7/2014
+01	NORD-OUEST	LAVRILLEUX	Jérôme	M	19/9/1969	54	Permanents politiques	1/7/2014
+01	NORD-OUEST	LECHEVALIER	Christelle	F	27/9/1968	16	Représentants de commerce	19/6/2017
+01	NORD-OUEST	PARGNEAUX	Gilles	M	24/3/1957	56	Autres professions	1/7/2014
+01	NORD-OUEST	RIQUET	Dominique	M	18/9/1946	56	Autres professions	1/7/2014
+01	NORD-OUEST	SAÏFI	Tokia	F	11/7/1959	54	Permanents politiques	1/7/2014
+01	NORD-OUEST	TROSZCZYNSKI	Mylène	F	16/5/1972	57	Sans profession déclarée	1/7/2014
+02	OUEST	ARTHUIS	Jean	M	7/10/1944	34	Experts comptables	1/7/2014
+02	OUEST	BERGERON	Joëlle	F	28/6/1949	30	Notaires	1/7/2014
+02	OUEST	CADEC	Alain	M	21/6/1953	33	Agents généraux d'assurances	1/7/2014
+02	OUEST	JADOT	Yannick	M	27/7/1967	56	Autres professions	1/7/2014
+02	OUEST	JOULAUD	Marc	M	3/9/1967	54	Permanents politiques	1/7/2014
+02	OUEST	LEBRETON	Gilles	M	11/10/1958	41	Professeurs de faculté	1/7/2014
+02	OUEST	MAUREL	Emmanuel	M	10/3/1973	44	Professions rattachées à enseignt.	1/7/2014
+02	OUEST	MORIN-CHARTIER	Elisabeth	F	10/10/1947	44	Professions rattachées à enseignt.	1/7/2014
+02	OUEST	THOMAS	Isabelle	F	26/11/1961	32	Conseillers juridiques	1/7/2014
+03	EST	BILDE	Dominique	F	1/8/1953	09	Commercants	1/7/2014
+03	EST	DANJEAN	Arnaud	M	11/2/1971	47	Fonctionnaires de catégorie A	1/7/2014
+03	EST	GRIESBECK	Nathalie	F	24/5/1956	41	Professeurs de faculté	1/7/2014
+03	EST	JALKH	Jean-François	M	23/5/1957	37	Journalistes et autres médias	1/7/2014
+03	EST	MARTIN	Edouard	M	15/6/1963	20	Employés (secteur privé)	1/7/2014
+03	EST	MONTEL	Sophie	F	22/11/1969	19	Autres cadres (secteur privé)	1/7/2014
+03	EST	MORANO	Nadine	F	6/11/1963	05	Industriels-Chefs entreprise	1/7/2014
+03	EST	PHILIPPOT	Florian	M	24/10/1981	46	Grands corps de l'état	1/7/2014
+03	EST	SANDER	Anne	F	1/10/1973	54	Permanents politiques	1/7/2014
+04	SUD-OUEST	ALLIOT-MARIE	Michèle	F	10/9/1946	41	Professeurs de faculté	1/7/2014
+04	SUD-OUEST	ANDRIEU	Éric	M	14/4/1960	54	Permanents politiques	1/7/2014
+04	SUD-OUEST	BOVÉ	José	M	11/6/1953	01	Agriculteurs propriétaires exploit.	1/7/2014
+04	SUD-OUEST	COLOMBIER	Jacques	M	17/2/1952	60	Retraités des professions libérales	1/2/2018
+04	SUD-OUEST	JAMET	France	F	5/2/1961	54	Permanents politiques	18/6/2017
+04	SUD-OUEST	MÉLIN	Joëlle	F	26/3/1950	24	Médecins	1/7/2014
+04	SUD-OUEST	PROUST	Franck	M	2/5/1963	33	Agents généraux d'assurances	1/7/2014
+04	SUD-OUEST	ROCHEFORT	Robert	M	19/9/1955	50	Cadres sup. (entreprises publiques)	1/7/2014
+04	SUD-OUEST	ROZIÈRE	Virginie	F	18/6/1976	46	Grands corps de l'état	1/7/2014
+04	SUD-OUEST	VIEU	Marie-Pierre	F	1/2/1967	56	Autres professions	18/6/2017
+05	SUD-EST	ARNAUTU	Marie-Christine	F	19/10/1952	61	Retraités salariés privés	1/7/2014
+05	SUD-EST	CORNILLET	Thierry	M	23/7/1951	47	Fonctionnaires de catégorie A	18/5/2017
+05	SUD-EST	DANTIN	Michel	M	15/1/1960	47	Fonctionnaires de catégorie A	1/7/2014
+05	SUD-EST	D'ORNANO	Mireille	F	29/6/1951	20	Employés (secteur privé)	1/7/2014
+05	SUD-EST	GOLLNISCH	Bruno	M	28/1/1950	41	Professeurs de faculté	1/7/2014
+05	SUD-EST	GROSSETÊTE	Françoise	F	17/5/1946	54	Permanents politiques	1/7/2014
+05	SUD-EST	GUILLAUME	Sylvie	F	11/6/1962	56	Autres professions	1/7/2014
+05	SUD-EST	LALONDE	Patricia	F	28/8/1952	57	Sans profession déclarée	1/5/2017
+05	SUD-EST	LE PEN	Jean-Marie	M	20/6/1928	65	Autres retraités	1/7/2014
+05	SUD-EST	MARTIN	Dominique	M	1/10/1961	06	Administrateurs de sociétés	1/7/2014
+05	SUD-EST	MUSELIER	Renaud	M	6/5/1959	24	Médecins	1/7/2014
+05	SUD-EST	PEILLON	Vincent	M	7/7/1960	42	Professeurs du secondaire et techn.	1/7/2014
+05	SUD-EST	RIVASI	Michèle	F	9/2/1953	56	Autres professions	1/7/2014
+05	SUD-EST	VERGIAT	Marie-Christine	F	23/9/1956	56	Autres professions	1/7/2014
+06	MASSIF-CENTRAL CENTRE	DELAHAYE	Angélique	F	22/2/1963	01	Agriculteurs propriétaires exploit.	1/7/2014
+06	MASSIF-CENTRAL CENTRE	GLOANEC-MAURIN	Karine	F	11/1/1958	18	Cadres supérieurs (secteur privé)	11/6/2018
+06	MASSIF-CENTRAL CENTRE	HORTEFEUX	Brice	M	11/5/1958	56	Autres professions	1/7/2014
+06	MASSIF-CENTRAL CENTRE	LOISEAU	Philippe	M	24/11/1957	01	Agriculteurs propriétaires exploit.	1/7/2014
+06	MASSIF-CENTRAL CENTRE	MONOT	Bernard	M	3/7/1962	50	Cadres sup. (entreprises publiques)	1/7/2014
+07	ILE-DE-FRANCE	BALAS	Guillaume	M	30/8/1972	42	Professeurs du secondaire et techn.	1/7/2014
+07	ILE-DE-FRANCE	BERÈS	Pervenche	F	10/3/1957	47	Fonctionnaires de catégorie A	1/7/2014
+07	ILE-DE-FRANCE	BOUTONNET	Marie-Christine	F	10/2/1949	19	Autres cadres (secteur privé)	1/7/2014
+07	ILE-DE-FRANCE	CAVADA	Jean-Marie	M	24/2/1940	64	Retraités des entreprises publiques	1/7/2014
+07	ILE-DE-FRANCE	CHAUPRADE	Aymeric	M	13/1/1969	05	Industriels-Chefs entreprise	1/7/2014
+07	ILE-DE-FRANCE	DATI	Rachida	F	27/11/1965	56	Autres professions	1/7/2014
+07	ILE-DE-FRANCE	DIDIER	Geoffroy	M	12/4/1976	29	Avocats	18/6/2017
+07	ILE-DE-FRANCE	DURAND	Pascal	M	3/10/1960	29	Avocats	1/7/2014
+07	ILE-DE-FRANCE	JOLY	Eva	F	5/12/1943	63	Retraités fonct.publique (sf enseig.)	1/7/2014
+07	ILE-DE-FRANCE	JUVIN	Philippe	M	1/2/1964	24	Médecins	1/7/2014
+07	ILE-DE-FRANCE	LAMASSOURE	Alain	M	10/2/1944	56	Autres professions	1/7/2014
+07	ILE-DE-FRANCE	LE HYARIC	Patrick	M	4/2/1957	05	Industriels-Chefs entreprise	1/7/2014
+07	ILE-DE-FRANCE	REVAULT D'ALLONNES	Christine	F	10/11/1971	54	Permanents politiques	1/7/2014
+07	ILE-DE-FRANCE	SCHAFFHAUSER	Jean-Luc	M	17/12/1955	39	Autres professions libérales	1/7/2014
+08	OUTRE-MER	MANSCOUR	Louis-Joseph	M	20/3/1945	43	Enseignants 1er deg.-directeurs école	1/7/2014
+08	OUTRE-MER	OMARJEE	Younous	M	30/9/1969	57	Sans profession déclarée	1/7/2014
+08	OUTRE-MER	PONGA	Maurice	M	5/6/1947	62	Retraités de l'enseignement	1/7/2014
