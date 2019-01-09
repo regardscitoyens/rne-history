@@ -5,12 +5,9 @@ import sys, os
 
 def updateFile(url, name):
     cmd = "wget {0} -O {1}".format(url, name)
-    print(cmd)
     os.system(cmd)
-    msg = "Update file {0} after checksum changed.".format(name)
     git_cmd = "git commit -m 'Update file {0} after checksum changed.' {0}".format(name)
     os.system(git_cmd)
-    print(git_cmd)
 
     os.system('git push')
 
@@ -20,7 +17,7 @@ def updateDescFile(path, desc):
 
     git_cmd = "git commit -m 'Update file {0} after checksum changed.' {0}".format(path)
     os.system(git_cmd)
-        os.system('git push')
+    os.system('git push')
 
 if __name__ == '__main__' :
 
