@@ -4,7 +4,7 @@ import sys, os
 
 
 def updateFile(url, name):
-    cmd = "wget {0} -O {1}".format(name, url)
+    cmd = "wget {0} -O {1}".format(url, name)
     print(cmd)
     os.system(cmd)
     msg = "Update file {0} after checksum changed.".format(name)
