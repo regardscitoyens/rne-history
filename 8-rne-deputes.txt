@@ -197,7 +197,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 40	LANDES	03	3ème circonscription	VALLAUD	Boris	M	25/7/1975	47	Fonctionnaires de catégorie A	18/6/2017
 41	LOIR ET CHER	01	1ère circonscription	BAUDU	Stéphane	M	1/5/1965	19	Autres cadres (secteur privé)	18/6/2017
 41	LOIR ET CHER	02	2ème circonscription	PELTIER	Guillaume	M	27/8/1976	19	Autres cadres (secteur privé)	18/6/2017
-41	LOIR ET CHER	03	3ème circonscription	LEROY	Maurice	M	2/2/1959	39	Autres professions libérales	18/6/2017
+41	LOIR ET CHER	03	3ème circonscription	BRINDEAU	Pascal	M	20/6/1974	39	Autres professions libérales	10/1/2019
 42	LOIRE	01	1ère circonscription	JUANICO	Régis	M	5/2/1972	47	Fonctionnaires de catégorie A	18/6/2017
 42	LOIRE	02	2ème circonscription	MIS	Jean-Michel	M	28/7/1967	19	Autres cadres (secteur privé)	18/6/2017
 42	LOIRE	03	3ème circonscription	FAURE-MUNTIAN	Valéria	F	2/9/1984	17	Agents d'assurances	18/6/2017
