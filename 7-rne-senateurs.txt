@@ -14,12 +14,12 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 06	ALPES MARITIMES	ESTROSI-SASSONE	Dominique	F	14/11/1958	57	Sans profession déclarée	1/10/2014
 06	ALPES MARITIMES	GIUDICELLI	Colette	F	24/11/1943	57	Sans profession déclarée	1/10/2014
 06	ALPES MARITIMES	LELEUX	Jean-Pierre	M	8/5/1947	13	Ingénieurs	1/10/2014
-06	ALPES MARITIMES	LEROY	Henri	M	31/3/1945	63	Retraités fonct.publique (sf enseig.)	1/10/2014
+06	ALPES MARITIMES	LEROY	Henri	M	31/3/1945	63	Retraités fonct.publique (sf enseig.)	1/10/2017
 07	ARDECHE	DARNAUD	Mathieu	M	11/7/1975	57	Sans profession déclarée	1/10/2014
 07	ARDECHE	GENEST	Jacques	M	6/8/1950	63	Retraités fonct.publique (sf enseig.)	1/10/2014
 08	ARDENNES	HURE	Benoît	M	5/6/1953	01	Agriculteurs propriétaires exploit.	1/10/2014
 08	ARDENNES	LAMENIE	Marc	M	11/7/1956	56	Autres professions	1/10/2014
-09	ARIEGE	DURAN	Alain	M	2/1/1958	43	Enseignants 1er deg.-directeurs école	1/10/2014
+09	ARIEGE	DURAN	Alain	M	2/1/1958	62	Retraités de l'enseignement	1/10/2014
 10	AUBE	ADNOT	Philippe	M	25/8/1945	01	Agriculteurs propriétaires exploit.	1/10/2014
 10	AUBE	PERROT	Evelyne	F	22/6/1951	57	Sans profession déclarée	17/12/2017
 11	AUDE	COURTEAU	Roland	M	24/2/1943	62	Retraités de l'enseignement	1/10/2014
@@ -37,15 +37,15 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 14	CALVADOS	ALLIZARD	Pascal	M	19/12/1962	51	Cadres (entreprises publiques)	1/10/2014
 14	CALVADOS	DE LA PROVOTE	Sonia	F	25/12/1968	23	Salariés du secteur médical	1/10/2017
 14	CALVADOS	FERET	Corinne	F	17/9/1961	48	Fonctionnaires de catégorie B	11/6/2015
+15	CANTAL	COSTES	Josiane	F	23/8/1947	62	Retraités de l'enseignement	4/3/2019
 15	CANTAL	DELCROS	Bernard	M	12/2/1953	42	Professeurs du secondaire et techn.	6/9/2015
-15	CANTAL	MEZARD	Jacques	M	3/12/1947	60	Retraités des professions libérales	1/10/2014
 16	CHARENTE	BONNEFOY	Nicole	F	11/8/1958	54	Permanents politiques	1/10/2014
 16	CHARENTE	BOUTANT	Michel	M	23/11/1956	42	Professeurs du secondaire et techn.	1/10/2014
 17	CHARENTE MARITIME	IMBERT	Corinne	F	20/11/1958	28	Pharmaciens	1/10/2014
 17	CHARENTE MARITIME	LALANDE	Bernard	M	6/4/1954	34	Experts comptables	1/10/2014
 17	CHARENTE MARITIME	LAURENT	Daniel	M	4/2/1949	05	Industriels-Chefs entreprise	1/10/2014
-18	CHER	PILLET	François	M	13/5/1950	60	Retraités des professions libérales	1/10/2014
 18	CHER	POINTEREAU	Rémy	M	30/3/1953	01	Agriculteurs propriétaires exploit.	1/10/2014
+18	CHER	RICHER	Marie-Pierre	F	19/4/1963	57	Sans profession déclarée	4/3/2019
 19	CORREZE	CHASSEING	Daniel	M	10/4/1945	24	Médecins	1/10/2014
 19	CORREZE	NOUGEIN	Claude	M	4/12/1946	05	Industriels-Chefs entreprise	1/10/2014
 21	COTE D'OR	HOUPERT	Alain	M	13/8/1957	24	Médecins	1/10/2014
