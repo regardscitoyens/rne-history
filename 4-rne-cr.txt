@@ -1,7 +1,44 @@
 Titre du rapport
 Code région	Libellé de la région	Code du département	Libellé de département	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat	Libellé de fonction	Date de début de la fonction
+01	Guadeloupe	ZA	GUADELOUPE	ARMOUGOM	Betty	F	9/7/1965	18	Cadres supérieurs (secteur privé)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	BAILLET	Patricia	F	17/6/1970	18	Cadres supérieurs (secteur privé)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	BAJAZET	Clodomir	M	3/5/1941	62	Retraités de l'enseignement	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	BAPTISTE	Christian	M	18/6/1962	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	BARDAIL	Jean	M	30/5/1951	62	Retraités de l'enseignement	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	BONDOT	Gersiane	F	9/2/1963	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	BREDENT	Georges	M	13/12/1953	29	Avocats	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	BRUDEY	Hilaire	M	27/3/1960	18	Cadres supérieurs (secteur privé)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	CELIGNY	Maguy	F	12/8/1953	05	Industriels-Chefs entreprise	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	CEROL	Nita	F	28/11/1963	49	Fonctionnaires de catégorie C	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	CHALUS	Ary	M	6/12/1961	14	Agents technique et techniciens	13/12/2015	Président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	CHRISTOPHE	Jean-Claude	M	19/1/1955	18	Cadres supérieurs (secteur privé)	13/12/2015		
 01	Guadeloupe	ZA	GUADELOUPE	CONVERTY-VEROIX	Ginette	F	9/7/1952	39	Autres professions libérales	12/1/2016		
+01	Guadeloupe	ZA	GUADELOUPE	CORNANO	Audry	M	5/7/1949	62	Retraités de l'enseignement	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	COURTOIS	Jean-Philippe	M	2/2/1984	19	Autres cadres (secteur privé)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	DAGONIA	Sylvie	F	23/1/1965	52	Employés (autres entrep. publiques)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	DECASTEL	Monique	F	7/7/1950	44	Professions rattachées à enseignt.	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	DESTOUCHES	Annick	F	1/10/1969	42	Professeurs du secondaire et techn.	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	DURIMEL	Harry	M	24/8/1957	29	Avocats	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	FAITHFUL-VELAYOUDOM	Lucianne	F	1/3/1951	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	GUSTAVE DIT DUFLO	Sylvie	F	7/2/1971	41	Professeurs de faculté	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
 01	Guadeloupe	ZA	GUADELOUPE	HERMIN	Georges	M	7/11/1962	39	Autres professions libérales	12/1/2016		
+01	Guadeloupe	ZA	GUADELOUPE	HUBERT	Jean-Marie	M	17/3/1950	61	Retraités salariés privés	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	LINON	Jennifer	F	26/10/1988	29	Avocats	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	LOSBAR	Guy	M	3/4/1961	05	Industriels-Chefs entreprise	13/12/2015	Premier vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	LUREL	Victorin	M	20/8/1951	63	Retraités fonct.publique (sf enseig.)	13/12/2015	Autre membre commission permanente	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	MOUNIEN	Marie-Camille	F	1/1/1958	49	Fonctionnaires de catégorie C	13/12/2015	Autre membre commission permanente	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	NELSON	Jean-Claude	M	26/10/1957	48	Fonctionnaires de catégorie B	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	PANCREL	Bernard	M	6/9/1962	29	Avocats	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	PELAGE	Camille	M	7/3/1970	18	Cadres supérieurs (secteur privé)	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	PENCHARD	Marie-Luce	F	14/2/1959	47	Fonctionnaires de catégorie A	13/12/2015	Second vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	PERRAN	Diana	F	11/8/1981	43	Enseignants 1er deg.-directeurs école	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	PETRO	Corinne	F	20/8/1971	47	Fonctionnaires de catégorie A	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	SAINSILY	Jean-Louis	M	7/10/1957	18	Cadres supérieurs (secteur privé)	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	SAMUEL	Valérie	F	10/5/1981	10	Artisans	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	SERVA	Olivier	M	21/6/1974	34	Experts comptables	13/12/2015	Troisième vice-président du conseil régional	18/12/2015
+01	Guadeloupe	ZA	GUADELOUPE	TAILLEPIERRE	Sonia	F	12/6/1969	49	Fonctionnaires de catégorie C	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	THEOPHILE	Dominique	M	4/8/1960	06	Administrateurs de sociétés	13/12/2015		
+01	Guadeloupe	ZA	GUADELOUPE	TROBO THOMASEAU	Marie-Eugène	F	13/7/1973	19	Autres cadres (secteur privé)	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	ARMOUGOM	Betty	F	9/7/1965	18	Cadres supérieurs (secteur privé)	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	BAILLET	Patricia	F	17/6/1970	18	Cadres supérieurs (secteur privé)	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	BAJAZET	Clodomir	M	3/5/1941	62	Retraités de l'enseignement	13/12/2015		
@@ -14,6 +51,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 01	GUADELOUPE	ZA	GUADELOUPE	CEROL	Nita	F	28/11/1963	49	Fonctionnaires de catégorie C	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	CHALUS	Ary	M	6/12/1961	14	Agents technique et techniciens	13/12/2015	Président du conseil régional	18/12/2015
 01	GUADELOUPE	ZA	GUADELOUPE	CHRISTOPHE	Jean-Claude	M	19/1/1955	18	Cadres supérieurs (secteur privé)	13/12/2015		
+01	GUADELOUPE	ZA	GUADELOUPE	CONVERTY-VEROIX	Ginette	F	9/7/1952	39	Autres professions libérales	12/1/2016		
 01	GUADELOUPE	ZA	GUADELOUPE	CORNANO	Audry	M	5/7/1949	62	Retraités de l'enseignement	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	COURTOIS	Jean-Philippe	M	2/2/1984	19	Autres cadres (secteur privé)	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	DAGONIA	Sylvie	F	23/1/1965	52	Employés (autres entrep. publiques)	13/12/2015		
@@ -22,6 +60,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 01	GUADELOUPE	ZA	GUADELOUPE	DURIMEL	Harry	M	24/8/1957	29	Avocats	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	FAITHFUL-VELAYOUDOM	Lucianne	F	1/3/1951	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	GUSTAVE DIT DUFLO	Sylvie	F	7/2/1971	41	Professeurs de faculté	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
+01	GUADELOUPE	ZA	GUADELOUPE	HERMIN	Georges	M	7/11/1962	39	Autres professions libérales	12/1/2016		
 01	GUADELOUPE	ZA	GUADELOUPE	HUBERT	Jean-Marie	M	17/3/1950	61	Retraités salariés privés	13/12/2015	Septième vice-président du conseil régional	18/12/2015
 01	GUADELOUPE	ZA	GUADELOUPE	LINON	Jennifer	F	26/10/1988	29	Avocats	13/12/2015		
 01	GUADELOUPE	ZA	GUADELOUPE	LOSBAR	Guy	M	3/4/1961	05	Industriels-Chefs entreprise	13/12/2015	Premier vice-président du conseil régional	18/12/2015
@@ -50,6 +89,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 04	LA REUNION	ZD	LA REUNION	DENNEMONT	Michel	M	11/2/1949	60	Retraités des professions libérales	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	FOUASSIN	Stéphane	M	17/10/1960	24	Médecins	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	FOURNEL	Dominique	M	27/4/1945	63	Retraités fonct.publique (sf enseig.)	13/12/2015	Neuvième vice-président du conseil régional	16/2/2018
+04	LA REUNION	ZD	LA REUNION	GAUTHIER	Jack	M	28/6/1941	65	Autres retraités	8/2/2018		
 04	LA REUNION	ZD	LA REUNION	GOBALOU	Virginie	F	24/4/1966	48	Fonctionnaires de catégorie B	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	GRONDIN	Louis-Bertrand	M	30/7/1964	52	Employés (autres entrep. publiques)	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	GUEZELLO	Alin	M	17/1/1963	50	Cadres sup. (entreprises publiques)	13/12/2015		
@@ -65,12 +105,14 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 04	LA REUNION	ZD	LA REUNION	MURIN-HOARAU	Aline	F	10/2/1969	42	Professeurs du secondaire et techn.	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	NABENESA	Karine	F	11/10/1976	50	Cadres sup. (entreprises publiques)	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	NATIVEL	Lorraine	F	27/7/1964	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+04	LA REUNION	ZD	LA REUNION	NOEL-CADET	Nathalie	F	4/12/1973	41	Professeurs de faculté	8/12/2016		
 04	LA REUNION	ZD	LA REUNION	PATEL	Ibrahim	M	22/10/1961	09	Commercants	13/12/2015	Cinquième vice-président du conseil régional	16/2/2018
 04	LA REUNION	ZD	LA REUNION	PAYET	Vincent	M	29/3/1981	48	Fonctionnaires de catégorie B	13/12/2015	Troisième vice-président du conseil régional	16/2/2018
 04	LA REUNION	ZD	LA REUNION	PICARDO	Bernard	M	12/11/1965	10	Artisans	13/12/2015	Septième vice-président du conseil régional	16/2/2018
 04	LA REUNION	ZD	LA REUNION	PROFIL	Patricia	F	24/6/1963	43	Enseignants 1er deg.-directeurs école	13/12/2015	Autre membre commission permanente	16/2/2018
 04	LA REUNION	ZD	LA REUNION	RAMASSAMY	Nadia	F	17/5/1961	24	Médecins	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	RIVIERE	Olivier	M	6/4/1979	47	Fonctionnaires de catégorie A	13/12/2015	Premier vice-président du conseil régional	16/2/2018
+04	LA REUNION	ZD	LA REUNION	RIVIERE	Sylviane	F	6/4/1958	65	Autres retraités	8/12/2016		
 04	LA REUNION	ZD	LA REUNION	ROBERT	Didier	M	26/4/1964	50	Cadres sup. (entreprises publiques)	13/12/2015	Président du conseil régional	13/12/2015
 04	LA REUNION	ZD	LA REUNION	SETTAMA-VIDON	Léopoldine	F	21/4/1966	29	Avocats	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	TECHER	Paul	M	31/12/1949	24	Médecins	13/12/2015		
@@ -79,13 +121,264 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 04	LA REUNION	ZD	LA REUNION	VIRAPOULLÉ	Jean-Paul	M	15/3/1944	39	Autres professions libérales	13/12/2015		
 04	LA REUNION	ZD	LA REUNION	VITRY	Faouzia	F	19/2/1981	48	Fonctionnaires de catégorie B	13/12/2015	Huitième vice-président du conseil régional	16/2/2018
 04	LA REUNION	ZD	LA REUNION	WON-FAH-HIN	Marie-Rose	F	10/8/1958	50	Cadres sup. (entreprises publiques)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	ANNETTE	Gilbert	M	10/3/1946	61	Retraités salariés privés	13/12/2015	Autre membre commission permanente	16/2/2018
+04	La Réunion	ZD	LA REUNION	BASSIRE	Nathalie	F	22/1/1968	62	Retraités de l'enseignement	13/12/2015		
+04	La Réunion	ZD	LA REUNION	BEDIER	Joe	M	27/2/1959	52	Employés (autres entrep. publiques)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	BELLO	Huguette	F	24/8/1950	62	Retraités de l'enseignement	13/12/2015		
+04	La Réunion	ZD	LA REUNION	BENARD	Monique	F	23/7/1972	39	Autres professions libérales	13/12/2015		
+04	La Réunion	ZD	LA REUNION	CADET	Jean Alain	M	8/3/1964	19	Autres cadres (secteur privé)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	COSTES	Yolaine	F	12/9/1957	24	Médecins	13/12/2015	Second vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	COUAPEL-SAURET	Fabienne	F	2/11/1964	57	Sans profession déclarée	13/12/2015		
+04	La Réunion	ZD	LA REUNION	DENNEMONT	Michel	M	11/2/1949	60	Retraités des professions libérales	13/12/2015		
+04	La Réunion	ZD	LA REUNION	FOUASSIN	Stéphane	M	17/10/1960	24	Médecins	13/12/2015		
+04	La Réunion	ZD	LA REUNION	FOURNEL	Dominique	M	27/4/1945	63	Retraités fonct.publique (sf enseig.)	13/12/2015	Neuvième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	GAUTHIER	Jack	M	28/6/1941	65	Autres retraités	8/2/2018		
+04	La Réunion	ZD	LA REUNION	GOBALOU	Virginie	F	24/4/1966	48	Fonctionnaires de catégorie B	13/12/2015		
+04	La Réunion	ZD	LA REUNION	GRONDIN	Louis-Bertrand	M	30/7/1964	52	Employés (autres entrep. publiques)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	GUEZELLO	Alin	M	17/1/1963	50	Cadres sup. (entreprises publiques)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	HOARAU	Denise	F	4/7/1960	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+04	La Réunion	ZD	LA REUNION	HOARAU	Jacquet	M	25/8/1956	63	Retraités fonct.publique (sf enseig.)	13/12/2015	Autre membre commission permanente	16/2/2018
+04	La Réunion	ZD	LA REUNION	K/BIDI	Virginie	F	5/4/1976	01	Agriculteurs propriétaires exploit.	13/12/2015	Autre membre commission permanente	16/2/2018
+04	La Réunion	ZD	LA REUNION	LAGOURGUE	Jean-Louis	M	5/8/1947	18	Cadres supérieurs (secteur privé)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	LEE MOW SIM	Lynda	F	26/8/1965	29	Avocats	13/12/2015		
+04	La Réunion	ZD	LA REUNION	LE NORMAND	Danièle	F	6/2/1964	18	Cadres supérieurs (secteur privé)	13/12/2015	Quatrième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	M'DOIHOMA	Juliana	F	18/7/1984	47	Fonctionnaires de catégorie A	13/12/2015		
+04	La Réunion	ZD	LA REUNION	MOUTOUCOMORAPOULE	Sylvie	F	4/8/1974	29	Avocats	13/12/2015	Sixième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	MOUTOUSSAMY ANDA	Jean Gaël	M	13/11/1975	47	Fonctionnaires de catégorie A	13/12/2015		
+04	La Réunion	ZD	LA REUNION	MURIN-HOARAU	Aline	F	10/2/1969	42	Professeurs du secondaire et techn.	13/12/2015		
+04	La Réunion	ZD	LA REUNION	NABENESA	Karine	F	11/10/1976	50	Cadres sup. (entreprises publiques)	13/12/2015		
+04	La Réunion	ZD	LA REUNION	NATIVEL	Lorraine	F	27/7/1964	43	Enseignants 1er deg.-directeurs école	13/12/2015		
 04	La Réunion	ZD	LA REUNION	NOEL-CADET	Nathalie	F	4/12/1973	41	Professeurs de faculté	8/12/2016		
+04	La Réunion	ZD	LA REUNION	PATEL	Ibrahim	M	22/10/1961	09	Commercants	13/12/2015	Cinquième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	PAYET	Vincent	M	29/3/1981	48	Fonctionnaires de catégorie B	13/12/2015	Troisième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	PICARDO	Bernard	M	12/11/1965	10	Artisans	13/12/2015	Septième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	PROFIL	Patricia	F	24/6/1963	43	Enseignants 1er deg.-directeurs école	13/12/2015	Autre membre commission permanente	16/2/2018
+04	La Réunion	ZD	LA REUNION	RAMASSAMY	Nadia	F	17/5/1961	24	Médecins	13/12/2015		
+04	La Réunion	ZD	LA REUNION	RIVIERE	Olivier	M	6/4/1979	47	Fonctionnaires de catégorie A	13/12/2015	Premier vice-président du conseil régional	16/2/2018
 04	La Réunion	ZD	LA REUNION	RIVIERE	Sylviane	F	6/4/1958	65	Autres retraités	8/12/2016		
+04	La Réunion	ZD	LA REUNION	ROBERT	Didier	M	26/4/1964	50	Cadres sup. (entreprises publiques)	13/12/2015	Président du conseil régional	13/12/2015
+04	La Réunion	ZD	LA REUNION	SETTAMA-VIDON	Léopoldine	F	21/4/1966	29	Avocats	13/12/2015		
+04	La Réunion	ZD	LA REUNION	TECHER	Paul	M	31/12/1949	24	Médecins	13/12/2015		
+04	La Réunion	ZD	LA REUNION	VALY	Bachil	M	9/1/1962	09	Commercants	13/12/2015		
+04	La Réunion	ZD	LA REUNION	VIENNE	Axel	M	4/1/1956	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	16/2/2018
+04	La Réunion	ZD	LA REUNION	VIRAPOULLÉ	Jean-Paul	M	15/3/1944	39	Autres professions libérales	13/12/2015		
+04	La Réunion	ZD	LA REUNION	VITRY	Faouzia	F	19/2/1981	48	Fonctionnaires de catégorie B	13/12/2015	Huitième vice-président du conseil régional	16/2/2018
+04	La Réunion	ZD	LA REUNION	WON-FAH-HIN	Marie-Rose	F	10/8/1958	50	Cadres sup. (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	ANDROUËT	Mathilde	F	3/7/1984	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	BARIANI	Didier	M	16/10/1943	61	Retraités salariés privés	13/12/2015	Quinzième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	75	PARIS	BAYOU	Julien	M	11/6/1980	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	BENHAIM	Frédéric	M	19/11/1982	39	Autres professions libérales	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	BERTHOUT	Florence	F	25/6/1952	50	Cadres sup. (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	BOHBOT	Jack-Yves	M	18/4/1956	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	BURKLI	Delphine	F	5/6/1974	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	CAPLIEZ	Stéphane	M	27/5/1963	18	Cadres supérieurs (secteur privé)	18/10/2017		
+11	ILE DE FRANCE	75	PARIS	CARREY-CONTE	Fanélie	F	16/5/1980	33	Agents généraux d'assurances	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	CECCONI	Frank	M	17/7/1962	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	COSSE	Emmanuelle	F	15/11/1974	37	Journalistes et autres médias	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	COURTOIS	Daniel-Georges	M	29/8/1956	45	Magistrats	13/7/2017		
+11	ILE DE FRANCE	75	PARIS	DAUVERGNE	Emmanuelle	F	3/10/1971	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	DAVIAUD	Jean-Philippe	M	25/9/1965	56	Autres professions	13/7/2017		
+11	ILE DE FRANCE	75	PARIS	DEROUARD	Clotilde	F	10/9/1964	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	DE SAINT JUST	Wallerand	M	6/7/1950	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	DES GAYETS	Maxime	M	25/5/1978	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	DUMAS	Frédérique	F	18/5/1963	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	EVREN	Agnès	F	27/12/1970	05	Industriels-Chefs entreprise	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	75	PARIS	FREY	Christine	F	3/11/1954	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	GIAZZI	Danièle	F	3/9/1955	05	Industriels-Chefs entreprise	13/7/2017		
+11	ILE DE FRANCE	75	PARIS	GUENOUX	Muriel	F	24/6/1961	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	HUBERT	Florent	M	29/12/1977	47	Fonctionnaires de catégorie A	16/11/2017		
+11	ILE DE FRANCE	75	PARIS	JARRY-BOUABID	Anne-Claire	F	1/2/1973	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	KANUTY	Pierre	M	27/2/1972	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	KARAM	Patrick	M	8/2/1961	46	Grands corps de l'état	13/12/2015	Onzième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	75	PARIS	LANIESSE	Philippine	F	19/12/1989	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	LECOQ	Jean-Pierre	M	18/7/1954	61	Retraités salariés privés	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	LECOUTURIER	Béatrice	F	30/4/1965	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	LEGARET	Jean-François	M	21/8/1952	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	MARGAIN	Franck	M	21/5/1961	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	MIGNOT	Didier	M	18/4/1962	48	Fonctionnaires de catégorie B	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	MONOD	Claire	F	1/7/1964	47	Fonctionnaires de catégorie A	19/10/2017		
+11	ILE DE FRANCE	75	PARIS	MONTANDON	Valérie	F	31/3/1976	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	PECHENARD	Frédéric	M	12/3/1957	18	Cadres supérieurs (secteur privé)	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	75	PARIS	REDLER	Jérémy	M	7/11/1981	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	ROGER	Vincent	M	12/1/1969	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	ROMERO-MICHEL	Jean-Luc	M	30/6/1959	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	SAADI	Mustapha	M	1/10/1954	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	VENEZIANO	Stéphanie	F	11/4/1973	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	WEHRLING	Yann	M	3/7/1971	51	Cadres (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	BADRE	Marie-Pierre	F	6/6/1945	65	Autres retraités	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	BATTAIL	Gilles	M	9/12/1959	27	Vétérinaires	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	BOLLÉE	Joffrey	M	18/10/1989	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	CHAIN-LARCHE	Anne	F	11/4/1958	28	Pharmaciens	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	CHERON	James	M	22/12/1977	39	Autres professions libérales	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	CHERRIER	Pierre	M	16/10/1953	24	Médecins	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	CHEVRON	Benoît	M	31/5/1968	01	Agriculteurs propriétaires exploit.	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	COURNET	Aurélie	F	11/11/1985	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	CUZOU	Gilbert	M	10/9/1983	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	DUTHEIL DE LA ROCHERE	Bertrand	M	19/2/1946	64	Retraités des entreprises publiques	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	FOUCHAULT	Michel	M	27/7/1955	01	Agriculteurs propriétaires exploit.	31/10/2017		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	FUCHS	Sylvie	F	24/9/1960	52	Employés (autres entrep. publiques)	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	JEUNEMAITRE	Eric	M	28/5/1956	01	Agriculteurs propriétaires exploit.	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	KALFON	François	M	11/6/1968	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	MOLLARD-CADIX	Laure-Agnès	F	27/1/1992	40	Etudiants	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	MONCHECOURT	Sylvie	F	21/11/1952	61	Retraités salariés privés	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	MONVILLE-DE CECCO	Bénédicte	F	26/5/1970	41	Professeurs de faculté	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	PLANCHOU	Jean-Paul	M	22/4/1948	65	Autres retraités	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	PROFFIT	Julien	M	3/2/1974	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	REZEG	Hamida	F	9/11/1972	57	Sans profession déclarée	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	SARKISSIAN	Roseline	F	24/5/1973	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	TROUSSARD	Béatrice	F	21/1/1969	42	Professeurs du secondaire et techn.	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	VALLETOUX	Frédéric	M	23/8/1966	37	Journalistes et autres médias	13/12/2015		
+11	ILE DE FRANCE	77	SEINE ET MARNE 	VAN	Thi Hong Chau	F	1/8/1970	44	Professions rattachées à enseignt.	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	AÏT	Eddie	M	17/6/1975	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	BARBOTIN	Gaël	M	1/4/1961	39	Autres professions libérales	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	BENZELMAT	Yasmine	F	28/9/1982	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	CABRIT	Anne	F	1/6/1970	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	CAFFIN	Michel	M	17/7/1956	01	Agriculteurs propriétaires exploit.	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	CHEVRIER	Philippe	M	9/6/1950	61	Retraités salariés privés	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	COTE-MILLARD	Véronique	F	1/3/1958	07	Agents d'affaires	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	DE ROZIERES	Babette	F	27/5/1946	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	DOUILLET	David	M	17/2/1969	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	DUBLANCHE	Alexandra	F	25/4/1982	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	FERNIOT	Benjamin	M	12/10/1976	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	FOUCHE	Huguette	F	7/12/1951	61	Retraités salariés privés	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	GAMRAOUI-AMAR	Khadija	F	18/5/1975	52	Employés (autres entrep. publiques)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	GRANDGAMBE	Sandrine	F	6/1/1971	42	Professeurs du secondaire et techn.	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	HAMON	Benoît	M	26/6/1967	57	Sans profession déclarée	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	JALLAMION	Michel	M	1/4/1974	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	LEQUILLER	Pierre	M	4/12/1949	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	MESSIER	Anne	F	7/2/1971	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	MILLIENNE	Bruno	M	28/11/1959	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	NASROU	Othman	M	13/7/1987	05	Industriels-Chefs entreprise	13/12/2015	Neuvième vice-président du conseil régional	19/7/2016
+11	ILE DE FRANCE	78	YVELINES	NAUTH	Cyril	M	19/12/1981	42	Professeurs du secondaire et techn.	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	PECRESSE	Valérie	F	14/7/1967	45	Magistrats	13/12/2015	Président du conseil régional	18/12/2015
+11	ILE DE FRANCE	78	YVELINES	PERE-BRILLAULT	Anne	F	1/3/1961	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	PIGANEAU	Sylvie	F	11/5/1957	62	Retraités de l'enseignement	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	RICHARD	Arnaud	M	30/4/1971	57	Sans profession déclarée	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	SALL	Ramatoulaye	F	10/3/1986	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	SANTINI	Jean-Luc	M	11/8/1957	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	SATOURI	Mounir	M	25/5/1975	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	SENEE	Ghislaine	F	14/2/1969	57	Sans profession déclarée	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	TARDY-JOUBERT	Nicolas	M	26/9/1957	39	Autres professions libérales	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	THIS SAINT-JEAN	Isabelle	F	28/5/1963	41	Professeurs de faculté	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	BEAUDET	Stéphane	M	25/5/1972	05	Industriels-Chefs entreprise	13/12/2015	Troisième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	91	ESSONNE	CAMARA	Lamine	M	27/2/1979	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	CARILLON	Sylvie	F	14/1/1965	23	Salariés du secteur médical	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	DA SILVA	Carlos	M	16/11/1974	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	DE LASTEYRIE	Grégoire	M	14/8/1984	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	DUGOIN-CLEMENT	Jean-Philippe	M	15/8/1975	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	DURANTON	Marianne	F	12/5/1968	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	GROS	Aurélie	F	30/12/1980	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	GUIBERT	Audrey	F	7/7/1986	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	HEBERT	Gérard	M	31/1/1960	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	HIDRI	Faten	F	9/4/1981	29	Avocats	13/12/2015	Douzième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	91	ESSONNE	JUILLE	Vanessa	F	1/1/1975	56	Autres professions	18/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	KENYA	Ngandu	F	4/8/1956	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	KRIBI-ROMDHANE	Hella	F	20/3/1980	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	LAMIRÉ-BURTIN	Sandrine	F	14/10/1971	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	LEGRAND	Aurélien	M	27/3/1983	42	Professeurs du secondaire et techn.	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	MELIANE	Loubna	F	12/3/1978	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	PERDEREAU	Isabelle	F	5/1/1961	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	PLACE	Jean-Vincent	M	12/3/1968	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	RUFET	Corinne	F	4/9/1972	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	SAMSOEN	Nicolas	M	29/12/1970	18	Cadres supérieurs (secteur privé)	31/10/2017		
+11	ILE DE FRANCE	91	ESSONNE	THOMAS	Olivier	M	28/4/1963	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	91	ESSONNE	VIGIER	Jean-François	M	20/6/1963	51	Cadres (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	AESCHLIMANN	Marie-Dominique	F	17/4/1974	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	AZZAZ	Nadège	F	16/9/1981	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	BAELDE	Charlotte	F	6/10/1988	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	BERTELLA-GEFFROY	Marie-Odile	F	30/4/1949	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	CARMANTRAND	Caroline	F	21/3/1969	57	Sans profession déclarée	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	CHYCOINEAU DE LAVALETTE	Béatrice	F	20/9/1965	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	COBLENTZ	Caroline	F	28/4/1967	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	DAMERVAL	François	M	31/8/1979	06	Administrateurs de sociétés	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	D'ASTA	Nicolas	M	30/4/1964	52	Employés (autres entrep. publiques)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	DENIZIOT	Pierre	M	19/9/1981	24	Médecins	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	DESCHIENS	Sophie	F	6/4/1962	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	DIDIER	Geoffroy	M	12/4/1976	29	Avocats	13/12/2015	Treizième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	GABRIEL	Denis	M	17/7/1960	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	GAUDUCHEAU	Bernard	M	26/6/1955	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	GIAFFERI	Pascal	M	23/4/1961	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	KASMI	Samia	F	4/9/1975	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	LACAPELLE	Jean-Lin	M	17/4/1967	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	LAURENT	Philippe	M	14/5/1954	35	Ingénieurs conseils	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	LE CLERE	Arnaud	M	20/2/1979	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	LIME-BIFFE	Catherine	F	28/1/1977	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	LOREC	Philippe	M	2/9/1967	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	LOUSTAU	Axel	M	17/2/1971	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	MALAISE	Céline	F	13/12/1979	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	MARIAUD	Sylvie	F	7/8/1964	57	Sans profession déclarée	1/10/2017		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	MARQUAILLE	Benoît	M	3/8/1973	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	MARTINI-PEMEZEC	Carine	F	17/11/1967	26	Dentistes	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	MESADIEU	Anne-Louise	F	12/1/1976	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	NKONDA	Brice	M	26/5/1982	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	QUILLERY	Christine	F	18/4/1955	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	ROMERO AGUILA	Roberto	M	4/1/1968	42	Professeurs du secondaire et techn.	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	SOLERE	Thierry	M	17/8/1971	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	92	HAUTS DE SEINE 	SPIRI	Jean	M	4/6/1982	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	ADLANI	Farida	F	11/3/1976	20	Employés (secteur privé)	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BARDELLA	Jordan	M	13/9/1995	40	Etudiants	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BESCHIZZA	Bruno	M	24/3/1968	46	Grands corps de l'état	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BORD	Corinne	F	17/5/1970	50	Cadres sup. (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	COSKUN	Taylan	M	18/1/1970	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	DESMARTIN	Béatrice	F	17/7/1961	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	FATNA	Huguette	F	8/8/1948	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	FRANCLET	Karine	F	13/12/1981	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	LAPORTE-SIERACZEK	Manon	F	20/3/1965	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	MARSIGNY	Brigitte	F	11/7/1952	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	MECHMACHE	Mohammed	M	19/4/1966	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	MEIGNEN	Thierry	M	17/5/1957	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	ROMANA	Viviane	F	25/12/1963	39	Autres professions libérales	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	SALINI	Stéphane	M	21/11/1970	05	Industriels-Chefs entreprise	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	TORO	Ludovic	M	16/2/1959	24	Médecins	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	TRIGANCE	Yannick	M	13/7/1962	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	YOUSSOUF	Mélissa	F	14/2/1988	52	Employés (autres entrep. publiques)	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	BARJOU	Dominique	F	2/9/1953	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	BOURSE-PROVENCE	Dominique	M	3/2/1952	44	Professions rattachées à enseignt.	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	CAMARA	Yasmine	F	5/12/1982	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	CHARBONNIER	Régis	M	14/9/1954	61	Retraités salariés privés	11/10/2017		
+11	ILE DE FRANCE	94	VAL DE MARNE	CIUNTU	Marie-Carole	F	9/11/1964	29	Avocats	13/12/2015	Quatorzième vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	94	VAL DE MARNE	DE FREITAS	Gorete	F	5/9/1980	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	DELEPAULE	Nathalie	F	3/12/1965	57	Sans profession déclarée	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	DIRRINGER	Marie-Christine	F	17/6/1957	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	DOSNE	Olivier	M	20/1/1961	28	Pharmaciens	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	DOUSSET	Didier	M	7/6/1955	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	DRAY	Julien	M	5/3/1955	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	GHIATI	Vanessa	F	14/11/1974	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	GONZALES	Didier	M	14/9/1960	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	GUILLAUD-BATAILLE	Fabien	M	3/2/1975	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	JEANBRUN	Vincent	M	5/5/1984	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	JEANNE	Laurent	M	3/1/1970	18	Cadres supérieurs (secteur privé)	23/10/2017		
+11	ILE DE FRANCE	94	VAL DE MARNE	KIENZLEN	Jonathan	M	17/12/1980	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	LAHMER	Annie	F	4/7/1959	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	LE BOHELLEC	Franck	M	13/3/1967	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	NICOLLE	Jean-Marc	M	30/7/1964	51	Cadres (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	PRIMEVERT	Catherine	F	22/8/1951	62	Retraités de l'enseignement	13/12/2015		
+11	ILE DE FRANCE	94	VAL DE MARNE	ROYER	Christel	F	11/6/1954	50	Cadres sup. (entreprises publiques)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	AIDOUD	Samira	F	5/10/1974	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	BERESSI	Isabelle	F	8/5/1970	19	Autres cadres (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	BERTHAUD	Corinne	F	7/4/1971	38	Hommes de lettres et Artistes	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	BODIN	Claude	M	15/5/1952	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	CHARTIER	Jérôme	M	14/11/1966	05	Industriels-Chefs entreprise	13/12/2015	Premier vice-président du conseil régional	18/12/2015
+11	ILE DE FRANCE	95	VAL D'OISE	CHKROUN	Benjamin	M	15/2/1981	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	DUBOIS	Jean-Michel	M	27/8/1943	05	Industriels-Chefs entreprise	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	ELIMAS	Nathalie	F	5/6/1973	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	ESPARGILIÈRE	Juliette	F	27/8/1978	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	GROUX	Nathalie	F	23/1/1968	48	Fonctionnaires de catégorie B	28/9/2017		
+11	ILE DE FRANCE	95	VAL D'OISE	HUMBERT	Thibault	M	21/4/1972	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	JAOUEN	Elvira	F	5/7/1960	48	Fonctionnaires de catégorie B	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	JIMENEZ	Benoît	M	15/7/1989	20	Employés (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	OUCHIKH	Karim	M	13/3/1965	29	Avocats	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	PORTELLI	Florence	F	23/3/1978	56	Autres professions	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	RUIZ	Jean-Michel	M	3/7/1964	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	SERNE	Pierre	M	28/5/1972	47	Fonctionnaires de catégorie A	13/12/2015		
+11	ILE DE FRANCE	95	VAL D'OISE	SOUMARE	Ali	M	25/12/1980	19	Autres cadres (secteur privé)	19/10/2017		
+11	ILE DE FRANCE	95	VAL D'OISE	VON EUW	Stéphanie	F	29/4/1975	05	Industriels-Chefs entreprise	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
 11	Île-de-France	75	PARIS	ANDROUËT	Mathilde	F	3/7/1984	54	Permanents politiques	13/12/2015		
 11	Île-de-France	75	PARIS	BARIANI	Didier	M	16/10/1943	61	Retraités salariés privés	13/12/2015	Quinzième vice-président du conseil régional	18/12/2015
 11	Île-de-France	75	PARIS	BAYOU	Julien	M	11/6/1980	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	Île-de-France	75	PARIS	BENHAIM	Frédéric	M	19/11/1982	39	Autres professions libérales	13/12/2015		
 11	Île-de-France	75	PARIS	BERTHOUT	Florence	F	25/6/1952	50	Cadres sup. (entreprises publiques)	13/12/2015		
+11	Île-de-France	75	PARIS	BOHBOT	Jack-Yves	M	18/4/1956	19	Autres cadres (secteur privé)	13/12/2015		
 11	Île-de-France	75	PARIS	BURKLI	Delphine	F	5/6/1974	56	Autres professions	13/12/2015		
 11	Île-de-France	75	PARIS	CAPLIEZ	Stéphane	M	27/5/1963	18	Cadres supérieurs (secteur privé)	18/10/2017		
 11	Île-de-France	75	PARIS	CARREY-CONTE	Fanélie	F	16/5/1980	33	Agents généraux d'assurances	13/12/2015		
@@ -114,7 +407,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	Île-de-France	75	PARIS	MIGNOT	Didier	M	18/4/1962	48	Fonctionnaires de catégorie B	13/12/2015		
 11	Île-de-France	75	PARIS	MONOD	Claire	F	1/7/1964	47	Fonctionnaires de catégorie A	19/10/2017		
 11	Île-de-France	75	PARIS	MONTANDON	Valérie	F	31/3/1976	05	Industriels-Chefs entreprise	13/12/2015		
-11	Île-de-France	75	PARIS	PAWLIK	Déborah	F	19/11/1980	57	Sans profession déclarée	13/12/2015		
 11	Île-de-France	75	PARIS	PECHENARD	Frédéric	M	12/3/1957	18	Cadres supérieurs (secteur privé)	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
 11	Île-de-France	75	PARIS	REDLER	Jérémy	M	7/11/1981	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	Île-de-France	75	PARIS	ROGER	Vincent	M	12/1/1969	05	Industriels-Chefs entreprise	13/12/2015		
@@ -237,7 +529,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	Île-de-France	93	SEINE SAINT-DENIS	BESCHIZZA	Bruno	M	24/3/1968	46	Grands corps de l'état	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	BORD	Corinne	F	17/5/1970	50	Cadres sup. (entreprises publiques)	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	COSKUN	Taylan	M	18/1/1970	05	Industriels-Chefs entreprise	13/12/2015		
-11	Île-de-France	93	SEINE SAINT-DENIS	DENIZ	Emir	M	5/11/1979	18	Cadres supérieurs (secteur privé)	27/7/2017		
+11	Île-de-France	93	SEINE SAINT-DENIS	DESMARTIN	Béatrice	F	17/7/1961	54	Permanents politiques	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	FATNA	Huguette	F	8/8/1948	19	Autres cadres (secteur privé)	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	FRANCLET	Karine	F	13/12/1981	47	Fonctionnaires de catégorie A	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	LAPORTE-SIERACZEK	Manon	F	20/3/1965	29	Avocats	13/12/2015		
@@ -307,6 +599,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 24	CENTRE	28	EURE ET LOIR	GOIMBAULT	Christine	F	10/10/1962	39	Autres professions libérales	13/12/2015		
 24	CENTRE	28	EURE ET LOIR	HUWART	Harold	M	3/1/1982	46	Grands corps de l'état	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
 24	CENTRE	28	EURE ET LOIR	LOISEAU	Philippe	M	24/11/1957	01	Agriculteurs propriétaires exploit.	13/12/2015		
+24	CENTRE	28	EURE ET LOIR	NICOLAS	Xavier	M	6/5/1957	28	Pharmaciens	5/1/2016		
 24	CENTRE	28	EURE ET LOIR	PHILIPPE	Josette	F	25/4/1951	61	Retraités salariés privés	13/12/2015		
 24	CENTRE	28	EURE ET LOIR	RUEL	Sylvie	F	26/7/1965	19	Autres cadres (secteur privé)	13/12/2015		
 24	CENTRE	28	EURE ET LOIR	VERDIER	Fabien	M	16/4/1981	44	Professions rattachées à enseignt.	13/12/2015		
@@ -366,7 +659,83 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 24	CENTRE	45	LOIRET	MARTINET	Jacques	M	11/4/1959	09	Commercants	13/12/2015		
 24	CENTRE	45	LOIRET	MONTILLOT	Florent	M	28/9/1953	18	Cadres supérieurs (secteur privé)	13/12/2015		
 24	CENTRE	45	LOIRET	PIDOUX	Fanny	F	3/9/1984	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	18	CHER	COSYNS	Louis	M	29/9/1952	33	Agents généraux d'assurances	13/12/2015		
+24	Centre-Val de Loire	18	CHER	COUEILLE	Jean-René	M	13/7/1961	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+24	Centre-Val de Loire	18	CHER	CROTTE	Joël	M	3/9/1959	09	Commercants	13/12/2015		
+24	Centre-Val de Loire	18	CHER	FOURNIE	Philippe	M	9/11/1967	47	Fonctionnaires de catégorie A	13/12/2015	Neuvième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	18	CHER	MECHIN	Serge	M	11/2/1948	65	Autres retraités	13/12/2015		
+24	Centre-Val de Loire	18	CHER	RAIMBAULT	Martine	F	4/2/1959	64	Retraités des entreprises publiques	13/12/2015		
+24	Centre-Val de Loire	18	CHER	RENIER	Laurence	F	4/10/1966	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	18	CHER	RIVET	Michelle	F	11/11/1954	01	Agriculteurs propriétaires exploit.	13/12/2015		
+24	Centre-Val de Loire	18	CHER	SINSOULIER-BIGOT	Agnès	F	28/11/1971	47	Fonctionnaires de catégorie A	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	BONTHOUX	Michèle	F	22/4/1965	23	Salariés du secteur médical	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	28	EURE ET LOIR	COCHARD	Estelle	F	18/6/1965	47	Fonctionnaires de catégorie A	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	CORNU	Gérard	M	6/2/1952	60	Retraités des professions libérales	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	CUIGNACHE	Alexandre	M	11/8/1984	29	Avocats	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	GAMBUTO	Valentino	M	14/2/1964	05	Industriels-Chefs entreprise	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	GOIMBAULT	Christine	F	10/10/1962	39	Autres professions libérales	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	HUWART	Harold	M	3/1/1982	46	Grands corps de l'état	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	28	EURE ET LOIR	LOISEAU	Philippe	M	24/11/1957	01	Agriculteurs propriétaires exploit.	13/12/2015		
 24	Centre-Val de Loire	28	EURE ET LOIR	NICOLAS	Xavier	M	6/5/1957	28	Pharmaciens	5/1/2016		
+24	Centre-Val de Loire	28	EURE ET LOIR	PHILIPPE	Josette	F	25/4/1951	61	Retraités salariés privés	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	RUEL	Sylvie	F	26/7/1965	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	28	EURE ET LOIR	VERDIER	Fabien	M	16/4/1981	44	Professions rattachées à enseignt.	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	BENMANSOUR	Kaltoum	F	26/12/1966	28	Pharmaciens	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	COLOMBIER	Matthieu	M	8/11/1980	20	Employés (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	COTILLON-DUPOUX	Dominique	F	29/11/1954	24	Médecins	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	FORISSIER	Nicolas	M	17/2/1961	05	Industriels-Chefs entreprise	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	GOMBERT	Annick	F	7/1/1949	24	Médecins	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	NICAUD	Gérard	M	29/6/1951	64	Retraités des entreprises publiques	13/12/2015		
+24	Centre-Val de Loire	36	INDRE	ROULLET	Dominique	M	11/3/1953	47	Fonctionnaires de catégorie A	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	CHEVTCHENKO	Jacques	M	23/9/1950	62	Retraités de l'enseignement	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	CINTRAT	Patrick	M	27/7/1958	01	Agriculteurs propriétaires exploit.	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	COMMANDEUR	Pierre	M	17/1/1972	13	Ingénieurs	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	DE LA RUFFIE	Stanislas	M	24/5/1969	29	Avocats	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	FAUQUET	Christine	F	6/7/1959	57	Sans profession déclarée	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	FORTIER	Mélanie	F	15/4/1973	47	Fonctionnaires de catégorie A	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	FOURNIER	Charles	M	10/3/1968	56	Autres professions	13/12/2015	Onzième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	FRACZAK	Daniel	M	15/1/1955	64	Retraités des entreprises publiques	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	GAUDRON	Isabelle	F	8/4/1961	57	Sans profession déclarée	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	GILLE	Jean-Patrick	M	28/1/1962	54	Permanents politiques	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	GIRARDIN	Charles	M	19/8/1967	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	GODEFROY	Gilles	M	23/2/1952	44	Professions rattachées à enseignt.	24/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	GREFF	Claude	F	2/6/1954	54	Permanents politiques	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	HAMADI	Sabrina	F	11/9/1978	20	Employés (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	MOULAY	Mohamed	M	16/11/1974	48	Fonctionnaires de catégorie B	13/12/2015	Treizième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	MÜNSCH-MASSET	Cathy	F	9/1/1976	18	Cadres supérieurs (secteur privé)	13/12/2015	Second vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	PAIN	Isabelle	F	8/2/1964	02	Salariés agricoles	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	PÉAN	Véronique	F	6/2/1953	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	ROIRON	Pierre-Alain	M	18/10/1967	47	Fonctionnaires de catégorie A	13/12/2015		
+24	Centre-Val de Loire	37	INDRE ET LOIRE 	TERY-VERBE	Alix	F	10/8/1973	20	Employés (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	ANDRE	Tania	F	3/4/1972	49	Fonctionnaires de catégorie C	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	CHARLES-GUIMPIED	Jean-Pierre	M	28/4/1967	49	Fonctionnaires de catégorie C	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	CHASSIER	Michel	M	28/11/1948	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	GRICOURT	Marc	M	5/4/1961	57	Sans profession déclarée	13/12/2015	Premier vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	41	LOIR ET CHER	MAINCION	Isabelle	F	6/6/1952	14	Agents technique et techniciens	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	PARIS	Mathilde	F	14/1/1985	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	PELTIER	Guillaume	M	27/8/1976	19	Autres cadres (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	ROUSSELET	Audrey	F	30/9/1976	54	Permanents politiques	13/12/2015		
+24	Centre-Val de Loire	41	LOIR ET CHER	USSEGLIO	Pascal	M	27/5/1976	18	Cadres supérieurs (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	BEAULIER	Jeanne	F	28/12/1978	20	Employés (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	BESNIER	Anne	F	28/9/1955	57	Sans profession déclarée	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	45	LOIRET	BOISGERAULT	Nadine	F	21/2/1965	23	Salariés du secteur médical	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	BONNEAU	François	M	12/10/1953	62	Retraités de l'enseignement	13/12/2015	Président du conseil régional	18/12/2015
+24	Centre-Val de Loire	45	LOIRET	BOULEAU	Christian	M	29/7/1955	05	Industriels-Chefs entreprise	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	DE CREMIERS	Christelle	F	18/9/1971	19	Autres cadres (secteur privé)	13/12/2015	Douzième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	45	LOIRET	DE GEVIGNEY	Charles	M	13/11/1961	54	Permanents politiques	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	DE PÉLICHY	Constance	F	1/4/1986	54	Permanents politiques	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	DUMAS	Christian	M	25/1/1959	47	Fonctionnaires de catégorie A	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	FAUCHEUX	Benoît	M	11/4/1972	13	Ingénieurs	13/12/2015	Troisième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	45	LOIRET	FREZOT	Olivier	M	26/2/1975	51	Cadres (entreprises publiques)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	GABORET	Jalila	F	16/12/1972	42	Professeurs du secondaire et techn.	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	GRAND	Jean-Philippe	M	20/3/1967	18	Cadres supérieurs (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	LECLERCQ	Anne	F	16/12/1958	01	Agriculteurs propriétaires exploit.	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
+24	Centre-Val de Loire	45	LOIRET	LECOQ	Philippe	M	13/10/1964	20	Employés (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	LINGUET	Marie-Agnès	F	4/7/1964	39	Autres professions libérales	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	MARCHETTI	Ludovic	M	7/6/1986	20	Employés (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	MARTINET	Jacques	M	11/4/1959	09	Commercants	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	MONTILLOT	Florent	M	28/9/1953	18	Cadres supérieurs (secteur privé)	13/12/2015		
+24	Centre-Val de Loire	45	LOIRET	PIDOUX	Fanny	F	3/9/1984	19	Autres cadres (secteur privé)	13/12/2015		
 27	Bourgogne-Franche-Comté	21	COTE D'OR	ALMEIDA	José	M	3/10/1969	47	Fonctionnaires de catégorie A	1/1/2016		
 27	Bourgogne-Franche-Comté	21	COTE D'OR	BEAULIEU	Sylvie	F	4/10/1961	48	Fonctionnaires de catégorie B	1/1/2016	Autre membre commission permanente	4/1/2016
 27	Bourgogne-Franche-Comté	21	COTE D'OR	BOLZE	Pierre	M	18/11/1976	29	Avocats	1/1/2016		
@@ -403,8 +772,10 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 27	Bourgogne-Franche-Comté	25	DOUBS	LUCCHESI	Liliane	F	10/4/1953	42	Professeurs du secondaire et techn.	1/1/2016		
 27	Bourgogne-Franche-Comté	25	DOUBS	MARTHEY	Arnaud	M	29/9/1973	47	Fonctionnaires de catégorie A	1/1/2016		
 27	Bourgogne-Franche-Comté	25	DOUBS	MONTEL	Sophie	F	22/11/1969	19	Autres cadres (secteur privé)	1/1/2016		
+27	Bourgogne-Franche-Comté	25	DOUBS	MULOT	Laurence	F	6/1/1964	19	Autres cadres (secteur privé)	31/1/2017		
 27	Bourgogne-Franche-Comté	25	DOUBS	NEDEY	Valère	M	25/12/1955	05	Industriels-Chefs entreprise	1/1/2016		
 27	Bourgogne-Franche-Comté	25	DOUBS	RICCIARDETTI	Jacques	M	26/5/1965	19	Autres cadres (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
+27	Bourgogne-Franche-Comté	39	JURA	BOURGEOIS	Willy	M	8/9/1988	56	Autres professions	13/10/2017	Quatrième vice-président du conseil régional	13/10/2017
 27	Bourgogne-Franche-Comté	39	JURA	DEPIERRE	Valérie	F	10/11/1975	20	Employés (secteur privé)	1/1/2016		
 27	Bourgogne-Franche-Comté	39	JURA	DESSEIGNE	Nathalie	F	12/4/1974	09	Commercants	1/1/2016	Autre membre commission permanente	4/1/2016
 27	Bourgogne-Franche-Comté	39	JURA	FERRARI	Jacqueline	F	15/11/1958	19	Autres cadres (secteur privé)	1/1/2016	Président de commission	4/1/2016
@@ -591,6 +962,8 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	59	NORD	BOULET	Elizabeth	F	3/5/1989	50	Cadres sup. (entreprises publiques)	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	59	NORD	BOURGHELLE-KOS	Nadège	F	8/6/1968	57	Sans profession déclarée	1/1/2016		
 32	Hauts-de-France	59	NORD	CAMBIER	Guislain	M	18/7/1971	44	Professions rattachées à enseignt.	1/1/2016		
+32	Hauts-de-France	59	NORD	CAPRON	Olivier	M	3/1/1972	19	Autres cadres (secteur privé)	28/2/2019		
+32	Hauts-de-France	59	NORD	CARLIER	Maryse	F	29/5/1957	19	Autres cadres (secteur privé)	16/12/2017		
 32	Hauts-de-France	59	NORD	CASTIGLIONE	Salvatore	M	18/2/1970	16	Représentants de commerce	1/1/2016	Douzième vice-président du conseil régional	23/11/2017
 32	Hauts-de-France	59	NORD	CHARBONNIER	Karine	F	6/10/1968	05	Industriels-Chefs entreprise	1/1/2016	Septième vice-président du conseil régional	23/11/2017
 32	Hauts-de-France	59	NORD	COLSON	Aurore	F	19/4/1975	56	Autres professions	1/1/2016		
@@ -640,7 +1013,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	59	NORD	PHILIPPE	Gérard	M	20/1/1958	43	Enseignants 1er deg.-directeurs école	1/1/2016		
 32	Hauts-de-France	59	NORD	PHILIPPOT	Daniel	M	16/9/1949	62	Retraités de l'enseignement	1/1/2016		
 32	Hauts-de-France	59	NORD	PIERARD	Isabelle	F	12/10/1948	57	Sans profession déclarée	1/1/2016	Autre membre commission permanente	4/1/2016
-32	Hauts-de-France	59	NORD	PRINCE	Benjamin	M	15/12/1989	20	Employés (secteur privé)	1/1/2016		
 32	Hauts-de-France	59	NORD	ROCHER	Sophie	F	15/10/1954	47	Fonctionnaires de catégorie A	1/1/2016		
 32	Hauts-de-France	59	NORD	ROSEZ	Virginie	F	11/4/1969	20	Employés (secteur privé)	1/1/2016		
 32	Hauts-de-France	59	NORD	SAHRAOUI	Rachida	F	26/6/1963	57	Sans profession déclarée	1/1/2016		
@@ -905,6 +1277,99 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 44	Grand Est	88	VOSGES	SEJOURNE	Yves	M	30/3/1957	19	Autres cadres (secteur privé)	1/1/2016		
 44	Grand Est	88	VOSGES	VALENCE	David	M	7/10/1981	41	Professeurs de faculté	1/1/2016	Troisième vice-président du conseil régional	20/10/2017
 52	Pays de la Loire	44	LOIRE ATLANTIQUE	BEUVELET	Florence	F	11/10/1955	39	Autres professions libérales	1/6/2017		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	BLANCHARD	Jean-Claude	M	25/3/1952	65	Autres retraités	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	BOBLIN	Johann	M	27/4/1974	39	Autres professions libérales	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	BOUCHAUD	Emmanuelle	F	3/11/1970	57	Sans profession déclarée	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	BUF	Jean-Michel	M	5/7/1963	19	Autres cadres (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	CHARRIER	Jean-Claude	M	4/6/1959	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	CLERGEAU	Christophe	M	1/9/1968	41	Professeurs de faculté	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	COAT-PROU	Delphine	F	29/6/1968	47	Fonctionnaires de catégorie A	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	DEBORD	Pascale	F	3/10/1960	13	Ingénieurs	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	DEJOIE	Laurent	M	15/10/1955	30	Notaires	13/12/2015	Onzième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	DOUGE	Christophe	M	18/6/1967	19	Autres cadres (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	GARNIER	Laurence	F	3/4/1978	19	Autres cadres (secteur privé)	13/12/2015	Second vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	GESSANT	Marie-Cécile	F	30/4/1952	51	Cadres (entreprises publiques)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	GUERRA	Anne-Sophie	F	26/10/1965	20	Employés (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	GUERRIAU	Christine	F	16/3/1966	18	Cadres supérieurs (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	HOUËL	Stéphanie	F	25/1/1968	18	Cadres supérieurs (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	HUGUES	Claire	F	15/12/1973	06	Administrateurs de sociétés	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	LOPEZ	Viviane	F	25/9/1954	62	Retraités de l'enseignement	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	LOUVRIER	Franck	M	30/5/1968	18	Cadres supérieurs (secteur privé)	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	LUCAS	Violaine	F	22/4/1970	42	Professeurs du secondaire et techn.	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	LUSSAUD	Marguerite	F	17/7/1941	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	MERAND	Isabelle	F	28/7/1958	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	NÉDÉLEC	Brigitte	F	22/5/1953	65	Autres retraités	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	NICOLON	Franck	M	27/5/1963	19	Autres cadres (secteur privé)	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	NOURRY	Barbara	F	24/10/1976	49	Fonctionnaires de catégorie C	13/12/2015	Douzième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	PERRION	Maurice	M	8/9/1955	05	Industriels-Chefs entreprise	13/12/2015	Troisième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	PILARD	Sébastien	M	21/8/1978	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	PINTE	François	M	16/9/1966	18	Cadres supérieurs (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	POIRIER	Nathalie	F	26/12/1966	42	Professeurs du secondaire et techn.	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	POTIER	Samuel	M	25/6/1973	05	Industriels-Chefs entreprise	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	PRIOU	Christophe	M	2/5/1958	57	Sans profession déclarée	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	RINEAU	Xavier	M	1/7/1963	01	Agriculteurs propriétaires exploit.	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	SY	Ina	F	2/7/1964	20	Employés (secteur privé)	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	THOUZEAU	Eric	M	28/6/1954	64	Retraités des entreprises publiques	13/12/2015		
+52	Pays de la Loire	44	LOIRE ATLANTIQUE	VIOLLAND	Thierry	M	26/3/1966	56	Autres professions	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	BEATSE	Frédéric	M	4/10/1970	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	BIENVENU	Roselyne	F	16/9/1961	18	Cadres supérieurs (secteur privé)	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	BRANCOUR	Roch	M	2/10/1973	18	Cadres supérieurs (secteur privé)	13/12/2015	Neuvième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	49	MAINE ET LOIRE 	CARDET	Christelle	F	26/5/1972	49	Fonctionnaires de catégorie C	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	CATIN	Régine	F	3/10/1956	39	Autres professions libérales	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	DEROCHE	Catherine	F	24/2/1953	57	Sans profession déclarée	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	GARBAA	Aykel	M	27/11/1993	40	Etudiants	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	GERAULT	Laurent	M	11/11/1964	47	Fonctionnaires de catégorie A	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	GIRODET	Marie-Hélène	F	13/10/1966	20	Employés (secteur privé)	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	GOYCHMAN	Jean	M	29/5/1948	35	Ingénieurs conseils	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	JAUNEAULT	Grégoire	M	26/7/1973	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	JEANNETEAU	Paul	M	14/10/1957	28	Pharmaciens	13/12/2015	Cinquième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	49	MAINE ET LOIRE 	LEROY	Isabelle	F	29/9/1967	44	Professions rattachées à enseignt.	13/12/2015	Sixième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	49	MAINE ET LOIRE 	LIEUMONT-BRIAND	Monique	F	8/6/1948	61	Retraités salariés privés	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	MARTIN	André	M	12/6/1970	42	Professeurs du secondaire et techn.	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	MAUSSION	Patricia	F	23/9/1968	01	Agriculteurs propriétaires exploit.	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	MERLAUD	Aymeric	M	23/12/1991	40	Etudiants	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	PRETROT	Laurent	M	11/6/1971	18	Cadres supérieurs (secteur privé)	13/12/2015		
+52	Pays de la Loire	49	MAINE ET LOIRE 	TOURON	Éric	M	4/12/1964	06	Administrateurs de sociétés	13/12/2015		
+52	Pays de la Loire	53	MAYENNE	DE LA MORINIÈRE	Bruno	M	1/11/1963	19	Autres cadres (secteur privé)	13/12/2015		
+52	Pays de la Loire	53	MAYENNE	DESILLIÈRE	Florence	F	14/9/1967	01	Agriculteurs propriétaires exploit.	13/12/2015		
+52	Pays de la Loire	53	MAYENNE	FAVENNEC	Yannick	M	12/8/1958	54	Permanents politiques	13/12/2015		
+52	Pays de la Loire	53	MAYENNE	HENRY	Philippe	M	2/10/1970	18	Cadres supérieurs (secteur privé)	13/12/2015	Septième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	53	MAYENNE	LE SCORNET	Jean-Pierre	M	4/1/1964	54	Permanents politiques	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	53	MAYENNE	SOULTANI-VIGNERON	Samia	F	18/2/1972	41	Professeurs de faculté	13/12/2015	Dixième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	72	SARTHE	AMIARD	Dominique	M	21/9/1962	41	Professeurs de faculté	13/12/2015		
+52	Pays de la Loire	72	SARTHE	BEAUCHEF	Anne	F	14/2/1972	32	Conseillers juridiques	13/12/2015		
+52	Pays de la Loire	72	SARTHE	BIENCOURT	Olivier	M	25/10/1966	50	Cadres sup. (entreprises publiques)	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	72	SARTHE	BRINGUY	Sophie	F	26/7/1979	20	Employés (secteur privé)	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	72	SARTHE	CHARBONNEAU	Vanessa	F	26/1/1977	47	Fonctionnaires de catégorie A	13/12/2015	Huitième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	72	SARTHE	COUDREUSE	Daniel	M	18/12/1949	62	Retraités de l'enseignement	13/12/2015		
+52	Pays de la Loire	72	SARTHE	GANNAT	Pascal	M	27/7/1955	05	Industriels-Chefs entreprise	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	72	SARTHE	GENEVREY	Marie	F	7/2/1988	20	Employés (secteur privé)	13/12/2015		
+52	Pays de la Loire	72	SARTHE	LATOUCHE	Béatrice	F	19/4/1973	44	Professions rattachées à enseignt.	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	72	SARTHE	MENAGE	Carine	F	7/7/1976	43	Enseignants 1er deg.-directeurs école	13/12/2015		
+52	Pays de la Loire	72	SARTHE	MORANÇAIS	Christelle	F	28/1/1975	05	Industriels-Chefs entreprise	13/12/2015	Président du conseil régional	21/10/2017
+52	Pays de la Loire	72	SARTHE	NICOT	Pascal	M	31/5/1966	11	Entrepreneurs en batiments	13/12/2015		
+52	Pays de la Loire	72	SARTHE	PARANT	Joël	M	11/4/1964	10	Artisans	13/12/2015		
+52	Pays de la Loire	72	SARTHE	REVEAU	Didier	M	8/8/1958	18	Cadres supérieurs (secteur privé)	13/12/2015		
+52	Pays de la Loire	85	VENDEE	AVELLO	Alain	M	2/4/1971	42	Professeurs du secondaire et techn.	13/12/2015		
+52	Pays de la Loire	85	VENDEE	BARRÉ	Philippe	M	17/12/1980	42	Professeurs du secondaire et techn.	13/12/2015		
+52	Pays de la Loire	85	VENDEE	BERNARD	Lydie	F	17/3/1963	01	Agriculteurs propriétaires exploit.	13/12/2015	Quatrième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	85	VENDEE	BLANCHET	François	M	18/3/1976	37	Journalistes et autres médias	13/12/2015		
+52	Pays de la Loire	85	VENDEE	CAILLAUD	Laurent	M	1/11/1968	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	85	VENDEE	CHEREAU	Antoine	M	5/6/1971	54	Permanents politiques	13/12/2015	Premier vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	85	VENDEE	DEBORDE	Sandra	F	15/10/1974	39	Autres professions libérales	13/12/2015		
+52	Pays de la Loire	85	VENDEE	DE RUGY	Maxence	M	25/10/1982	54	Permanents politiques	13/12/2015		
+52	Pays de la Loire	85	VENDEE	ETONNO	Lucie	F	22/4/1986	20	Employés (secteur privé)	13/12/2015		
+52	Pays de la Loire	85	VENDEE	FAGOT	Anne-Sophie	F	3/12/1986	29	Avocats	13/12/2015		
+52	Pays de la Loire	85	VENDEE	GARREAU	Myriam	F	27/6/1966	49	Fonctionnaires de catégorie C	13/12/2015		
+52	Pays de la Loire	85	VENDEE	GOSSELIN	Nathalie	F	4/2/1973	05	Industriels-Chefs entreprise	13/12/2015		
+52	Pays de la Loire	85	VENDEE	HAEFFELIN	Maï	F	27/10/1976	42	Professeurs du secondaire et techn.	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	85	VENDEE	IBARRA	Stéphane	M	11/12/1972	42	Professeurs du secondaire et techn.	13/12/2015		
+52	Pays de la Loire	85	VENDEE	LA MACHE	Denis	M	17/4/1969	42	Professeurs du secondaire et techn.	13/12/2015		
+52	Pays de la Loire	85	VENDEE	MORTIER	Pauline	F	25/10/1981	29	Avocats	13/12/2015	Quatorzième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	85	VENDEE	NEVEUX	Brigitte	F	9/5/1944	65	Autres retraités	13/12/2015	Autre membre commission permanente	18/12/2015
+52	Pays de la Loire	85	VENDEE	PERRIER	Pierre-Guy	M	25/6/1956	28	Pharmaciens	13/12/2015	Treizième vice-président du conseil régional	21/10/2017
+52	Pays de la Loire	85	VENDEE	RETAILLEAU	Bruno	M	20/11/1960	54	Permanents politiques	13/12/2015		
+52	PAYS DE LOIRE	44	LOIRE ATLANTIQUE	BEUVELET	Florence	F	11/10/1955	39	Autres professions libérales	1/6/2017		
 52	PAYS DE LOIRE	44	LOIRE ATLANTIQUE	BLANCHARD	Jean-Claude	M	25/3/1952	65	Autres retraités	13/12/2015		
 52	PAYS DE LOIRE	44	LOIRE ATLANTIQUE	BOBLIN	Johann	M	27/4/1974	39	Autres professions libérales	13/12/2015		
 52	PAYS DE LOIRE	44	LOIRE ATLANTIQUE	BOUCHAUD	Emmanuelle	F	3/11/1970	57	Sans profession déclarée	13/12/2015		
@@ -997,6 +1462,88 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 52	PAYS DE LOIRE	85	VENDEE	NEVEUX	Brigitte	F	9/5/1944	65	Autres retraités	13/12/2015	Autre membre commission permanente	18/12/2015
 52	PAYS DE LOIRE	85	VENDEE	PERRIER	Pierre-Guy	M	25/6/1956	28	Pharmaciens	13/12/2015	Treizième vice-président du conseil régional	21/10/2017
 52	PAYS DE LOIRE	85	VENDEE	RETAILLEAU	Bruno	M	20/11/1960	54	Permanents politiques	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	ALLAIN	Olivier	M	23/5/1964	01	Agriculteurs propriétaires exploit.	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
+53	Bretagne	22	COTES D'ARMOR	ARGAT-BOURIOT	Sylvie	F	7/10/1957	57	Sans profession déclarée	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	BLEIN	Catherine	F	9/3/1946	58	Retraités agricoles	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	22	COTES D'ARMOR	BREARD	Georgette	F	7/11/1952	62	Retraités de l'enseignement	13/12/2015	Second vice-président du conseil régional	18/12/2015
+53	Bretagne	22	COTES D'ARMOR	BURLOT	Thierry	M	25/9/1959	47	Fonctionnaires de catégorie A	13/12/2015	Neuvième vice-président du conseil régional	22/6/2017
+53	Bretagne	22	COTES D'ARMOR	CADIOU	Gaby	F	4/2/1971	42	Professeurs du secondaire et techn.	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	DE MELLON	Gérard	M	15/1/1947	06	Administrateurs de sociétés	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	DE SALLIER DUPIN	Stéphane	M	8/10/1968	54	Permanents politiques	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	22	COTES D'ARMOR	GUIGNARD	Sylvie	F	4/4/1961	10	Artisans	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	HERCOUET	Philippe	M	6/8/1960	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	LAHELLEC	Gérard	M	4/4/1954	14	Agents technique et techniciens	13/12/2015	Troisième vice-président du conseil régional	18/12/2015
+53	Bretagne	22	COTES D'ARMOR	LE FUR	Marc	M	28/11/1956	46	Grands corps de l'état	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	NIQUE	Gaëlle	F	21/4/1967	29	Avocats	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	RAMARD	Dominique	M	6/9/1975	13	Ingénieurs	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	22	COTES D'ARMOR	TISON	Martine	F	17/7/1954	39	Autres professions libérales	13/12/2015		
+53	Bretagne	29	FINISTERE	BRAS	Mona	F	8/7/1956	57	Sans profession déclarée	13/12/2015		
+53	Bretagne	29	FINISTERE	BUI	Gwenegan	M	27/7/1974	51	Cadres (entreprises publiques)	13/12/2015		
+53	Bretagne	29	FINISTERE	COATANEA	Marc	M	9/4/1973	20	Employés (secteur privé)	13/12/2015		
+53	Bretagne	29	FINISTERE	FERRAND	Richard	M	1/7/1962	18	Cadres supérieurs (secteur privé)	13/12/2015		
+53	Bretagne	29	FINISTERE	FORTIN	Laurence	F	30/9/1969	19	Autres cadres (secteur privé)	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
+53	Bretagne	29	FINISTERE	GHACHEM	Karim	M	25/6/1977	13	Ingénieurs	13/12/2015		
+53	Bretagne	29	FINISTERE	JOURDAIN	Roland	M	28/4/1964	05	Industriels-Chefs entreprise	13/12/2015		
+53	Bretagne	29	FINISTERE	KARLESKIND	Pierre	M	19/10/1979	13	Ingénieurs	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+53	Bretagne	29	FINISTERE	LE BAL	Isabelle	F	12/6/1964	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	29	FINISTERE	LE BRAS	Olivier	M	15/9/1973	57	Sans profession déclarée	13/12/2015		
+53	Bretagne	29	FINISTERE	LE BRUN	Agnès	F	28/12/1961	42	Professeurs du secondaire et techn.	13/12/2015		
+53	Bretagne	29	FINISTERE	LE FUR	Patrick	M	21/7/1967	05	Industriels-Chefs entreprise	13/12/2015		
+53	Bretagne	29	FINISTERE	LE MEUR	Gaël	F	7/1/1973	54	Permanents politiques	13/12/2015		
+53	Bretagne	29	FINISTERE	LE QUELLEC	Alain	M	23/6/1958	01	Agriculteurs propriétaires exploit.	13/12/2015		
+53	Bretagne	29	FINISTERE	MIAILHES	Philippe	M	19/6/1954	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+53	Bretagne	29	FINISTERE	NICOLAS	Gaëlle	F	3/6/1966	29	Avocats	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	29	FINISTERE	QUILLIVIC	Bruno	M	19/3/1983	20	Employés (secteur privé)	13/12/2015		
+53	Bretagne	29	FINISTERE	RASSENEUR	Emmanuelle	F	12/2/1977	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	29	FINISTERE	ROUDAUT	Stéphane	M	8/1/1978	39	Autres professions libérales	13/12/2015		
+53	Bretagne	29	FINISTERE	SALAMI-DADKHAH	Forough	F	2/3/1966	54	Permanents politiques	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
+53	Bretagne	29	FINISTERE	THOMAÏDIS	Renée	F	13/8/1957	52	Employés (autres entrep. publiques)	13/12/2015		
+53	Bretagne	29	FINISTERE	VIGOUROUX	Gaëlle	F	22/7/1973	19	Autres cadres (secteur privé)	13/12/2015		
+53	Bretagne	29	FINISTERE	VULPIANI	Sylvaine	F	19/9/1963	56	Autres professions	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	BERROCHE	Eric	M	2/6/1959	21	Ouvriers (secteur privé)	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	BRETEAU	Pierre	M	25/3/1970	18	Cadres supérieurs (secteur privé)	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	CHESNAIS-GIRARD	Loïg	M	25/3/1977	19	Autres cadres (secteur privé)	13/12/2015	Président du conseil régional	22/6/2017
+53	Bretagne	35	ILLE ET VILAINE	CROCQ	André	M	17/10/1956	13	Ingénieurs	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	DAVID	Delphine	F	13/9/1974	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	D'ORSANNE	Virginie	F	29/11/1969	56	Autres professions	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	DUFFAUD	Laurence	F	21/9/1969	18	Cadres supérieurs (secteur privé)	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	GAUTIER-LE BAIL	Evelyne	F	8/6/1966	42	Professeurs du secondaire et techn.	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	GUINEMER	Claire	F	29/11/1974	09	Commercants	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	LOUARN	Lena	F	13/8/1950	61	Retraités salariés privés	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	MARBOEUF	Bernard	M	7/3/1952	44	Professions rattachées à enseignt.	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	MEYRIER	Martin	M	8/7/1990	54	Permanents politiques	13/12/2015	Quinzième vice-président du conseil régional	22/6/2017
+53	Bretagne	35	ILLE ET VILAINE	PATAULT	Anne	F	9/5/1955	20	Employés (secteur privé)	13/12/2015	Quatorzième vice-président du conseil régional	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	PELLERIN	Isabelle	F	11/3/1965	41	Professeurs de faculté	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	PENNELLE	Gilles	M	20/7/1962	54	Permanents politiques	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	PERRIN	Stéphane	M	19/11/1978	42	Professeurs du secondaire et techn.	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	PLOUVIER	Bertrand	M	14/6/1976	33	Agents généraux d'assurances	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	POULIQUEN	Bernard	M	23/1/1958	46	Grands corps de l'état	13/12/2015	Onzième vice-président du conseil régional	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	ROUAUX	Claudia	F	13/10/1963	49	Fonctionnaires de catégorie C	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	SAINT-JAMES	Catherine	F	10/6/1968	05	Industriels-Chefs entreprise	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	SALMON	Emeric	M	26/11/1973	13	Ingénieurs	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	35	ILLE ET VILAINE	SAOUD	Hind	F	22/6/1978	44	Professions rattachées à enseignt.	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	SEMERIL	Sébastien	M	18/5/1975	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	UTARD	Hervé	M	31/1/1981	05	Industriels-Chefs entreprise	13/12/2015		
+53	Bretagne	35	ILLE ET VILAINE	VANEECLOO	Anne	F	2/5/1971	20	Employés (secteur privé)	13/12/2015		
+53	Bretagne	56	MORBIHAN	GALLO	Anne	F	9/11/1970	54	Permanents politiques	13/12/2015	Douzième vice-président du conseil régional	18/12/2015
+53	Bretagne	56	MORBIHAN	GOUJON	Anne Maud	F	18/10/1973	19	Autres cadres (secteur privé)	13/12/2015		
+53	Bretagne	56	MORBIHAN	HULAUD	Kaourintine	F	4/4/1958	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	56	MORBIHAN	IRAGNE	Bertrand	M	17/7/1971	14	Agents technique et techniciens	13/12/2015		
+53	Bretagne	56	MORBIHAN	JOUNEAUX-PEDRONO	Elisabeth	F	16/11/1960	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	56	MORBIHAN	LE BOULANGER	Jean-Michel	M	11/4/1956	41	Professeurs de faculté	13/12/2015	Premier vice-président du conseil régional	22/6/2017
+53	Bretagne	56	MORBIHAN	LE BRAZIDEC	Raymond	M	13/9/1959	18	Cadres supérieurs (secteur privé)	13/12/2015		
+53	Bretagne	56	MORBIHAN	LECHEVALIER	Christian	M	28/8/1956	41	Professeurs de faculté	13/12/2015		
+53	Bretagne	56	MORBIHAN	LE DIFFON	Patrick	M	6/2/1958	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	56	MORBIHAN	LE DRIAN	Jean-Yves	M	30/6/1947	62	Retraités de l'enseignement	13/12/2015		
+53	Bretagne	56	MORBIHAN	LE PEIH	Nicole	F	28/9/1959	01	Agriculteurs propriétaires exploit.	13/12/2015		
+53	Bretagne	56	MORBIHAN	LE SAOUT	Gaël	F	15/7/1976	56	Autres professions	13/12/2015		
+53	Bretagne	56	MORBIHAN	LE STRAT	Christine	F	7/4/1955	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+53	Bretagne	56	MORBIHAN	MOLAC	Paul	M	21/5/1962	42	Professeurs du secondaire et techn.	13/12/2015		
+53	Bretagne	56	MORBIHAN	PICARD	Maxime	M	17/4/1976	47	Fonctionnaires de catégorie A	13/12/2015		
+53	Bretagne	56	MORBIHAN	POULIQUEN	Pierre	M	2/2/1975	52	Employés (autres entrep. publiques)	13/12/2015	Treizième vice-président du conseil régional	18/12/2015
+53	Bretagne	56	MORBIHAN	RICHARD	Agnès	F	26/3/1966	21	Ouvriers (secteur privé)	13/12/2015		
+53	Bretagne	56	MORBIHAN	ROBO	David	M	10/6/1970	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	18/12/2015
+53	Bretagne	56	MORBIHAN	TROALEN	Anne	F	4/8/1967	57	Sans profession déclarée	13/12/2015		
 53	BRETAGNE	22	COTES D'ARMOR	ALLAIN	Olivier	M	23/5/1964	01	Agriculteurs propriétaires exploit.	13/12/2015	Cinquième vice-président du conseil régional	18/12/2015
 53	BRETAGNE	22	COTES D'ARMOR	ARGAT-BOURIOT	Sylvie	F	7/10/1957	57	Sans profession déclarée	13/12/2015		
 53	BRETAGNE	22	COTES D'ARMOR	BLEIN	Catherine	F	9/3/1946	58	Retraités agricoles	13/12/2015	Autre membre commission permanente	18/12/2015
@@ -1143,7 +1690,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	33	GIRONDE	BOUDIE	Florent	M	22/9/1973	56	Autres professions	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	BOUDINEAU	Isabelle	F	17/8/1966	56	Autres professions	1/1/2016	Dixième vice-président du conseil régional	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	BOULTAM	Yasmina	F	19/12/1974	49	Fonctionnaires de catégorie C	1/1/2016		
-75	Nouvelle-Aquitaine	33	GIRONDE	CALMELS	Virginie	F	11/2/1971	06	Administrateurs de sociétés	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	CHADOURNE	Sandrine	F	12/12/1970	49	Fonctionnaires de catégorie C	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	CHARAÏ	Naïma	F	4/10/1972	56	Autres professions	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	COLOMBIER	Jacques	M	17/2/1952	60	Retraités des professions libérales	1/1/2016	Autre membre commission permanente	4/1/2016
@@ -1186,7 +1732,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	40	LANDES	BEYRIS	Maryline	F	21/9/1967	01	Agriculteurs propriétaires exploit.	1/1/2016		
 75	Nouvelle-Aquitaine	40	LANDES	BONJEAN	Elisabeth	F	14/6/1959	50	Cadres sup. (entreprises publiques)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	40	LANDES	BRUN	Yveline	F	16/7/1962	18	Cadres supérieurs (secteur privé)	1/1/2016		
-75	Nouvelle-Aquitaine	40	LANDES	DELPEYRAT-VINCENT	Stéphane	M	13/3/1968	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	4/1/2016
+75	Nouvelle-Aquitaine	40	LANDES	DELPEYRAT	Stéphane	M	13/3/1968	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	40	LANDES	FROUSTEY	Pierre	M	20/12/1957	33	Agents généraux d'assurances	1/1/2016		
 75	Nouvelle-Aquitaine	40	LANDES	HOUDET	Christian	M	17/4/1953	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	40	LANDES	LAGRAVE	Renaud	M	24/9/1967	47	Fonctionnaires de catégorie A	1/1/2016	Treizième vice-président du conseil régional	4/1/2016
@@ -1260,7 +1806,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	87	HAUTE VIENNE	MARTY	Christine	F	26/5/1958	63	Retraités fonct.publique (sf enseig.)	1/1/2016		
 75	Nouvelle-Aquitaine	87	HAUTE VIENNE	PAGÈS	Jean-Louis	M	21/6/1955	55	Ministres du culte	1/1/2016		
 75	Nouvelle-Aquitaine	87	HAUTE VIENNE	TORTOSA	Huguette	F	21/6/1959	43	Enseignants 1er deg.-directeurs école	1/1/2016		
-75	Nouvelle-Aquitaine	87	HAUTE VIENNE	VANDENBROUCKE	Gérard	M	29/1/1948	62	Retraités de l'enseignement	1/1/2016	Premier vice-président du conseil régional	4/1/2016
 75	Nouvelle-Aquitaine	87	HAUTE VIENNE	VINCENT	François	M	1/9/1965	24	Médecins	1/1/2016		
 76	Occitanie	09	ARIEGE	CHIBLI	Kamal	M	24/3/1977	20	Employés (secteur privé)	1/1/2016	Septième vice-président du conseil régional	4/1/2016
 76	Occitanie	09	ARIEGE	ESCLOPE	Guy	M	24/9/1950	63	Retraités fonct.publique (sf enseig.)	1/1/2016		
@@ -1453,6 +1998,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	03	ALLIER	MONNIER	Thibaut	M	24/2/1987	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	03	ALLIER	SEMET	Pascale	F	19/3/1962	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	07	ARDECHE	AMRANE	Olivier	M	23/3/1978	48	Fonctionnaires de catégorie B	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	07	ARDECHE	CERBAÏ	Florence	F	26/7/1979	37	Journalistes et autres médias	2/7/2017		
 84	Auvergne-Rhône-Alpes	07	ARDECHE	FERRAND	Virginie	F	13/4/1982	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	07	ARDECHE	FLORY	Jean-Claude	M	7/3/1966	39	Autres professions libérales	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	07	ARDECHE	GENEST	Sandrine	F	18/4/1980	47	Fonctionnaires de catégorie A	1/1/2016		
@@ -1615,6 +2161,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	73	SAVOIE	VIAL	Cédric	M	25/3/1978	19	Autres cadres (secteur privé)	11/10/2018		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	ABADIE PARISI	Anne-Françoise	F	31/1/1959	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	ANDRE LAURENT	Annabel	F	8/10/1970	39	Autres professions libérales	1/1/2016	Sixième vice-président du conseil régional	2/10/2017
+84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	BAUD	Jean-Baptiste	M	8/9/1987	19	Autres cadres (secteur privé)	30/11/2018		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	BAUD-ROCHE	Astrid	F	13/8/1970	57	Sans profession déclarée	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	BOSLAND	Jean-Paul	M	18/7/1969	56	Autres professions	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	CARBONNEL	François-Eric	M	24/9/1965	56	Autres professions	1/1/2016		
@@ -1639,12 +2186,14 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	05	HAUTES ALPES	EYMEOUD	Chantal	F	6/1/1957	56	Autres professions	13/12/2015	Second vice-président du conseil régional	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	05	HAUTES ALPES	FORGEOUX	Anne-Marie	F	14/5/1966	08	Agents immobiliers	13/12/2015	Président de commission	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	05	HAUTES ALPES	NAVARRANNE	Amaury	M	14/3/1985	54	Permanents politiques	13/12/2015	Autre membre commission permanente	18/12/2015
+93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	ALZIARI-NEGRE	Andrée	F	24/11/1946	24	Médecins	17/7/2017		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	AMAR	Serge	M	16/6/1958	05	Industriels-Chefs entreprise	13/12/2015	Président de commission	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	BETTATI	Olivier	M	20/6/1969	01	Agriculteurs propriétaires exploit.	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	BOETTI-FORESTIER	Laurence	F	25/9/1966	47	Fonctionnaires de catégorie A	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	BRUNETEAUX	Françoise	F	7/11/1965	47	Fonctionnaires de catégorie A	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	CHEVALIER	Anne	F	15/3/1975	19	Autres cadres (secteur privé)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	DAUGREILH	Jean-Pierre	M	15/10/1942	20	Employés (secteur privé)	13/12/2015		
+93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	DAVID	Jean-Paul	M	7/5/1960	47	Fonctionnaires de catégorie A	16/8/2017		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	DI BARI	Muriel	F	13/9/1956	19	Autres cadres (secteur privé)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	D'INTORNI	Christelle	F	2/5/1985	29	Avocats	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	ESTROSI	Christian	M	1/7/1955	56	Autres professions	13/12/2015	Premier vice-président du conseil régional	29/5/2017
@@ -1675,6 +2224,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	BURLE	Christian	M	14/11/1951	58	Retraités agricoles	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	CACHARD	Xavier	M	9/8/1963	29	Avocats	13/12/2015	Cinquième vice-président du conseil régional	7/7/2017
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	CHEVALIER	Laure	F	17/9/1981	23	Salariés du secteur médical	13/12/2015		
+93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	CHEVILLARD	Nathalie	F	14/6/1971	06	Administrateurs de sociétés	4/9/2018		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	CLAUDIUS-PETIT	Anne	F	12/12/1972	19	Autres cadres (secteur privé)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	D'ANGIO	Sandrine	F	18/12/1981	57	Sans profession déclarée	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	DEFLESSELLES	Bernard	M	16/10/1953	13	Ingénieurs	13/12/2015		
@@ -1690,6 +2240,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	GRECH	Sophie	F	3/8/1985	49	Fonctionnaires de catégorie C	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	GUILBAUX	Rina	F	3/5/1950	59	Retr.artis.commerc.chefs d'entrep.	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	ISNARD	Nicolas	M	6/10/1970	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
+93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	JUGLARET	Cyril	M	1/9/1978	47	Fonctionnaires de catégorie A	27/2/2017		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	LAUPIES	Valérie	F	8/2/1966	43	Enseignants 1er deg.-directeurs école	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	LEGUEM	Laurence	F	11/5/1967	10	Artisans	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	LEONETTI	Georges	M	9/7/1961	41	Professeurs de faculté	13/12/2015	Troisième vice-président du conseil régional	7/7/2017
@@ -1705,9 +2256,11 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	PHILIPPE	Elisabeth	F	21/12/1959	39	Autres professions libérales	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	POZMENTIER	Caroline	F	17/2/1966	29	Avocats	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	PREZIOSI	Nora	F	16/11/1960	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
+93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	RIGAUD	Marie-Claude	F	21/12/1968	17	Agents d'assurances	21/6/2016		
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	ROBINEAU	Monique	F	18/6/1955	05	Industriels-Chefs entreprise	13/12/2015	Président de commission	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	SAVON	Isabelle	F	19/7/1970	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	TOMMASINI	Maxime	M	15/4/1962	18	Cadres supérieurs (secteur privé)	13/12/2015	Président de commission	18/12/2015
+93	PROVENCE-ALPES-COTE D'AZUR	13	BOUCHES DU RHONE	VIRZI GONZALEZ	Brigitte	F	21/9/1957	05	Industriels-Chefs entreprise	31/8/2018		
 93	PROVENCE-ALPES-COTE D'AZUR	83	VAR	ALEMAGNA	Claude	M	21/9/1957	50	Cadres sup. (entreprises publiques)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	83	VAR	BACCI	Jean	M	17/3/1951	62	Retraités de l'enseignement	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	83	VAR	BENEVENTI	Robert	M	23/9/1943	59	Retr.artis.commerc.chefs d'entrep.	13/12/2015		
@@ -1740,6 +2293,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	BISSIERE	Michel	M	26/10/1961	56	Autres professions	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	BOUYAC	Jacqueline	F	28/2/1947	62	Retraités de l'enseignement	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	CZIMER-SYLVESTRE	Nathalie	F	24/3/1972	05	Industriels-Chefs entreprise	13/12/2015		
+93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	DE BEAUREGARD	Philippe	M	27/10/1965	47	Fonctionnaires de catégorie A	30/6/2017		
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	DE LA TOCNAYE	Thibaut	M	20/10/1958	05	Industriels-Chefs entreprise	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	DIMITROFF-MEKAROV	Agapia	F	5/3/1968	20	Employés (secteur privé)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	LOTTIAUX	Philippe	M	14/8/1966	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	18/12/2015
@@ -1747,9 +2301,126 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	RIGAULT	Anne-Sophie	F	23/3/1976	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	SAUVAGEON	Stéphane	M	28/9/1964	47	Fonctionnaires de catégorie A	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	84	VAUCLUSE	ZIDATE	Sonia	F	5/11/1980	29	Avocats	13/12/2015	Douzième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	04	ALPES DE HAUTE PROVENCE	BARREILLE	Eliane	F	4/4/1951	61	Retraités salariés privés	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	04	ALPES DE HAUTE PROVENCE	DOUZON	Jeannine	F	1/6/1947	65	Autres retraités	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	04	ALPES DE HAUTE PROVENCE	GEHANT	David	M	23/2/1989	35	Ingénieurs conseils	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	04	ALPES DE HAUTE PROVENCE	GIAI-GIANETTI	Roselyne	F	11/7/1962	20	Employés (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	05	HAUTES ALPES	DIDIER	Roger	M	22/2/1951	57	Sans profession déclarée	13/12/2015	Treizième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	05	HAUTES ALPES	EYMEOUD	Chantal	F	6/1/1957	56	Autres professions	13/12/2015	Second vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	05	HAUTES ALPES	FORGEOUX	Anne-Marie	F	14/5/1966	08	Agents immobiliers	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	05	HAUTES ALPES	NAVARRANNE	Amaury	M	14/3/1985	54	Permanents politiques	13/12/2015	Autre membre commission permanente	18/12/2015
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	ALZIARI-NEGRE	Andrée	F	24/11/1946	24	Médecins	17/7/2017		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	AMAR	Serge	M	16/6/1958	05	Industriels-Chefs entreprise	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	BETTATI	Olivier	M	20/6/1969	01	Agriculteurs propriétaires exploit.	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	BOETTI-FORESTIER	Laurence	F	25/9/1966	47	Fonctionnaires de catégorie A	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	BRUNETEAUX	Françoise	F	7/11/1965	47	Fonctionnaires de catégorie A	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	CHEVALIER	Anne	F	15/3/1975	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	DAUGREILH	Jean-Pierre	M	15/10/1942	20	Employés (secteur privé)	13/12/2015		
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	DAVID	Jean-Paul	M	7/5/1960	47	Fonctionnaires de catégorie A	16/8/2017		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	DI BARI	Muriel	F	13/9/1956	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	D'INTORNI	Christelle	F	2/5/1985	29	Avocats	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	ESTROSI	Christian	M	1/7/1955	56	Autres professions	13/12/2015	Premier vice-président du conseil régional	29/5/2017
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	FLAMBARD	Julie	F	21/9/1983	29	Avocats	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	GALY	Richard	M	18/7/1954	24	Médecins	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	JABOULET	Claude	F	25/12/1946	01	Agriculteurs propriétaires exploit.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	KESSLER	Anne	F	20/8/1972	29	Avocats	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	KLEYNHOFF	Bernard	M	25/12/1953	05	Industriels-Chefs entreprise	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	LEONELLI	Pierre-Paul	M	17/6/1957	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	LOEUILLET	Benoît	M	2/5/1972	09	Commercants	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	MANFREDI	Monique	F	28/12/1948	49	Fonctionnaires de catégorie C	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	MEINI	Michel	M	13/8/1963	44	Professions rattachées à enseignt.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	MION	Jean-Bernard	M	3/11/1967	30	Notaires	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	PAVARD	Nathalie	F	16/12/1968	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	RAMPAL	Agnès	F	22/8/1955	23	Salariés du secteur médical	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	ROUX	Roger	M	7/11/1962	48	Fonctionnaires de catégorie B	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	SALLES-BARBOSA	Jennifer	F	4/6/1980	29	Avocats	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	TABAROT	Philippe	M	25/11/1970	56	Autres professions	13/12/2015	Onzième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	TIVOLI	Lionel	M	29/2/1988	51	Cadres (entreprises publiques)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	VARDON	Philippe	M	2/9/1980	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	ALIPHAT	Béatrice	F	29/5/1967	13	Ingénieurs	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	ALLISIO	Franck	M	4/8/1980	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	AUGEY	Dominique	F	8/1/1956	41	Professeurs de faculté	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	BATTIN	Maurice	M	17/1/1955	18	Cadres supérieurs (secteur privé)	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	BENEDETTI	Mireille	F	3/4/1955	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	BEZ	Eléonore	F	24/6/1976	20	Employés (secteur privé)	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	BULTEAU-RAMBAUD	Florence	F	1/6/1965	48	Fonctionnaires de catégorie B	13/12/2015	Autre membre commission permanente	29/5/2017
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	BURLE	Christian	M	14/11/1951	58	Retraités agricoles	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	CACHARD	Xavier	M	9/8/1963	29	Avocats	13/12/2015	Cinquième vice-président du conseil régional	7/7/2017
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	CHEVALIER	Laure	F	17/9/1981	23	Salariés du secteur médical	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	CHEVILLARD	Nathalie	F	14/6/1971	06	Administrateurs de sociétés	4/9/2018		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	CLAUDIUS-PETIT	Anne	F	12/12/1972	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	D'ANGIO	Sandrine	F	18/12/1981	57	Sans profession déclarée	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	DEFLESSELLES	Bernard	M	16/10/1953	13	Ingénieurs	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	DI CARO	Sylvaine	F	19/7/1951	65	Autres retraités	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	DUDIEUZERE	Cédric	M	9/9/1972	18	Cadres supérieurs (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	FOUQUART	Emmanuel	M	30/7/1966	05	Industriels-Chefs entreprise	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	FRUCTUS	Arlette	F	6/12/1958	29	Avocats	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GENZANA	Bruno	M	16/10/1958	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GERIN	Gérald	M	21/10/1973	54	Permanents politiques	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GIBERTI	Roland	M	2/3/1951	62	Retraités de l'enseignement	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GINER	Catherine	F	27/1/1959	57	Sans profession déclarée	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GONZALEZ	José	M	28/4/1943	64	Retraités des entreprises publiques	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GRECH	Sophie	F	3/8/1985	49	Fonctionnaires de catégorie C	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	GUILBAUX	Rina	F	3/5/1950	59	Retr.artis.commerc.chefs d'entrep.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	ISNARD	Nicolas	M	6/10/1970	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
 93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	JUGLARET	Cyril	M	1/9/1978	47	Fonctionnaires de catégorie A	27/2/2017		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	LAUPIES	Valérie	F	8/2/1966	43	Enseignants 1er deg.-directeurs école	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	LEGUEM	Laurence	F	11/5/1967	10	Artisans	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	LEONETTI	Georges	M	9/7/1961	41	Professeurs de faculté	13/12/2015	Troisième vice-président du conseil régional	7/7/2017
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	LEPRETTRE	Eléonore	F	8/2/1991	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	LICARI	Pascale	F	28/6/1960	34	Experts comptables	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	LUC	Jean-François	M	3/5/1979	13	Ingénieurs	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	MARTIN-TEISSERE	Jean-Marc	M	2/10/1969	01	Agriculteurs propriétaires exploit.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	MAURIZOT	Philippe	M	8/1/1965	05	Industriels-Chefs entreprise	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	MIRON	Richard	M	18/9/1956	54	Permanents politiques	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	MOUSSET	Jean-Alexandre	M	12/5/1985	01	Agriculteurs propriétaires exploit.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	MUSELIER	Renaud	M	6/5/1959	24	Médecins	13/12/2015	Président du conseil régional	29/5/2017
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	PERNEY	Ludovic	M	28/10/1995	40	Etudiants	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	PHILIPPE	Elisabeth	F	21/12/1959	39	Autres professions libérales	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	POZMENTIER	Caroline	F	17/2/1966	29	Avocats	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	PREZIOSI	Nora	F	16/11/1960	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
 93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	RIGAUD	Marie-Claude	F	21/12/1968	17	Agents d'assurances	21/6/2016		
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	ROBINEAU	Monique	F	18/6/1955	05	Industriels-Chefs entreprise	13/12/2015	Président de commission	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	SAVON	Isabelle	F	19/7/1970	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	TOMMASINI	Maxime	M	15/4/1962	18	Cadres supérieurs (secteur privé)	13/12/2015	Président de commission	18/12/2015
 93	Provence-Alpes-Côte d'Azur	13	BOUCHES DU RHONE	VIRZI GONZALEZ	Brigitte	F	21/9/1957	05	Industriels-Chefs entreprise	31/8/2018		
+93	Provence-Alpes-Côte d'Azur	83	VAR	ALEMAGNA	Claude	M	21/9/1957	50	Cadres sup. (entreprises publiques)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	BACCI	Jean	M	17/3/1951	62	Retraités de l'enseignement	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	BENEVENTI	Robert	M	23/9/1943	59	Retr.artis.commerc.chefs d'entrep.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	BERTRAND	Aline	F	29/11/1985	39	Autres professions libérales	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	BOCCALETTI	Frédéric	M	23/11/1973	20	Employés (secteur privé)	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	CHAMBON	Josy	F	15/9/1951	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	CHENEVARD	Yannick	M	27/11/1959	39	Autres professions libérales	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	COLIN	Jean-Pierre	M	20/4/1962	17	Agents d'assurances	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	DAVID	Geoffrey	M	11/5/1991	20	Employés (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	DE CANSON	François	M	10/5/1965	05	Industriels-Chefs entreprise	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	DELFAUX	Véronique	F	15/11/1959	05	Industriels-Chefs entreprise	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	FIOL	Muriel	F	26/3/1954	24	Médecins	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	FONTENOY	Maud	F	7/9/1977	56	Autres professions	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	LANCINE	Brigitte	F	16/7/1959	57	Sans profession déclarée	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	LANSADE	Marc Etienne	M	3/11/1973	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	29/5/2017
+93	Provence-Alpes-Côte d'Azur	83	VAR	LECOINNET	Jean-Philippe	M	15/6/1980	20	Employés (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	MANZANARES	Béatrice	F	3/1/1965	48	Fonctionnaires de catégorie B	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	MARINO	Edwige	F	28/10/1958	47	Fonctionnaires de catégorie A	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	MEUNIER	Christine	F	26/7/1960	48	Fonctionnaires de catégorie B	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	MORISSE	Vincent	M	27/3/1966	17	Agents d'assurances	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	RIGAL	Hélène	F	26/11/1961	39	Autres professions libérales	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	ROUBEUF	Catherine	F	11/5/1967	57	Sans profession déclarée	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	SIMON	Christian	M	31/12/1959	42	Professeurs du secondaire et techn.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	TORRES	Sandra	F	17/7/1973	19	Autres cadres (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	TROIN	Audrey	F	24/6/1987	09	Commercants	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	83	VAR	VITEL	Philippe	M	22/2/1955	25	Chirurgiens	13/12/2015	Neuvième vice-président du conseil régional	18/12/2015
+93	Provence-Alpes-Côte d'Azur	83	VAR	WAQUET	Jean-Yves	M	31/3/1944	63	Retraités fonct.publique (sf enseig.)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	AUBERT	Julien	M	11/6/1978	46	Grands corps de l'état	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	BISCARRAT	Louis	M	11/10/1951	01	Agriculteurs propriétaires exploit.	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	BISSIERE	Michel	M	26/10/1961	56	Autres professions	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	BOUYAC	Jacqueline	F	28/2/1947	62	Retraités de l'enseignement	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	CZIMER-SYLVESTRE	Nathalie	F	24/3/1972	05	Industriels-Chefs entreprise	13/12/2015		
 93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	DE BEAUREGARD	Philippe	M	27/10/1965	47	Fonctionnaires de catégorie A	30/6/2017		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	DE LA TOCNAYE	Thibaut	M	20/10/1958	05	Industriels-Chefs entreprise	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	DIMITROFF-MEKAROV	Agapia	F	5/3/1968	20	Employés (secteur privé)	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	LOTTIAUX	Philippe	M	14/8/1966	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	MARTIN	Bénédicte	F	14/11/1969	56	Autres professions	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	RIGAULT	Anne-Sophie	F	23/3/1976	57	Sans profession déclarée	13/12/2015	Autre membre commission permanente	18/12/2015
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	SAUVAGEON	Stéphane	M	28/9/1964	47	Fonctionnaires de catégorie A	13/12/2015		
+93	Provence-Alpes-Côte d'Azur	84	VAUCLUSE	ZIDATE	Sonia	F	5/11/1980	29	Avocats	13/12/2015	Douzième vice-président du conseil régional	18/12/2015
