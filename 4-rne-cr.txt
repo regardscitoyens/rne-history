@@ -164,7 +164,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 04	La Réunion	ZD	LA REUNION	VIRAPOULLÉ	Jean-Paul	M	15/3/1944	39	Autres professions libérales	13/12/2015		
 04	La Réunion	ZD	LA REUNION	VITRY	Faouzia	F	19/2/1981	48	Fonctionnaires de catégorie B	13/12/2015	Huitième vice-président du conseil régional	16/2/2018
 04	La Réunion	ZD	LA REUNION	WON-FAH-HIN	Marie-Rose	F	10/8/1958	50	Cadres sup. (entreprises publiques)	13/12/2015		
-11	ILE DE FRANCE	75	PARIS	ANDROUËT	Mathilde	F	3/7/1984	54	Permanents politiques	13/12/2015		
+11	ILE DE FRANCE	75	PARIS	ANDROUËT	Mathilde	F	3/7/1984	20	Employés (secteur privé)	13/12/2015		
 11	ILE DE FRANCE	75	PARIS	BARIANI	Didier	M	16/10/1943	61	Retraités salariés privés	13/12/2015	Quinzième vice-président du conseil régional	18/12/2015
 11	ILE DE FRANCE	75	PARIS	BAYOU	Julien	M	11/6/1980	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	ILE DE FRANCE	75	PARIS	BENHAIM	Frédéric	M	19/11/1982	39	Autres professions libérales	13/12/2015		
@@ -256,7 +256,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	ILE DE FRANCE	78	YVELINES	RICHARD	Arnaud	M	30/4/1971	57	Sans profession déclarée	13/12/2015		
 11	ILE DE FRANCE	78	YVELINES	SALL	Ramatoulaye	F	10/3/1986	54	Permanents politiques	13/12/2015		
 11	ILE DE FRANCE	78	YVELINES	SANTINI	Jean-Luc	M	11/8/1957	18	Cadres supérieurs (secteur privé)	13/12/2015		
-11	ILE DE FRANCE	78	YVELINES	SATOURI	Mounir	M	25/5/1975	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	ILE DE FRANCE	78	YVELINES	SATOURI	Mounir	M	25/5/1975	56	Autres professions	13/12/2015		
 11	ILE DE FRANCE	78	YVELINES	SENEE	Ghislaine	F	14/2/1969	57	Sans profession déclarée	13/12/2015		
 11	ILE DE FRANCE	78	YVELINES	TARDY-JOUBERT	Nicolas	M	26/9/1957	39	Autres professions libérales	13/12/2015		
 11	ILE DE FRANCE	78	YVELINES	THIS SAINT-JEAN	Isabelle	F	28/5/1963	41	Professeurs de faculté	13/12/2015		
@@ -316,7 +316,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	ILE DE FRANCE	92	HAUTS DE SEINE 	SOLERE	Thierry	M	17/8/1971	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	ILE DE FRANCE	92	HAUTS DE SEINE 	SPIRI	Jean	M	4/6/1982	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	ILE DE FRANCE	93	SEINE SAINT-DENIS	ADLANI	Farida	F	11/3/1976	20	Employés (secteur privé)	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
-11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BARDELLA	Jordan	M	13/9/1995	40	Etudiants	13/12/2015		
+11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BARDELLA	Jordan	M	13/9/1995	54	Permanents politiques	13/12/2015		
 11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BESCHIZZA	Bruno	M	24/3/1968	46	Grands corps de l'état	13/12/2015		
 11	ILE DE FRANCE	93	SEINE SAINT-DENIS	BORD	Corinne	F	17/5/1970	50	Cadres sup. (entreprises publiques)	13/12/2015		
 11	ILE DE FRANCE	93	SEINE SAINT-DENIS	COSKUN	Taylan	M	18/1/1970	05	Industriels-Chefs entreprise	13/12/2015		
@@ -373,7 +373,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	ILE DE FRANCE	95	VAL D'OISE	SERNE	Pierre	M	28/5/1972	47	Fonctionnaires de catégorie A	13/12/2015		
 11	ILE DE FRANCE	95	VAL D'OISE	SOUMARE	Ali	M	25/12/1980	19	Autres cadres (secteur privé)	19/10/2017		
 11	ILE DE FRANCE	95	VAL D'OISE	VON EUW	Stéphanie	F	29/4/1975	05	Industriels-Chefs entreprise	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
-11	Île-de-France	75	PARIS	ANDROUËT	Mathilde	F	3/7/1984	54	Permanents politiques	13/12/2015		
+11	Île-de-France	75	PARIS	ANDROUËT	Mathilde	F	3/7/1984	20	Employés (secteur privé)	13/12/2015		
 11	Île-de-France	75	PARIS	BARIANI	Didier	M	16/10/1943	61	Retraités salariés privés	13/12/2015	Quinzième vice-président du conseil régional	18/12/2015
 11	Île-de-France	75	PARIS	BAYOU	Julien	M	11/6/1980	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	Île-de-France	75	PARIS	BENHAIM	Frédéric	M	19/11/1982	39	Autres professions libérales	13/12/2015		
@@ -465,7 +465,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	Île-de-France	78	YVELINES	RICHARD	Arnaud	M	30/4/1971	57	Sans profession déclarée	13/12/2015		
 11	Île-de-France	78	YVELINES	SALL	Ramatoulaye	F	10/3/1986	54	Permanents politiques	13/12/2015		
 11	Île-de-France	78	YVELINES	SANTINI	Jean-Luc	M	11/8/1957	18	Cadres supérieurs (secteur privé)	13/12/2015		
-11	Île-de-France	78	YVELINES	SATOURI	Mounir	M	25/5/1975	18	Cadres supérieurs (secteur privé)	13/12/2015		
+11	Île-de-France	78	YVELINES	SATOURI	Mounir	M	25/5/1975	56	Autres professions	13/12/2015		
 11	Île-de-France	78	YVELINES	SENEE	Ghislaine	F	14/2/1969	57	Sans profession déclarée	13/12/2015		
 11	Île-de-France	78	YVELINES	TARDY-JOUBERT	Nicolas	M	26/9/1957	39	Autres professions libérales	13/12/2015		
 11	Île-de-France	78	YVELINES	THIS SAINT-JEAN	Isabelle	F	28/5/1963	41	Professeurs de faculté	13/12/2015		
@@ -525,7 +525,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	Île-de-France	92	HAUTS DE SEINE 	SOLERE	Thierry	M	17/8/1971	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	Île-de-France	92	HAUTS DE SEINE 	SPIRI	Jean	M	4/6/1982	18	Cadres supérieurs (secteur privé)	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	ADLANI	Farida	F	11/3/1976	20	Employés (secteur privé)	13/12/2015	Dixième vice-président du conseil régional	18/12/2015
-11	Île-de-France	93	SEINE SAINT-DENIS	BARDELLA	Jordan	M	13/9/1995	40	Etudiants	13/12/2015		
+11	Île-de-France	93	SEINE SAINT-DENIS	BARDELLA	Jordan	M	13/9/1995	54	Permanents politiques	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	BESCHIZZA	Bruno	M	24/3/1968	46	Grands corps de l'état	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	BORD	Corinne	F	17/5/1970	50	Cadres sup. (entreprises publiques)	13/12/2015		
 11	Île-de-France	93	SEINE SAINT-DENIS	COSKUN	Taylan	M	18/1/1970	05	Industriels-Chefs entreprise	13/12/2015		
@@ -957,7 +957,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	59	NORD	BATAILLE	Jean-Pierre	M	24/10/1963	28	Pharmaciens	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	59	NORD	BIRMANN	Vincent	M	25/5/1982	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	59	NORD	BLAIN	Marie-Chantal	F	30/12/1956	10	Artisans	12/7/2017		
-32	Hauts-de-France	59	NORD	BOISARD-VANNIER	Caroline	F	12/8/1958	26	Dentistes	1/1/2016		
 32	Hauts-de-France	59	NORD	BOJANEK	Chantal	F	27/1/1956	57	Sans profession déclarée	1/1/2016		
 32	Hauts-de-France	59	NORD	BOULET	Elizabeth	F	3/5/1989	50	Cadres sup. (entreprises publiques)	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	59	NORD	BOURGHELLE-KOS	Nadège	F	8/6/1968	57	Sans profession déclarée	1/1/2016		
@@ -968,6 +967,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	59	NORD	CHARBONNIER	Karine	F	6/10/1968	05	Industriels-Chefs entreprise	1/1/2016	Septième vice-président du conseil régional	23/11/2017
 32	Hauts-de-France	59	NORD	COLSON	Aurore	F	19/4/1975	56	Autres professions	1/1/2016		
 32	Hauts-de-France	59	NORD	COOLZAET	Françoise	F	2/9/1973	19	Autres cadres (secteur privé)	1/1/2016		
+32	Hauts-de-France	59	NORD	COUDEVYLLE	Sophie	F	9/12/1973	56	Autres professions	1/4/2019		
 32	Hauts-de-France	59	NORD	CREPEL	Bénédicte	F	3/10/1960	18	Cadres supérieurs (secteur privé)	1/1/2016		
 32	Hauts-de-France	59	NORD	DANZIN	Jacques	M	20/2/1953	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	59	NORD	DARMANIN	Gérald	M	11/10/1982	19	Autres cadres (secteur privé)	1/1/2016		
@@ -1146,7 +1146,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 44	Grand Est	52	HAUTE MARNE	GUILLEMY	Christine	F	3/10/1950	63	Retraités fonct.publique (sf enseig.)	1/1/2016	Second vice-président du conseil régional	4/1/2016
 44	Grand Est	52	HAUTE MARNE	KREBS	Pascale	F	1/7/1960	09	Commercants	1/1/2016		
 44	Grand Est	54	MEURTHE ET MOSELLE	BAUCHE	Pascal	M	27/9/1971	20	Employés (secteur privé)	1/1/2016		
-44	Grand Est	54	MEURTHE ET MOSELLE	BILDE	Dominique	F	1/8/1953	09	Commercants	1/1/2016		
+44	Grand Est	54	MEURTHE ET MOSELLE	BILDE	Dominique	F	1/8/1953	39	Autres professions libérales	1/1/2016		
 44	Grand Est	54	MEURTHE ET MOSELLE	CHOSEROT	Christophe	M	6/1/1970	41	Professeurs de faculté	11/1/2016		
 44	Grand Est	54	MEURTHE ET MOSELLE	DEBORD	Valérie	F	29/11/1971	18	Cadres supérieurs (secteur privé)	1/1/2016	Sixième vice-président du conseil régional	20/10/2017
 44	Grand Est	54	MEURTHE ET MOSELLE	EURY	Gregoire	M	14/10/1967	51	Cadres (entreprises publiques)	1/1/2016		
@@ -1484,7 +1484,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 53	Bretagne	29	FINISTERE	FORTIN	Laurence	F	30/9/1969	19	Autres cadres (secteur privé)	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
 53	Bretagne	29	FINISTERE	GHACHEM	Karim	M	25/6/1977	13	Ingénieurs	13/12/2015		
 53	Bretagne	29	FINISTERE	JOURDAIN	Roland	M	28/4/1964	05	Industriels-Chefs entreprise	13/12/2015		
-53	Bretagne	29	FINISTERE	KARLESKIND	Pierre	M	19/10/1979	13	Ingénieurs	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+53	Bretagne	29	FINISTERE	KARLESKIND	Pierre	M	19/10/1979	56	Autres professions	13/12/2015	Septième vice-président du conseil régional	18/12/2015
 53	Bretagne	29	FINISTERE	LE BAL	Isabelle	F	12/6/1964	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
 53	Bretagne	29	FINISTERE	LE BRAS	Olivier	M	15/9/1973	57	Sans profession déclarée	13/12/2015		
 53	Bretagne	29	FINISTERE	LE BRUN	Agnès	F	28/12/1961	42	Professeurs du secondaire et techn.	13/12/2015		
@@ -1566,7 +1566,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 53	BRETAGNE	29	FINISTERE	FORTIN	Laurence	F	30/9/1969	19	Autres cadres (secteur privé)	13/12/2015	Huitième vice-président du conseil régional	18/12/2015
 53	BRETAGNE	29	FINISTERE	GHACHEM	Karim	M	25/6/1977	13	Ingénieurs	13/12/2015		
 53	BRETAGNE	29	FINISTERE	JOURDAIN	Roland	M	28/4/1964	05	Industriels-Chefs entreprise	13/12/2015		
-53	BRETAGNE	29	FINISTERE	KARLESKIND	Pierre	M	19/10/1979	13	Ingénieurs	13/12/2015	Septième vice-président du conseil régional	18/12/2015
+53	BRETAGNE	29	FINISTERE	KARLESKIND	Pierre	M	19/10/1979	56	Autres professions	13/12/2015	Septième vice-président du conseil régional	18/12/2015
 53	BRETAGNE	29	FINISTERE	LE BAL	Isabelle	F	12/6/1964	39	Autres professions libérales	13/12/2015	Autre membre commission permanente	18/12/2015
 53	BRETAGNE	29	FINISTERE	LE BRAS	Olivier	M	15/9/1973	57	Sans profession déclarée	13/12/2015		
 53	BRETAGNE	29	FINISTERE	LE BRUN	Agnès	F	28/12/1961	42	Professeurs du secondaire et techn.	13/12/2015		
@@ -1981,21 +1981,21 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	01	AIN	BRETON	Xavier	M	25/11/1962	56	Autres professions	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	CHALON	Pénélope	F	21/4/1986	52	Employés (autres entrep. publiques)	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	CHAUSSAT	Maxime	M	11/9/1986	13	Ingénieurs	1/1/2016		
-84	Auvergne-Rhône-Alpes	01	AIN	DEBAT	Jean-François	M	24/1/1966	46	Grands corps de l'état	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	01	AIN	DEBAT	Jean-François	M	24/1/1966	46	Grands corps de l'état	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	DULAC	Michel	M	26/9/1942	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	GIVERNET	Olga	F	17/10/1981	13	Ingénieurs	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	GOY-CHAVENT	Sylvie	F	23/5/1963	42	Professeurs du secondaire et techn.	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	GUYADER	Jean-Louis	M	22/4/1949	41	Professeurs de faculté	1/1/2016		
 84	Auvergne-Rhône-Alpes	01	AIN	NANCHI	Alexandre	M	1/11/1975	47	Fonctionnaires de catégorie A	1/1/2016		
-84	Auvergne-Rhône-Alpes	01	AIN	PERNOD-BEAUDON	Stéphanie	F	13/10/1978	56	Autres professions	1/1/2016	Douzième vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	01	AIN	PERNOD-BEAUDON	Stéphanie	F	13/10/1978	56	Autres professions	1/1/2016	Quatrième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	01	AIN	TIRREAU	Andrée	F	9/5/1950	63	Retraités fonct.publique (sf enseig.)	1/1/2016		
 84	Auvergne-Rhône-Alpes	03	ALLIER	BENOIT	Charlotte	F	20/10/1977	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	03	ALLIER	DE BREUVAND	Cécile	F	26/3/1965	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	03	ALLIER	DUGLERY	Daniel	M	18/10/1946	63	Retraités fonct.publique (sf enseig.)	1/1/2016		
 84	Auvergne-Rhône-Alpes	03	ALLIER	FERRAND	Emmanuel	M	11/5/1969	01	Agriculteurs propriétaires exploit.	1/1/2016		
-84	Auvergne-Rhône-Alpes	03	ALLIER	GUERRE	Jean-Michel	M	25/5/1955	47	Fonctionnaires de catégorie A	1/1/2016		
+84	Auvergne-Rhône-Alpes	03	ALLIER	GUERRE	Jean-Michel	M	25/5/1955	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	03	ALLIER	LUCOT	Yannick	M	7/7/1968	18	Cadres supérieurs (secteur privé)	1/1/2016		
-84	Auvergne-Rhône-Alpes	03	ALLIER	MONNIER	Thibaut	M	24/2/1987	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	03	ALLIER	MONNIER	Thibaut	M	24/2/1987	18	Cadres supérieurs (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	03	ALLIER	SEMET	Pascale	F	19/3/1962	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	07	ARDECHE	AMRANE	Olivier	M	23/3/1978	48	Fonctionnaires de catégorie B	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	07	ARDECHE	CERBAÏ	Florence	F	26/7/1979	37	Journalistes et autres médias	2/7/2017		
@@ -2005,16 +2005,16 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	07	ARDECHE	JACQUART	François	M	3/10/1957	14	Agents technique et techniciens	1/1/2016		
 84	Auvergne-Rhône-Alpes	07	ARDECHE	MALAVIEILLE	Valérie	F	10/3/1967	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	07	ARDECHE	MASSEBEUF	Isabelle	F	17/12/1967	47	Fonctionnaires de catégorie A	1/1/2016		
-84	Auvergne-Rhône-Alpes	07	ARDECHE	MELLIES	Antoine	M	13/1/1989	54	Permanents politiques	1/1/2016		
+84	Auvergne-Rhône-Alpes	07	ARDECHE	MELLIES	Antoine	M	13/1/1989	54	Permanents politiques	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	07	ARDECHE	PORQUET	Céline	F	6/10/1977	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	15	CANTAL	BRU	Dominique	F	25/11/1955	56	Autres professions	1/1/2016		
 84	Auvergne-Rhône-Alpes	15	CANTAL	BRUGERON	Angélique	F	2/2/1984	37	Journalistes et autres médias	13/3/2018		
-84	Auvergne-Rhône-Alpes	15	CANTAL	GUIBERT	Martine	F	13/8/1961	47	Fonctionnaires de catégorie A	1/1/2016	Dixième vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	15	CANTAL	GUIBERT	Martine	F	13/8/1961	47	Fonctionnaires de catégorie A	1/1/2016	Neuvième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	15	CANTAL	MARLEIX	Alain	M	2/1/1946	56	Autres professions	1/1/2016		
-84	Auvergne-Rhône-Alpes	26	DROME	AARAB	Mounir	M	12/2/1981	14	Agents technique et techniciens	1/1/2016		
+84	Auvergne-Rhône-Alpes	26	DROME	AARAB	Mounir	M	12/2/1981	14	Agents technique et techniciens	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	26	DROME	AURIAS	Claude	M	2/4/1952	58	Retraités agricoles	1/1/2016		
 84	Auvergne-Rhône-Alpes	26	DROME	BLANC	Didier-Claude	M	23/4/1966	56	Autres professions	1/1/2016		
-84	Auvergne-Rhône-Alpes	26	DROME	CASALINO	Françoise	F	14/7/1962	50	Cadres sup. (entreprises publiques)	1/1/2016		
+84	Auvergne-Rhône-Alpes	26	DROME	CASALINO	Françoise	F	14/7/1962	50	Cadres sup. (entreprises publiques)	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	26	DROME	DARAGON	Nicolas	M	12/3/1972	05	Industriels-Chefs entreprise	1/1/2016	Treizième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	26	DROME	FERLAY	Aurélien	M	5/2/1981	47	Fonctionnaires de catégorie A	1/1/2016		
 84	Auvergne-Rhône-Alpes	26	DROME	FRITZ	Richard	M	19/1/1948	20	Employés (secteur privé)	1/1/2016		
@@ -2033,7 +2033,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	38	ISERE	BONNARD	Olivier	M	10/7/1965	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	BOUKAALA	Sarah	F	13/9/1979	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	38	ISERE	BREUIL	Alain	M	16/9/1958	13	Ingénieurs	1/1/2016		
-84	Auvergne-Rhône-Alpes	38	ISERE	BURGAZ	Muriel	F	9/11/1961	09	Commercants	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	38	ISERE	BURGAZ	Muriel	F	9/11/1961	09	Commercants	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	CEDRIN	Michèle	F	16/7/1955	42	Professeurs du secondaire et techn.	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	CHABERT	Gilles	M	5/8/1952	19	Autres cadres (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	CHAIX	Sandrine	F	16/5/1968	51	Cadres (entreprises publiques)	1/1/2016		
@@ -2048,10 +2048,10 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	38	ISERE	LAÏDOUNI-DENIS	Myriam	F	6/7/1970	38	Hommes de lettres et Artistes	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	LAMBERT	Marie-Thérèse	F	27/9/1946	62	Retraités de l'enseignement	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	LANGENIEUX-VILLARD	Philippe	M	20/5/1955	18	Cadres supérieurs (secteur privé)	1/1/2016		
-84	Auvergne-Rhône-Alpes	38	ISERE	MARCHE	Emilie	F	8/7/1985	20	Employés (secteur privé)	1/1/2016		
+84	Auvergne-Rhône-Alpes	38	ISERE	MARCHE	Emilie	F	8/7/1985	20	Employés (secteur privé)	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	38	ISERE	MEYNIER-MILLEFERT	Marjolaine	F	30/9/1982	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	MONTILLET	Carole	F	7/4/1973	05	Industriels-Chefs entreprise	1/1/2016		
-84	Auvergne-Rhône-Alpes	38	ISERE	NEUDER	Yannick	M	15/3/1969	56	Autres professions	1/1/2016	Onzième vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	38	ISERE	NEUDER	Yannick	M	15/3/1969	56	Autres professions	1/1/2016	Douzième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	38	ISERE	PFANNER	Virginie	F	23/9/1968	05	Industriels-Chefs entreprise	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	38	ISERE	PICHOUD	Christian	M	20/12/1953	60	Retraités des professions libérales	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	REYNAUD	Philippe	M	25/7/1949	62	Retraités de l'enseignement	1/1/2016	Autre membre commission permanente	4/1/2016
@@ -2062,22 +2062,22 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	42	LOIRE	BLANCHET	Jacques	M	13/4/1966	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	BUSSIERE	Laurence	F	7/12/1958	57	Sans profession déclarée	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	CESA	Johann	M	9/7/1986	20	Employés (secteur privé)	1/1/2016		
-84	Auvergne-Rhône-Alpes	42	LOIRE	CINIERI	Dino	M	9/7/1955	59	Retr.artis.commerc.chefs d'entrep.	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	42	LOIRE	CINIERI	Dino	M	9/7/1955	59	Retr.artis.commerc.chefs d'entrep.	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	CUKIERMAN	Cécile	F	26/4/1976	42	Professeurs du secondaire et techn.	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	42	LOIRE	DE PEYRECAVE	Gabriel	M	10/6/1977	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	HEYRAUD	Stéphane	M	22/5/1984	57	Sans profession déclarée	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	JUBAN	Laurence	F	5/12/1966	22	Assistantes sociales	1/1/2016		
-84	Auvergne-Rhône-Alpes	42	LOIRE	KEFI-JEROME	Samy	M	23/10/1979	43	Enseignants 1er deg.-directeurs école	1/1/2016		
+84	Auvergne-Rhône-Alpes	42	LOIRE	KEFI-JEROME	Samy	M	23/10/1979	43	Enseignants 1er deg.-directeurs école	1/1/2016	Onzième vice-président du conseil régional	27/6/2019
 84	Auvergne-Rhône-Alpes	42	LOIRE	MANDON	Emmanuel	M	22/6/1965	56	Autres professions	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	PERROT	Charles	M	12/11/1959	05	Industriels-Chefs entreprise	1/1/2016	Autre membre commission permanente	4/1/2016
-84	Auvergne-Rhône-Alpes	42	LOIRE	PEYCELON	Nicole	F	8/8/1953	47	Fonctionnaires de catégorie A	1/1/2016		
+84	Auvergne-Rhône-Alpes	42	LOIRE	PEYCELON	Nicole	F	8/8/1953	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	42	LOIRE	REY	Marie-Camille	F	13/8/1987	40	Etudiants	1/1/2016	Quinzième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	42	LOIRE	RIAMON	Marie-Hélène	F	18/7/1961	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	42	LOIRE	ROBERT	Sophie	F	17/4/1972	57	Sans profession déclarée	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	42	LOIRE	ROTKOPF	Sophie	F	19/10/1967	20	Employés (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	42	LOIRE	SLEPCEVIC	Sandra	F	17/9/1985	48	Fonctionnaires de catégorie B	1/1/2016		
 84	Auvergne-Rhône-Alpes	42	LOIRE	SURPLY	Isabelle	F	25/10/1984	56	Autres professions	1/1/2016		
-84	Auvergne-Rhône-Alpes	42	LOIRE	TAITE	Jean-Pierre	M	14/3/1962	06	Administrateurs de sociétés	1/1/2016	Huitième vice-président du conseil régional	2/10/2017
+84	Auvergne-Rhône-Alpes	42	LOIRE	TAITE	Jean-Pierre	M	14/3/1962	06	Administrateurs de sociétés	1/1/2016	Dixième vice-président du conseil régional	2/10/2017
 84	Auvergne-Rhône-Alpes	42	LOIRE	VIAL	Raymond	M	20/12/1960	01	Agriculteurs propriétaires exploit.	1/1/2016		
 84	Auvergne-Rhône-Alpes	43	HAUTE LOIRE	CHAPAVEIRE	André	M	12/9/1952	63	Retraités fonct.publique (sf enseig.)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	43	HAUTE LOIRE	CHAPUIS	Michel	M	7/2/1955	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
@@ -2100,22 +2100,22 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	FOUGERE	Myriam	F	19/4/1964	62	Retraités de l'enseignement	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	FROMAGE	Catherine	F	3/9/1972	49	Fonctionnaires de catégorie C	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	GISCARD D'ESTAING	Louis	M	20/10/1958	06	Administrateurs de sociétés	1/1/2016		
-84	Auvergne-Rhône-Alpes	63	PUY DE DOME	HORTEFEUX	Brice	M	11/5/1958	56	Autres professions	1/1/2016	Second vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	63	PUY DE DOME	HORTEFEUX	Brice	M	11/5/1958	56	Autres professions	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	MEALLET	Roger	M	3/3/1956	52	Employés (autres entrep. publiques)	1/1/2016		
-84	Auvergne-Rhône-Alpes	63	PUY DE DOME	PARRET - BEZLI	Fatima	F	5/7/1978	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	63	PUY DE DOME	PARRET - BEZLI	Fatima	F	5/7/1978	18	Cadres supérieurs (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	SIKORA	Marie-Thérèse	F	6/5/1946	61	Retraités salariés privés	1/1/2016		
-84	Auvergne-Rhône-Alpes	63	PUY DE DOME	VICHNIEVSKY	Laurence	F	5/2/1955	45	Magistrats	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	63	PUY DE DOME	VICHNIEVSKY	Laurence	F	5/2/1955	45	Magistrats	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	BARBIER	Jean-Pierre	M	5/6/1945	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	BERTHOUX	Béatrice	F	11/4/1968	57	Sans profession déclarée	1/1/2016	Troisième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	CHAVEROT	Bernard	M	10/4/1956	62	Retraités de l'enseignement	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	CONSTANT	Christiane	F	8/2/1948	39	Autres professions libérales	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	CRUZ	Sophie	F	11/9/1967	44	Professions rattachées à enseignt.	1/1/2016	Autre membre commission permanente	4/1/2016
-84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	DESPRAS	Dominique	M	24/3/1976	01	Agriculteurs propriétaires exploit.	1/1/2016	Neuvième vice-président du conseil régional	2/10/2017
+84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	DESPRAS	Dominique	M	24/3/1976	01	Agriculteurs propriétaires exploit.	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	HERNANDEZ	Christine	F	1/4/1960	19	Autres cadres (secteur privé)	1/1/2016		
-84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	KOHLHAAS	Jean-Charles	M	29/9/1964	23	Salariés du secteur médical	1/1/2016		
+84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	KOHLHAAS	Jean-Charles	M	29/9/1964	23	Salariés du secteur médical	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	MARION	Agnès	F	7/6/1977	39	Autres professions libérales	1/1/2016	Autre membre commission permanente	4/1/2016
-84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	THIEN	Jérémy	M	24/6/1971	01	Agriculteurs propriétaires exploit.	1/1/2016		
-84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	VAGNIER	Nicole	F	19/11/1956	20	Employés (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	THIEN	Jérémy	M	24/6/1971	01	Agriculteurs propriétaires exploit.	1/1/2016	Autre membre commission permanente	27/6/2019
+84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	VAGNIER	Nicole	F	19/11/1956	20	Employés (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	VERCHERE	Patrice	M	29/12/1973	54	Permanents politiques	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	VIDAL	Paul	M	8/9/1950	61	Retraités salariés privés	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BERAT	Pierre	M	26/11/1967	56	Autres professions	1/1/2016		
@@ -2124,23 +2124,23 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BOUDAOUD	Farida	F	1/1/1966	16	Représentants de commerce	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BOUDOT	Christophe	M	7/8/1969	05	Industriels-Chefs entreprise	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	CHAMPEL	Romain	M	18/1/1987	56	Autres professions	1/1/2016		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	COATIVY	Muriel	F	27/2/1966	29	Avocats	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	COATIVY	Muriel	F	27/2/1966	29	Avocats	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	CONDEMINE-VUILLOT	Anne-Sophie	F	31/10/1960	18	Cadres supérieurs (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	COSSON	Monique	F	30/5/1954	63	Retraités fonct.publique (sf enseig.)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DEBÛ	Raphaël	M	31/10/1981	47	Fonctionnaires de catégorie A	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DELACROIX	Pierre	M	4/9/1948	24	Médecins	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DE MALLIARD	Alice	F	8/7/1970	51	Cadres (entreprises publiques)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	GASCON	Gilles	M	21/1/1967	05	Industriels-Chefs entreprise	1/1/2016		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	JARRY	Juliette	F	18/10/1981	05	Industriels-Chefs entreprise	1/1/2016	Cinquième vice-président du conseil régional	4/1/2016
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	KOTARAC	Andréa	M	7/5/1989	49	Fonctionnaires de catégorie C	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	JARRY	Juliette	F	18/10/1981	05	Industriels-Chefs entreprise	1/1/2016	Septième vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	KOTARAC	Andréa	M	7/5/1989	49	Fonctionnaires de catégorie C	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LAFORET	Catherine	F	6/2/1965	57	Sans profession déclarée	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LIGOUT	Sandrine	F	5/2/1969	05	Industriels-Chefs entreprise	1/1/2016		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LORNE	Anne	F	16/4/1980	19	Autres cadres (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LUCAS	Karine	F	1/10/1972	57	Sans profession déclarée	1/1/2016		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	MEUNIER	Philippe	M	16/3/1966	57	Sans profession déclarée	1/1/2016	Neuvième vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LORNE	Anne	F	16/4/1980	19	Autres cadres (secteur privé)	1/1/2016		
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LUCAS	Karine	F	1/10/1972	57	Sans profession déclarée	1/1/2016	Autre membre commission permanente	27/6/2019
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	MEUNIER	Philippe	M	16/3/1966	57	Sans profession déclarée	1/1/2016	Huitième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	MOROGE	Jérôme	M	23/8/1979	56	Autres professions	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	PEIZERAT	Gwendal	M	21/4/1972	05	Industriels-Chefs entreprise	1/1/2016		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	PELLET	Anne	F	20/2/1963	05	Industriels-Chefs entreprise	1/1/2016		
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	PELLET	Anne	F	20/2/1963	05	Industriels-Chefs entreprise	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	PENICAUD	François-Xavier	M	27/8/1983	19	Autres cadres (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	PIANTONI	Ludivine	F	23/5/1979	22	Assistantes sociales	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	QUEYRANNE	Jean-Jack	M	2/11/1945	62	Retraités de l'enseignement	1/1/2016		
@@ -2148,9 +2148,9 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	UHLRICH	Yves-Marie	M	22/5/1950	25	Chirurgiens	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	VERNEY-CARRON	Florence	F	1/2/1954	05	Industriels-Chefs entreprise	1/1/2016	Quatorzième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	VULLIERME	Didier	M	22/9/1972	47	Fonctionnaires de catégorie A	1/1/2016	Autre membre commission permanente	4/1/2016
-84	Auvergne-Rhône-Alpes	73	SAVOIE	AZNAR-MOLLIEX	Noëlle	F	5/12/1963	43	Enseignants 1er deg.-directeurs école	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	73	SAVOIE	AZNAR-MOLLIEX	Noëlle	F	5/12/1963	43	Enseignants 1er deg.-directeurs école	1/1/2016		
 84	Auvergne-Rhône-Alpes	73	SAVOIE	BONNIVARD	Emilie	F	2/8/1980	19	Autres cadres (secteur privé)	1/1/2016		
-84	Auvergne-Rhône-Alpes	73	SAVOIE	CHEMIN	François	M	3/7/1975	54	Permanents politiques	1/1/2016		
+84	Auvergne-Rhône-Alpes	73	SAVOIE	CHEMIN	François	M	3/7/1975	54	Permanents politiques	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	73	SAVOIE	DAUCHY	Marie	F	5/2/1987	20	Employés (secteur privé)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	73	SAVOIE	DULLIN	Xavier	M	7/5/1961	18	Cadres supérieurs (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	73	SAVOIE	GARCIN	Jean-Marie	M	15/8/1960	20	Employés (secteur privé)	1/1/2016		
@@ -2167,7 +2167,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	CARBONNEL	François-Eric	M	24/9/1965	56	Autres professions	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	DUVAND	Florence	F	23/12/1964	57	Sans profession déclarée	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	FAVRE	Marie	F	22/12/1946	61	Retraités salariés privés	9/11/2016		
-84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	FOURNIER	Eric	M	13/4/1965	35	Ingénieurs conseils	1/1/2016	Quatrième vice-président du conseil régional	4/1/2016
+84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	FOURNIER	Eric	M	13/4/1965	35	Ingénieurs conseils	1/1/2016	Cinquième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	GIBOUIN	Guillaume	M	20/2/1976	35	Ingénieurs conseils	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	GNUVA	Julie	F	9/2/1978	05	Industriels-Chefs entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	GREBERT	Fabienne	F	8/5/1965	39	Autres professions libérales	1/1/2016		
@@ -2175,8 +2175,8 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	PACORET	Catherine	F	18/4/1976	39	Autres professions libérales	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	PELLEVAT	Cyril	M	18/2/1981	18	Cadres supérieurs (secteur privé)	1/1/2016		
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	ROUPIOZ	Sylvia	F	20/6/1956	57	Sans profession déclarée	1/1/2016		
-84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	SADDIER	Martial	M	15/10/1969	57	Sans profession déclarée	1/1/2016		
-84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	SEGAUD-LABIDI	Nora	F	10/5/1972	51	Cadres (entreprises publiques)	1/1/2016		
+84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	SADDIER	Martial	M	15/10/1969	57	Sans profession déclarée	1/1/2016	Autre membre commission permanente	27/6/2019
+84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	SEGAUD-LABIDI	Nora	F	10/5/1972	51	Cadres (entreprises publiques)	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	74	HAUTE SAVOIE	VERCIN	André	M	3/6/1950	65	Autres retraités	1/1/2016		
 93	PROVENCE-ALPES-COTE D'AZUR	04	ALPES DE HAUTE PROVENCE	BARREILLE	Eliane	F	4/4/1951	61	Retraités salariés privés	13/12/2015	Sixième vice-président du conseil régional	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	04	ALPES DE HAUTE PROVENCE	DOUZON	Jeannine	F	1/6/1947	65	Autres retraités	13/12/2015	Autre membre commission permanente	18/12/2015
@@ -2191,7 +2191,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	BETTATI	Olivier	M	20/6/1969	01	Agriculteurs propriétaires exploit.	13/12/2015	Autre membre commission permanente	18/12/2015
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	BOETTI-FORESTIER	Laurence	F	25/9/1966	47	Fonctionnaires de catégorie A	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	BRUNETEAUX	Françoise	F	7/11/1965	47	Fonctionnaires de catégorie A	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
-93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	CHEVALIER	Anne	F	15/3/1975	19	Autres cadres (secteur privé)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	DAUGREILH	Jean-Pierre	M	15/10/1942	20	Employés (secteur privé)	13/12/2015		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	DAVID	Jean-Paul	M	7/5/1960	47	Fonctionnaires de catégorie A	16/8/2017		
 93	PROVENCE-ALPES-COTE D'AZUR	06	ALPES MARITIMES	DI BARI	Muriel	F	13/9/1956	19	Autres cadres (secteur privé)	13/12/2015		
@@ -2314,7 +2313,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	BETTATI	Olivier	M	20/6/1969	01	Agriculteurs propriétaires exploit.	13/12/2015	Autre membre commission permanente	18/12/2015
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	BOETTI-FORESTIER	Laurence	F	25/9/1966	47	Fonctionnaires de catégorie A	13/12/2015		
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	BRUNETEAUX	Françoise	F	7/11/1965	47	Fonctionnaires de catégorie A	13/12/2015	Quatrième vice-président du conseil régional	18/12/2015
-93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	CHEVALIER	Anne	F	15/3/1975	19	Autres cadres (secteur privé)	13/12/2015		
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	DAUGREILH	Jean-Pierre	M	15/10/1942	20	Employés (secteur privé)	13/12/2015		
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	DAVID	Jean-Paul	M	7/5/1960	47	Fonctionnaires de catégorie A	16/8/2017		
 93	Provence-Alpes-Côte d'Azur	06	ALPES MARITIMES	DI BARI	Muriel	F	13/9/1956	19	Autres cadres (secteur privé)	13/12/2015		
