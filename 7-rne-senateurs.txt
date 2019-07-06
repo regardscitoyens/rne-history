@@ -94,8 +94,8 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 33	GIRONDE	MADRELLE	Philippe	M	21/4/1937	62	Retraités de l'enseignement	1/10/2014
 34	HERAULT	BRUGUIERE	Marie-Thérèse	F	26/10/1942	63	Retraités fonct.publique (sf enseig.)	1/10/2014
 34	HERAULT	CABANEL	Henri	M	9/3/1959	01	Agriculteurs propriétaires exploit.	1/10/2014
+34	HERAULT	CONSTANT	Agnès	F	16/4/1962	58	Retraités agricoles	1/7/2019
 34	HERAULT	GRAND	Jean-Pierre	M	18/11/1950	63	Retraités fonct.publique (sf enseig.)	1/10/2014
-34	HERAULT	NAVARRO	Robert	M	1/5/1952	64	Retraités des entreprises publiques	1/10/2014
 35	ILLE ET VILAINE	DE LEGGE	Dominique	M	18/2/1952	65	Autres retraités	1/10/2014
 35	ILLE ET VILAINE	GATEL	Françoise	F	14/3/1953	64	Retraités des entreprises publiques	1/10/2014
 35	ILLE ET VILAINE	ROBERT	Sylvie	F	28/8/1963	18	Cadres supérieurs (secteur privé)	1/10/2014
@@ -200,10 +200,10 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 66	PYRENEES ORIENTALES	CALVET	François	M	1/4/1953	57	Sans profession déclarée	2/10/2017
 66	PYRENEES ORIENTALES	SOL	Jean	M	3/6/1952	47	Fonctionnaires de catégorie A	2/10/2017
 67	BAS RHIN	BIGOT	Jacques	M	31/7/1952	60	Retraités des professions libérales	1/10/2014
-67	BAS RHIN	KELLER	Fabienne	F	20/10/1959	46	Grands corps de l'état	1/10/2014
 67	BAS RHIN	KENNEL	Guy-Dominique	M	14/4/1952	44	Professions rattachées à enseignt.	1/10/2014
 67	BAS RHIN	KERN	Claude	M	13/3/1959	42	Professeurs du secondaire et techn.	1/10/2014
 67	BAS RHIN	REICHARDT	André	M	5/12/1949	64	Retraités des entreprises publiques	1/10/2014
+67	BAS RHIN	SITTLER	Esther	F	9/5/1952	65	Autres retraités	24/6/2019
 68	HAUT RHIN	BOCKEL	Jean-Marie	M	22/6/1950	29	Avocats	1/10/2014
 68	HAUT RHIN	DANESI	René	M	30/8/1947	63	Retraités fonct.publique (sf enseig.)	1/10/2014
 68	HAUT RHIN	SCHILLINGER	Patricia	F	18/1/1963	57	Sans profession déclarée	1/10/2014
