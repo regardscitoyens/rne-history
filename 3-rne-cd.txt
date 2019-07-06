@@ -558,7 +558,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 14	CALVADOS	TROUVE	Claire	F	20	Ouistreham		63	Retraités fonct.publique (sf enseig.)	19/7/1945	2/4/2015	
 14	CALVADOS	VEVE	Eric	M	09	Caen-5		29	Avocats	8/8/1968	2/4/2015	
 14	CALVADOS	WILLAUME	Ludwig	M	05	Caen-1		20	Employés (secteur privé)	6/1/1981	2/4/2015	
-14	CALVADOS	YON-COURTIN	Stéphanie	F	06	Caen-2	Douzième vice-président du conseil départemental	32	Conseillers juridiques	28/3/1974	2/4/2015	2/4/2015
+14	CALVADOS	YON-COURTIN	Stéphanie	F	06	Caen-2	Douzième vice-président du conseil départemental	57	Sans profession déclarée	28/3/1974	2/4/2015	2/4/2015
 15	CANTAL	ACHALME	Didier	M	11	Saint-Flour-1	Quatrième vice-président du conseil départemental	61	Retraités salariés privés	2/6/1956	2/4/2015	17/7/2017
 15	CANTAL	BEAUDREY	Dominique	F	06	Maurs		18	Cadres supérieurs (secteur privé)	21/9/1954	2/4/2015	
 15	CANTAL	BENITO	Patricia	F	13	Saint-Paul-des-Landes		20	Employés (secteur privé)	1/3/1953	2/4/2015	
@@ -1380,7 +1380,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 34	HERAULT	RIGAUD	Jacques	M	11	Lodève	Neuvième vice-président du conseil départemental	59	Retr.artis.commerc.chefs d'entrep.	15/7/1947	2/4/2015	5/4/2016
 34	HERAULT	SOREZ	Philippe	M	18	Montpellier-4		19	Autres cadres (secteur privé)	20/5/1961	2/4/2015	
 34	HERAULT	SOTO	Jean-François	M	09	Gignac		18	Cadres supérieurs (secteur privé)	24/1/1963	1/2/2017	
-34	HERAULT	TOLLERET	Irène	F	11	Lodève		01	Agriculteurs propriétaires exploit.	17/8/1967	15/11/2017	
 34	HERAULT	TORTORICI	Sauveur	M	17	Montpellier-3		57	Sans profession déclarée	26/3/1956	2/4/2015	
 34	HERAULT	VASSAS MEJRI	Claudine	F	07	Le Crès	Quatrième vice-président du conseil départemental	51	Cadres (entreprises publiques)	1/2/1961	2/4/2015	2/4/2015
 34	HERAULT	VIDAL	Philippe	M	05	Cazouls-lès-Béziers	Troisième vice-président du conseil départemental	51	Cadres (entreprises publiques)	1/12/1963	2/4/2015	2/4/2015
@@ -1449,7 +1448,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 36	INDRE	BLONDEAU	Gérard	M	03	Le Blanc		01	Agriculteurs propriétaires exploit.	5/11/1950	2/4/2015	
 36	INDRE	BLONDEAU	Michel	M	05	Châteauroux-1	Troisième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	4/4/1942	2/4/2015	2/4/2015
 36	INDRE	BOUGAULT	Michel	M	09	Issoudun		61	Retraités salariés privés	26/7/1949	2/4/2015	
-36	INDRE	BRUN	Michel	M	10	Levroux		01	Agriculteurs propriétaires exploit.	4/9/1949	2/4/2015	
 36	INDRE	CHAPUIS	Mélanie	F	01	Ardentes		56	Autres professions	6/1/1983	2/4/2015	
 36	INDRE	DESCOUT	Serge	M	08	La Châtre	Président du conseil départemental	61	Retraités salariés privés	31/8/1949	2/4/2015	8/2/2016
 36	INDRE	DOUCET	Claude	M	13	Valençay	Cinquième vice-président du conseil départemental	61	Retraités salariés privés	25/3/1947	2/4/2015	8/2/2016
@@ -1484,7 +1482,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 37	INDRE ET LOIRE 	DUBOIS	Gérard	M	06	Descartes		59	Retr.artis.commerc.chefs d'entrep.	28/1/1951	2/4/2015	
 37	INDRE ET LOIRE 	DUPUIS	Brigitte	F	04	Château-Renault		52	Employés (autres entrep. publiques)	26/10/1962	2/4/2015	
 37	INDRE ET LOIRE 	GALLAND	Geneviève	F	06	Descartes		18	Cadres supérieurs (secteur privé)	25/7/1960	2/4/2015	
-37	INDRE ET LOIRE 	GASCHET	Jean-Pierre	M	04	Château-Renault		19	Autres cadres (secteur privé)	11/11/1955	2/4/2015	
+37	INDRE ET LOIRE 	GASCHET	Jean-Pierre	M	04	Château-Renault		61	Retraités salariés privés	11/11/1955	2/4/2015	
 37	INDRE ET LOIRE 	GELFI	Thomas	M	18	Tours-4		57	Sans profession déclarée	9/8/1982	2/4/2015	
 37	INDRE ET LOIRE 	GERVES	Valérie	F	09	Loches		57	Sans profession déclarée	21/3/1966	2/4/2015	
 37	INDRE ET LOIRE 	GINER	Sylvie	F	11	Monts		05	Industriels-Chefs entreprise	20/7/1959	2/4/2015	
@@ -1843,8 +1841,8 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 46	LOT	BLADINIERES	Serge	M	15	Puy-l'Evêque	Premier vice-président du conseil départemental	01	Agriculteurs propriétaires exploit.	6/7/1957	2/4/2015	2/4/2015
 46	LOT	BOUILLAGUET	Vincent	M	03	Cahors-3		47	Fonctionnaires de catégorie A	20/7/1960	2/4/2015	
 46	LOT	BOUTINAUD	Monique	F	17	Souillac		63	Retraités fonct.publique (sf enseig.)	26/9/1947	2/4/2015	
-46	LOT	CHASSAIN	Véronique	F	15	Puy-l'Evêque		48	Fonctionnaires de catégorie B	20/10/1962	2/4/2015	
-46	LOT	COLOMB	Marie-France	F	07	Figeac-1	Second vice-président du conseil départemental	48	Fonctionnaires de catégorie B	21/9/1962	2/4/2015	2/4/2015
+46	LOT	CHASSAIN	Véronique	F	15	Puy-l'Evêque	Dixième vice-président du conseil départemental	48	Fonctionnaires de catégorie B	20/10/1962	2/4/2015	9/4/2018
+46	LOT	COLOMB	Marie-France	F	07	Figeac-1		48	Fonctionnaires de catégorie B	21/9/1962	2/4/2015	
 46	LOT	DELANDE	Claire	F	06	Cère et Ségala		20	Employés (secteur privé)	17/3/1956	17/10/2017	
 46	LOT	DELRIEU	Christian	M	14	Martel		01	Agriculteurs propriétaires exploit.	19/10/1947	2/4/2015	
 46	LOT	DENIS	Nathalie	F	09	Gourdon		49	Fonctionnaires de catégorie C	15/3/1970	2/4/2015	
@@ -1852,23 +1850,23 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 46	LOT	DEVIERS	Danielle	F	04	Causse et Bouriane		60	Retraités des professions libérales	23/9/1953	2/4/2015	
 46	LOT	FOURNIER-BOURGEADE	Michèle	F	14	Martel		06	Administrateurs de sociétés	4/12/1957	2/4/2015	
 46	LOT	GASTAL	Marc	M	12	Luzech	Septième vice-président du conseil départemental	44	Professions rattachées à enseignt.	18/8/1953	2/4/2015	2/4/2015
-46	LOT	GINESTET	Nelly	F	03	Cahors-3	Dixième vice-président du conseil départemental	20	Employés (secteur privé)	19/7/1969	2/4/2015	2/4/2015
+46	LOT	GINESTET	Nelly	F	03	Cahors-3	Huitième vice-président du conseil départemental	20	Employés (secteur privé)	19/7/1969	2/4/2015	9/4/2018
 46	LOT	HILT	Martine	F	01	Cahors-1		64	Retraités des entreprises publiques	20/4/1950	2/4/2015	
 46	LOT	LACOMBE	Robert	M	09	Gourdon		64	Retraités des entreprises publiques	17/12/1945	2/4/2015	
 46	LOT	LAGARDE	Geneviève	F	02	Cahors-2		60	Retraités des professions libérales	27/1/1952	2/4/2015	
 46	LOT	LAPERGUE	Françoise	F	05	Causse et Vallées		20	Employés (secteur privé)	15/12/1953	2/4/2015	
 46	LOT	LEWICKI	Pascal	M	11	Lacapelle-Marival		42	Professeurs du secondaire et techn.	14/4/1969	2/4/2015	
 46	LOT	LIEBUS	Gilles	M	17	Souillac	Neuvième vice-président du conseil départemental	09	Commercants	26/9/1959	2/4/2015	2/4/2015
-46	LOT	MARLAS	Catherine	F	13	Marches du Sud-Quercy	Quatrième vice-président du conseil départemental	19	Autres cadres (secteur privé)	5/10/1964	2/4/2015	2/4/2015
+46	LOT	MARLAS	Catherine	F	13	Marches du Sud-Quercy	Second vice-président du conseil départemental	19	Autres cadres (secteur privé)	5/10/1964	2/4/2015	9/4/2018
 46	LOT	MARRE	Denis	M	01	Cahors-1		61	Retraités salariés privés	11/2/1946	2/4/2015	
-46	LOT	MAURY	Maryse	F	12	Luzech	Sixième vice-président du conseil départemental	47	Fonctionnaires de catégorie A	22/3/1951	2/4/2015	2/4/2015
+46	LOT	MAURY	Maryse	F	12	Luzech	Quatrième vice-président du conseil départemental	47	Fonctionnaires de catégorie A	22/3/1951	2/4/2015	9/4/2018
 46	LOT	MELLINGER	André	M	07	Figeac-1	Troisième vice-président du conseil départemental	26	Dentistes	30/5/1953	2/4/2015	2/4/2015
 46	LOT	MEY-FAU	Caroline	F	10	Gramat		42	Professeurs du secondaire et techn.	24/7/1964	2/4/2015	
 46	LOT	NOUAILLES	Serge	M	02	Cahors-2		19	Autres cadres (secteur privé)	1/9/1954	2/4/2015	
 46	LOT	PAULO	Nicole	F	08	Figeac-2		62	Retraités de l'enseignement	3/12/1941	2/4/2015	
 46	LOT	POUGET	Jacques	M	13	Marches du Sud-Quercy		62	Retraités de l'enseignement	22/6/1947	15/10/2018	
 46	LOT	PROENCA	Christophe	M	06	Cère et Ségala		42	Professeurs du secondaire et techn.	31/5/1966	1/2/2018	
-46	LOT	PRUNET	Catherine	F	11	Lacapelle-Marival	Huitième vice-président du conseil départemental	48	Fonctionnaires de catégorie B	22/2/1969	2/4/2015	2/4/2015
+46	LOT	PRUNET	Catherine	F	11	Lacapelle-Marival	Sixième vice-président du conseil départemental	48	Fonctionnaires de catégorie B	22/2/1969	2/4/2015	9/4/2018
 46	LOT	RAFFY	Jean-Jacques	M	05	Causse et Vallées	Cinquième vice-président du conseil départemental	58	Retraités agricoles	6/5/1949	2/4/2015	2/4/2015
 46	LOT	RIGAL	Serge	M	04	Causse et Bouriane	Président du conseil départemental	14	Agents technique et techniciens	6/2/1957	2/4/2015	2/4/2015
 46	LOT	VERDIER	Maxime	M	10	Gramat		59	Retr.artis.commerc.chefs d'entrep.	9/7/1951	2/4/2015	
@@ -2275,7 +2273,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 57	MOSELLE	BITTE	Claude	M	20	Sarralbe		58	Retraités agricoles	21/9/1941	2/4/2015	
 57	MOSELLE	BOEGLEN	Patricia	F	19	Saint-Avold		44	Professions rattachées à enseignt.	19/1/1974	2/4/2015	
 57	MOSELLE	CALCARI-JEAN	Danielle	F	18	Rombas		19	Autres cadres (secteur privé)	20/10/1961	2/4/2015	
-57	MOSELLE	COLIN-OESTERLE	Nathalie	F	12	Metz-2	Second vice-président du conseil départemental	18	Cadres supérieurs (secteur privé)	5/5/1965	2/4/2015	2/4/2015
+57	MOSELLE	COLIN-OESTERLE	Nathalie	F	12	Metz-2	Second vice-président du conseil départemental	30	Notaires	5/5/1965	2/4/2015	2/4/2015
 57	MOSELLE	CORRADI	Luc	M	10	Hayange		61	Retraités salariés privés	2/8/1949	2/4/2015	
 57	MOSELLE	CRISTINELLI-FRAIBOEUF	Sonya	F	20	Sarralbe	Huitième vice-président du conseil départemental	23	Salariés du secteur médical	12/7/1952	2/4/2015	2/4/2015
 57	MOSELLE	CUNAT	Jean-Claude	M	22	Sarreguemines	Quinzième vice-président du conseil départemental	42	Professeurs du secondaire et techn.	18/6/1956	2/4/2015	2/4/2015
@@ -2344,6 +2342,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 58	NIEVRE	GUERIN	Jocelyne	F	10	Luzy	Vice-président délégué du conseil départemental	61	Retraités salariés privés	30/6/1953	2/4/2015	2/4/2015
 58	NIEVRE	HERTELOUP	Alain	M	07	Fourchambault	Huitième vice-président du conseil départemental	19	Autres cadres (secteur privé)	19/7/1959	6/11/2017	6/11/2017
 58	NIEVRE	HOURCABIE	Guy	M	16	Saint-Pierre-le-Moûtier		01	Agriculteurs propriétaires exploit.	18/12/1944	2/4/2015	
+58	NIEVRE	JOLY	Patrice	M	02	Château-Chinon		46	Grands corps de l'état	5/5/1957	29/3/2015	
 58	NIEVRE	JULIEN	Joëlle	F	09	Imphy		19	Autres cadres (secteur privé)	18/3/1956	2/4/2015	
 58	NIEVRE	LASSUS	Alain	M	06	Decize	Président du conseil départemental	60	Retraités des professions libérales	7/3/1950	6/11/2017	6/11/2017
 58	NIEVRE	LEGRAIN	Jacques	M	01	La Charité-sur-Loire		65	Autres retraités	1/4/1947	2/4/2015	
@@ -2383,17 +2382,17 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 59	NORD	DEROEUX	Claudine	F	34	Saint-Amand-les-Eaux		52	Employés (autres entrep. publiques)	9/12/1956	2/4/2015	
 59	NORD	DESCAMPS	Béatrice	F	08	Bailleul	Quatrième vice-président du conseil départemental	62	Retraités de l'enseignement	22/6/1951	2/4/2015	2/4/2015
 59	NORD	DESCAMPS	Béatrice	F	29	Marly		43	Enseignants 1er deg.-directeurs école	24/4/1961	2/4/2015	
-59	NORD	DETAVERNIER	Jean-Luc	M	31	Orchies	Neuvième vice-président du conseil départemental	32	Conseillers juridiques	12/12/1952	2/4/2015	2/4/2015
+59	NORD	DETAVERNIER	Jean-Luc	M	31	Orchies	Troisième vice-président du conseil départemental	32	Conseillers juridiques	12/12/1952	2/4/2015	2/5/2019
 59	NORD	DEVOS	Carole	F	19	Fourmies		18	Cadres supérieurs (secteur privé)	3/2/1969	2/4/2015	
 59	NORD	DEZITTER	Marie-Annick	F	07	Avesnes-sur-Helpe	Dixième vice-président du conseil départemental	42	Professeurs du secondaire et techn.	23/10/1955	2/4/2015	2/4/2015
 59	NORD	DRIEUX	Didier	M	10	Le Cateau-Cambrésis		61	Retraités salariés privés	26/8/1949	2/4/2015	
 59	NORD	DUHAMEL	Sylvia	F	03	Anzin		44	Professions rattachées à enseignt.	26/7/1963	2/4/2015	
 59	NORD	DUHEM	Sébastien	M	25	Lille-3		48	Fonctionnaires de catégorie B	6/11/1975	2/10/2017	
 59	NORD	DULIEU	Jean-Claude	M	06	Aulnoy-lez-Valenciennes		19	Autres cadres (secteur privé)	3/9/1954	2/4/2015	
-59	NORD	DUSART	Yves	M	39	Valenciennes	Vice-président du conseil départemental	19	Autres cadres (secteur privé)	13/3/1973	2/4/2015	20/12/2017
+59	NORD	DUSART	Yves	M	39	Valenciennes	Treizième vice-président du conseil départemental	19	Autres cadres (secteur privé)	13/3/1973	2/4/2015	2/5/2019
 59	NORD	FAHEM	Soraya	F	33	Roubaix-2		47	Fonctionnaires de catégorie A	31/7/1968	20/7/2017	
 59	NORD	FERNANDEZ	Isabelle	F	20	Grande-Synthe		42	Professeurs du secondaire et techn.	29/8/1966	2/4/2015	
-59	NORD	FICHEUX	Bruno	M	21	Hazebrouck		18	Cadres supérieurs (secteur privé)	19/8/1962	2/4/2015	
+59	NORD	FICHEUX	Bruno	M	21	Hazebrouck	Cinquième vice-président du conseil départemental	18	Cadres supérieurs (secteur privé)	19/8/1962	2/4/2015	8/10/2018
 59	NORD	FILLEUL	Martine	F	26	Lille-4		63	Retraités fonct.publique (sf enseig.)	6/6/1953	2/4/2015	
 59	NORD	FRÉMAUX	Isabelle	F	24	Lille-2		54	Permanents politiques	18/11/1956	2/4/2015	
 59	NORD	GADAUT	Henri	M	33	Roubaix-2		64	Retraités des entreprises publiques	23/11/1949	2/4/2015	
@@ -2416,7 +2415,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 59	NORD	MARTIN	Françoise	F	40	Villeneuve-d'Ascq		41	Professeurs de faculté	23/4/1960	2/4/2015	
 59	NORD	MASQUELIER	Elisabeth	F	28	Lille-6		20	Employés (secteur privé)	30/9/1968	2/4/2015	
 59	NORD	MONNET	Luc	M	36	Templeuve		05	Industriels-Chefs entreprise	3/10/1962	2/4/2015	
-59	NORD	PICK	Max-André	M	32	Roubaix-1	Quinzième vice-président du conseil départemental	18	Cadres supérieurs (secteur privé)	23/4/1958	2/4/2015	2/4/2015
+59	NORD	PICK	Max-André	M	32	Roubaix-1	Neuvième vice-président du conseil départemental	18	Cadres supérieurs (secteur privé)	23/4/1958	2/4/2015	2/5/2019
 59	NORD	PLOUY	Michel	M	04	Armentières		19	Autres cadres (secteur privé)	23/11/1974	2/4/2015	
 59	NORD	POIRET	Christian	M	15	Douai	Premier vice-président du conseil départemental	54	Permanents politiques	12/11/1957	2/4/2015	2/4/2015
 59	NORD	QUATREBOEUFS-NIKLIKOWSKI	Marie-Hélène	F	31	Orchies		54	Permanents politiques	12/12/1975	2/4/2015	
@@ -2424,7 +2423,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 59	NORD	RENAUD	Eric	M	34	Saint-Amand-les-Eaux		54	Permanents politiques	28/8/1960	2/4/2015	
 59	NORD	RINGOT	Bertrand	M	20	Grande-Synthe		47	Fonctionnaires de catégorie A	23/11/1966	2/4/2015	
 59	NORD	SANCHEZ	Caroline	F	15	Douai		48	Fonctionnaires de catégorie B	18/6/1977	2/4/2015	
-59	NORD	SIEGLER	Nicolas	M	09	Cambrai		51	Cadres (entreprises publiques)	6/12/1980	2/4/2015	
+59	NORD	SIEGLER	Nicolas	M	09	Cambrai	Quinzième vice-président du conseil départemental	51	Cadres (entreprises publiques)	6/12/1980	2/4/2015	2/5/2019
 59	NORD	STANIEC-WAVRANT	Marie-Christine	F	27	Lille-5		63	Retraités fonct.publique (sf enseig.)	6/1/1954	2/4/2015	
 59	NORD	TONNERRE	Marie	F	37	Tourcoing-1		19	Autres cadres (secteur privé)	6/11/1970	2/4/2015	
 59	NORD	VALOIS	Patrick	M	41	Wormhout	Septième vice-président du conseil départemental	28	Pharmaciens	28/3/1960	2/4/2015	2/4/2015
@@ -2521,7 +2520,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 62	PAS DE CALAIS	ALLAN	Claude	M	13	Boulogne-sur-Mer-1	Cinquième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	17/5/1946	2/4/2015	2/4/2015
 62	PAS DE CALAIS	BACHELET	Claude	M	38	Saint-Pol-sur-Ternoise		58	Retraités agricoles	10/11/1950	2/4/2015	
 62	PAS DE CALAIS	BARBRY	Florence	F	06	Auxi-le-Château		61	Retraités salariés privés	21/7/1953	2/4/2015	
-62	PAS DE CALAIS	BEIGNEUX	Aurélia	F	28	Hénin-Beaumont-2		23	Salariés du secteur médical	2/6/1980	2/4/2015	
+62	PAS DE CALAIS	BEIGNEUX	Aurélia	F	28	Hénin-Beaumont-2		20	Employés (secteur privé)	2/6/1980	2/4/2015	
 62	PAS DE CALAIS	BEN AMOR	Rachid	M	32	Longuenesse		62	Retraités de l'enseignement	8/12/1947	2/4/2015	
 62	PAS DE CALAIS	BEUGNET	Ginette	F	38	Saint-Pol-sur-Ternoise		47	Fonctionnaires de catégorie A	19/4/1967	2/4/2015	
 62	PAS DE CALAIS	BLOMME	Ariane	F	29	Lens		20	Employés (secteur privé)	16/3/1960	2/4/2015	
@@ -3286,7 +3285,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 80	SOMME	BENEDINI	Catherine	F	04	Ailly-sur-Somme		48	Fonctionnaires de catégorie B	11/5/1971	2/4/2015	
 80	SOMME	BIZET	Carole	F	01	Abbeville-1		01	Agriculteurs propriétaires exploit.	8/7/1961	2/4/2015	
 80	SOMME	BOHIN	Pascal	M	03	Ailly-sur-Noye		48	Fonctionnaires de catégorie B	24/9/1965	2/4/2015	
-80	SOMME	BOULANGER	Pierre	M	19	Moreuil		24	Médecins	20/6/1950	2/4/2015	
 80	SOMME	CARON-DECROIX	Virginie	F	05	Albert	Dixième vice-président du conseil départemental	19	Autres cadres (secteur privé)	1/11/1977	2/4/2015	2/4/2015
 80	SOMME	CASIER	Philippe	M	10	Amiens-5		44	Professions rattachées à enseignt.	25/12/1966	2/4/2015	
 80	SOMME	CHAIDRON	Claude	M	06	Amiens-1		64	Retraités des entreprises publiques	30/8/1944	2/4/2015	
@@ -3325,6 +3323,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 80	SOMME	RENAUX	Jean-Claude	M	08	Amiens-3		20	Employés (secteur privé)	19/10/1961	2/4/2015	
 80	SOMME	SOMON	Laurent	M	14	Doullens	Président du conseil départemental	27	Vétérinaires	28/12/1957	2/4/2015	2/4/2015
 80	SOMME	STOTER	Jean-Jacques	M	04	Ailly-sur-Somme		44	Professions rattachées à enseignt.	25/9/1957	2/4/2015	
+80	SOMME	SUEUR	José	M	19	Moreuil		24	Médecins	24/8/1954	27/5/2019	
 80	SOMME	TEMMERMANN	Nathalie	F	15	Flixecourt		54	Permanents politiques	23/7/1970	2/4/2015	
 80	SOMME	VARLET	Philippe	M	20	Péronne	Onzième vice-président du conseil départemental	52	Employés (autres entrep. publiques)	21/6/1958	2/4/2015	2/4/2015
 80	SOMME	WYBO	Patricia	F	13	Corbie		19	Autres cadres (secteur privé)	4/12/1971	2/4/2015	
