@@ -126,7 +126,6 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 2B	HAUTE CORSE	01	1ère circonscription	CASTELLANI	Michel	M	28/9/1945	62	Retraités de l'enseignement	18/6/2017
 2B	HAUTE CORSE	02	2ème circonscription	ACQUAVIVA	Jean-Félix	M	19/3/1973	57	Sans profession déclarée	18/6/2017
 30	GARD	01	1ère circonscription	DUMAS	Françoise	F	12/4/1960	47	Fonctionnaires de catégorie A	18/6/2017
-30	GARD	02	2ème circonscription	COLLARD	Gilbert	M	3/2/1948	29	Avocats	18/6/2017
 30	GARD	03	3ème circonscription	CELLIER	Anthony	M	1/6/1975	19	Autres cadres (secteur privé)	18/6/2017
 30	GARD	04	4ème circonscription	CHAPELIER	Annie	F	7/11/1967	43	Enseignants 1er deg.-directeurs école	18/6/2017
 30	GARD	05	5ème circonscription	GAILLARD	Olivier	M	28/2/1967	47	Fonctionnaires de catégorie A	18/6/2017
@@ -389,7 +388,8 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 75	PARIS	02	2ème circonscription	LE GENDRE	Gilles	M	13/5/1958	05	Industriels-Chefs entreprise	18/6/2017
 75	PARIS	03	3ème circonscription	GUERINI	Stanislas	M	14/5/1982	18	Cadres supérieurs (secteur privé)	18/6/2017
 75	PARIS	04	4ème circonscription	KUSTER	Brigitte	F	12/4/1959	57	Sans profession déclarée	18/6/2017
-75	PARIS	05	5ème circonscription	FAJGELES	Elise	F	6/7/1970	29	Avocats	18/6/2017
+75	PARIS	05	5ème circonscription	GRIVEAUX	Benjamin	M	29/12/1977	54	Permanents politiques	29/4/2019
+75	PARIS	06	6ème circonscription	MAHJOUBI	Mounir	M	1/3/1984	39	Autres professions libérales	29/4/2019
 75	PARIS	06	6ème circonscription	PERSON	Pierre	M	22/1/1989	19	Autres cadres (secteur privé)	18/6/2017
 75	PARIS	07	7ème circonscription	RUPIN	Pacôme	M	25/1/1985	54	Permanents politiques	18/6/2017
 75	PARIS	08	8ème circonscription	AVIA	Laëtitia	F	29/10/1985	29	Avocats	18/6/2017
@@ -400,7 +400,6 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 75	PARIS	13	13ème circonscription	RENSON	Hugues	M	11/2/1978	50	Cadres sup. (entreprises publiques)	18/6/2017
 75	PARIS	14	14ème circonscription	GOASGUEN	Claude	M	12/3/1945	29	Avocats	18/6/2017
 75	PARIS	15	15ème circonscription	PAU-LANGEVIN	George	F	19/10/1948	29	Avocats	18/6/2017
-75	PARIS	16	16ème circonscription	O	Delphine	F	25/12/1985	05	Industriels-Chefs entreprise	18/6/2017
 75	PARIS	17	17ème circonscription	OBONO	Danièle	F	12/7/1980	47	Fonctionnaires de catégorie A	18/6/2017
 75	PARIS	18	18ème circonscription	BOURNAZEL	Pierre-Yves	M	31/8/1977	39	Autres professions libérales	18/6/2017
 76	SEINE MARITIME 	01	1ère circonscription	ADAM	Damien	M	28/6/1989	18	Cadres supérieurs (secteur privé)	18/6/2017
@@ -488,7 +487,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 91	ESSONNE	03	3ème circonscription	ROMEIRO DIAS	Laëtitia	F	15/1/1981	19	Autres cadres (secteur privé)	18/6/2017
 91	ESSONNE	04	4ème circonscription	RIXAIN	Marie-Pierre	F	18/1/1977	39	Autres professions libérales	18/6/2017
 91	ESSONNE	05	5ème circonscription	VILLANI	Cédric	M	5/10/1973	41	Professeurs de faculté	18/6/2017
-91	ESSONNE	06	6ème circonscription	DE MONTCHALIN	Amélie	F	19/6/1985	18	Cadres supérieurs (secteur privé)	18/6/2017
+91	ESSONNE	06	6ème circonscription	ATGER	Stéphanie	F	11/10/1975	47	Fonctionnaires de catégorie A	2/5/2019
 91	ESSONNE	07	7ème circonscription	REDA	Robin	M	10/5/1991	56	Autres professions	18/6/2017
 91	ESSONNE	08	8ème circonscription	DUPONT-AIGNAN	Nicolas	M	7/3/1961	47	Fonctionnaires de catégorie A	18/6/2017
 91	ESSONNE	09	9ème circonscription	GUÉVENOUX	Marie	F	2/11/1976	57	Sans profession déclarée	18/6/2017
