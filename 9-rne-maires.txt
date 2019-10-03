@@ -1094,6 +1094,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 02	AISNE	730	Soupir	LIBREGS	Evelyne	F	31/7/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 02	AISNE	731	Le Sourd	LECLERE	Marc	M	29/6/1946	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 02	AISNE	732	Surfontaine	BEAUVAIS	Didier	M	11/4/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+02	AISNE	734	Taillefontaine	DERVAUX	Christian	M	14/4/1952	65	Autres retraités	14/5/2017	16/7/2019
 02	AISNE	735	Tannières	LE ROUX	Jean-Roch	M	29/12/1955	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 02	AISNE	736	Tartiers	BOSSU	Aurélien	M	31/12/1982	01	Agriculteurs propriétaires exploit.	23/3/2014	5/4/2014
 02	AISNE	737	Tavaux-et-Pontséricourt	LETURQUE	Daniel	M	29/4/1953	15	Contremaitres	23/3/2014	28/3/2014
@@ -1213,6 +1214,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 03	ALLIER	020	Beaune-d'Allier	MERCIER	Jean-Jacques	M	20/10/1950	65	Autres retraités	23/3/2014	23/3/2014
 03	ALLIER	021	Bègues	VIGUIE	Alain	M	6/10/1947	58	Retraités agricoles	23/3/2014	29/3/2014
 03	ALLIER	022	Bellenaves	BIDET	Dominique	M	30/7/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+03	ALLIER	023	Bellerive-sur-Allier	SENNEPIN	François	M	13/10/1964	50	Cadres sup. (entreprises publiques)	23/3/2014	22/11/2018
 03	ALLIER	024	Bert	CAILLAULT	Jacques	M	14/6/1949	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	23/3/2014
 03	ALLIER	025	Bessay-sur-Allier	SIMON	Michel	M	26/4/1952	58	Retraités agricoles	23/3/2014	23/3/2014
 03	ALLIER	026	Besson	VERDIER	Frédéric	M	25/8/1969	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
@@ -1571,6 +1573,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 04	ALPES DE HAUTE PROVENCE	077	Entrevennes	BLANC	Daniel	M	1/3/1951	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 04	ALPES DE HAUTE PROVENCE	079	L'Escale	FIAERT	Claude	M	3/9/1969	14	Agents technique et techniciens	23/3/2014	29/3/2014
 04	ALPES DE HAUTE PROVENCE	081	Esparron-de-Verdon	VEYS	Guy	M	28/12/1947	65	Autres retraités	23/3/2014	5/4/2014
+04	ALPES DE HAUTE PROVENCE	084	Estoublon	TOUSSAINT	Carole	F	15/1/1976	48	Fonctionnaires de catégorie B	23/3/2014	22/9/2019
 04	ALPES DE HAUTE PROVENCE	085	Faucon-du-Caire	ZUNINO	Robert	M	10/10/1946	65	Autres retraités	23/3/2014	29/3/2014
 04	ALPES DE HAUTE PROVENCE	086	Faucon-de-Barcelonnette	DELOINCE	Michel	M	30/5/1953	61	Retraités salariés privés	23/3/2014	10/2/2017
 04	ALPES DE HAUTE PROVENCE	087	Fontienne	JAUFFRED	Guy	M	18/12/1946	62	Retraités de l'enseignement	23/3/2014	29/3/2014
@@ -2154,7 +2157,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 07	ARDECHE	132	Largentière	DURAND	Jean-Roger	M	3/8/1953	50	Cadres sup. (entreprises publiques)	23/3/2014	30/3/2014
 07	ARDECHE	133	Larnas	BOULAY	Marc	M	3/10/1952	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
 07	ARDECHE	134	Laurac-en-Vivarais	NURY	Didier	M	3/6/1960	20	Employés (secteur privé)	23/3/2014	28/3/2014
-07	ARDECHE	136	Laveyrune	JOURDAN	Jean-Marie	M	13/8/1950	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 07	ARDECHE	137	Lavillatte	ENJOLRAS	Joël	M	9/4/1961	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 07	ARDECHE	138	Lavilledieu	SAUCLES	Gérard	M	15/5/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 07	ARDECHE	139	Laviolle	MOULIN	René	M	2/1/1955	59	Retr.artis.commerc.chefs d'entrep.	28/1/2018	10/2/2018
@@ -2174,7 +2176,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 07	ARDECHE	153	Mayres	PONTIER	Roland	M	20/11/1941	61	Retraités salariés privés	23/3/2014	29/3/2014
 07	ARDECHE	154	Mazan-l'Abbaye	REY	Martine	F	15/3/1954	01	Agriculteurs propriétaires exploit.	23/3/2014	5/4/2014
 07	ARDECHE	155	Mercuer	BERAL	Didier	M	29/4/1966	20	Employés (secteur privé)	30/3/2014	30/3/2014
-07	ARDECHE	156	Meyras	BRUCHET	Gérard	M	2/8/1942	62	Retraités de l'enseignement	23/3/2014	30/3/2014
 07	ARDECHE	157	Meysse	CUER	Eric	M	20/2/1971	19	Autres cadres (secteur privé)	23/3/2014	30/3/2014
 07	ARDECHE	158	Mézilhac	SOUBEYRAND	Jacky	M	19/5/1961	49	Fonctionnaires de catégorie C	23/3/2014	30/3/2014
 07	ARDECHE	159	Mirabel	MARCON	Gilbert	M	8/10/1948	58	Retraités agricoles	23/3/2014	29/3/2014
@@ -2193,6 +2194,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 07	ARDECHE	174	Peyraud	BIENNIER	André	M	26/3/1947	61	Retraités salariés privés	23/3/2014	28/3/2014
 07	ARDECHE	175	Plagnal (Le)	LAFFARRE	Denise	F	23/10/1953	63	Retraités fonct.publique (sf enseig.)	23/3/2014	17/10/2014
 07	ARDECHE	176	Planzolles	DEFFREIX	Christophe	M	17/9/1966	10	Artisans	23/3/2014	28/3/2014
+07	ARDECHE	177	Plats	CLUZEL	Michel	M	26/6/1945	63	Retraités fonct.publique (sf enseig.)	23/3/2014	15/9/2019
 07	ARDECHE	178	Pont-de-Labeaume	VEYRENC	Yves	M	22/4/1959	20	Employés (secteur privé)	23/3/2014	28/3/2014
 07	ARDECHE	179	Pourchères	SADY	Roland	M	30/7/1959	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 07	ARDECHE	181	Pouzin (Le)	MARTIN	Alain	M	30/4/1946	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
@@ -2202,7 +2204,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 07	ARDECHE	185	Préaux	ROCHE	Christian	M	30/1/1961	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
 07	ARDECHE	186	Privas	VALLA	Michel	M	1/4/1949	35	Ingénieurs conseils	30/3/2014	5/4/2014
 07	ARDECHE	187	Prunet	LEDAUPHIN	Michel	M	21/2/1942	61	Retraités salariés privés	30/3/2014	4/4/2014
-07	ARDECHE	188	Quintenas	DESBOS	Sylvain	M	3/6/1975	44	Professions rattachées à enseignt.	23/3/2014	29/3/2014
 07	ARDECHE	189	Ribes	BALAZUC	Christian	M	2/4/1952	61	Retraités salariés privés	30/3/2014	25/10/2017
 07	ARDECHE	190	Rochecolombe	MAUDUIT	Jean-Yvon	M	10/10/1946	59	Retr.artis.commerc.chefs d'entrep.	7/2/2016	14/2/2016
 07	ARDECHE	191	Rochemaure	LECERF	Christian	M	18/1/1948	24	Médecins	23/3/2014	28/3/2014
@@ -2313,7 +2314,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 07	ARDECHE	302	Saint-Vincent-de-Barrès	SAVATIER	Paul	M	7/7/1956	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
 07	ARDECHE	303	Saint-Vincent-de-Durfort	TERROT DONTENWILL	Anne	F	10/7/1967	10	Artisans	5/3/2017	15/3/2018
 07	ARDECHE	304	Salavas	PICHON	Luc	M	27/1/1964	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
-07	ARDECHE	305	Salelles (Les)	FAUCUIT	Alain	M	13/12/1949	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
+07	ARDECHE	305	Salelles (Les)	DESCHANELS	Georgette	F	20/5/1951	62	Retraités de l'enseignement	23/3/2014	20/9/2019
 07	ARDECHE	306	Sampzon	VENTALON	Yvon	M	29/5/1953	47	Fonctionnaires de catégorie A	23/3/2014	4/4/2014
 07	ARDECHE	307	Sanilhac	BOIRON	Bernard	M	23/5/1949	61	Retraités salariés privés	23/3/2014	28/3/2014
 07	ARDECHE	308	Sarras	ALLOUA	Jacques	M	4/6/1952	60	Retraités des professions libérales	23/3/2014	28/3/2014
@@ -3778,6 +3779,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 11	AUDE	219	Marsa	BRUNEL	Denis	M	21/10/1948	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	30/3/2014
 11	AUDE	220	Marseillette	DUCLOS	Bernadette	F	17/1/1960	48	Fonctionnaires de catégorie B	23/3/2014	8/4/2016
 11	AUDE	221	Les Martys	BONNET	Claude	M	19/12/1957	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
+11	AUDE	222	Mas-Cabardès	LE COZ	Denis	M	23/10/1963	20	Employés (secteur privé)	23/3/2014	22/9/2019
 11	AUDE	223	Mas-des-Cours	IBANEZ	Roger	M	18/7/1967	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 11	AUDE	224	Massac	BARTHES	André	M	18/5/1937	58	Retraités agricoles	23/3/2014	28/3/2014
 11	AUDE	225	Mas-Saintes-Puelles	CARLES	Alain	M	21/6/1947	58	Retraités agricoles	23/3/2014	28/3/2014
@@ -4048,6 +4050,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 12	AVEYRON	058	Cassuéjouls	COUDERC	Philippe	M	13/11/1952	58	Retraités agricoles	23/3/2014	4/4/2014
 12	AVEYRON	059	Castanet	FABRE	Jean-Marc	M	30/4/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 12	AVEYRON	060	Castelmary	CAZALS	Claude	M	5/12/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+12	AVEYRON	061	Castelnau-de-Mandailles	ANGLADE	Mathieu	M	23/12/1981	01	Agriculteurs propriétaires exploit.	23/3/2014	21/6/2019
 12	AVEYRON	062	Castelnau-Pégayrols	TREMOLIERES	Christian	M	3/6/1955	64	Retraités des entreprises publiques	23/3/2014	4/4/2014
 12	AVEYRON	063	La Cavalerie	RODRIGUEZ	François	M	14/4/1955	47	Fonctionnaires de catégorie A	6/12/2015	11/12/2015
 12	AVEYRON	064	Le Cayrol	BATTUT	Maurice	M	12/2/1954	10	Artisans	23/3/2014	28/3/2014
@@ -4059,6 +4062,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 12	AVEYRON	070	Compeyre	PITOT-MIGAYROU	Patricia	F	19/8/1979	16	Représentants de commerce	23/3/2014	4/4/2014
 12	AVEYRON	071	Compolibat	DELERIS	Francis	M	3/2/1952	64	Retraités des entreprises publiques	23/3/2014	30/3/2014
 12	AVEYRON	072	Comprégnac	HATSCH	Jean-Paul	M	25/2/1948	62	Retraités de l'enseignement	23/3/2014	30/3/2014
+12	AVEYRON	073	Comps-la-Grand-Ville	MASSOL	Nicolas	M	13/7/1972	01	Agriculteurs propriétaires exploit.	23/3/2014	21/6/2019
 12	AVEYRON	074	Condom-d'Aubrac	GASQ-BARES	Geneviève	F	1/5/1956	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 12	AVEYRON	075	Connac	BOUSQUET	Georges	M	2/8/1954	20	Employés (secteur privé)	23/3/2014	29/3/2014
 12	AVEYRON	076	Conques-en-Rouergue	LEFEBVRE	Bernard	M	11/1/1947	61	Retraités salariés privés	1/1/2016	4/1/2016
@@ -4250,6 +4254,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 12	AVEYRON	275	Tauriac-de-Camarès	NEGRE	Jean-Marc	M	19/8/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 12	AVEYRON	276	Tauriac-de-Naucelle	MOUYSSET	Joël	M	11/3/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 12	AVEYRON	277	Taussac	PAGES	René	M	22/9/1941	65	Autres retraités	23/3/2014	29/3/2014
+12	AVEYRON	278	Tayrac	ISSANCHOU	Claude	M	16/1/1946	61	Retraités salariés privés	23/3/2014	28/7/2019
 12	AVEYRON	280	Thérondels	MESTRE	Paul	M	4/5/1945	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
 12	AVEYRON	281	Toulonjac	ALCOUFFE	Jean-Louis	M	28/10/1946	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	30/3/2014
 12	AVEYRON	282	Tournemire	RIVIER	Pascal	M	5/1/1968	09	Commercants	23/3/2014	28/3/2014
@@ -4944,7 +4949,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 15	CANTAL	022	Bonnac	TUFFERY	Marie-Claire	F	28/10/1955	52	Employés (autres entrep. publiques)	23/3/2014	4/4/2014
 15	CANTAL	024	Brageac	DAYRAL	André	M	21/11/1946	58	Retraités agricoles	23/3/2014	29/3/2014
 15	CANTAL	025	Albepierre-Bredons	VANTALON	Alain	M	4/6/1952	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
-15	CANTAL	026	Brezons	MANHES	Louis	M	13/5/1947	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	4/4/2014
 15	CANTAL	027	Puycapel	DANEMANS	François	M	15/9/1965	29	Avocats	1/1/2019	11/1/2019
 15	CANTAL	028	Carlat	COURCHINOUX	Agnès	F	30/11/1952	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 15	CANTAL	029	Cassaniouze	CASTANIER	Michel	M	5/3/1958	49	Fonctionnaires de catégorie C	23/3/2014	4/4/2014
@@ -4979,7 +4983,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 15	CANTAL	064	Escorailles	LAYAC	Jean-Louis	M	22/1/1949	58	Retraités agricoles	23/3/2014	28/3/2014
 15	CANTAL	065	Espinasse	GENDRE	Christian	M	3/6/1971	01	Agriculteurs propriétaires exploit.	23/3/2014	5/4/2014
 15	CANTAL	066	Le Falgoux	CHAMBON	Louis	M	2/10/1992	57	Sans profession déclarée	23/3/2014	5/4/2014
-15	CANTAL	067	Le Fau	LAPEYRE	Abel	M	15/7/1950	58	Retraités agricoles	23/3/2014	5/4/2014
 15	CANTAL	069	Ferrières-Saint-Mary	POUILHE	Michel	M	19/9/1955	10	Artisans	23/3/2014	5/4/2014
 15	CANTAL	070	Fontanges	CONSTANT	Michel	M	11/2/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	6/4/2014
 15	CANTAL	072	Freix-Anglards	FALIES	Patrice	M	18/3/1966	52	Employés (autres entrep. publiques)	23/3/2014	4/4/2014
@@ -5115,6 +5118,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 15	CANTAL	214	Saint-Saury	CONDAMINE	Roger	M	6/8/1948	58	Retraités agricoles	23/3/2014	8/4/2014
 15	CANTAL	215	Saint-Simon	FABRE	Daniel	M	15/11/1955	16	Représentants de commerce	23/3/2014	28/3/2014
 15	CANTAL	216	Saint-Urcize	REMISE	Bernard	M	20/8/1943	65	Autres retraités	23/3/2014	5/4/2014
+15	CANTAL	217	Saint-Victor	LUQUAT	Bruno	M	16/1/1950	18	Cadres supérieurs (secteur privé)	23/3/2014	7/7/2019
 15	CANTAL	218	Saint-Vincent-de-Salers	RODDE	Jean	M	10/10/1937	58	Retraités agricoles	23/3/2014	28/3/2014
 15	CANTAL	219	Salers	FAURE	Jean-Louis	M	7/12/1948	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 15	CANTAL	220	Salins	LAPORTE	Michel	M	7/7/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
@@ -5162,7 +5166,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 15	CANTAL	264	Vitrac	BOUQUIER	Marie-Paule	F	27/5/1957	57	Sans profession déclarée	23/3/2014	29/3/2014
 15	CANTAL	265	Ydes	LACAM	Guy	M	29/3/1949	61	Retraités salariés privés	23/3/2014	29/3/2014
 15	CANTAL	266	Yolet	DELPUECH	Guy	M	30/12/1951	61	Retraités salariés privés	23/3/2014	28/3/2014
-15	CANTAL	267	Ytrac	CORNET	Roland	M	17/6/1950	62	Retraités de l'enseignement	23/3/2014	28/3/2014
+15	CANTAL	267	Ytrac	GINEZ	Bernadette	F	1/6/1958	19	Autres cadres (secteur privé)	23/3/2014	18/7/2019
 15	CANTAL	268	Le Rouget-Pers	COMBELLE	Gilles	M	1/7/1967	47	Fonctionnaires de catégorie A	1/1/2016	1/1/2016
 15	CANTAL	269	Besse	FABRE	Michel	M	19/7/1955	24	Médecins	23/3/2014	6/4/2014
 16	CHARENTE	001	Abzac	BUISSON	Jean-Claude	M	2/8/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
@@ -5237,6 +5241,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 16	CHARENTE	078	Champniers	FILLOUX	Jeanne	F	11/7/1947	57	Sans profession déclarée	23/3/2014	31/3/2014
 16	CHARENTE	079	Chantillac	MARRAUD	Jean-Luc	M	16/4/1967	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 16	CHARENTE	081	La Chapelle	CECCHIN	Catherine	F	11/10/1958	20	Employés (secteur privé)	23/3/2014	23/10/2015
+16	CHARENTE	082	Boisné-La Tude	BROUANT	Francis	M	17/9/1953	58	Retraités agricoles	1/1/2016	12/7/2019
 16	CHARENTE	083	Charmé	MOREAU	Bernadette	F	27/10/1972	56	Autres professions	23/3/2014	30/3/2014
 16	CHARENTE	084	Charras	NICOLAS	Michel	M	17/10/1944	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 16	CHARENTE	085	Chasseneuil-sur-Bonnieure	FOURGEAUD	Jean-Claude	M	15/9/1948	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
@@ -5610,7 +5615,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 17	CHARENTE MARITIME	082	Champagnac	RODE	Michel	M	14/9/1959	01	Agriculteurs propriétaires exploit.	23/3/2014	31/3/2014
 17	CHARENTE MARITIME	083	Champagne	CLOCHARD	Roland	M	1/1/1960	50	Cadres sup. (entreprises publiques)	30/3/2014	4/4/2014
 17	CHARENTE MARITIME	084	Champagnolles	BERTRAND	Georges	M	27/4/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
-17	CHARENTE MARITIME	085	Champdolent	LACOSTE	Gérard	M	7/10/1948	62	Retraités de l'enseignement	23/3/2014	30/3/2014
 17	CHARENTE MARITIME	086	Chaniers	PANNAUD	Eric	M	24/9/1965	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 17	CHARENTE MARITIME	087	Chantemerle-sur-la-Soie	PERAUD	Danièle	F	11/3/1953	62	Retraités de l'enseignement	23/3/2014	2/4/2014
 17	CHARENTE MARITIME	089	La Chapelle-des-Pots	JALLAIS	Pierre-Henri	M	28/6/1976	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
@@ -5624,6 +5628,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 17	CHARENTE MARITIME	098	Chenac-Saint-Seurin-d'Uzet	DELAUNAY	François	M	15/5/1951	62	Retraités de l'enseignement	23/3/2014	30/3/2014
 17	CHARENTE MARITIME	099	Chepniers	LOUASSIER	Michel	M	17/11/1942	63	Retraités fonct.publique (sf enseig.)	23/3/2014	7/4/2014
 17	CHARENTE MARITIME	100	Chérac	COMPAIN	Jean-Paul	M	5/1/1946	61	Retraités salariés privés	23/3/2014	29/3/2014
+17	CHARENTE MARITIME	101	Cherbonnières	GROLLEAU	Olivier	M	1/10/1971	01	Agriculteurs propriétaires exploit.	23/3/2014	19/7/2019
 17	CHARENTE MARITIME	102	Chermignac	SAGOT	Jean-Pierre	M	13/8/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 17	CHARENTE MARITIME	104	Chevanceaux	SOULARD	Roger	M	4/5/1951	61	Retraités salariés privés	23/3/2014	31/3/2014
 17	CHARENTE MARITIME	105	Chives	GRIMAUD	Stéphanie	F	3/12/1973	56	Autres professions	14/6/2015	19/6/2015
@@ -5707,7 +5712,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 17	CHARENTE MARITIME	187	Guitinières	POTIER	Jean-Philippe	M	3/7/1968	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 17	CHARENTE MARITIME	188	Haimps	GOUJEAUD	Thierry	M	27/1/1965	17	Agents d'assurances	23/3/2014	30/3/2014
 17	CHARENTE MARITIME	190	L'Houmeau	ALGAY	Jean-Luc	M	7/4/1964	18	Cadres supérieurs (secteur privé)	23/3/2014	29/3/2014
-17	CHARENTE MARITIME	191	La Jard	QUÉRÉ	Jacky	M	17/2/1955	64	Retraités des entreprises publiques	23/3/2014	30/3/2014
 17	CHARENTE MARITIME	192	Jarnac-Champagne	GIRARD	Jean-Louis	M	19/11/1950	58	Retraités agricoles	23/3/2014	31/3/2014
 17	CHARENTE MARITIME	193	La Jarne	COPPOLANI	Vincent	M	8/10/1962	42	Professeurs du secondaire et techn.	23/3/2014	28/3/2014
 17	CHARENTE MARITIME	194	La Jarrie	BAUDON	David	M	2/4/1973	57	Sans profession déclarée	23/3/2014	28/3/2014
@@ -5826,6 +5830,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 17	CHARENTE MARITIME	310	Saint-André-de-Lidon	PUYON	Alain	M	6/4/1940	61	Retraités salariés privés	23/3/2014	28/3/2014
 17	CHARENTE MARITIME	311	Saint-Augustin	HERBERT	Francis	M	26/2/1950	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	31/3/2014
 17	CHARENTE MARITIME	312	Saint-Bonnet-sur-Gironde	NIVARD	Laurent	M	6/3/1966	48	Fonctionnaires de catégorie B	23/3/2014	29/3/2014
+17	CHARENTE MARITIME	313	Saint-Bris-des-Bois	COMBEAU	Bernard	M	22/4/1954	18	Cadres supérieurs (secteur privé)	23/3/2014	8/3/2019
 17	CHARENTE MARITIME	314	Saint-Césaire	CHANTEREAU	Michel	M	4/5/1956	52	Employés (autres entrep. publiques)	23/3/2014	28/3/2014
 17	CHARENTE MARITIME	315	Saint-Christophe	ARDOUIN	Jean-Claude	M	23/4/1954	19	Autres cadres (secteur privé)	23/3/2014	1/4/2014
 17	CHARENTE MARITIME	316	Saint-Ciers-Champagne	VION	Michel	M	30/3/1955	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
@@ -6294,6 +6299,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 19	CORREZE	016	Bar	BOSSOUTROT	Jean-Jacques	M	17/9/1962	09	Commercants	23/3/2014	23/3/2014
 19	CORREZE	017	Bassignac-le-Bas	LASSERRE	Jean-Pierre	M	29/9/1949	62	Retraités de l'enseignement	23/3/2014	29/3/2014
 19	CORREZE	018	Bassignac-le-Haut	TURQUET	Jean-Claude	M	3/3/1947	61	Retraités salariés privés	23/3/2014	29/3/2014
+19	CORREZE	019	Beaulieu-sur-Dordogne	CAYRE	Dominique	M	29/10/1956	19	Autres cadres (secteur privé)	1/1/2019	16/1/2019
 19	CORREZE	020	Beaumont	ROY	Sophie	F	7/4/1965	20	Employés (secteur privé)	23/3/2014	23/3/2014
 19	CORREZE	021	Bellechassagne	BAUVY	Claude	M	8/8/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 19	CORREZE	022	Benayes	MAURY	Jean-Louis	M	24/4/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
@@ -6644,6 +6650,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 21	COTE D'OR	091	Bouhey	SEGUIN	Patrick	M	3/2/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 21	COTE D'OR	092	Bouilland	MORY	Jean-Noël	M	22/5/1956	61	Retraités salariés privés	23/3/2014	28/3/2014
 21	COTE D'OR	093	Bouix	MATHIEU	Yves	M	28/9/1942	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
+21	COTE D'OR	094	Bourberain	BELLANT	Cyril	M	25/4/1968	37	Journalistes et autres médias	30/3/2014	20/9/2019
 21	COTE D'OR	095	Bousselange	REVEILLON	Philippe	M	22/9/1960	10	Artisans	23/3/2014	28/3/2014
 21	COTE D'OR	096	Boussenois	GUINOT	Stéphane	M	2/5/1981	43	Enseignants 1er deg.-directeurs école	23/3/2014	1/4/2014
 21	COTE D'OR	097	Boussey	BERTHOLLE	Thierry	M	2/10/1968	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
@@ -6712,6 +6719,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 21	COTE D'OR	160	Chaume-lès-Baigneux	FRANCK	Michel	M	3/4/1950	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 21	COTE D'OR	161	Chaumont-le-Bois	BOUHELIER	Anne	F	9/10/1969	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 21	COTE D'OR	162	Chaux	BALIZET	Philippe	M	16/3/1956	19	Autres cadres (secteur privé)	23/3/2014	14/9/2018
+21	COTE D'OR	163	Chazeuil	COUR	Marie-Pierre	F	29/1/1965	20	Employés (secteur privé)	23/3/2014	23/9/2019
 21	COTE D'OR	164	Chazilly	DESSEREY	Charles	M	1/1/1942	58	Retraités agricoles	23/3/2014	4/4/2014
 21	COTE D'OR	165	Chemin-d'Aisey	MOLÉ	Florence	F	11/9/1982	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 21	COTE D'OR	166	Chenôve	FALCONNET	Thierry	M	27/11/1964	47	Fonctionnaires de catégorie A	30/3/2014	21/9/2015
@@ -7082,6 +7090,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 21	COTE D'OR	544	Sainte-Colombe-en-Auxois	FAURE-STERNAD	Pierre	M	19/5/1953	62	Retraités de l'enseignement	23/3/2014	29/3/2014
 21	COTE D'OR	545	Sainte-Colombe-sur-Seine	CASTELLA	Francis	M	6/9/1952	11	Entrepreneurs en batiments	23/3/2014	28/3/2014
 21	COTE D'OR	546	Saint-Didier	DUPUIS	Didier	M	25/5/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+21	COTE D'OR	547	Saint-Euphrône	BOUTIER	Benoist	M	13/9/1977	42	Professeurs du secondaire et techn.	23/3/2014	5/7/2019
 21	COTE D'OR	548	Saint-Germain-de-Modéon	LOISIER	Valéry	M	12/3/1965	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 21	COTE D'OR	549	Saint-Germain-le-Rocheux	LEGENDRE	André	M	12/9/1940	58	Retraités agricoles	23/3/2014	28/3/2014
 21	COTE D'OR	550	Saint-Germain-lès-Senailly	PLOYART	Jocelyne	F	30/1/1935	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -7131,6 +7140,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 21	COTE D'OR	595	Savolles	LAJOUX	Isabelle	F	20/5/1960	20	Employés (secteur privé)	23/3/2014	30/3/2014
 21	COTE D'OR	596	Savouges	VENTARD	Sylvie	F	7/7/1967	42	Professeurs du secondaire et techn.	23/3/2014	30/3/2014
 21	COTE D'OR	597	Segrois	MORIN	Gilbert	M	18/3/1953	64	Retraités des entreprises publiques	23/3/2014	30/3/2014
+21	COTE D'OR	598	Seigny	VOIDEY	Bernard	M	29/8/1959	61	Retraités salariés privés	23/3/2014	9/7/2019
 21	COTE D'OR	599	Selongey	LEGUAY	Gérard	M	30/3/1949	61	Retraités salariés privés	23/3/2014	30/3/2014
 21	COTE D'OR	600	Semarey	BAUDOT	Gérard	M	25/3/1942	65	Autres retraités	23/3/2014	29/3/2014
 21	COTE D'OR	601	Semezanges	TRAPET	Alain	M	21/10/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
@@ -7217,7 +7227,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 21	COTE D'OR	687	Villargoix	VIGANEGO	Jacky	M	29/12/1937	65	Autres retraités	23/3/2014	28/3/2014
 21	COTE D'OR	688	Villars-Fontaine	LIGNIER	Pierre	M	23/1/1939	65	Autres retraités	23/3/2014	30/3/2014
 21	COTE D'OR	689	Villars-et-Villenotte	GUENIFFEY	Philippe	M	20/6/1954	47	Fonctionnaires de catégorie A	23/3/2014	4/4/2014
-21	COTE D'OR	690	Villeberny	PISSOT	Serge	M	10/9/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 21	COTE D'OR	691	Villebichot	GRAPPIN	Pascal	M	1/2/1961	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
 21	COTE D'OR	692	Villecomte	DANIEL	Christophe	M	11/10/1969	01	Agriculteurs propriétaires exploit.	23/3/2014	3/6/2016
 21	COTE D'OR	693	Villedieu	MILESI	Corinne	F	27/3/1960	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
@@ -7595,9 +7604,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 23	CREUSE	001	Ahun	PACAUD	Patrick	M	29/9/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 23	CREUSE	002	Ajain	ROUCHON	Guy	M	8/4/1950	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 23	CREUSE	003	Alleyrat	BRUNET	Guy	M	12/10/1952	10	Artisans	23/3/2014	28/3/2014
-23	CREUSE	004	Anzême	BEAUDROUX	Nicole	F	26/7/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	7/12/2018
 23	CREUSE	005	Arfeuille-Châtain	DESCLOUX	Béatrice	F	17/11/1969	49	Fonctionnaires de catégorie C	23/3/2014	4/4/2014
-23	CREUSE	006	Arrènes	AUBINEAU	Nicolas	M	14/3/1980	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 23	CREUSE	007	Ars	SARTY	Denis	M	27/11/1961	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 23	CREUSE	008	Aubusson	MOINE	Michel	M	13/4/1962	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 23	CREUSE	009	Auge	HENRY	Elisabeth	F	4/3/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
@@ -7669,6 +7676,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 23	CREUSE	075	Dun-le-Palestel	DAULNY	Laurent	M	22/7/1968	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 23	CREUSE	076	Evaux-les-Bains	PAPINEAU	Bruno	M	6/6/1961	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 23	CREUSE	077	Faux-la-Montagne	MOULIN	Catherine	F	21/5/1963	21	Ouvriers (secteur privé)	23/3/2014	30/3/2014
+23	CREUSE	078	Faux-Mazuras	LEGROS	Jean-Bernard	M	26/7/1947	58	Retraités agricoles	23/3/2014	2/7/2014
 23	CREUSE	079	Felletin	PERRUCHET	Jeanine	F	9/1/1948	65	Autres retraités	23/3/2014	7/4/2014
 23	CREUSE	080	Féniers	PEYRAT	Nathalie	F	29/10/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 23	CREUSE	081	Flayat	MICHON	Marie-Hélène	F	18/12/1958	17	Agents d'assurances	23/3/2014	4/4/2014
@@ -8362,7 +8370,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 25	DOUBS	015	Amancey	MARECHAL	Philippe	M	1/7/1964	42	Professeurs du secondaire et techn.	23/3/2014	28/3/2014
 25	DOUBS	016	Amathay-Vésigneux	MULLER	Valérie	F	19/11/1972	49	Fonctionnaires de catégorie C	30/3/2014	4/4/2014
 25	DOUBS	017	Amondans	MONNET	Serge	M	22/5/1968	13	Ingénieurs	23/3/2014	4/4/2014
-25	DOUBS	018	Anteuil	SAVOUREY	Eliane	F	11/1/1952	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
 25	DOUBS	019	Appenans	SIMONIN	Cyril	M	24/9/1974	20	Employés (secteur privé)	23/3/2014	28/3/2014
 25	DOUBS	020	Arbouans	HUGENSCHMITT	Nathalie	F	9/7/1966	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
 25	DOUBS	021	Arc-et-Senans	MAURICE	Jacques	M	15/2/1942	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
@@ -8380,6 +8387,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 25	DOUBS	038	Avilley	JANUEL	Philippe	M	22/3/1955	18	Cadres supérieurs (secteur privé)	23/3/2014	5/4/2014
 25	DOUBS	039	Avoudrey	BARRAND	Joël	M	25/1/1959	09	Commercants	23/3/2014	28/3/2014
 25	DOUBS	040	Badevel	BILLOD	Francine	F	29/4/1966	01	Agriculteurs propriétaires exploit.	30/3/2014	4/4/2014
+25	DOUBS	041	Bannans	GIROD	Louis	M	12/10/1958	19	Autres cadres (secteur privé)	23/3/2014	24/7/2019
 25	DOUBS	042	Le Barboux	RONDOT	Dominique	M	26/1/1969	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 25	DOUBS	043	Bart	SCHLATTER	Pierre	M	11/9/1939	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 25	DOUBS	044	Bartherans	SALVI	Jean	M	5/10/1943	61	Retraités salariés privés	23/3/2014	29/3/2014
@@ -8533,8 +8541,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 25	DOUBS	213	Les Ecorces	RONDOT	Lucien	M	21/6/1945	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 25	DOUBS	214	Ecot	FATI	Josiane	F	30/6/1954	20	Employés (secteur privé)	23/3/2014	28/3/2014
 25	DOUBS	215	L'Ecouvotte	MAYOUD	Pierre	M	24/10/1968	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
-25	DOUBS	216	Ecurcey	MOUGIN	Jean-Claude	M	4/11/1956	42	Professeurs du secondaire et techn.	23/3/2014	4/4/2014
-25	DOUBS	217	Emagny	BERGER	Joël	M	18/1/1949	41	Professeurs de faculté	23/3/2014	28/3/2014
 25	DOUBS	218	Epenouse	LEDRON	Sandra	F	28/12/1968	23	Salariés du secteur médical	30/3/2014	4/4/2014
 25	DOUBS	219	Epenoy	BOUVERESSE	Jean	M	10/8/1946	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 25	DOUBS	220	Epeugney	MOUGIN	Gérard	M	10/6/1954	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	4/4/2014
@@ -8646,7 +8652,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 25	DOUBS	334	Levier	MAGNIN-FEYSOT	Guy	M	14/2/1957	43	Enseignants 1er deg.-directeurs école	1/1/2017	6/1/2017
 25	DOUBS	335	Liebvillers	CHATELAIN	Georges	M	15/7/1954	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
 25	DOUBS	336	Liesle	DAUDEY	Pierre	M	20/6/1950	64	Retraités des entreprises publiques	23/3/2014	29/3/2014
-25	DOUBS	338	Lizine	BERGIER	Jean-Louis	M	25/1/1954	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2001
+25	DOUBS	338	Lizine	GOSSE	Pascal	M	17/3/1955	47	Fonctionnaires de catégorie A	23/3/2014	16/9/2019
 25	DOUBS	339	Lods	LIEVREMONT	Jean-Michel	M	6/11/1954	65	Autres retraités	23/3/2014	30/3/2014
 25	DOUBS	340	Lombard	EDME	Philippe	M	16/7/1952	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 25	DOUBS	341	Lomont-sur-Crête	DEVILLERS	Claude	M	28/3/1957	20	Employés (secteur privé)	23/3/2014	29/3/2014
@@ -8951,7 +8957,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 26	DROME	033	La Baume-de-Transit	GAUDIBERT	Jean-Louis	M	3/8/1954	64	Retraités des entreprises publiques	23/3/2014	17/4/2014
 26	DROME	034	La Baume-d'Hostun	GUILHERMET	Manuel	M	28/12/1971	20	Employés (secteur privé)	23/3/2014	28/3/2014
 26	DROME	035	Beaufort-sur-Gervanne	MATHIEU	Catherine	F	3/5/1954	49	Fonctionnaires de catégorie C	23/3/2014	4/4/2014
-26	DROME	036	Beaumont-en-Diois	BLAS	Isabelle	F	24/5/1959	20	Employés (secteur privé)	23/3/2014	28/3/2014
 26	DROME	037	Beaumont-lès-Valence	PRELON	Patrick	M	22/11/1969	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
 26	DROME	038	Beaumont-Monteux	SENECLAUZE	Bruno	M	23/10/1961	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 26	DROME	039	Beauregard-Baret	FOURNAT	Lionel	M	24/3/1966	05	Industriels-Chefs entreprise	23/3/2014	1/4/2014
@@ -9064,13 +9069,12 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 26	DROME	152	Jonchères	FONTAINE	Yann	M	16/8/1967	49	Fonctionnaires de catégorie C	23/3/2014	29/3/2014
 26	DROME	153	Laborel	PASCAL	Jean-Louis	M	12/2/1952	61	Retraités salariés privés	23/3/2014	28/3/2014
 26	DROME	154	Lachau	MAGNUS	Philippe	M	3/12/1959	47	Fonctionnaires de catégorie A	23/3/2014	5/4/2014
-26	DROME	155	Lapeyrouse-Mornay	DURAND	Nicole	F	18/10/1958	52	Employés (autres entrep. publiques)	23/3/2014	28/3/2014
+26	DROME	155	Lapeyrouse-Mornay	DURAND	Nicole	F	18/10/1958	57	Sans profession déclarée	23/3/2014	28/3/2014
 26	DROME	156	Larnage	OSTERNAUD	Max	M	28/11/1950	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 26	DROME	157	La Laupie	CHABERT	Jacques	M	18/5/1949	10	Artisans	23/3/2014	29/3/2014
 26	DROME	159	Laval-d'Aix	YALOPOULOS	Dominique	F	2/8/1951	44	Professions rattachées à enseignt.	23/3/2014	30/3/2014
 26	DROME	160	Laveyron	COQUELLE	Jean-Yves	M	27/10/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 26	DROME	161	Lemps	DUC	Brigitte	F	25/4/1960	52	Employés (autres entrep. publiques)	23/3/2014	29/3/2014
-26	DROME	162	Lens-Lestang	FRIZE	Jean-Pierre	M	8/5/1965	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
 26	DROME	163	Léoncel	CHARVE	Jacqueline	F	24/8/1953	61	Retraités salariés privés	23/3/2014	28/3/2014
 26	DROME	164	Lesches-en-Diois	LAGIER	Roger	M	29/4/1939	58	Retraités agricoles	23/3/2014	22/12/2018
 26	DROME	165	Livron-sur-Drôme	BERNARD	Olivier	M	8/5/1965	05	Industriels-Chefs entreprise	30/3/2014	4/4/2014
@@ -9437,7 +9441,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 27	EURE	182	Courteilles	LEBLANC	Philippe	M	13/10/1962	20	Employés (secteur privé)	30/3/2014	6/4/2014
 27	EURE	183	La Couture-Boussey	BOREGGIO	Sylvain	M	25/1/1958	51	Cadres (entreprises publiques)	23/3/2014	30/3/2014
 27	EURE	184	Crasville	DERREY	Jean-Michel	M	18/7/1954	18	Cadres supérieurs (secteur privé)	23/3/2014	30/3/2014
-27	EURE	185	Crestot	DUVAL	Pierre	M	18/9/1945	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	30/3/2014
 27	EURE	187	Criquebeuf-la-Campagne	MARIE	Michèle	F	3/4/1961	01	Agriculteurs propriétaires exploit.	23/3/2014	6/4/2014
 27	EURE	188	Criquebeuf-sur-Seine	DELAMARE	Thierry	M	12/10/1950	18	Cadres supérieurs (secteur privé)	23/3/2014	30/3/2014
 27	EURE	189	La Croisille	LAMY	Hubert	M	7/5/1975	20	Employés (secteur privé)	23/3/2014	30/3/2014
@@ -9476,6 +9479,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 27	EURE	228	Eturqueraye	PERDRIX	Patrick	M	28/2/1953	38	Hommes de lettres et Artistes	23/3/2014	16/1/2015
 27	EURE	229	Evreux	LEFRAND	Guy	M	11/3/1963	24	Médecins	30/3/2014	6/4/2014
 27	EURE	230	Ezy-sur-Eure	LEPORTIER	Pierre	M	5/11/1951	28	Pharmaciens	23/3/2014	30/3/2014
+27	EURE	231	Fains	DUGUAY	Pascal	M	28/8/1961	01	Agriculteurs propriétaires exploit.	23/3/2014	28/6/2019
 27	EURE	232	Farceaux	DEGRAEVE	Pierre	M	15/7/1947	58	Retraités agricoles	23/3/2014	30/3/2014
 27	EURE	233	Fatouville-Grestain	POURDIEU	Brigitte	F	24/9/1942	62	Retraités de l'enseignement	23/3/2014	30/3/2014
 27	EURE	234	Fauville	MORILLON	Marc	M	30/8/1953	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
@@ -9584,6 +9588,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 27	EURE	365	Léry	CALAIS	Jean-Yves	M	29/12/1960	35	Ingénieurs conseils	30/3/2014	6/4/2014
 27	EURE	366	Letteguives	ETUR	Jean-Luc	M	25/6/1947	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	30/3/2014
 27	EURE	367	Lieurey	AUBER	Jacques	M	8/3/1941	61	Retraités salariés privés	23/3/2014	30/3/2014
+27	EURE	368	Lignerolles	SCHALLER	Didier	M	3/10/1950	65	Autres retraités	23/3/2014	23/6/2019
 27	EURE	369	Lilly	WALLECAN	Rémi	M	30/4/1952	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 27	EURE	370	Lisors	OUINE	Régis	M	28/2/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 27	EURE	371	Livet-sur-Authou	COTTARD	Bruno	M	2/12/1964	49	Fonctionnaires de catégorie C	23/3/2014	30/3/2014
@@ -9706,6 +9711,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 27	EURE	502	Rugles	GUITTON	Denis	M	6/12/1959	24	Médecins	23/3/2014	30/3/2014
 27	EURE	504	Sacquenville	JAMES	Jean-Claude	M	13/12/1940	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 27	EURE	505	Saint-Agnan-de-Cernières	BOUGET	Daniel	M	17/7/1953	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	17/6/2016
+27	EURE	507	Saint-André-de-l'Eure	BERNARD	Franck	M	15/2/1966	20	Employés (secteur privé)	23/3/2014	17/5/2019
 27	EURE	508	Saint-Antonin-de-Sommaire	ALLAIN	Gilles	M	24/11/1951	13	Ingénieurs	23/3/2014	30/3/2014
 27	EURE	511	Saint-Aubin-d'Ecrosville	DEPARIS	Christiane	F	14/12/1952	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 27	EURE	512	Saint-Aubin-de-Scellon	ESPALDET	Pierre	M	9/1/1942	61	Retraités salariés privés	23/3/2014	30/3/2014
@@ -9896,7 +9902,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 28	EURE ET LOIR	036	Berchères-sur-Vesgre	PHILIPPOT	Pascal	M	23/11/1943	61	Retraités salariés privés	23/3/2014	28/3/2014
 28	EURE ET LOIR	037	Bérou-la-Mulotière	CROIBIER	Catherine	F	15/6/1956	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 28	EURE ET LOIR	038	Béthonvilliers	EPINETTE	Claude	M	4/10/1946	61	Retraités salariés privés	23/3/2014	28/3/2014
-28	EURE ET LOIR	039	Béville-le-Comte	LEBLOND	Dominique	M	15/7/1952	57	Sans profession déclarée	23/3/2014	28/3/2014
+28	EURE ET LOIR	039	Béville-le-Comte	SEGARD	Eric	M	4/2/1960	35	Ingénieurs conseils	23/3/2014	15/1/2019
 28	EURE ET LOIR	040	Billancelles	BONNET	Jean-Marc	M	5/3/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 28	EURE ET LOIR	041	Blandainville	PERCHERON	Régis	M	5/3/1958	50	Cadres sup. (entreprises publiques)	23/3/2014	28/3/2014
 28	EURE ET LOIR	045	Boissy-en-Drouais	ETIENNE-AUGUSTIN	Michel	M	23/3/1948	61	Retraités salariés privés	23/3/2014	29/3/2014
@@ -9981,6 +9987,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 28	EURE ET LOIR	136	Ecluzelles	RENAUX-MARECHAL	Christine	F	26/11/1966	09	Commercants	23/3/2014	28/3/2014
 28	EURE ET LOIR	137	Ecrosnes	CAMUEL	Annie	F	4/4/1958	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 28	EURE ET LOIR	139	Epeautrolles	TARANNE	Bruno	M	2/1/1959	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
+28	EURE ET LOIR	140	Epernon	BELHOMME	François	M	25/3/1954	14	Agents technique et techniciens	23/3/2014	14/1/2019
 28	EURE ET LOIR	141	Ermenonville-la-Grande	PELLETIER	Fabrice	M	10/6/1960	33	Agents généraux d'assurances	23/3/2014	29/3/2014
 28	EURE ET LOIR	142	Ermenonville-la-Petite	CARNIS	Vincent	M	3/12/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 28	EURE ET LOIR	143	Escorpain	DEBACKER	Stéphan	M	14/8/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
@@ -10045,7 +10052,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 28	EURE ET LOIR	212	Loigny-la-Bataille	ROBERT	Hugues	M	12/11/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 28	EURE ET LOIR	213	Lormaye	THIROUIN	Bertrand	M	7/12/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 28	EURE ET LOIR	214	La Loupe	GERARD	Eric	M	19/1/1962	28	Pharmaciens	23/3/2014	28/3/2014
-28	EURE ET LOIR	215	Louville-la-Chenard	PORCHER	Jean-Pierre	M	28/4/1943	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
 28	EURE ET LOIR	216	Louvilliers-en-Drouais	GAUTIER	Gérard	M	11/3/1944	61	Retraités salariés privés	23/3/2014	28/3/2014
 28	EURE ET LOIR	217	Louvilliers-lès-Perche	LOYER	Marie-Christine	F	3/5/1955	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 28	EURE ET LOIR	218	Lucé	LECOMTE	Emmanuel	M	3/1/1967	54	Permanents politiques	30/3/2014	4/4/2014
@@ -10359,7 +10365,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 29	FINISTERE	143	Mahalon	LE GALL	Bernard	M	11/2/1958	09	Commercants	23/3/2014	29/3/2014
 29	FINISTERE	144	La Martyre	SOUDON	Chantal	F	9/8/1958	14	Agents technique et techniciens	23/3/2014	4/4/2014
 29	FINISTERE	145	Confort-Meilars	GUEGUEN	Paul	M	13/9/1946	61	Retraités salariés privés	23/3/2014	28/3/2014
-29	FINISTERE	146	Melgven	LE BRETON HELWIG	Michelle	F	2/8/1956	56	Autres professions	30/3/2014	4/4/2014
+29	FINISTERE	146	Melgven	GUICHARD	Christian	M	28/3/1943	59	Retr.artis.commerc.chefs d'entrep.	30/3/2014	1/9/2019
 29	FINISTERE	147	Mellac	PELLETER	Bernard	M	3/5/1950	62	Retraités de l'enseignement	23/3/2014	29/3/2014
 29	FINISTERE	148	Mespaul	FLOCH	Bernard	M	3/6/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 29	FINISTERE	150	Moëlan-sur-Mer	LE PENNEC	Marcel	M	29/10/1943	62	Retraités de l'enseignement	30/3/2014	4/4/2014
@@ -10660,7 +10666,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 2B	HAUTE CORSE	055	Campitello	GRAZIANI	Bernard	M	26/8/1952	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
 2B	HAUTE CORSE	057	Canale-di-Verde	CASALTA	Laëtitia	F	26/9/1928	58	Retraités agricoles	23/3/2014	29/3/2014
 2B	HAUTE CORSE	058	Canari	GUERRA	Armand	M	19/7/1933	61	Retraités salariés privés	23/3/2014	5/4/2014
-2B	HAUTE CORSE	059	Canavaggia	RICCI	Nicolas	M	14/1/1933	61	Retraités salariés privés	23/3/2014	5/4/2014
 2B	HAUTE CORSE	063	Carcheto-Brustico	FRANCESCHI	Emilie	F	21/12/1980	20	Employés (secteur privé)	23/3/2014	29/3/2014
 2B	HAUTE CORSE	067	Carpineto	FERRARI	Marcel	M	27/9/1956	20	Employés (secteur privé)	23/3/2014	29/3/2014
 2B	HAUTE CORSE	068	Carticasi	RENUCCI	Jean	M	19/9/1941	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
@@ -10683,6 +10688,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 2B	HAUTE CORSE	093	Corbara	LIONS	Paul	M	2/12/1954	64	Retraités des entreprises publiques	23/3/2014	29/3/2014
 2B	HAUTE CORSE	095	Corscia	MAESTRACCI	Jean-Félix	M	20/5/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	17/3/2015
 2B	HAUTE CORSE	096	Corte	SINDALI	Antoine	M	19/4/1945	62	Retraités de l'enseignement	23/3/2014	29/3/2014
+2B	HAUTE CORSE	097	Costa	MARTELLI	Marie-Antoinette	F	4/3/1965	43	Enseignants 1er deg.-directeurs école	23/3/2014	11/7/2019
 2B	HAUTE CORSE	101	Croce	MATTEI	Jean-François	M	5/12/1953	20	Employés (secteur privé)	23/3/2014	30/3/2014
 2B	HAUTE CORSE	102	Crocicchia	PIACENTINI	Pierre-Pascal	M	10/2/1978	11	Entrepreneurs en batiments	23/3/2014	29/3/2014
 2B	HAUTE CORSE	105	Erbajolo	MARIANI	Mathieu	M	11/9/1980	21	Ouvriers (secteur privé)	23/3/2014	29/3/2014
@@ -10754,6 +10760,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 2B	HAUTE CORSE	205	Patrimonio	ARENA	Jean-Baptiste	M	7/1/1980	02	Salariés agricoles	23/3/2014	16/10/2017
 2B	HAUTE CORSE	206	Penta-Acquatella	GATTACCECA	René	M	30/12/1972	49	Fonctionnaires de catégorie C	23/3/2014	30/3/2014
 2B	HAUTE CORSE	207	Penta-di-Casinca	CASTELLI	Yannick	M	14/1/1975	48	Fonctionnaires de catégorie B	23/3/2014	30/3/2014
+2B	HAUTE CORSE	208	Perelli	VINCIGUERRA CERAMI	Christiane	F	15/9/1957	44	Professions rattachées à enseignt.	21/7/2019	28/7/2019
 2B	HAUTE CORSE	210	Pero-Casevecchie	BERLINGHI	François	M	28/11/1953	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
 2B	HAUTE CORSE	213	Pianello	POLETTI	Marius	M	21/4/1949	12	Propriétaires	23/3/2014	29/3/2014
 2B	HAUTE CORSE	214	Piano	VALLESI	Jean-Sauveur	M	31/1/1960	02	Salariés agricoles	23/3/2014	5/4/2014
@@ -11301,7 +11308,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 31	HAUTE GARONNE	089	Bretx	ESPIE	Jean-Claude	M	4/4/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
 31	HAUTE GARONNE	090	Brignemont	CLUZET	Alain	M	10/3/1945	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
 31	HAUTE GARONNE	091	Bruguières	PLANTADE	Philippe	M	13/7/1959	52	Employés (autres entrep. publiques)	23/3/2014	30/3/2014
-31	HAUTE GARONNE	092	Burgalays	LADEVEZE	Alain	M	15/6/1948	17	Agents d'assurances	23/3/2014	29/3/2014
 31	HAUTE GARONNE	093	Le Burgaud	ZANETTI	Laurent	M	19/1/1968	19	Autres cadres (secteur privé)	23/3/2014	6/4/2014
 31	HAUTE GARONNE	094	Buzet-sur-Tarn	JOVIADO	Gilles	M	13/9/1970	42	Professeurs du secondaire et techn.	30/3/2014	6/4/2014
 31	HAUTE GARONNE	095	Cabanac-Cazaux	FAVAREL	Gilles	M	27/10/1972	48	Fonctionnaires de catégorie B	22/3/2014	16/2/2017
@@ -11342,12 +11348,14 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 31	HAUTE GARONNE	130	Cazaril-Tambourès	LEFRANC	Gérard	M	20/10/1948	61	Retraités salariés privés	23/3/2014	29/3/2014
 31	HAUTE GARONNE	131	Cazaunous	ESPERTE	Michel	M	14/4/1947	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
 31	HAUTE GARONNE	132	Cazaux-Layrisse	DORE	Arnaud	M	15/2/1947	61	Retraités salariés privés	23/3/2014	30/3/2014
+31	HAUTE GARONNE	133	Cazeaux-de-Larboust	ADER	Francis	M	6/8/1952	01	Agriculteurs propriétaires exploit.	23/3/2014	10/7/2019
 31	HAUTE GARONNE	134	Cazeneuve-Montaut	TESSER	Josiane	F	4/9/1958	20	Employés (secteur privé)	23/3/2014	29/3/2014
 31	HAUTE GARONNE	135	Cazères	OLIVA	Michel	M	27/4/1961	18	Cadres supérieurs (secteur privé)	23/3/2014	28/3/2014
 31	HAUTE GARONNE	136	Cépet	MIQUEL	Didier	M	8/9/1957	65	Autres retraités	22/3/2015	30/3/2015
 31	HAUTE GARONNE	137	Cessales	POUILLES	Emmanuel	M	22/3/1974	20	Employés (secteur privé)	23/3/2014	29/3/2014
 31	HAUTE GARONNE	138	Charlas	DUCLOS	Jean-Pierre	M	25/8/1954	01	Agriculteurs propriétaires exploit.	23/3/2014	5/4/2014
 31	HAUTE GARONNE	139	Chaum	CASTELL	José	M	19/4/1947	65	Autres retraités	23/3/2014	28/3/2014
+31	HAUTE GARONNE	140	Chein-Dessus	ROUCH	Michel	M	28/7/1959	21	Ouvriers (secteur privé)	30/6/2019	11/7/2019
 31	HAUTE GARONNE	141	Ciadoux	TOUBERT	Thierry	M	29/12/1965	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 31	HAUTE GARONNE	142	Cier-de-Luchon	COMET	Jean-Pierre	M	23/9/1947	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 31	HAUTE GARONNE	143	Cier-de-Rivière	JOURDANA	Didier	M	21/9/1957	48	Fonctionnaires de catégorie B	23/3/2014	29/3/2014
@@ -11427,9 +11435,10 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 31	HAUTE GARONNE	219	Gensac-sur-Garonne	DEVIC	Henri	M	20/6/1950	58	Retraités agricoles	23/3/2014	29/3/2014
 31	HAUTE GARONNE	220	Gibel	CAHUZAC LAUTRÉ	Rachel	F	16/12/1969	07	Agents d'affaires	23/3/2014	5/4/2014
 31	HAUTE GARONNE	221	Gouaux-de-Larboust	PANATIER-CASES	Danielle	F	11/7/1949	24	Médecins	30/3/2014	5/4/2014
-31	HAUTE GARONNE	222	Gouaux-de-Luchon	LACQUA	Bernard	M	8/2/1946	60	Retraités des professions libérales	23/3/2014	30/3/2014
+31	HAUTE GARONNE	222	Gouaux-de-Luchon	PRINCE	Bernard	M	6/9/1953	19	Autres cadres (secteur privé)	23/3/2014	27/6/2019
 31	HAUTE GARONNE	223	Goudex	DUCASSE	Moïse	M	31/1/1948	58	Retraités agricoles	23/3/2014	29/3/2014
 31	HAUTE GARONNE	224	Gourdan-Polignan	SAULNERON	Patrick	M	14/12/1957	09	Commercants	23/3/2014	29/3/2014
+31	HAUTE GARONNE	225	Goutevernisse	DEGA	Gilbert	M	3/3/1957	63	Retraités fonct.publique (sf enseig.)	23/3/2014	13/9/2019
 31	HAUTE GARONNE	226	Gouzens	NAYA	Anne-Marie	F	29/6/1966	48	Fonctionnaires de catégorie B	23/3/2014	29/3/2014
 31	HAUTE GARONNE	227	Goyrans	ROBERT	Patrice	M	12/1/1959	47	Fonctionnaires de catégorie A	23/3/2014	24/1/2015
 31	HAUTE GARONNE	228	Gragnague	CALAS	Daniel	M	7/3/1946	05	Industriels-Chefs entreprise	23/3/2014	29/3/2014
@@ -11818,6 +11827,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 32	GERS	024	Ayguetinte	BALLERINI	Francis	M	28/9/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 32	GERS	025	Ayzieu	DUFFAU	Jean-Claude	M	8/9/1955	20	Employés (secteur privé)	23/3/2014	23/3/2014
 32	GERS	026	Bajonnette	LAFFONT	Alexandre	M	14/2/1976	51	Cadres (entreprises publiques)	23/3/2014	23/3/2014
+32	GERS	027	Barcelonne-du-Gers	DEHEZ	Gérard	M	26/3/1978	01	Agriculteurs propriétaires exploit.	23/3/2014	29/6/2019
 32	GERS	028	Barcugnan	GALAN	Christiane	F	21/2/1954	33	Agents généraux d'assurances	23/3/2014	23/3/2014
 32	GERS	029	Barran	BAQUÉ	Jean-Pierre	M	16/4/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 32	GERS	030	Bars	BALECH	Régis	M	16/6/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
@@ -11830,6 +11840,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 32	GERS	037	Beaumont	DHAINAUD	Annie	F	2/1/1951	63	Retraités fonct.publique (sf enseig.)	23/3/2014	11/4/2019
 32	GERS	038	Beaupuy	LE CLECH'	Loïc	M	26/12/1948	61	Retraités salariés privés	23/3/2014	23/3/2014
 32	GERS	039	Beccas	DUFFAU	Francis	M	4/8/1951	61	Retraités salariés privés	23/3/2014	23/3/2014
+32	GERS	040	Bédéchan	LOUSSIGNIAN	Jacqueline	F	5/12/1949	61	Retraités salariés privés	23/3/2014	1/7/2019
 32	GERS	041	Bellegarde-Adoulins	GERAULT	Jean-Philippe	M	14/7/1948	61	Retraités salariés privés	23/3/2014	23/3/2014
 32	GERS	042	Belloc-Saint-Clamens	LADOIS	Claudine	F	2/5/1958	20	Employés (secteur privé)	23/3/2014	23/3/2014
 32	GERS	043	Belmont	DOAT	Jean-Pierre	M	11/12/1962	02	Salariés agricoles	23/3/2014	23/3/2014
@@ -12053,7 +12064,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 32	GERS	267	Monferran-Plavès	BATAILLE	Alban	M	6/4/1949	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 32	GERS	268	Monferran-Savès	DELTEIL	Josianne	F	15/11/1963	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 32	GERS	269	Monfort	MARTIN	Martine	F	4/5/1960	57	Sans profession déclarée	23/3/2014	23/3/2014
-32	GERS	270	Mongausy	BORTOLUSSI	Jacques	M	29/8/1947	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 32	GERS	271	Monguilhem	DUCERE	Jean	M	21/11/1946	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	23/3/2014
 32	GERS	272	Monlaur-Bernet	NASSANS	Fabienne	F	8/2/1957	61	Retraités salariés privés	2/4/2017	2/4/2017
 32	GERS	273	Monlezun	LILLE	Michel	M	5/1/1947	58	Retraités agricoles	23/3/2014	23/3/2014
@@ -12074,7 +12084,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 32	GERS	288	Montiron	VERNIS	Jean-Michel	M	5/12/1958	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 32	GERS	289	Montpézat	LAREE	Guy	M	4/7/1953	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 32	GERS	290	Montréal	BEZERRA	Gérard	M	2/8/1947	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
-32	GERS	291	Mormès	TARTAS	Régis	M	17/4/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 32	GERS	292	Mouchan	TOUHE-RUMEAU	Christian	M	5/11/1962	14	Agents technique et techniciens	23/3/2014	23/3/2014
 32	GERS	293	Mouchès	BLANDIN	Rosa	F	2/5/1951	64	Retraités des entreprises publiques	23/3/2014	23/3/2014
 32	GERS	294	Mourède	CANTAN	Philippe	M	14/11/1960	14	Agents technique et techniciens	23/3/2014	23/3/2014
@@ -12414,7 +12423,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 33	GIRONDE	166	Le Fieu	VACHER	Michel	M	7/9/1957	48	Fonctionnaires de catégorie B	23/3/2014	23/3/2014
 33	GIRONDE	167	Floirac	PUYOBRAU	Jean-Jacques	M	2/9/1957	19	Autres cadres (secteur privé)	30/3/2014	30/3/2014
 33	GIRONDE	168	Flaujagues	DUBORIE	Guy	M	24/9/1937	58	Retraités agricoles	23/3/2014	23/3/2014
-33	GIRONDE	169	Floudès	TRENTIN	Jean-Claude	M	9/11/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 33	GIRONDE	170	Fontet	FRAICHE	Jean-Marc	M	28/2/1970	50	Cadres sup. (entreprises publiques)	23/3/2014	23/3/2014
 33	GIRONDE	171	Fossès-et-Baleyssac	DOUX	Alain	M	1/12/1949	58	Retraités agricoles	23/3/2014	8/12/2017
 33	GIRONDE	172	Fours	PASTOR	Georges-André	M	2/12/1947	61	Retraités salariés privés	23/3/2014	23/3/2014
@@ -12675,7 +12683,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 33	GIRONDE	439	Saint-Mariens	BOURREAU	Marcel	M	11/3/1950	62	Retraités de l'enseignement	2/7/2017	7/7/2017
 33	GIRONDE	440	Saint-Martial	COMBRET	Josiane	F	11/12/1946	58	Retraités agricoles	23/3/2014	23/3/2014
 33	GIRONDE	441	Saint-Martin-Lacaussade	MARGUERITTE	Bernard	M	22/6/1950	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
-33	GIRONDE	442	Saint-Martin-de-Laye	MARTINEZ	Jean-François	M	9/2/1951	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 33	GIRONDE	443	Saint-Martin-de-Lerm	POUJON	Jean-Paul	M	22/6/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 33	GIRONDE	444	Saint-Martin-de-Sescas	ETIENNE	Nicole	F	17/7/1949	61	Retraités salariés privés	23/3/2014	23/3/2014
 33	GIRONDE	445	Saint-Martin-du-Bois	FAURT	Philippe	M	23/5/1948	61	Retraités salariés privés	23/3/2014	30/3/2014
@@ -12683,6 +12690,8 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 33	GIRONDE	447	Saint-Médard-de-Guizières	CONTE-JAUBERT	Mireille	F	23/10/1954	19	Autres cadres (secteur privé)	23/3/2014	23/3/2014
 33	GIRONDE	448	Saint-Médard-d'Eyrans	TAMARELLE	Christian	M	16/4/1956	49	Fonctionnaires de catégorie C	23/3/2014	23/3/2014
 33	GIRONDE	449	Saint-Médard-en-Jalles	MANGON	Jacques	M	23/10/1960	28	Pharmaciens	30/3/2014	5/4/2014
+33	GIRONDE	450	Saint-Michel-de-Castelnau	DARROMAN	Michel	M	13/4/1948	65	Autres retraités	21/7/2019	25/7/2019
+33	GIRONDE	451	Saint-Michel-de-Fronsac	CHADAPEAUD	Jean-Claude	M	10/11/1955	05	Industriels-Chefs entreprise	23/3/2014	5/7/2019
 33	GIRONDE	452	Saint-Michel-de-Rieufret	GAUTHIER	Marc	M	26/6/1960	36	Architectes	23/3/2014	23/3/2014
 33	GIRONDE	453	Saint-Michel-de-Lapujade	MALANDIT-SALLAUD	Christian	M	19/10/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 33	GIRONDE	454	Saint-Morillon	BOURGADE	Laurence	F	14/10/1971	23	Salariés du secteur médical	3/12/2017	8/12/2017
@@ -12855,7 +12864,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 34	HERAULT	070	Cébazan	AFFRE	Gérard	M	12/12/1943	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 34	HERAULT	071	Ceilhes-et-Rocozels	SOULAGE	Fabien	M	2/6/1975	10	Artisans	23/3/2014	28/3/2014
 34	HERAULT	072	Celles	GOUDAL	Joëlle	F	5/6/1964	09	Commercants	23/3/2014	28/3/2014
-34	HERAULT	073	Cers	GAUTIER	Gérard	M	12/3/1946	58	Retraités agricoles	23/3/2014	28/3/2014
 34	HERAULT	074	Cessenon-sur-Orb	PONS	Marie-Pierre	F	12/6/1961	20	Employés (secteur privé)	20/11/2016	25/11/2016
 34	HERAULT	075	Cesseras	TOLOMIO	Jean-Bernard	M	9/7/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 34	HERAULT	076	Ceyras	LACROIX	Jean-Claude	M	15/9/1956	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
@@ -12884,7 +12892,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 34	HERAULT	099	Ferrières-les-Verreries	MALFAIT	Pierre Georges	M	12/1/1946	61	Retraités salariés privés	23/3/2014	29/3/2014
 34	HERAULT	100	Ferrières-Poussarou	PEYTAVI	Pascale	F	5/9/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 34	HERAULT	101	Florensac	GAUDY	Vincent	M	12/1/1973	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
-34	HERAULT	102	Fontanès	TOLLERET	Irène	F	17/8/1967	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 34	HERAULT	103	Fontès	BRUN	Olivier	M	26/11/1958	08	Agents immobiliers	23/3/2014	29/3/2014
 34	HERAULT	104	Fos	VABRE	Francis	M	26/5/1955	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 34	HERAULT	105	Fouzilhon	COUDERC	Lydie	F	14/10/1960	10	Artisans	23/3/2014	4/4/2014
@@ -13061,7 +13068,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 34	HERAULT	278	Saint-Michel	PRADEL	Jacques	M	22/7/1963	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 34	HERAULT	279	Saint-Nazaire-de-Ladarez	MADALLE	Jean-Louis	M	19/6/1943	62	Retraités de l'enseignement	23/3/2014	5/4/2014
 34	HERAULT	280	Saint-Nazaire-de-Pézan	PISTILLI	Robert	M	29/7/1956	18	Cadres supérieurs (secteur privé)	23/3/2014	29/3/2014
-34	HERAULT	281	Saint-Pargoire	CONSTANT	Agnès	F	16/4/1962	58	Retraités agricoles	23/3/2014	28/3/2014
+34	HERAULT	281	Saint-Pargoire	DARMANIN	Jean-Luc	M	15/6/1953	58	Retraités agricoles	23/3/2014	13/7/2019
 34	HERAULT	282	Saint-Paul-et-Valmalle	BERTOLINI	Jean-Pierre	M	8/6/1946	61	Retraités salariés privés	23/3/2014	28/3/2014
 34	HERAULT	283	Saint-Pierre-de-la-Fage	BOUSQUET	Pierre Paul	M	17/1/1943	61	Retraités salariés privés	23/3/2014	28/3/2014
 34	HERAULT	284	Saint-Pons-de-Thomières	CEBE	Georges	M	29/8/1948	63	Retraités fonct.publique (sf enseig.)	30/3/2014	4/4/2014
@@ -13093,7 +13100,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 34	HERAULT	310	Thézan-lès-Béziers	DURO	Alain	M	22/4/1950	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
 34	HERAULT	311	Tourbes	JANTEL	Christian	M	22/3/1955	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 34	HERAULT	312	La Tour-sur-Orb	EDO	Marie-Aline	F	18/12/1952	57	Sans profession déclarée	23/3/2014	29/3/2014
-34	HERAULT	313	Tressan	GALABRUN	Jacky	M	7/11/1954	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+34	HERAULT	313	Tressan	JAUDON	Daniel	M	30/9/1947	61	Retraités salariés privés	23/3/2014	25/1/2019
 34	HERAULT	314	Le Triadou	BELIN	Gérard	M	19/1/1947	58	Retraités agricoles	23/3/2014	4/4/2014
 34	HERAULT	315	Usclas-d'Hérault	RIGAUD	Christian	M	9/2/1960	10	Artisans	23/3/2014	23/3/2014
 34	HERAULT	316	Usclas-du-Bosc	DRUENE	Michel	M	10/2/1942	65	Autres retraités	23/3/2014	29/3/2014
@@ -13562,6 +13569,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 36	INDRE	105	Lureuil	MULTON	Jean-Michel	M	28/7/1960	23	Salariés du secteur médical	23/3/2014	30/3/2014
 36	INDRE	106	Luzeret	ROLLET	Didier	M	11/5/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 36	INDRE	107	Lye	COUTURIER	Francis	M	15/7/1949	58	Retraités agricoles	23/3/2014	5/4/2014
+36	INDRE	108	Lys-Saint-Georges	MICHOT	Olivier	M	21/3/1974	20	Employés (secteur privé)	23/3/2014	13/9/2019
 36	INDRE	109	Le Magny	DEFOUGERE	Gérard	M	16/12/1953	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 36	INDRE	110	Maillet	DELAVEAUD	Jean-François	M	30/4/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 36	INDRE	111	Malicornay	BALLEREAU	Jean-Paul	M	29/11/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
@@ -14091,7 +14099,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 38	ISERE	140	Crolles	LORIMIER	Philippe	M	30/4/1959	50	Cadres sup. (entreprises publiques)	23/3/2014	28/3/2014
 38	ISERE	141	Culin	LARDEUX	Didier	M	16/12/1956	65	Autres retraités	23/3/2014	28/3/2014
 38	ISERE	144	Diémoz	REY	Christian	M	17/2/1956	51	Cadres (entreprises publiques)	23/3/2014	28/3/2014
-38	ISERE	146	Dizimieu	BOCHET	Christine	F	16/9/1963	49	Fonctionnaires de catégorie C	23/3/2014	5/6/2018
 38	ISERE	147	Doissin	SEYCHELLES	Véronique	F	9/6/1973	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
 38	ISERE	148	Dolomieu	BEJUIT	André	M	15/9/1951	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 38	ISERE	149	Domarin	MARY	Alain	M	19/2/1960	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
@@ -14201,7 +14208,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 38	ISERE	266	La Motte-Saint-Martin	GONNORD	Franck	M	24/7/1974	14	Agents technique et techniciens	30/3/2014	4/4/2014
 38	ISERE	267	Mottier	RIVARD	Isabelle	F	16/1/1954	62	Retraités de l'enseignement	2/12/2018	7/12/2018
 38	ISERE	268	Le Moutaret	GUILLUY	Alain	M	28/9/1956	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
-38	ISERE	269	La Mure	BONNIER	Eric	M	28/8/1962	39	Autres professions libérales	31/5/2015	31/5/2015
+38	ISERE	269	La Mure	BONNIER	Eric	M	28/8/1962	39	Autres professions libérales	31/5/2015	6/6/2015
 38	ISERE	270	La Murette	BOURGEAT	Bernadette	F	14/11/1954	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 38	ISERE	271	Murianette	GARCIN	Cédric	M	27/11/1988	20	Employés (secteur privé)	23/3/2014	20/3/2018
 38	ISERE	272	Murinais	ISERABLE	Patrice	M	18/7/1955	20	Employés (secteur privé)	23/3/2014	28/3/2014
@@ -14810,7 +14817,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 39	JURA	394	Onoz	RASSAU	Jean-Noël	M	13/10/1961	56	Autres professions	23/3/2014	29/3/2014
 39	JURA	396	Orchamps	RICHARD	Christian	M	22/4/1957	10	Artisans	23/3/2014	28/3/2014
 39	JURA	397	Orgelet	ALLEMAND	Jean-Luc	M	6/2/1958	08	Agents immobiliers	23/3/2014	29/3/2014
-39	JURA	398	Ougney	CHAPUIS	Eric	M	22/12/1970	49	Fonctionnaires de catégorie C	23/3/2014	31/1/2017
+39	JURA	398	Ougney	DESMOUSSEAUX	Anthony	M	20/9/1973	21	Ouvriers (secteur privé)	23/3/2014	18/7/2019
 39	JURA	399	Ounans	RATTON	Daniel	M	7/7/1955	64	Retraités des entreprises publiques	23/3/2014	4/4/2014
 39	JURA	400	Our	ALFONSO CORREA	Ségundo	M	27/5/1958	21	Ouvriers (secteur privé)	23/3/2014	21/3/2019
 39	JURA	401	Oussières	LETONDOR	Jean-Luc	M	30/10/1959	14	Agents technique et techniciens	30/3/2014	4/4/2014
@@ -15144,7 +15151,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 40	LANDES	180	Meilhan	LOUBERE	Patricia	F	17/2/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 40	LANDES	181	Messanges	BOUYRIE	Hervé	M	30/4/1960	05	Industriels-Chefs entreprise	23/3/2014	29/3/2014
 40	LANDES	182	Mézos	GOURDON	Jean	M	4/3/1941	60	Retraités des professions libérales	23/3/2014	30/3/2014
-40	LANDES	183	Mimbaste	LESCLAUZE	Michel	M	3/6/1949	58	Retraités agricoles	23/3/2014	30/3/2014
+40	LANDES	183	Mimbaste	BARGELES	Lionel	M	2/9/1976	43	Enseignants 1er deg.-directeurs école	23/3/2014	12/7/2019
 40	LANDES	184	Mimizan	PLANTIER	Christian	M	8/10/1942	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 40	LANDES	185	Miramont-Sensacq	BEAUMONT	Pascal	M	18/4/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 40	LANDES	186	Misson	MAGESCAS	Bernard	M	18/5/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
@@ -15236,7 +15243,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 40	LANDES	273	Saint-Martin-de-Seignanx	AZPEÏTIA	Isabelle	F	5/11/1973	57	Sans profession déclarée	23/3/2014	22/7/2017
 40	LANDES	274	Saint-Martin-d'Oney	SAES	Philippe	M	16/1/1958	65	Autres retraités	23/3/2014	5/4/2017
 40	LANDES	275	Saint-Maurice-sur-Adour	CHOPIN	Jacques	M	26/7/1951	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
-40	LANDES	276	Saint-Michel-Escalus	INDA	Pierre	M	10/3/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
+40	LANDES	276	Saint-Michel-Escalus	BREUZET	Jean-Pierre	M	29/1/1944	62	Retraités de l'enseignement	23/3/2014	23/7/2019
 40	LANDES	277	Saint-Pandelon	CARRERE	Christian	M	10/3/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 40	LANDES	278	Saint-Paul-en-Born	TROUVE	Didier	M	13/12/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 40	LANDES	279	Saint-Paul-lès-Dax	DELMON	Catherine	F	30/10/1953	57	Sans profession déclarée	30/3/2014	6/4/2014
@@ -15925,6 +15932,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 43	HAUTE LOIRE	039	Le Brignon	BAY	Jérôme	M	6/5/1973	37	Journalistes et autres médias	23/3/2014	23/3/2014
 43	HAUTE LOIRE	040	Brioude	FAUCHER	Jean-Jacques	M	11/10/1944	62	Retraités de l'enseignement	23/3/2014	23/3/2014
 43	HAUTE LOIRE	041	Brives-Charensac	DELABRE	Gilles	M	17/9/1954	62	Retraités de l'enseignement	30/3/2014	4/4/2014
+43	HAUTE LOIRE	042	Cayres	GIRE	Ludovic	M	14/9/1989	49	Fonctionnaires de catégorie C	23/3/2014	14/6/2019
 43	HAUTE LOIRE	043	Céaux-d'Allègre	MASSE	Maguy	F	20/12/1959	20	Employés (secteur privé)	23/3/2014	28/3/2014
 43	HAUTE LOIRE	044	Cerzat	DELIVERT	Jacky	M	2/2/1961	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 43	HAUTE LOIRE	045	Ceyssac	REYNAUD	Jean-Yves	M	1/5/1955	57	Sans profession déclarée	23/3/2014	29/3/2014
@@ -16341,7 +16349,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 44	LOIRE ATLANTIQUE	216	Vieillevigne	SORIN	Nelly	F	27/2/1961	20	Employés (secteur privé)	23/3/2014	28/3/2014
 44	LOIRE ATLANTIQUE	217	Vigneux-de-Bretagne	BEZIER	Joseph	M	17/3/1952	61	Retraités salariés privés	30/3/2014	4/4/2014
 44	LOIRE ATLANTIQUE	218	Villepot	AUNETTE	Joël	M	2/10/1962	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
-44	LOIRE ATLANTIQUE	220	Vue	BOCQUET	Christophe	M	25/7/1968	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
+44	LOIRE ATLANTIQUE	220	Vue	RABEVOLO	Pascal	M	20/7/1971	56	Autres professions	10/3/2019	10/3/2019
 44	LOIRE ATLANTIQUE	221	La Chevallerais	CRUAUD	Elisabeth	F	11/1/1964	57	Sans profession déclarée	23/3/2014	28/3/2014
 44	LOIRE ATLANTIQUE	222	La Roche-Blanche	PRAUD	Jacques	M	11/1/1956	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
 44	LOIRE ATLANTIQUE	223	Geneston	PAVIZA	Karine	F	1/4/1972	57	Sans profession déclarée	23/3/2014	28/3/2014
@@ -16663,7 +16671,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 45	LOIRET	339	Villemoutiers	BURGEVIN	Christiane	F	23/3/1946	61	Retraités salariés privés	23/3/2014	28/3/2014
 45	LOIRET	340	Villemurlin	LEPELTIER	Nicole	F	18/2/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 45	LOIRET	341	Villeneuve-sur-Conie	THOMAIN	Michel	M	21/2/1966	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
-45	LOIRET	342	Villereau	IBANEZ	François	M	26/12/1962	52	Employés (autres entrep. publiques)	23/3/2014	4/4/2014
+45	LOIRET	342	Villereau	BRIE	Bertrand	M	14/10/1961	43	Enseignants 1er deg.-directeurs école	20/9/2019	20/9/2019
 45	LOIRET	343	Villevoques	MELZASSARD	Daniel	M	15/8/1955	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 45	LOIRET	344	Villorceau	THOUVENIN	Daniel	M	24/5/1952	65	Autres retraités	23/3/2014	28/3/2014
 45	LOIRET	345	Vimory	ABSOLU	Bernadette	F	21/8/1953	20	Employés (secteur privé)	23/3/2014	28/3/2014
@@ -16731,6 +16739,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 46	LOT	063	Castelnau Montratier-Sainte Alauzie	GARDES	Patrick	M	7/7/1951	63	Retraités fonct.publique (sf enseig.)	1/1/2017	1/1/2017
 46	LOT	064	Catus	TAILLARDAS	Claude	M	19/8/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 46	LOT	065	Cavagnac	RODRIGUES	Martine	F	11/4/1956	57	Sans profession déclarée	10/9/2017	15/9/2017
+46	LOT	066	Cazals	GAIRIN	Marie-Jeanne	F	16/6/1945	61	Retraités salariés privés	23/3/2014	1/9/2019
 46	LOT	068	Cénevières	DEGLETAGNE	Gérard	M	2/11/1950	61	Retraités salariés privés	23/3/2014	23/3/2014
 46	LOT	069	Cézac	ROUSSILLON	Maurice	M	25/8/1951	58	Retraités agricoles	23/3/2014	23/3/2014
 46	LOT	070	Cieurac	PEYRUS	Guy	M	2/12/1943	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
@@ -16843,7 +16852,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 46	LOT	185	Martel	SANTAMARTA	José	M	4/11/1950	62	Retraités de l'enseignement	23/3/2014	29/3/2014
 46	LOT	186	Masclat	BOUTINAUD	Monique	F	26/9/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 46	LOT	187	Mauroux	JOUANNIC	Jean-Pierre	M	26/1/1949	61	Retraités salariés privés	23/3/2014	23/3/2014
-46	LOT	188	Maxou	CALAS	Béatrice	F	1/4/1954	63	Retraités fonct.publique (sf enseig.)	2/7/2018	7/12/2018
+46	LOT	188	Maxou	CALAS	Béatrice	F	1/4/1954	63	Retraités fonct.publique (sf enseig.)	2/12/2018	7/12/2018
 46	LOT	189	Mayrinhac-Lentour	BARGUES	Michelle	F	28/10/1969	57	Sans profession déclarée	23/3/2014	23/3/2014
 46	LOT	190	Mechmont	PRADDAUDE	Jean-Paul	M	20/6/1959	43	Enseignants 1er deg.-directeurs école	23/3/2014	23/3/2014
 46	LOT	191	Mercuès	DIZENGREMEL	Ludovic	M	28/1/1966	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
@@ -16948,7 +16957,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 46	LOT	299	Sauliac-sur-Célé	BANCEL	Daniel	M	8/8/1941	62	Retraités de l'enseignement	23/3/2014	23/3/2014
 46	LOT	301	Sauzet	SAILLENS	Monique	F	20/7/1952	61	Retraités salariés privés	23/3/2014	23/3/2014
 46	LOT	302	Sénaillac-Latronquière	LEROUX	Michel	M	29/9/1951	64	Retraités des entreprises publiques	30/3/2014	30/3/2014
-46	LOT	303	Sénaillac-Lauzès	SINDOU	Jean-Paul	M	30/8/1944	58	Retraités agricoles	23/3/2014	28/3/2014
 46	LOT	304	Séniergues	THEBAUD	Michel	M	30/9/1949	61	Retraités salariés privés	23/3/2014	23/3/2014
 46	LOT	305	Sérignac	MOURGUES	Joël	M	17/5/1953	58	Retraités agricoles	23/3/2014	23/3/2014
 46	LOT	306	Sonac	BESSEDE	Claudine	F	23/6/1963	20	Employés (secteur privé)	23/3/2014	29/3/2014
@@ -17047,7 +17055,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 47	LOT ET GARONNE 	063	Cavarc	DELPECH	Laurent	M	23/7/1963	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	064	Cazideroque	CAVAILLÉ	Jean-Claude	M	6/5/1942	58	Retraités agricoles	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	065	Clairac	PERAT	Michel	M	4/3/1949	60	Retraités des professions libérales	23/3/2014	28/3/2014
-47	LOT ET GARONNE 	066	Clermont-Dessous	MALBEC	Jean	M	10/3/1941	58	Retraités agricoles	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	067	Clermont-Soubiran	DEPASSE	Guy	M	30/11/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	068	Cocumont	ARMAND	Jean-Luc	M	25/3/1965	43	Enseignants 1er deg.-directeurs école	23/3/2014	30/3/2014
 47	LOT ET GARONNE 	069	Colayrac-Saint-Cirq	DE SERMET	Pascal	M	5/3/1958	05	Industriels-Chefs entreprise	23/3/2014	31/3/2014
@@ -17073,7 +17080,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 47	LOT ET GARONNE 	089	Esclottes	SEILLIER	Erick	M	6/2/1951	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	090	Espiens	CALBO	Daniel	M	12/2/1952	61	Retraités salariés privés	23/3/2014	30/3/2014
 47	LOT ET GARONNE 	091	Estillac	GILLY	Jean-Marc	M	17/7/1959	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
-47	LOT ET GARONNE 	092	Fals	SAUVIAC	Patrick	M	28/1/1961	14	Agents technique et techniciens	23/3/2014	24/4/2019
 47	LOT ET GARONNE 	093	Fargues-sur-Ourbise	PONTHOREAU	Michel	M	3/2/1947	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	094	Fauguerolles	DE PARSCAU	Maryline	F	6/8/1960	48	Fonctionnaires de catégorie B	23/3/2014	30/3/2014
 47	LOT ET GARONNE 	095	Fauillet	DUFOURG	Gilbert	M	2/5/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
@@ -17107,6 +17113,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 47	LOT ET GARONNE 	124	Lacaussade	DESTIEU	Jean-Paul	M	9/5/1955	10	Artisans	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	125	Lacépède	CASSAGNE	Sophie	F	10/8/1967	02	Salariés agricoles	23/3/2014	14/4/2017
 47	LOT ET GARONNE 	126	Lachapelle	GUIPOUY	André	M	8/9/1947	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
+47	LOT ET GARONNE 	127	Lafitte-sur-Lot	FAGES	Benjamin	M	19/7/1977	42	Professeurs du secondaire et techn.	30/3/2014	11/7/2019
 47	LOT ET GARONNE 	128	Lafox	THOMAS	Jean-Luc	M	6/6/1964	19	Autres cadres (secteur privé)	23/3/2014	21/10/2017
 47	LOT ET GARONNE 	129	Lagarrigue	JEANNEY	Patrick	M	19/4/1967	14	Agents technique et techniciens	30/3/2014	4/4/2014
 47	LOT ET GARONNE 	130	Lagruère	VERDELET	Jacques	M	5/6/1958	20	Employés (secteur privé)	23/3/2014	8/1/2018
@@ -17180,7 +17187,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 47	LOT ET GARONNE 	201	Le Passage	GARCIA	Francis	M	29/5/1951	47	Fonctionnaires de catégorie A	30/3/2014	5/4/2014
 47	LOT ET GARONNE 	202	Paulhiac	CALMETTE	Marcel	M	30/8/1952	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	203	Penne-d'Agenais	DEVILLIERS	Arnaud	M	3/6/1976	50	Cadres sup. (entreprises publiques)	23/3/2014	28/3/2014
-47	LOT ET GARONNE 	204	Peyrière	VALLET-GAUBAN	Francine	F	20/3/1946	62	Retraités de l'enseignement	23/3/2014	31/3/2014
+47	LOT ET GARONNE 	204	Peyrière	PICCOLO	Christel	F	11/12/1975	43	Enseignants 1er deg.-directeurs école	23/3/2014	8/5/2019
 47	LOT ET GARONNE 	205	Pindères	DARROUMAN	Michel	M	16/3/1944	61	Retraités salariés privés	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	206	Pinel-Hauterive	SOCA	Roland	M	10/10/1951	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 47	LOT ET GARONNE 	207	Pompiey	MONTHEAU	Roland	M	29/10/1951	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
@@ -17469,7 +17476,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 49	MAINE ET LOIRE 	026	Bécon-les-Granits	FOUCHEREAU	Marie-Ange	F	17/9/1959	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
 49	MAINE ET LOIRE 	027	Bégrolles-en-Mauges	CAILLEAU	Pierre-Marie	M	28/1/1957	43	Enseignants 1er deg.-directeurs école	23/3/2014	28/3/2014
 49	MAINE ET LOIRE 	028	Béhuard	RICHOU	Bruno	M	11/9/1955	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
-49	MAINE ET LOIRE 	029	Blaison-Saint-Sulpice	OZANGE	Dominique	M	17/4/1950	64	Retraités des entreprises publiques	12/1/2016	12/1/2016
+49	MAINE ET LOIRE 	029	Blaison-Saint-Sulpice	LEGENDRE	Jean-Claude	M	3/8/1946	64	Retraités des entreprises publiques	1/1/2016	6/5/2019
 49	MAINE ET LOIRE 	030	Blou	SEYEUX	Marie	F	10/3/1950	65	Autres retraités	23/3/2014	28/3/2014
 49	MAINE ET LOIRE 	035	Bouchemaine	MAILLET	Véronique	F	11/3/1964	54	Permanents politiques	30/3/2014	5/4/2014
 49	MAINE ET LOIRE 	036	Bouillé-Ménard	GISLIER	Vincent	M	23/1/1966	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
@@ -18086,7 +18093,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 51	MARNE	013	Aougny	LE QUART	Alain	M	7/7/1946	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 51	MARNE	014	Arcis-le-Ponsart	DUBOIS	Jean-Luc	M	23/11/1952	58	Retraités agricoles	23/3/2014	31/3/2014
 51	MARNE	015	Argers	SCHELFHOUT	Gilles	M	3/11/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
-51	MARNE	016	Arrigny	BOUQUET	Marie-France	F	25/7/1955	48	Fonctionnaires de catégorie B	23/3/2014	4/4/2014
 51	MARNE	017	Arzillières-Neuville	CAPPÉ	Michel	M	4/7/1959	21	Ouvriers (secteur privé)	23/3/2014	3/4/2014
 51	MARNE	018	Athis	EVRARD	Jean-Loup	M	11/7/1946	58	Retraités agricoles	23/3/2014	28/3/2014
 51	MARNE	019	Aubérive	LORIN	Pascal	M	1/5/1956	05	Industriels-Chefs entreprise	23/3/2014	4/4/2014
@@ -18277,6 +18283,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 51	MARNE	219	Drosnay	RENAUDIN	Marcel	M	17/3/1951	61	Retraités salariés privés	23/3/2014	29/3/2014
 51	MARNE	220	Drouilly	MATHIEU	Didier	M	22/10/1962	15	Contremaitres	23/3/2014	28/3/2014
 51	MARNE	222	Eclaires	BOUCHEZ	Philippe	M	3/2/1975	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
+51	MARNE	223	Ecollemont	CHRUSTOWSKI	Albert	M	25/3/1943	58	Retraités agricoles	29/5/2016	1/7/2019
 51	MARNE	224	Ecriennes	DELAUNAY	Michel	M	25/9/1945	60	Retraités des professions libérales	23/3/2014	4/4/2014
 51	MARNE	225	Ecueil	PERRARD	Annie	F	11/12/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 51	MARNE	226	Ecury-le-Repos	LOPPIN	Antony	M	18/1/1971	01	Agriculteurs propriétaires exploit.	23/3/2014	3/4/2014
@@ -18323,7 +18330,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 51	MARNE	269	Giffaumont-Champaubert	CALABRESE	Jean-Pierre	M	15/12/1952	62	Retraités de l'enseignement	23/3/2014	31/3/2014
 51	MARNE	270	Gigny-Bussy	CHEVALLOT	Pascale	F	24/8/1959	42	Professeurs du secondaire et techn.	23/3/2014	23/3/2014
 51	MARNE	272	Givry-en-Argonne	BOURGUIGNON	Antoine	M	21/2/1969	01	Agriculteurs propriétaires exploit.	9/10/2015	9/10/2015
-51	MARNE	273	Givry-lès-Loisy	POLY	Michel	M	14/7/1935	58	Retraités agricoles	23/3/2014	29/3/2014
+51	MARNE	273	Givry-lès-Loisy	DENIS	Patrice	M	25/8/1961	01	Agriculteurs propriétaires exploit.	23/3/2014	4/9/2019
 51	MARNE	274	Gizaucourt	LEMAIRE	Alain	M	8/7/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	31/3/2014
 51	MARNE	275	Glannes	COLLOT	David	M	28/1/1970	10	Artisans	30/3/2014	31/3/2014
 51	MARNE	276	Gourgançon	GARNESSON	Philippe	M	7/11/1959	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
@@ -18583,6 +18590,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 51	MARNE	552	Songy	PASSINHAS	Francis	M	26/10/1967	44	Professions rattachées à enseignt.	23/3/2014	3/4/2014
 51	MARNE	553	Souain-Perthes-lès-Hurlus	DE GRAMMONT	Jean-Marie	M	24/8/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 51	MARNE	555	Soudé	ROYER	Claude	M	24/7/1950	58	Retraités agricoles	23/3/2014	4/4/2014
+51	MARNE	556	Soudron	REMY	Gabriel	M	31/8/1980	01	Agriculteurs propriétaires exploit.	23/3/2014	21/6/2019
 51	MARNE	557	Soulanges	FINUCCI	Danièle	F	12/5/1947	61	Retraités salariés privés	18/12/2015	18/12/2015
 51	MARNE	558	Soulières	DENIS	Max	M	18/5/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	3/4/2014
 51	MARNE	559	Suippes	EGON	Jean-Raymond	M	13/5/1954	63	Retraités fonct.publique (sf enseig.)	23/3/2014	3/4/2014
@@ -18618,7 +18626,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 51	MARNE	591	Vandeuil	MOURRA	François	M	25/10/1948	64	Retraités des entreprises publiques	23/3/2014	3/4/2014
 51	MARNE	592	Vandières	LEMAIRE	Odile	F	31/1/1948	58	Retraités agricoles	23/3/2014	19/4/2016
 51	MARNE	594	Vassimont-et-Chapelaine	AUBERT	Emmanuel	M	6/8/1979	26	Dentistes	23/3/2014	3/4/2014
-51	MARNE	595	Vatry	FRANCONNET	Daniel	M	24/8/1948	65	Autres retraités	23/3/2014	3/4/2014
 51	MARNE	596	Vauchamps	BERAT	Danielle	F	5/11/1957	44	Professions rattachées à enseignt.	23/3/2014	3/4/2014
 51	MARNE	597	Vauciennes	FOURNY	Christiane	F	28/12/1949	58	Retraités agricoles	23/3/2014	28/3/2014
 51	MARNE	598	Vauclerc	OBLET	Christian	M	18/5/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	3/4/2014
@@ -18706,6 +18713,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 52	HAUTE MARNE	027	Aujeurres	POTTIER	Frédéric	M	18/8/1980	13	Ingénieurs	23/3/2014	30/3/2014
 52	HAUTE MARNE	028	Aulnoy-sur-Aube	ODIN	Bernard	M	18/3/1951	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 52	HAUTE MARNE	029	Autigny-le-Grand	ROSSIGNON	Pascal	M	5/4/1969	14	Agents technique et techniciens	23/3/2014	29/3/2014
+52	HAUTE MARNE	030	Autigny-le-Petit	COLLIN	Romain	M	11/5/1981	21	Ouvriers (secteur privé)	23/3/2014	16/9/2019
 52	HAUTE MARNE	031	Autreville-sur-la-Renne	CLOSS	Patrice	M	30/1/1953	61	Retraités salariés privés	23/3/2014	28/3/2014
 52	HAUTE MARNE	033	Avrecourt	LAMBERT	Alain	M	24/11/1953	61	Retraités salariés privés	23/3/2014	4/4/2014
 52	HAUTE MARNE	034	Bailly-aux-Forges	BONTEMPS	Valérie	F	30/8/1969	42	Professeurs du secondaire et techn.	23/3/2014	30/3/2014
@@ -18900,6 +18908,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 52	HAUTE MARNE	278	Lavilleneuve-au-roi	PENSEE	Nicolle	F	5/9/1951	61	Retraités salariés privés	9/10/2016	14/10/2016
 52	HAUTE MARNE	280	Lecey	DARBOT	André	M	8/7/1946	58	Retraités agricoles	23/3/2014	28/3/2014
 52	HAUTE MARNE	282	Leffonds	VOILLOT	Mariette	F	26/1/1952	39	Autres professions libérales	23/3/2014	28/3/2014
+52	HAUTE MARNE	284	Leschères-sur-le-Blaiseron	THIEBLEMONT	Christophe	M	25/10/1970	01	Agriculteurs propriétaires exploit.	23/3/2014	1/7/2019
 52	HAUTE MARNE	285	Leuchey	GOISET	Jean-Pierre	M	4/1/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	6/4/2014
 52	HAUTE MARNE	286	Leurville	RAVENEL	Jean-Pierre	M	3/6/1971	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 52	HAUTE MARNE	287	Levécourt	CHARLET	Monique	F	30/6/1952	65	Autres retraités	23/3/2014	28/3/2014
@@ -18984,6 +18993,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 52	HAUTE MARNE	390	Pisseloup	PERTEGA	Laurence	F	27/6/1970	20	Employés (secteur privé)	30/3/2014	5/4/2014
 52	HAUTE MARNE	391	Planrupt	RESIDORI	Jean	M	9/9/1957	19	Autres cadres (secteur privé)	23/3/2014	6/4/2014
 52	HAUTE MARNE	392	Plesnoy	THENAIL	Michel	M	13/8/1947	58	Retraités agricoles	23/3/2014	28/3/2014
+52	HAUTE MARNE	393	Poinsenot	MAITRE	Fabien	M	8/6/1993	40	Etudiants	23/3/2014	8/7/2019
 52	HAUTE MARNE	394	Poinson-lès-Fayl	DOIZENET	Isabelle	F	13/7/1978	49	Fonctionnaires de catégorie C	23/3/2014	29/3/2014
 52	HAUTE MARNE	395	Poinson-lès-Grancey	BOIGET	Jacques	M	5/6/1955	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 52	HAUTE MARNE	396	Poinson-lès-Nogent	KONARSKI	Jean-Michel	M	25/5/1960	14	Agents technique et techniciens	23/3/2014	28/3/2014
@@ -19034,7 +19044,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 52	HAUTE MARNE	456	Saint-Urbain-Maconcourt	BUROT	Judith	F	24/12/1961	47	Fonctionnaires de catégorie A	23/3/2014	17/1/2017
 52	HAUTE MARNE	457	Saint-Vallier-sur-Marne	MIQUEE	Bruno	M	22/10/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
 52	HAUTE MARNE	459	Sarcey	TROMPETTE	Franck	M	8/4/1965	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
-52	HAUTE MARNE	461	Sarrey	PREVOT	Jacques	M	20/2/1957	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
 52	HAUTE MARNE	463	Saudron	MARECHAL	Jean-François	M	15/3/1973	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 52	HAUTE MARNE	464	Saulles	DE TRICORNOT	Ghislain	M	1/2/1952	13	Ingénieurs	23/3/2014	29/3/2014
 52	HAUTE MARNE	465	Saulxures	DUPUY	Jean-Pierre	M	29/2/1956	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
@@ -19371,7 +19380,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 54	MEURTHE ET MOSELLE	023	Arracourt	MARCHAND	Ginette	F	21/3/1954	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 54	MEURTHE ET MOSELLE	024	Arraye-et-Han	ARNOULD	Philippe	M	29/9/1964	18	Cadres supérieurs (secteur privé)	23/3/2014	28/3/2014
 54	MEURTHE ET MOSELLE	025	Art-sur-Meurthe	DESSEIN	Jean-Pierre	M	19/10/1964	39	Autres professions libérales	23/3/2014	28/3/2014
-54	MEURTHE ET MOSELLE	026	Athienville	MARCHAND	Pascal	M	26/4/1952	62	Retraités de l'enseignement	23/3/2014	24/3/2019
+54	MEURTHE ET MOSELLE	026	Athienville	MARCHAND	Stéphane	M	26/1/1982	01	Agriculteurs propriétaires exploit.	23/3/2014	13/9/2019
 54	MEURTHE ET MOSELLE	027	Atton	LIGER	Gérard	M	30/1/1942	61	Retraités salariés privés	23/3/2014	28/3/2014
 54	MEURTHE ET MOSELLE	028	Auboué	BROGI	Fabrice	M	11/1/1958	43	Enseignants 1er deg.-directeurs école	23/3/2014	28/3/2014
 54	MEURTHE ET MOSELLE	029	Audun-le-Roman	THIRY	René	M	29/10/1954	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
@@ -19537,6 +19546,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 54	MEURTHE ET MOSELLE	189	Favières	HARALAMBON	Marie-Louise	F	10/9/1941	42	Professeurs du secondaire et techn.	23/3/2014	28/3/2014
 54	MEURTHE ET MOSELLE	190	Fécocourt	BRUGGMANN	David	M	21/3/1975	51	Cadres (entreprises publiques)	23/3/2014	4/4/2014
 54	MEURTHE ET MOSELLE	191	Fenneviller	MOUGIN	Mireille	F	10/3/1961	20	Employés (secteur privé)	23/3/2014	29/3/2014
+54	MEURTHE ET MOSELLE	192	Ferrières	LEHEUX	Bernard	M	27/9/1955	18	Cadres supérieurs (secteur privé)	23/3/2014	1/7/2019
 54	MEURTHE ET MOSELLE	193	Fey-en-Haye	MAUCOLOT	Jacqueline	F	30/3/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 54	MEURTHE ET MOSELLE	194	Fillières	HERBAYS	Francis	M	6/5/1963	54	Permanents politiques	23/3/2014	28/3/2014
 54	MEURTHE ET MOSELLE	195	Flainval	JACQUEMIN	Jean-Pierre	M	13/8/1956	02	Salariés agricoles	23/3/2014	28/3/2014
@@ -19998,6 +20008,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 55	MEUSE	071	Brandeville	BOURTEMBOURG	Luc	M	27/6/1950	65	Autres retraités	23/3/2014	29/3/2014
 55	MEUSE	072	Braquis	FRANCOIS	Maryse	F	28/2/1954	20	Employés (secteur privé)	23/3/2014	28/3/2014
 55	MEUSE	073	Bras-sur-Meuse	DIDRY	Julien	M	24/8/1962	18	Cadres supérieurs (secteur privé)	23/3/2014	28/3/2014
+55	MEUSE	075	Brauvilliers	COLLARD	Catherine	F	26/3/1956	57	Sans profession déclarée	23/3/2014	25/11/2018
 55	MEUSE	076	Bréhéville	BALLIEU	Gilberte	F	10/12/1958	62	Retraités de l'enseignement	30/3/2014	5/4/2014
 55	MEUSE	077	Breux	CHARLIER	Guy	M	27/11/1949	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 55	MEUSE	078	Brieulles-sur-Meuse	AUTRET	Henri	M	26/1/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
@@ -20696,7 +20707,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	025	Anzeling	PIERROT	Alain	M	3/11/1975	20	Employés (secteur privé)	30/3/2014	3/10/2014
 57	MOSELLE	026	Apach	GUTIERES	Patrick	M	22/7/1972	36	Architectes	23/3/2014	28/3/2014
 57	MOSELLE	027	Arraincourt	GEORGES-SALZA	Evelyne	M	19/9/1955	10	Artisans	23/3/2014	1/4/2014
-57	MOSELLE	028	Argancy	VETZEL	Jean-Paul	M	28/6/1949	61	Retraités salariés privés	23/3/2014	29/3/2014
+57	MOSELLE	028	Argancy	EMMENDOERFFER	Jocelyne	F	14/1/1952	61	Retraités salariés privés	23/3/2014	9/7/2019
 57	MOSELLE	029	Arriance	JACOB	Jean-Marc	M	1/6/1958	49	Fonctionnaires de catégorie C	23/3/2014	1/4/2014
 57	MOSELLE	030	Arry	MINELLO	Arthur	M	10/9/1948	61	Retraités salariés privés	23/3/2014	4/4/2014
 57	MOSELLE	031	Ars-Laquenexy	SCHMITT	Jean-François	M	25/4/1955	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
@@ -20764,6 +20775,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	096	Boulange	COTICA	Gaëtan	M	18/5/1949	61	Retraités salariés privés	23/3/2014	28/3/2014
 57	MOSELLE	097	Boulay-Moselle	BOUCHER	André	M	28/10/1947	61	Retraités salariés privés	23/3/2014	29/3/2014
 57	MOSELLE	098	Bourgaltroff	HINSCHBERGER	Sylvain	M	7/8/1962	14	Agents technique et techniciens	23/3/2014	30/3/2014
+57	MOSELLE	099	Bourdonnay	BARBIER	Armelle	F	25/2/1961	15	Contremaitres	28/6/2019	28/6/2019
 57	MOSELLE	100	Bourscheid	IDOUX	Régis	M	24/6/1967	15	Contremaitres	23/3/2014	28/3/2014
 57	MOSELLE	101	Bousbach	KIEFFER	Constant	M	8/11/1955	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 57	MOSELLE	102	Bousse	KOWALCZYK	Pierre	M	22/2/1961	48	Fonctionnaires de catégorie B	30/3/2014	5/4/2014
@@ -20772,6 +20784,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	105	Boustroff	THIS	Rémy	M	21/11/1963	01	Agriculteurs propriétaires exploit.	23/3/2014	31/10/2017
 57	MOSELLE	106	Bouzonville	PAYSANT	Denis	M	14/7/1953	42	Professeurs du secondaire et techn.	23/3/2014	30/3/2014
 57	MOSELLE	107	Bréhain	BUTLINGAIRE	Olivier	M	20/5/1970	20	Employés (secteur privé)	23/3/2014	29/3/2014
+57	MOSELLE	108	Breidenbach	LANG	Gérard	M	11/3/1964	21	Ouvriers (secteur privé)	13/5/2018	6/7/2019
 57	MOSELLE	109	Breistroff-la-Grande	CONRADT	Justin	M	27/9/1953	61	Retraités salariés privés	23/3/2014	16/6/2017
 57	MOSELLE	110	Brettnach	NOEL	Jean-Claude	M	29/7/1946	61	Retraités salariés privés	23/3/2014	1/4/2014
 57	MOSELLE	111	Bronvaux	FAVIER	Jean-Luc	M	19/6/1961	18	Cadres supérieurs (secteur privé)	30/3/2014	4/4/2014
@@ -20810,6 +20823,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	145	Coincy	HERENCIA	Michel	M	19/5/1952	61	Retraités salariés privés	23/3/2014	3/4/2014
 57	MOSELLE	146	Coin-lès-Cuvry	KUNZ	Christiane	F	22/3/1942	64	Retraités des entreprises publiques	23/3/2014	16/4/2018
 57	MOSELLE	147	Coin-sur-Seille	KOLODZIEJ	Jocelyne	F	1/5/1953	61	Retraités salariés privés	4/2/2018	4/2/2018
+57	MOSELLE	148	Colligny-Maizery	MESSIN	Hervé	M	13/7/1969	05	Industriels-Chefs entreprise	4/7/2019	4/7/2019
 57	MOSELLE	149	Colmen	DOR	Jean-Paul	M	16/3/1956	48	Fonctionnaires de catégorie B	23/3/2014	1/4/2014
 57	MOSELLE	150	Condé-Northen	PIERRE	Patrick	M	14/11/1956	48	Fonctionnaires de catégorie B	23/3/2014	1/4/2014
 57	MOSELLE	151	Conthil	STEMART	Thierry	M	4/8/1960	01	Agriculteurs propriétaires exploit.	30/3/2014	4/4/2014
@@ -20952,6 +20966,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	297	Harprich	ADRIAN	Jean-Paul	M	9/12/1962	01	Agriculteurs propriétaires exploit.	30/3/2014	5/4/2014
 57	MOSELLE	298	Harreberg	SCHOTT	Antoine	M	15/3/1953	61	Retraités salariés privés	23/3/2014	29/3/2014
 57	MOSELLE	299	Hartzviller	STRUBEL	Marcel	M	14/1/1950	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
+57	MOSELLE	300	Haselbourg	GIES	Raymond	M	31/7/1943	61	Retraités salariés privés	23/3/2014	25/5/2019
 57	MOSELLE	301	Haspelschiedt	HORNBECK	Justin	M	17/4/1959	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 57	MOSELLE	302	Hattigny	HELLUY	Brigitte	F	9/3/1952	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
 57	MOSELLE	303	Hauconcourt	WAGNER	Philippe	M	25/10/1961	09	Commercants	23/3/2014	28/3/2014
@@ -21025,6 +21040,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	374	Lafrimbolle	BAZIN	Francis	M	14/8/1953	61	Retraités salariés privés	30/3/2014	5/4/2014
 57	MOSELLE	375	Lagarde	ZIEGLER	Serge	M	8/5/1952	52	Employés (autres entrep. publiques)	23/3/2014	29/3/2014
 57	MOSELLE	376	Lambach	NEU	Jean-Paul	M	24/2/1953	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
+57	MOSELLE	377	Landange	BOUR	René	M	14/6/1960	20	Employés (secteur privé)	27/5/2019	27/5/2019
 57	MOSELLE	379	Landroff	MARET	Sébastien	M	12/11/1972	21	Ouvriers (secteur privé)	23/3/2014	4/4/2014
 57	MOSELLE	380	Laneuveville-lès-Lorquin	WEBER	Jacky	M	17/4/1970	20	Employés (secteur privé)	23/3/2014	29/3/2014
 57	MOSELLE	381	Laneuveville-en-Saulnois	HUCHOT	Pierre	M	18/5/1954	47	Fonctionnaires de catégorie A	23/3/2014	5/4/2014
@@ -21167,7 +21183,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 57	MOSELLE	528	Oron	CHONE	Jean-Marc	M	27/7/1963	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 57	MOSELLE	529	Ottange	MENICHETTI	Fabienne	F	5/9/1961	57	Sans profession déclarée	23/3/2014	30/3/2014
 57	MOSELLE	530	Ottonville	SIMON	Gérard	M	29/12/1955	21	Ouvriers (secteur privé)	23/3/2014	1/4/2014
-57	MOSELLE	531	Oudrenne	THIRIA	André	M	28/5/1947	61	Retraités salariés privés	23/3/2014	4/4/2014
 57	MOSELLE	532	Pagny-lès-Goin	PETAIN	Guy	M	22/7/1952	58	Retraités agricoles	23/3/2014	30/3/2014
 57	MOSELLE	533	Pange	CHLOUP	Roland	M	25/12/1958	19	Autres cadres (secteur privé)	23/3/2014	30/3/2014
 57	MOSELLE	534	Peltre	KURTZMANN	Walter	M	2/3/1962	13	Ingénieurs	23/3/2014	29/3/2014
@@ -21724,14 +21739,13 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 59	NORD	024	Auberchicourt	GREVIN	Gilles	M	6/10/1947	60	Retraités des professions libérales	23/3/2014	29/3/2014
 59	NORD	025	Aubers	LECLERCQ	Alain	M	7/3/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 59	NORD	026	Aubigny-au-Bac	BOULANGER	Alain	M	21/2/1948	61	Retraités salariés privés	23/3/2014	29/3/2014
-59	NORD	027	Aubry-du-Hainaut	STIEVENART	Renée	F	6/8/1949	62	Retraités de l'enseignement	23/3/2014	31/3/2014
+59	NORD	027	Aubry-du-Hainaut	ZINGRAFF	Raymond	M	25/3/1959	47	Fonctionnaires de catégorie A	23/3/2014	1/9/2019
 59	NORD	028	Auby	KACZMAREK	Freddy	M	11/12/1960	19	Autres cadres (secteur privé)	23/3/2014	30/3/2014
 59	NORD	029	Auchy-lez-Orchies	SCHRYVE	Guy	M	4/5/1953	07	Agents d'affaires	23/3/2014	28/3/2014
 59	NORD	031	Audignies	DORLODOT	Christian	M	1/5/1948	61	Retraités salariés privés	23/3/2014	30/3/2014
 59	NORD	032	Aulnoy-lez-Valenciennes	DEPAGNE	Laurent	M	2/2/1969	48	Fonctionnaires de catégorie B	23/3/2014	31/3/2014
 59	NORD	033	Aulnoye-Aymeries	BAUDOUX	Bernard	M	23/7/1948	61	Retraités salariés privés	30/3/2014	5/4/2014
 59	NORD	034	Avelin	ROUCOU	José	M	25/7/1962	48	Fonctionnaires de catégorie B	23/3/2014	10/4/2018
-59	NORD	035	Avesnelles	BAROCHE	Sébastien	M	29/5/1977	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
 59	NORD	036	Avesnes-sur-Helpe	DEZITTER	Marie-Annick	F	23/10/1955	42	Professeurs du secondaire et techn.	23/3/2014	30/3/2014
 59	NORD	037	Avesnes-les-Aubert	BASQUIN	Alexandre	M	21/9/1981	48	Fonctionnaires de catégorie B	30/3/2014	5/4/2014
 59	NORD	038	Avesnes-le-Sec	DELVAUX	Eric	M	18/10/1977	19	Autres cadres (secteur privé)	23/3/2014	31/3/2014
@@ -21961,7 +21975,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 59	NORD	268	La Gorgue	MAHIEU	Philippe	M	1/10/1952	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	23/3/2014
 59	NORD	269	Gouzeaucourt	RICHARD	Jacques	M	16/6/1955	42	Professeurs du secondaire et techn.	23/3/2014	28/3/2014
 59	NORD	270	Grand-Fayt	SCULFORT	Jean-Paul	M	29/8/1962	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
-59	NORD	271	Grande-Synthe	CAREME	Damien	M	16/11/1960	56	Autres professions	23/3/2014	23/3/2014
+59	NORD	271	Grande-Synthe	BEYAERT	Martial	M	16/6/1971	20	Employés (secteur privé)	23/3/2014	3/7/2019
 59	NORD	272	Grand-Fort-Philippe	CLINQUART	Sony	M	18/12/1973	19	Autres cadres (secteur privé)	30/3/2014	30/3/2014
 59	NORD	273	Gravelines	RINGOT	Bertrand	M	23/11/1966	47	Fonctionnaires de catégorie A	23/3/2014	23/3/2014
 59	NORD	274	La Groise	ELOIR	Karine	F	25/9/1974	57	Sans profession déclarée	23/3/2014	28/3/2014
@@ -22673,7 +22687,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 60	OISE	335	Lachapelle-sous-Gerberoy	COUSSEMENT	Gaëtane	F	10/4/1960	10	Artisans	23/3/2014	28/3/2014
 60	OISE	336	Lachaussée-du-Bois-d'Ecu	GRUEL	Bruno	M	31/7/1965	15	Contremaitres	23/3/2014	28/3/2014
 60	OISE	337	Lachelle	SERET	Pascal	M	25/4/1956	19	Autres cadres (secteur privé)	23/3/2014	23/3/2014
-60	OISE	338	Lacroix-Saint-Ouen	DESESSART	Jean	M	8/1/1947	61	Retraités salariés privés	30/3/2014	30/3/2014
+60	OISE	338	Lacroix-Saint-Ouen	DESESSART	Jean	M	8/1/1947	61	Retraités salariés privés	30/3/2014	5/4/2014
 60	OISE	339	Lafraye	DEVILLERS	Marie-Claude	F	20/3/1955	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
 60	OISE	340	Lagny	NANCEL	Sébastien	M	2/6/1971	20	Employés (secteur privé)	23/3/2014	28/3/2014
 60	OISE	341	Lagny-le-Sec	DOUCET	Didier	M	18/7/1965	18	Cadres supérieurs (secteur privé)	23/3/2014	23/3/2014
@@ -22770,7 +22784,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 60	OISE	435	Morvillers	NOTTEBOOM	Gilles	M	2/4/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 60	OISE	436	Mory-Montcrux	GERARD	Renée	F	14/6/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 60	OISE	437	Mouchy-le-Châtel	DE NOAILLES	Charles-Antoine	M	15/2/1984	19	Autres cadres (secteur privé)	23/3/2014	28/3/2014
-60	OISE	438	Moulin-sous-Touvent	D'ARANJO	Fabrice	M	20/1/1967	57	Sans profession déclarée	23/3/2014	29/3/2014
+60	OISE	438	Moulin-sous-Touvent	BROCVIELLE	Anne	F	10/8/1979	37	Journalistes et autres médias	23/3/2014	29/7/2019
 60	OISE	439	Mouy	DELAFONTAINE	Anne-Claire	F	23/4/1964	48	Fonctionnaires de catégorie B	30/3/2014	30/3/2014
 60	OISE	440	Moyenneville	LEDENT	Didier	M	25/1/1945	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	23/3/2014
 60	OISE	441	Moyvillers	DECAMP	Annick	F	5/10/1946	60	Retraités des professions libérales	23/3/2014	23/3/2014
@@ -22914,6 +22928,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 60	OISE	585	Saint-Martin-aux-Bois	LEBRUN	Alain	M	25/5/1965	52	Employés (autres entrep. publiques)	23/3/2014	28/3/2014
 60	OISE	586	Saint-Martin-le-Noeud	DURIEZ	Jean-Marie	M	31/3/1959	19	Autres cadres (secteur privé)	23/3/2014	23/3/2014
 60	OISE	587	Saint-Martin-Longueau	COLLETTE	Michel	M	7/10/1937	61	Retraités salariés privés	23/3/2014	30/3/2014
+60	OISE	588	Saint-Maur	PRE	Franck	M	4/1/1985	16	Représentants de commerce	30/3/2014	4/7/2019
 60	OISE	589	Saint-Maximin	MACUDZINSKI	Serge	M	20/2/1945	62	Retraités de l'enseignement	23/3/2014	29/3/2014
 60	OISE	590	Saint-Omer-en-Chaussée	DEVAMBEZ	Gérard	M	14/3/1951	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 60	OISE	591	Saint-Paul	HEDIN	Gérard	M	6/10/1940	61	Retraités salariés privés	23/3/2014	29/3/2014
@@ -22991,7 +23006,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 60	OISE	666	Ver-sur-Launette	CHERON	Yves	M	16/12/1964	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 60	OISE	667	Verberie	ARNOULD	Michel	M	11/2/1958	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 60	OISE	668	Verderel-lès-Sauqueuse	COURTOIS	Serge	M	14/11/1951	61	Retraités salariés privés	23/3/2014	4/4/2014
-60	OISE	669	Verderonne	GUERRE	Bernard	M	5/12/1954	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
+60	OISE	669	Verderonne	LEPORI	Philippe	M	21/7/1951	13	Ingénieurs	23/3/2014	6/7/2019
 60	OISE	670	Verneuil-en-Halatte	MASSAUX	Christian	M	11/10/1947	61	Retraités salariés privés	23/3/2014	23/3/2014
 60	OISE	671	Versigny	DE KERSAINT	Guy-Pierre	M	11/11/1962	18	Cadres supérieurs (secteur privé)	23/3/2014	30/3/2014
 60	OISE	672	Vez	MICHALOWSKI	Thiéry	M	15/8/1963	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
@@ -23025,7 +23040,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 61	ORNE	001	Alençon	DARCISSAC	Emmanuel	M	11/2/1969	47	Fonctionnaires de catégorie A	30/3/2014	12/7/2017
 61	ORNE	002	Almenêches	VINET	Paul	M	1/6/1951	10	Artisans	23/3/2014	28/3/2014
 61	ORNE	005	Appenai-sous-Bellême	JEAN	Daniel	M	7/12/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
-61	ORNE	006	Argentan	PAVIS	Pierre	M	24/10/1943	62	Retraités de l'enseignement	23/3/2014	29/3/2014
+61	ORNE	006	Argentan	LEVEILLE	Frédéric	M	4/4/1970	42	Professeurs du secondaire et techn.	23/3/2014	15/7/2019
 61	ORNE	007	Athis-Val de Rouvre	LANGE	Alain	M	10/6/1955	61	Retraités salariés privés	1/1/2016	1/1/2016
 61	ORNE	008	Aube	VERCRUYSSE	Jean-Marie	M	22/11/1959	02	Salariés agricoles	23/3/2014	28/3/2014
 61	ORNE	010	Aubry-le-Panthou	LAIGRE	Jean-Claude	M	18/6/1945	58	Retraités agricoles	23/3/2014	28/3/2014
@@ -23167,6 +23182,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 61	ORNE	193	La Gonfrière	TROUILLET	Nadège	F	31/12/1971	20	Employés (secteur privé)	27/3/2015	27/3/2015
 61	ORNE	194	Monts-sur-Orne	MALLET	Gilles	M	10/12/1958	48	Fonctionnaires de catégorie B	1/1/2018	1/1/2018
 61	ORNE	195	Le Grais	AUVRAY	Bruno	M	8/8/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+61	ORNE	196	Belforêt-en-Perche	HEROUIN	Michel	M	15/5/1951	58	Retraités agricoles	23/6/2019	28/6/2019
 61	ORNE	197	Guêprei	VAUQUELIN	Jacques	M	14/11/1951	58	Retraités agricoles	23/3/2014	28/3/2014
 61	ORNE	198	Guerquesalles	GORET	Didier	M	20/1/1952	61	Retraités salariés privés	23/3/2014	28/3/2014
 61	ORNE	199	Habloville	BELLENGER	Victor	M	13/11/1945	58	Retraités agricoles	23/3/2014	23/3/2014
@@ -23188,7 +23204,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 61	ORNE	219	La Lande-Saint-Siméon	PICOT	Jean-Louis	M	3/12/1957	57	Sans profession déclarée	23/3/2014	29/3/2014
 61	ORNE	221	Landigou	CHATELAIS	Albert	M	27/4/1950	61	Retraités salariés privés	23/3/2014	31/3/2014
 61	ORNE	222	Landisacq	LEMANCEL	Hervé	M	28/6/1944	62	Retraités de l'enseignement	23/3/2014	28/3/2014
-61	ORNE	224	Larré	LAMBERT	Serge	M	22/4/1953	44	Professions rattachées à enseignt.	23/3/2014	29/3/2014
 61	ORNE	225	Lignères	COTREL-LASSAUSSAYE	Daniel	M	26/9/1952	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 61	ORNE	227	Lignou	BIGNON	Jean-Claude	M	19/4/1946	65	Autres retraités	23/3/2014	28/3/2014
 61	ORNE	229	Loisail	LANGEVIN	Jacques	M	9/6/1949	62	Retraités de l'enseignement	23/3/2014	28/3/2014
@@ -23282,7 +23297,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 61	ORNE	349	Ri	DE VIGNERAL	Guillaume	M	11/2/1965	35	Ingénieurs conseils	23/3/2014	28/3/2014
 61	ORNE	350	La Roche-Mabile	GENOIS	Michel	M	26/3/1968	47	Fonctionnaires de catégorie A	30/3/2014	4/4/2014
 61	ORNE	351	Roiville	OLIVIER	Helyette	F	28/6/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
-61	ORNE	352	Rônai	LEFORESTIER	Jacques	M	12/6/1949	58	Retraités agricoles	23/3/2014	28/3/2014
+61	ORNE	352	Rônai	SEJOURNE	Hubert	M	8/2/1945	61	Retraités salariés privés	23/3/2014	23/7/2019
 61	ORNE	357	Rouperroux	SELLOS	Roland	M	21/11/1952	58	Retraités agricoles	23/3/2014	30/3/2014
 61	ORNE	358	Sai	LEROUX	Jean-Pierre	M	20/4/1955	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 61	ORNE	360	Saint-Agnan-sur-Sarthe	ROUILLARD	Pierre	M	14/7/1946	58	Retraités agricoles	23/3/2014	28/3/2014
@@ -23837,7 +23852,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 62	PAS DE CALAIS	444	Hervelinghen	HONVAULT LEFEBVRE	Brigitte	F	22/6/1946	58	Retraités agricoles	23/3/2014	26/5/2019
 62	PAS DE CALAIS	445	Hesdigneul-lès-Béthune	LECOMTE	Maurice	M	4/6/1942	58	Retraités agricoles	23/3/2014	28/3/2014
 62	PAS DE CALAIS	446	Hesdigneul-lès-Boulogne	HENNEQUIN	Yves	M	11/1/1968	20	Employés (secteur privé)	23/3/2014	6/4/2014
-62	PAS DE CALAIS	447	Hesdin	SIECZKOWSKI-SAMIER	Stéphane	M	15/3/1992	40	Etudiants	30/3/2014	4/4/2014
+62	PAS DE CALAIS	447	Hesdin	LOZINGUEZ	Gérard	M	15/11/1954	43	Enseignants 1er deg.-directeurs école	30/3/2014	5/9/2019
 62	PAS DE CALAIS	448	Hesdin-l'Abbé	POCHET	Jacques	M	1/6/1943	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 62	PAS DE CALAIS	449	Hesmond	DERAY	Pascal	M	26/12/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 62	PAS DE CALAIS	450	Hestrus	GOSSELIN	Claude	M	3/9/1945	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
@@ -23985,7 +24000,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 62	PAS DE CALAIS	594	Mory	VASSEUR	Joël	M	7/5/1949	61	Retraités salariés privés	23/3/2014	28/3/2014
 62	PAS DE CALAIS	595	Moulle	THOMAS	Marc	M	21/3/1952	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 62	PAS DE CALAIS	596	Mouriez	DEDOURS	Christophe	M	12/5/1967	01	Agriculteurs propriétaires exploit.	23/3/2014	5/4/2014
-62	PAS DE CALAIS	597	Moyenneville	BLAISE	Jean-Marie	M	27/3/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
+62	PAS DE CALAIS	597	Moyenneville	CARON	François	M	27/5/1974	20	Employés (secteur privé)	23/3/2014	16/9/2016
 62	PAS DE CALAIS	598	Muncq-Nieurlet	BOIDIN	Jean	M	23/8/1934	58	Retraités agricoles	23/3/2014	29/3/2014
 62	PAS DE CALAIS	599	Nabringhen	BROUART	Hervé	M	13/5/1951	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 62	PAS DE CALAIS	600	Nédon	FRANÇOIS	Daniel	M	28/2/1951	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
@@ -24051,7 +24066,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 62	PAS DE CALAIS	660	Plouvain	ANJORAND	André	M	13/3/1950	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 62	PAS DE CALAIS	661	Bouin-Plumoison	DENEUVILLE	Jean-Pierre	M	6/8/1939	61	Retraités salariés privés	23/3/2014	28/3/2014
 62	PAS DE CALAIS	662	Polincove	ROUZE	Thierry	M	2/9/1960	19	Autres cadres (secteur privé)	23/3/2014	30/3/2014
-62	PAS DE CALAIS	663	Pommera	SENAUX	Fabien	M	5/2/1959	20	Employés (secteur privé)	23/3/2014	30/3/2014
+62	PAS DE CALAIS	663	Pommera	PLAQUET	Frédéric	M	23/11/1965	19	Autres cadres (secteur privé)	23/3/2014	28/6/2019
 62	PAS DE CALAIS	664	Pommier	LEU	Serge	M	29/8/1950	61	Retraités salariés privés	23/3/2014	29/3/2014
 62	PAS DE CALAIS	665	Le Ponchel	DEWARUMETZ	Jacqueline	F	16/2/1955	23	Salariés du secteur médical	23/3/2014	5/4/2014
 62	PAS DE CALAIS	666	Pont-à-Vendin	FRANCKE	Nicolas	M	28/6/1963	20	Employés (secteur privé)	30/3/2014	13/1/2019
@@ -24263,7 +24278,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 62	PAS DE CALAIS	876	Warlencourt-Eaucourt	GUISE	Lucien	M	27/7/1937	58	Retraités agricoles	23/3/2014	28/3/2014
 62	PAS DE CALAIS	877	Warlincourt-lès-Pas	VANDERBEKEN	Philippe	M	15/9/1946	58	Retraités agricoles	23/3/2014	30/3/2014
 62	PAS DE CALAIS	878	Warlus	LIBESSART	Catherine	F	10/11/1974	19	Autres cadres (secteur privé)	23/3/2014	30/3/2014
-62	PAS DE CALAIS	879	Warluzel	LEVE	André	M	13/10/1945	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
 62	PAS DE CALAIS	880	Le Wast	FEUTRY	Serge	M	2/3/1952	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	30/3/2014
 62	PAS DE CALAIS	881	Beauvoir-Wavans	HEUDENT	Yvon	M	18/8/1964	42	Professeurs du secondaire et techn.	23/3/2014	4/4/2014
 62	PAS DE CALAIS	882	Wavrans-sur-l'Aa	DELANNOY	Julien	M	2/5/1984	20	Employés (secteur privé)	23/3/2014	30/3/2014
@@ -24333,7 +24347,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 63	PUY DE DOME	039	Beurières	FAURE	Bernard	M	29/5/1954	42	Professeurs du secondaire et techn.	23/3/2014	28/3/2014
 63	PUY DE DOME	040	Billom	CHARLAT	Jean-Michel	M	28/9/1952	20	Employés (secteur privé)	31/1/2016	5/2/2016
 63	PUY DE DOME	041	Biollet	VERGE	André	M	12/2/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
-63	PUY DE DOME	042	Blanzat	BEYSSI	Michel	M	6/4/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 63	PUY DE DOME	043	Blot-l'Eglise	BOULEAU	Bernard	M	26/8/1966	10	Artisans	23/3/2014	28/3/2014
 63	PUY DE DOME	044	Bongheat	BRUNEL	Marguerite	F	1/7/1953	63	Retraités fonct.publique (sf enseig.)	23/3/2014	5/4/2014
 63	PUY DE DOME	045	Bort-l'Etang	MAZEYRAT	Michel	M	20/7/1955	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
@@ -24598,6 +24611,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 63	PUY DE DOME	310	Sainte-Agathe	BALISONI	Daniel	M	17/11/1941	63	Retraités fonct.publique (sf enseig.)	23/3/2014	5/4/2014
 63	PUY DE DOME	311	Saint-Agoulin	LABBE	Pascal	M	5/4/1966	13	Ingénieurs	23/3/2014	28/3/2014
 63	PUY DE DOME	312	Saint-Alyre-d'Arlanc	BOURRON	Olivier	M	26/1/1971	10	Artisans	23/3/2014	6/4/2014
+63	PUY DE DOME	313	Saint-Alyre-ès-Montagne	GOYON	Guy	M	5/9/1954	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 63	PUY DE DOME	314	Saint-Amant-Roche-Savine	JOUBERT	Serge	M	1/8/1954	01	Agriculteurs propriétaires exploit.	23/3/2014	5/5/2018
 63	PUY DE DOME	315	Saint-Amant-Tallende	GUILLOT	Nathalie	F	13/11/1974	47	Fonctionnaires de catégorie A	23/3/2014	17/2/2019
 63	PUY DE DOME	317	Saint-André-le-Coq	BUSSON	Dominique	M	2/1/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
@@ -24940,7 +24954,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 64	PYRENEES ATLANTIQUES	189	Ciboure	POULOU	Guy	M	15/11/1940	60	Retraités des professions libérales	30/3/2014	5/4/2014
 64	PYRENEES ATLANTIQUES	190	Claracq	CASSOU-LALANNE	Claude	M	8/6/1961	19	Autres cadres (secteur privé)	23/3/2014	30/3/2014
 64	PYRENEES ATLANTIQUES	191	Coarraze	SAINT-JOSSE	Jean	M	22/3/1944	65	Autres retraités	23/3/2014	29/3/2014
-64	PYRENEES ATLANTIQUES	192	Conchez-de-Béarn	CUP	Francis	M	5/10/1948	58	Retraités agricoles	23/3/2014	29/3/2014
 64	PYRENEES ATLANTIQUES	193	Corbère-Abères	SANSOT	Raymond	M	10/11/1941	64	Retraités des entreprises publiques	23/3/2014	30/3/2014
 64	PYRENEES ATLANTIQUES	194	Coslédaà-Lube-Boast	BOURGUINAT	Pascal	M	22/3/1969	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 64	PYRENEES ATLANTIQUES	195	Coublucq	DUPONT-BRETHES	Jean-Yves	M	20/7/1960	10	Artisans	23/3/2014	28/3/2014
@@ -25013,8 +25026,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 64	PYRENEES ATLANTIQUES	263	L'Hôpital-d'Orion	LAFOURCADE	Daniel	M	30/11/1971	52	Employés (autres entrep. publiques)	23/3/2014	23/4/2018
 64	PYRENEES ATLANTIQUES	264	L'Hôpital-Saint-Blaise	UTHURRALT	Dominique	M	4/11/1955	14	Agents technique et techniciens	23/3/2014	28/3/2014
 64	PYRENEES ATLANTIQUES	265	Hosta	UHART	Michel	M	6/2/1976	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
-64	PYRENEES ATLANTIQUES	266	Hours	LARBIOUZE	Olivier	M	13/9/1982	01	Agriculteurs propriétaires exploit.	23/3/2014	31/3/2014
-64	PYRENEES ATLANTIQUES	267	Ibarrolle	CASET	Jean-Louis	M	23/8/1945	61	Retraités salariés privés	23/3/2014	28/3/2014
+64	PYRENEES ATLANTIQUES	266	Hours	DOUAT	David	M	9/11/1978	14	Agents technique et techniciens	23/3/2014	28/8/2019
 64	PYRENEES ATLANTIQUES	268	Idaux-Mendy	CARRIQUE	Renée	F	12/11/1967	20	Employés (secteur privé)	23/3/2014	29/3/2014
 64	PYRENEES ATLANTIQUES	269	Idron	HILD	Annie	F	25/11/1953	36	Architectes	30/3/2014	5/4/2014
 64	PYRENEES ATLANTIQUES	270	Igon	PRUDHOMME	Jean-Yves	M	6/8/1947	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -25458,6 +25470,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 65	HAUTES PYRENEES	159	Escala	CORREGE	Catherine	F	26/6/1970	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	160	Escaunets	LAGRAVE	Paul	M	16/3/1941	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	161	Escondeaux	POQUES	René	M	18/2/1954	41	Professeurs de faculté	23/3/2014	28/3/2014
+65	HAUTES PYRENEES	162	Esconnets	GACHASSIN	Bernadette	F	14/9/1958	01	Agriculteurs propriétaires exploit.	23/3/2014	6/7/2019
 65	HAUTES PYRENEES	163	Escots	DOUTRIAUX	Éric	M	30/6/1957	61	Retraités salariés privés	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	164	Escoubès-Pouts	CARDEILHAC	Yves	M	25/1/1974	01	Agriculteurs propriétaires exploit.	23/3/2014	11/12/2015
 65	HAUTES PYRENEES	165	Esparros	DUTHU	Jean-Marie	M	17/11/1955	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
@@ -25516,6 +25529,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 65	HAUTES PYRENEES	219	Hères	DUFFAU	Jacques	M	27/4/1947	58	Retraités agricoles	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	220	Hibarette	DEPOND	Denis	M	1/12/1960	43	Enseignants 1er deg.-directeurs école	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	221	Hiis	CASTEL	Luc	M	26/1/1962	20	Employés (secteur privé)	23/3/2014	28/3/2014
+65	HAUTES PYRENEES	222	Hitte	DUBARRY	Michel	M	4/3/1969	21	Ouvriers (secteur privé)	23/3/2014	5/7/2019
 65	HAUTES PYRENEES	223	Horgues	SEGNERE	Jean-Michel	M	16/7/1974	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	224	Houeydets	QUINON	André	M	3/12/1960	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 65	HAUTES PYRENEES	225	Hourc	ABADIE	Jean-Claude	M	24/11/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -25613,7 +25627,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 65	HAUTES PYRENEES	321	Montignac	CARMOUZE	Rémi	M	9/8/1972	23	Salariés du secteur médical	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	322	Montoussé	ROTGE	Christiane	F	7/2/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 65	HAUTES PYRENEES	323	Montsérié	ROGE	Jean-Claude	M	29/10/1945	58	Retraités agricoles	23/3/2014	28/3/2014
-65	HAUTES PYRENEES	324	Moulédous	COURTIADE	Henri	M	10/1/1949	61	Retraités salariés privés	23/3/2014	30/3/2014
+65	HAUTES PYRENEES	324	Moulédous	OSSUN	Philippe	M	19/3/1965	43	Enseignants 1er deg.-directeurs école	23/3/2014	26/7/2019
 65	HAUTES PYRENEES	325	Moumoulous	BONNECARRERE	Annie	F	22/4/1945	61	Retraités salariés privés	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	326	Mun	DASTAS	Jean-Marc	M	22/1/1957	49	Fonctionnaires de catégorie C	23/3/2014	21/12/2017
 65	HAUTES PYRENEES	327	Nestier	ROUEDE	Bernard	M	7/4/1952	64	Retraités des entreprises publiques	23/3/2014	6/4/2014
@@ -25644,6 +25658,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 65	HAUTES PYRENEES	352	Ouzous	GOSSET	Dominique	M	27/2/1959	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 65	HAUTES PYRENEES	353	Ozon	LEMASQUERIER	Gilles	M	2/6/1956	14	Agents technique et techniciens	23/3/2014	28/3/2014
 65	HAUTES PYRENEES	354	Pailhac	ROBIN	Isabelle	F	23/2/1971	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
+65	HAUTES PYRENEES	355	Paréac	COATRINE-ZENTAR	Christelle	F	18/8/1977	18	Cadres supérieurs (secteur privé)	23/3/2014	31/8/2019
 65	HAUTES PYRENEES	356	Péré	RODRIGUES	Charles	M	8/5/1954	49	Fonctionnaires de catégorie C	23/3/2014	5/4/2014
 65	HAUTES PYRENEES	357	Peyraube	LARRE	Bernard	M	2/8/1968	48	Fonctionnaires de catégorie B	23/3/2014	29/3/2014
 65	HAUTES PYRENEES	358	Peyret-Saint-André	LABAT	Pierre	M	25/12/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
@@ -25787,7 +25802,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 66	PYRENEES ORIENTALES	017	Le Barcarès	FERRAND	Alain	M	22/10/1959	05	Industriels-Chefs entreprise	23/3/2014	29/3/2014
 66	PYRENEES ORIENTALES	018	La Bastide	BAUX	Daniel	M	12/4/1959	10	Artisans	23/3/2014	29/3/2014
 66	PYRENEES ORIENTALES	019	Bélesta	BOURNIOLE	Frédéric	M	14/11/1973	48	Fonctionnaires de catégorie B	23/3/2014	4/4/2014
-66	PYRENEES ORIENTALES	020	Bolquère	ABEL	Jean-Pierre	M	5/12/1943	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
+66	PYRENEES ORIENTALES	020	Bolquère	INGLES	Jean-Pierre	M	2/11/1951	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/6/2019
 66	PYRENEES ORIENTALES	021	Bompas	BATLLE	Jean-Paul	M	29/6/1940	63	Retraités fonct.publique (sf enseig.)	30/3/2014	30/3/2014
 66	PYRENEES ORIENTALES	022	Boule-d'Amont	OHEIX	Yann	M	17/10/1960	43	Enseignants 1er deg.-directeurs école	23/3/2014	29/3/2014
 66	PYRENEES ORIENTALES	023	Bouleternère	PAYROU	Jean	M	14/9/1938	58	Retraités agricoles	23/3/2014	4/4/2014
@@ -25865,7 +25880,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 66	PYRENEES ORIENTALES	097	Lesquerde	BARTHES	Jacques	M	15/12/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 66	PYRENEES ORIENTALES	098	La Llagonne	ASTRUCH	Jean-Pierre	M	17/5/1964	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 66	PYRENEES ORIENTALES	099	Llauro	TOURNÉ	Roger	M	31/12/1944	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
-66	PYRENEES ORIENTALES	100	Llo	AUTONES	Robert	M	1/12/1947	58	Retraités agricoles	23/3/2014	29/3/2014
+66	PYRENEES ORIENTALES	100	Llo	MAS	Jean-Marie	M	23/12/1957	52	Employés (autres entrep. publiques)	23/3/2014	9/8/2019
 66	PYRENEES ORIENTALES	101	Llupia	RIGALL	Roger	M	28/5/1946	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 66	PYRENEES ORIENTALES	102	Mantet	BLAISE	Jean-Luc	M	15/7/1956	64	Retraités des entreprises publiques	23/3/2014	29/3/2014
 66	PYRENEES ORIENTALES	103	Marquixanes	CANAL	Anne-Marie	F	16/5/1951	47	Fonctionnaires de catégorie A	30/3/2014	5/4/2014
@@ -25877,7 +25892,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 66	PYRENEES ORIENTALES	109	Molitg-les-Bains	PACULL	Jean-Marc	M	16/5/1957	64	Retraités des entreprises publiques	23/3/2014	29/3/2014
 66	PYRENEES ORIENTALES	111	Montalba-le-Château	CADEAC	Jean-Jacques	M	19/11/1954	19	Autres cadres (secteur privé)	23/3/2014	5/4/2014
 66	PYRENEES ORIENTALES	112	Montauriol	MAURAN	Patrick	M	17/8/1968	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
-66	PYRENEES ORIENTALES	113	Montbolo	NAVEAU	Christine	F	24/7/1955	57	Sans profession déclarée	23/3/2014	3/11/2018
 66	PYRENEES ORIENTALES	114	Montescot	SALA	Louis	M	17/9/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 66	PYRENEES ORIENTALES	115	Montesquieu-des-Albères	PONS	Huguette	F	27/2/1956	63	Retraités fonct.publique (sf enseig.)	30/3/2014	6/4/2014
 66	PYRENEES ORIENTALES	116	Montferrer	PETIT	Dominique	M	19/12/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -26172,7 +26186,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 67	BAS RHIN	189	Heiligenstein	KARL	Jean-Georges	M	31/1/1962	20	Employés (secteur privé)	23/3/2014	28/3/2014
 67	BAS RHIN	190	Hengwiller	BLAES	Marcel	M	22/1/1957	15	Contremaitres	23/3/2014	30/3/2014
 67	BAS RHIN	191	Herbitzheim	KUFFLER	Michel	M	16/1/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
-67	BAS RHIN	192	Herbsheim	SITTLER	Esther	F	9/5/1952	65	Autres retraités	23/3/2014	5/4/2014
 67	BAS RHIN	194	Herrlisheim	BECKER	Louis	M	8/9/1947	62	Retraités de l'enseignement	30/3/2014	4/4/2014
 67	BAS RHIN	195	Hessenheim	ULRICH	Anne-Louise	F	17/3/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 67	BAS RHIN	196	Hilsenheim	KUHN	Bruno	M	4/5/1962	17	Agents d'assurances	23/3/2014	28/3/2014
@@ -26889,7 +26902,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 69	RHONE	016	Azolette	TOURNIER	Maurice	M	10/4/1956	21	Ouvriers (secteur privé)	23/3/2014	23/3/2014
 69	RHONE	017	Bagnols	DUMAS	Jean-Luc	M	14/7/1958	20	Employés (secteur privé)	23/3/2014	23/3/2014
 69	RHONE	018	Beaujeu	SOTTON	Sylvain	M	1/1/1964	57	Sans profession déclarée	23/3/2014	23/3/2014
-69	RHONE	019	Belleville-en-Beaujolais	FIALAIRE	Bernard	M	13/9/1957	24	Médecins	1/1/2019	1/1/2019
+69	RHONE	019	Belleville-en-Beaujolais	FESSY	Serges	M	9/8/1958	18	Cadres supérieurs (secteur privé)	1/1/2019	2/9/2019
 69	RHONE	020	Belmont-d'Azergues	TRICOT	Jean-Luc	M	14/8/1954	15	Contremaitres	23/3/2014	23/3/2014
 69	RHONE	021	Bessenay	SUBTIL	Bruno	M	10/8/1953	42	Professeurs du secondaire et techn.	23/3/2014	23/3/2014
 69	RHONE	022	Bibost	PEREIRA	José	M	18/8/1973	49	Fonctionnaires de catégorie C	23/3/2014	23/3/2014
@@ -26913,7 +26926,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 69	RHONE	042	La Chapelle-sur-Coise	BOUTEILLE	Christiane	F	17/4/1964	19	Autres cadres (secteur privé)	23/3/2014	23/3/2014
 69	RHONE	043	Chaponost	COMBET	Damien	M	27/6/1972	05	Industriels-Chefs entreprise	23/3/2014	30/3/2014
 69	RHONE	044	Charbonnières-les-Bains	EYMARD	Gérald	M	28/6/1951	61	Retraités salariés privés	30/3/2014	30/3/2014
-69	RHONE	045	Charentay	BERTRAND	Yves	M	22/2/1952	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
+69	RHONE	045	Charentay	JAFFRE	Bernard	M	21/4/1952	58	Retraités agricoles	23/3/2014	27/7/2019
 69	RHONE	046	Charly	VIAL	Claude	M	30/7/1941	61	Retraités salariés privés	23/3/2014	23/3/2014
 69	RHONE	047	Charnay	DUBUY	Laurent	M	20/12/1965	06	Administrateurs de sociétés	23/3/2014	23/3/2014
 69	RHONE	049	Chasselay	PARIOST	Jacques	M	1/1/1949	18	Cadres supérieurs (secteur privé)	23/3/2014	23/3/2014
@@ -27154,6 +27167,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 70	HAUTE SAONE	012	Amance	BERTIN	Jean-Marie	M	8/12/1959	13	Ingénieurs	23/3/2014	29/3/2014
 70	HAUTE SAONE	013	Ambiévillers	ROUX	Christian	M	23/3/1938	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
 70	HAUTE SAONE	014	Amblans-et-Velotte	DEBELY	Frédéric	M	13/2/1957	16	Représentants de commerce	23/3/2014	5/4/2014
+70	HAUTE SAONE	015	Amoncourt	POUGEUX	Aline	F	15/9/1974	57	Sans profession déclarée	23/3/2014	13/9/2019
 70	HAUTE SAONE	016	Amont-et-Effreney	GALMICHE	Edith	F	26/6/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	10/10/2014
 70	HAUTE SAONE	017	Anchenoncourt-et-Chazel	DELAITRE	Michel	M	29/2/1952	44	Professions rattachées à enseignt.	23/3/2014	29/3/2014
 70	HAUTE SAONE	018	Ancier	DAGUET	Nadine	F	11/11/1957	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
@@ -27438,7 +27452,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 70	HAUTE SAONE	318	Magny-Danigon	RICHARD	Bernard	M	12/1/1952	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 70	HAUTE SAONE	319	Magny-Jobert	BALLOT	Jean-Christophe	M	17/12/1982	42	Professeurs du secondaire et techn.	23/3/2014	4/4/2014
 70	HAUTE SAONE	320	Magny-lès-Jussey	GIROD	Jean-Pol	M	24/9/1951	64	Retraités des entreprises publiques	23/3/2014	5/4/2014
-70	HAUTE SAONE	321	Magny-Vernois	DECHAMBENOIT	Guy	M	17/3/1946	61	Retraités salariés privés	23/3/2014	29/3/2014
 70	HAUTE SAONE	322	Mailleroncourt-Charette	MICHELIN	Edith	F	5/4/1958	20	Employés (secteur privé)	23/3/2014	4/4/2014
 70	HAUTE SAONE	323	Mailleroncourt-Saint-Pancras	GAUTHIER	Bernard	M	25/1/1950	58	Retraités agricoles	23/3/2014	28/3/2014
 70	HAUTE SAONE	324	Mailley-et-Chazelot	REZARD	Bertrand	M	8/2/1951	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -27574,7 +27587,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 70	HAUTE SAONE	469	Sainte-Marie-en-Chanois	FORMET	Isabelle	F	7/4/1971	52	Employés (autres entrep. publiques)	23/3/2014	29/3/2014
 70	HAUTE SAONE	470	Sainte-Marie-en-Chaux	DUCHANOIS	Pierre	M	21/4/1955	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 70	HAUTE SAONE	471	Sainte-Reine	ROYER	Bernard	M	28/12/1970	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
-70	HAUTE SAONE	472	Saint-Remy	METTELET	Christian	M	13/8/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
+70	HAUTE SAONE	472	Saint-Remy en Comté	METTELET	Christian	M	13/8/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 70	HAUTE SAONE	473	Saint-Sauveur	BEY	Christiane	F	7/11/1950	63	Retraités fonct.publique (sf enseig.)	23/3/2014	30/3/2014
 70	HAUTE SAONE	474	Saint-Sulpice	SEGUIN	Alain	M	27/12/1951	18	Cadres supérieurs (secteur privé)	23/3/2014	29/3/2014
 70	HAUTE SAONE	476	Saponcourt	RIGOULOT	Jean-Baptiste	M	28/2/1979	08	Agents immobiliers	23/3/2014	4/4/2014
@@ -27707,7 +27720,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 71	SAONE ET LOIRE 	028	Beauvernois	PROST	Joël	M	17/1/1958	45	Magistrats	23/3/2014	28/3/2014
 71	SAONE ET LOIRE 	029	Bellevesvre	CANET	Jean-Luc	M	8/1/1966	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 71	SAONE ET LOIRE 	030	Bergesserin	LEGRAND	Edith	F	6/2/1958	48	Fonctionnaires de catégorie B	23/3/2014	12/4/2019
-71	SAONE ET LOIRE 	031	Berzé-le-Châtel	DELSALLE	Joëlle	F	27/3/1962	49	Fonctionnaires de catégorie C	23/3/2014	30/3/2014
+71	SAONE ET LOIRE 	031	Berzé-le-Châtel	GUITTAT	Christophe	M	16/8/1977	10	Artisans	1/7/2018	28/6/2019
 71	SAONE ET LOIRE 	032	Berzé-la-Ville	JUVANON	Christophe	M	21/1/1970	51	Cadres (entreprises publiques)	23/3/2014	4/4/2014
 71	SAONE ET LOIRE 	033	Bey	DECROOCQ	Philippe	M	23/4/1964	18	Cadres supérieurs (secteur privé)	23/3/2014	28/3/2014
 71	SAONE ET LOIRE 	034	Bissey-sous-Cruchaud	VENOT	Gilles	M	16/9/1955	63	Retraités fonct.publique (sf enseig.)	23/3/2014	25/1/2019
@@ -27730,7 +27743,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 71	SAONE ET LOIRE 	052	Boyer	BONTEMPS	Jean-Paul	M	18/12/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
 71	SAONE ET LOIRE 	054	Bragny-sur-Saône	INVERNIZZI	Estelle	F	12/11/1970	20	Employés (secteur privé)	23/3/2014	29/3/2014
 71	SAONE ET LOIRE 	056	Branges	VADOT	Anthony	M	14/12/1982	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
-71	SAONE ET LOIRE 	057	Bray	DEHOUCK	Dominique	M	18/12/1955	57	Sans profession déclarée	30/3/2014	4/4/2014
+71	SAONE ET LOIRE 	057	Bray	CORNIER	Bruno Jean Noël	M	11/12/1961	21	Ouvriers (secteur privé)	28/7/2019	2/8/2019
 71	SAONE ET LOIRE 	058	Bresse-sur-Grosne	MONNOT	Marc	M	22/9/1962	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 71	SAONE ET LOIRE 	059	Le Breuil	CORDELIER	Chantal	F	9/11/1960	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
 71	SAONE ET LOIRE 	060	Briant	VERNAY	Charles	M	8/11/1949	58	Retraités agricoles	23/3/2014	28/3/2014
@@ -29045,7 +29058,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 74	HAUTE SAVOIE	197	Nangy	BRIFFOD	Pascal	M	24/4/1958	20	Employés (secteur privé)	23/3/2014	23/3/2014
 74	HAUTE SAVOIE	199	Nernier	BERTHIER	Marie-Pierre	F	3/5/1954	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
 74	HAUTE SAVOIE	200	Neuvecelle	VIOLLAND	Anne-Cécile	F	10/6/1973	39	Autres professions libérales	23/3/2014	30/3/2014
-74	HAUTE SAVOIE	201	Neydens	LAVERRIERE	Caroline	F	1/3/1966	15	Contremaitres	23/3/2014	23/3/2014
+74	HAUTE SAVOIE	201	Neydens	VINCENT	Carole	F	2/9/1975	20	Employés (secteur privé)	23/3/2014	15/9/2019
 74	HAUTE SAVOIE	202	Nonglard	GUITTON	Christophe	M	17/5/1961	08	Agents immobiliers	23/3/2014	23/3/2014
 74	HAUTE SAVOIE	203	Novel	DELOT	Corinne	F	22/11/1959	57	Sans profession déclarée	9/1/2017	9/1/2017
 74	HAUTE SAVOIE	205	Onnion	BERTHIER	Yvon	M	4/4/1952	10	Artisans	23/3/2014	23/3/2014
@@ -29573,7 +29586,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 76	SEINE MARITIME 	457	Moulineaux	TAILLANDIER	Martine	F	23/5/1953	61	Retraités salariés privés	23/3/2014	28/3/2014
 76	SEINE MARITIME 	458	Muchedent	CRESSENT	Christine	F	25/1/1962	20	Employés (secteur privé)	23/3/2014	29/3/2014
 76	SEINE MARITIME 	459	Nesle-Hodeng	PORTIER	Christian	M	29/12/1947	61	Retraités salariés privés	23/3/2014	29/3/2014
-76	SEINE MARITIME 	460	Nesle-Normandeuse	MARTIN	Daniel	M	12/6/1942	10	Artisans	23/3/2014	4/4/2014
 76	SEINE MARITIME 	461	Neufbosc	GUERIN	Emilie	F	23/1/1983	48	Fonctionnaires de catégorie B	23/3/2014	23/5/2016
 76	SEINE MARITIME 	462	Neufchâtel-en-Bray	LEFRANCOIS	Xavier	M	11/9/1959	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 76	SEINE MARITIME 	463	Neuf-Marché	DEGRY	Didier	M	15/6/1949	61	Retraités salariés privés	23/3/2014	29/3/2014
@@ -29718,7 +29730,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 76	SEINE MARITIME 	610	Sainte-Marie-des-Champs	DECHAMPS	Odile	F	9/1/1953	57	Sans profession déclarée	23/3/2014	29/3/2014
 76	SEINE MARITIME 	611	Saint-Martin-aux-Arbres	RICOEUR	Olivier	M	25/11/1963	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 76	SEINE MARITIME 	612	Saint-Martin-au-Bosc	COUET	Evelyne	F	21/2/1945	57	Sans profession déclarée	23/3/2014	28/3/2014
-76	SEINE MARITIME 	613	Saint-Martin-aux-Buneaux	VIARD	Michel	M	14/6/1936	58	Retraités agricoles	23/3/2014	5/4/2014
+76	SEINE MARITIME 	613	Saint-Martin-aux-Buneaux	BAZIN	Pierre	M	3/9/1955	61	Retraités salariés privés	23/3/2014	14/6/2019
 76	SEINE MARITIME 	614	Saint-Martin-de-Boscherville	SAINT	Hubert	M	23/7/1942	61	Retraités salariés privés	23/3/2014	28/3/2014
 76	SEINE MARITIME 	615	Saint-Martin-du-Bec	JOUENNE	Philippe	M	9/5/1963	42	Professeurs du secondaire et techn.	23/3/2014	28/3/2014
 76	SEINE MARITIME 	616	Saint-Martin-du-Manoir	GAUTIER HURTADO	Maria-Dolorès	F	12/7/1951	49	Fonctionnaires de catégorie C	30/3/2014	4/4/2014
@@ -29802,7 +29814,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 76	SEINE MARITIME 	705	Tourville-la-Rivière	LEVILLAIN	Noël	M	24/12/1955	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 76	SEINE MARITIME 	706	Tourville-les-Ifs	GOULET	Dominique	M	14/4/1953	61	Retraités salariés privés	23/3/2014	16/9/2015
 76	SEINE MARITIME 	707	Tourville-sur-Arques	AVISSE	Lionel	M	20/4/1946	61	Retraités salariés privés	23/3/2014	28/3/2014
-76	SEINE MARITIME 	708	Toussaint	ROUSSEL	André-Pierre	M	30/6/1947	61	Retraités salariés privés	23/3/2014	28/3/2014
 76	SEINE MARITIME 	709	Le Trait	CALLAIS	Patrick	M	15/5/1963	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
 76	SEINE MARITIME 	710	Trémauville	DENIZE	Frédérick	M	6/1/1974	14	Agents technique et techniciens	23/3/2014	20/6/2015
 76	SEINE MARITIME 	711	Le Tréport	JACQUES	Laurent	M	17/8/1968	21	Ouvriers (secteur privé)	23/3/2014	30/1/2016
@@ -29943,6 +29954,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 77	SEINE ET MARNE 	096	Chartrettes	BUREAU	Michel	M	10/2/1955	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 77	SEINE ET MARNE 	097	Chartronges	TRAWINSKI	André	M	5/7/1956	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
 77	SEINE ET MARNE 	098	Châteaubleau	DES PLATS	Jean-Marc	M	16/3/1955	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
+77	SEINE ET MARNE 	099	Château-Landon	LAGILLE	Valérie	F	7/5/1966	19	Autres cadres (secteur privé)	7/7/2019	12/7/2019
 77	SEINE ET MARNE 	100	Le Châtelet-en-Brie	MAZARD	Alain	M	1/11/1943	61	Retraités salariés privés	23/3/2014	29/3/2014
 77	SEINE ET MARNE 	101	Châtenay-sur-Seine	LAMARQUE	Jean-Claude	M	23/12/1948	61	Retraités salariés privés	23/3/2014	1/8/2017
 77	SEINE ET MARNE 	102	Châtenoy	CELADON	Denis	M	23/4/1962	51	Cadres (entreprises publiques)	23/3/2014	28/3/2014
@@ -30298,7 +30310,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 77	SEINE ET MARNE 	468	Torcy	LE LAY-FELZINE	Guillaume	M	27/2/1963	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
 77	SEINE ET MARNE 	469	Touquin	CHEVRINAIS	Sophie	F	6/8/1966	57	Sans profession déclarée	23/3/2014	28/3/2014
 77	SEINE ET MARNE 	470	Tournan-en-Brie	GAUTIER	Laurent	M	24/4/1968	56	Autres professions	23/3/2014	28/3/2014
-77	SEINE ET MARNE 	471	Tousson	PLOUVIER	Aimé	M	14/9/1942	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
+77	SEINE ET MARNE 	471	Tousson	GOUE	Michaël	M	11/1/1987	01	Agriculteurs propriétaires exploit.	23/3/2014	9/9/2019
 77	SEINE ET MARNE 	472	La Trétoire	DERVIN	José	M	7/10/1948	61	Retraités salariés privés	23/3/2014	28/3/2014
 77	SEINE ET MARNE 	473	Treuzy-Levelay	CAUPIN	Gilles	M	21/9/1943	61	Retraités salariés privés	23/3/2014	28/3/2014
 77	SEINE ET MARNE 	474	Trilbardou	DREVETON	Jacques	M	7/7/1943	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -30600,7 +30612,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 78	YVELINES	638	Vaux-sur-Seine	BREARD	Jean-Claude	M	8/10/1954	18	Cadres supérieurs (secteur privé)	23/3/2014	29/3/2017
 78	YVELINES	640	Vélizy-Villacoublay	THEVENOT	Pascal	M	3/6/1966	05	Industriels-Chefs entreprise	30/3/2014	4/4/2014
 78	YVELINES	642	Verneuil-sur-Seine	TAUTOU	Philippe	M	14/12/1949	61	Retraités salariés privés	23/3/2014	29/3/2014
-78	YVELINES	643	Vernouillet	COLLADO	Pascal	M	22/11/1970	47	Fonctionnaires de catégorie A	30/3/2014	5/4/2014
+78	YVELINES	643	Vernouillet	COLLADO	Pascal	M	22/11/1970	47	Fonctionnaires de catégorie A	30/6/2019	5/7/2019
 78	YVELINES	644	La Verrière	DUTU	Nelly	F	18/1/1958	43	Enseignants 1er deg.-directeurs école	23/3/2014	14/4/2016
 78	YVELINES	646	Versailles	DE MAZIERES	François	M	22/5/1960	46	Grands corps de l'état	23/3/2014	28/3/2014
 78	YVELINES	647	Vert	REYNAUD-LEGER	Jocelyne	F	30/9/1944	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -30691,7 +30703,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 79	DEUX SEVRES	108	Doux	JOLIVOT	Lucien	M	26/1/1944	65	Autres retraités	23/3/2014	23/3/2014
 79	DEUX SEVRES	109	Echiré	DEVAUTOUR	Thierry	M	6/10/1954	34	Experts comptables	23/3/2014	23/3/2014
 79	DEUX SEVRES	111	Ensigné	BELAUD	Bernard	M	16/1/1959	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
-79	DEUX SEVRES	112	Epannes	BEAUFILS	Thierry	M	11/8/1960	18	Cadres supérieurs (secteur privé)	23/3/2014	23/3/2014
+79	DEUX SEVRES	112	Epannes	BEAUFILS	Thierry	M	11/8/1960	18	Cadres supérieurs (secteur privé)	23/3/2014	29/3/2014
 79	DEUX SEVRES	114	Exireuil	BILLEROT	Jérôme	M	29/2/1960	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 79	DEUX SEVRES	115	Exoudun	AUZANNEAU-FOUQUET	Jean-Marie	M	23/4/1945	65	Autres retraités	23/3/2014	23/3/2014
 79	DEUX SEVRES	116	Faye-l'Abbesse	PIERRE	Gérard	M	10/2/1949	65	Autres retraités	23/3/2014	23/3/2014
@@ -30729,7 +30741,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 79	DEUX SEVRES	152	Lorigné	COURTIOUX	Laëtitia	F	16/2/1979	20	Employés (secteur privé)	30/3/2014	23/3/2014
 79	DEUX SEVRES	153	Loubigné	BALLAND	Serge	M	10/7/1952	58	Retraités agricoles	23/3/2014	23/3/2014
 79	DEUX SEVRES	154	Loubillé	COLLET	Gérard	M	13/8/1944	61	Retraités salariés privés	23/3/2014	23/3/2014
-79	DEUX SEVRES	156	Louin	NOLOT	Monique	F	15/8/1948	61	Retraités salariés privés	23/3/2014	23/3/2014
+79	DEUX SEVRES	156	Louin	NOLOT	Monique	F	15/8/1948	61	Retraités salariés privés	23/3/2014	4/4/2014
 79	DEUX SEVRES	157	Louzy	DORET	Michel	M	4/5/1951	19	Autres cadres (secteur privé)	23/3/2014	23/3/2014
 79	DEUX SEVRES	158	Luché-sur-Brioux	RICHARD	Yoann	M	30/9/1977	20	Employés (secteur privé)	23/3/2014	23/3/2014
 79	DEUX SEVRES	159	Luché-Thouarsais	ROCHARD	Christian	M	11/7/1937	58	Retraités agricoles	23/3/2014	23/3/2014
@@ -30843,12 +30855,13 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 79	DEUX SEVRES	313	Sepvret	CHARPENTIER	Patrick	M	25/2/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 79	DEUX SEVRES	316	Soudan	PROUST	Didier	M	19/4/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 79	DEUX SEVRES	319	Souvigné	RICORDEL	Michel	M	18/7/1959	48	Fonctionnaires de catégorie B	23/3/2014	23/3/2014
-79	DEUX SEVRES	320	Surin	JEANNOT	Philippe	M	1/2/1954	61	Retraités salariés privés	23/3/2014	23/3/2014
+79	DEUX SEVRES	320	Surin	JEANNOT	Philippe	M	1/2/1954	61	Retraités salariés privés	23/3/2014	28/3/2014
 79	DEUX SEVRES	322	Le Tallud	VOY	Didier	M	21/7/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 79	DEUX SEVRES	326	Thénezay	PROUST	Jackie	M	29/12/1950	58	Retraités agricoles	23/3/2014	10/8/2017
 79	DEUX SEVRES	329	Thouars	PINEAU	Patrice	M	9/7/1950	24	Médecins	15/1/2019	15/1/2019
 79	DEUX SEVRES	331	Tourtenay	ARDRIT	Edwige	F	6/1/1973	20	Employés (secteur privé)	23/3/2014	23/3/2014
 79	DEUX SEVRES	332	Trayes	MICHONNEAU	Philippe	M	19/4/1968	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
+79	DEUX SEVRES	334	Val-du-Mignon	DUGLEUX	Sébastien	M	13/12/1970	48	Fonctionnaires de catégorie B	1/1/2019	7/1/2019
 79	DEUX SEVRES	335	Vallans	HALGAN	Michel	M	26/12/1950	61	Retraités salariés privés	23/3/2014	25/1/2018
 79	DEUX SEVRES	336	Vançais	BONNET	Line	F	22/10/1964	39	Autres professions libérales	23/3/2014	23/3/2014
 79	DEUX SEVRES	337	Le Vanneau-Irleau	GOUSSEAU	Robert	M	27/12/1943	63	Retraités fonct.publique (sf enseig.)	23/3/2014	4/4/2014
@@ -31218,6 +31231,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 80	SOMME	365	Fricamps	GOETHALS	Eddy	M	26/6/1968	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 80	SOMME	366	Fricourt	DEMAILLY	Myriam	F	16/9/1973	42	Professeurs du secondaire et techn.	23/3/2014	29/3/2014
 80	SOMME	367	Frise	RANDJIA	Michel	M	21/3/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
+80	SOMME	368	Friville-Escarbotin	MOREL	Nicole	F	6/12/1951	61	Retraités salariés privés	23/3/2014	6/7/2019
 80	SOMME	369	Frohen-sur-Authie	DEVILLERS	Jean-Pierre	M	23/2/1945	61	Retraités salariés privés	23/3/2014	29/3/2014
 80	SOMME	371	Froyelles	TOUTAIN-HECQUET	Bella	F	22/9/1943	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 80	SOMME	372	Frucourt	DUCHEMIN	Gilbert	M	5/11/1952	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
@@ -31787,7 +31801,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 81	TARN	150	Lugan	CRÉMOUX	Xavier	M	5/11/1956	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
 81	TARN	151	Magrin	VIALA	Bernard	M	21/1/1949	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 81	TARN	152	Mailhoc	ESCOUTES	Jean-Marc	M	18/11/1954	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
-81	TARN	154	Marnaves	OURLIAC	Sabine	F	27/4/1977	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
+81	TARN	154	Marnaves	BOUDOU-OURLIAC	Sabine	F	27/4/1977	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
 81	TARN	156	Marssac-sur-Tarn	ROSE	Anne-Marie	F	2/11/1952	44	Professions rattachées à enseignt.	30/3/2014	6/4/2014
 81	TARN	157	Marzens	JEANJEAN	Didier	M	15/2/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 81	TARN	158	Le Masnau-Massuguiès	AZAÎS	Lilyan	M	22/10/1956	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
@@ -32155,7 +32169,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 83	VAR	005	Artignosc-sur-Verdon	GARRON	Jean-Marie	M	18/11/1948	58	Retraités agricoles	23/3/2014	29/3/2014
 83	VAR	006	Artigues	MAGNE	Gabriel	M	25/4/1947	58	Retraités agricoles	23/3/2014	28/3/2014
 83	VAR	007	Aups	FAURE	Antoine	M	11/10/1955	28	Pharmaciens	23/3/2014	28/3/2014
-83	VAR	008	Bagnols-en-Forêt	TOSAN	Michel	M	4/7/1954	09	Commercants	23/3/2014	29/3/2014
+83	VAR	008	Bagnols-en-Forêt	JUIGNET	Bernard	M	21/12/1937	61	Retraités salariés privés	23/3/2014	11/6/2019
 83	VAR	009	Bandol	JOSEPH	Jean-Paul	M	17/7/1955	24	Médecins	13/12/2015	18/12/2015
 83	VAR	010	Bargème	GERARD	Jacques	M	1/8/1948	58	Retraités agricoles	23/3/2014	28/3/2014
 83	VAR	011	Bargemon	BACQUET	Yves	M	8/4/1947	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
@@ -32272,7 +32286,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 83	VAR	124	Seillans	UGO	René	M	1/10/1945	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 83	VAR	125	Seillons-Source-d'Argens	ARNAUD	Stéphane	M	10/10/1971	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 83	VAR	126	La Seyne-sur-Mer	VUILLEMOT	Marc	M	24/11/1957	44	Professions rattachées à enseignt.	30/3/2014	6/4/2014
-83	VAR	127	Signes	MICHEL	Jean	M	20/6/1943	61	Retraités salariés privés	23/3/2014	28/3/2014
+83	VAR	127	Signes	REICHARDT	Alain	M	21/4/1948	64	Retraités des entreprises publiques	23/3/2014	12/8/2019
 83	VAR	128	Sillans-la-Cascade	CARRIERE	Christophe	M	11/12/1966	05	Industriels-Chefs entreprise	30/3/2014	4/4/2014
 83	VAR	129	Six-Fours-les-Plages	VIALATTE	Jean-Sébastien	M	30/1/1951	28	Pharmaciens	30/3/2014	4/4/2014
 83	VAR	130	Solliès-Pont	GARRON	André	M	21/1/1944	25	Chirurgiens	30/3/2014	4/4/2014
@@ -32332,7 +32346,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 84	VAUCLUSE	030	Caromb	MEYNAUD	Léopold	M	11/3/1945	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 84	VAUCLUSE	031	Carpentras	ANDRIEU	Serge	M	28/1/1958	10	Artisans	29/6/2018	29/6/2018
 84	VAUCLUSE	032	Caseneuve	RIPERT	Gilles	M	4/6/1958	39	Autres professions libérales	23/3/2014	23/3/2014
-84	VAUCLUSE	033	Castellet	GINTOLI	Edmond	M	4/2/1935	39	Autres professions libérales	23/3/2014	23/3/2014
+84	VAUCLUSE	033	Castellet-en-Luberon	GINTOLI	Edmond	M	4/2/1935	39	Autres professions libérales	23/3/2014	23/3/2014
 84	VAUCLUSE	034	Caumont-sur-Durance	FOUILLER	Joël	M	18/3/1953	61	Retraités salariés privés	30/3/2014	30/3/2014
 84	VAUCLUSE	035	Cavaillon	DAUDET	Gérard	M	10/1/1951	18	Cadres supérieurs (secteur privé)	30/3/2014	17/7/2017
 84	VAUCLUSE	036	Châteauneuf-de-Gadagne	MOLLAND	Pierre	M	23/12/1942	61	Retraités salariés privés	23/3/2014	30/3/2014
@@ -32583,12 +32597,14 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 85	VENDEE	152	Les Achards	GRACINEAU	Daniel	M	2/8/1951	59	Retr.artis.commerc.chefs d'entrep.	1/1/2017	1/1/2017
 85	VENDEE	153	Mouchamps	ROBINEAU	Hervé	M	2/8/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 85	VENDEE	154	Mouilleron-Saint-Germain	JOSSE	Valentin	M	5/2/1979	56	Autres professions	1/1/2016	1/1/2016
+85	VENDEE	155	Mouilleron-le-Captif	GODARD	Jacky	M	8/11/1967	37	Journalistes et autres médias	23/3/2014	23/3/2014
 85	VENDEE	156	Moutiers-les-Mauxfaits	AIME	Christian	M	4/12/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 85	VENDEE	157	Moutiers-sur-le-Lay	HYBERT	Brigitte	F	12/5/1960	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
 85	VENDEE	158	Mouzeuil-Saint-Martin	COULON	Anne-Marie	F	25/6/1955	23	Salariés du secteur médical	23/3/2014	23/3/2014
 85	VENDEE	159	Nalliers	BOULOT	André	M	19/2/1949	61	Retraités salariés privés	23/3/2014	23/3/2014
 85	VENDEE	160	Nesmy	RIVOISY	Gérard	M	2/5/1946	58	Retraités agricoles	23/3/2014	23/3/2014
 85	VENDEE	161	Nieul-le-Dolent	DURAND	Dominique	M	8/7/1955	47	Fonctionnaires de catégorie A	23/3/2014	23/3/2014
+85	VENDEE	162	Rives-d'Autise	BOSSARD	Michel	M	1/3/1955	01	Agriculteurs propriétaires exploit.	1/1/2019	1/1/2019
 85	VENDEE	163	Noirmoutier-en-l'Ile	FAUCHER	Noël	M	8/6/1971	44	Professions rattachées à enseignt.	23/3/2014	23/3/2014
 85	VENDEE	164	Notre-Dame-de-Monts	GRONDIN	Raoul	M	30/10/1954	10	Artisans	23/3/2014	23/3/2014
 85	VENDEE	167	L'Orbrie	LUCAS	Noëlla	F	22/12/1949	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
@@ -32598,6 +32614,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 85	VENDEE	174	Petosse	PAILLAT	Jacques	M	21/8/1953	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 85	VENDEE	175	Les Pineaux	GUYAU	Gérard	M	21/8/1952	58	Retraités agricoles	23/3/2014	23/3/2014
 85	VENDEE	176	Pissotte	SAVINEAU	Michel	M	4/5/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
+85	VENDEE	177	Les Velluire-sur-Vendée	REMAUD	Alain	M	7/5/1950	65	Autres retraités	1/1/2019	1/1/2019
 85	VENDEE	178	Le Poiré-sur-Vie	ROIRAND	Sabine	F	14/6/1964	20	Employés (secteur privé)	23/3/2014	5/7/2015
 85	VENDEE	179	Poiroux	DE LA BASSETIERE	Edouard	M	15/10/1949	62	Retraités de l'enseignement	23/3/2014	23/3/2014
 85	VENDEE	181	Pouillé	MAZOUE	Dominique	M	10/2/1969	19	Autres cadres (secteur privé)	23/3/2014	23/3/2014
@@ -32699,6 +32716,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 85	VENDEE	298	Vairé	TAUPIN	Alain	M	15/12/1960	18	Cadres supérieurs (secteur privé)	23/3/2014	23/3/2014
 85	VENDEE	300	Venansault	FAVREAU	Laurent	M	11/2/1975	01	Agriculteurs propriétaires exploit.	23/3/2014	23/3/2014
 85	VENDEE	301	Vendrennes	PHLIPART	Roselyne	F	11/4/1962	01	Agriculteurs propriétaires exploit.	30/3/2014	26/5/2015
+85	VENDEE	302	Chanverrie	FRUCHET	Jean-François	M	13/1/1966	01	Agriculteurs propriétaires exploit.	1/1/2019	1/1/2019
 85	VENDEE	303	Vix	JOURDAIN	Michèle	F	3/2/1952	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 85	VENDEE	304	Vouillé-les-Marais	MOTHAIS	Jacky	M	24/9/1951	17	Agents d'assurances	23/3/2014	23/3/2014
 85	VENDEE	305	Vouvant	ROY	Jacky	M	15/9/1954	20	Employés (secteur privé)	23/3/2014	23/3/2014
@@ -33027,6 +33045,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 87	HAUTE VIENNE	061	Droux	SAILLARD	Madeleine	F	21/7/1953	02	Salariés agricoles	23/3/2014	5/4/2014
 87	HAUTE VIENNE	062	Eybouleuf	DUMONT	Bernard	M	6/6/1947	64	Retraités des entreprises publiques	23/3/2014	4/4/2014
 87	HAUTE VIENNE	063	Eyjeaux	ROUX	Jacques	M	23/4/1961	47	Fonctionnaires de catégorie A	23/3/2014	28/3/2014
+87	HAUTE VIENNE	064	Eymoutiers	PLAZANET	Mélanie	F	5/2/1976	47	Fonctionnaires de catégorie A	23/3/2014	8/7/2019
 87	HAUTE VIENNE	065	Feytiat	CHASSAIN	Gaston	M	21/8/1956	43	Enseignants 1er deg.-directeurs école	23/3/2014	28/3/2014
 87	HAUTE VIENNE	066	Flavignac	DESROCHE	Christian	M	10/1/1960	52	Employés (autres entrep. publiques)	23/3/2014	29/3/2014
 87	HAUTE VIENNE	067	Folles	COUTEAU	Alain	M	12/6/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	9/2/2015
@@ -33256,7 +33275,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 88	VOSGES	098	Chaumousey	BARABAN	Olivier	M	22/12/1959	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
 88	VOSGES	099	Chavelot	RAFFEL	Paul	M	25/4/1946	64	Retraités des entreprises publiques	23/3/2014	28/3/2014
 88	VOSGES	100	Chef-Haut	LITAIZE	Jean-Claude	M	8/12/1947	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
-88	VOSGES	101	Cheniménil	BAHOFF	Christian	M	3/10/1952	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	102	Chermisey	HANNUS	André	M	29/12/1945	61	Retraités salariés privés	23/3/2014	6/4/2014
 88	VOSGES	103	Circourt	MAJOREL	David	M	20/1/1971	10	Artisans	30/3/2014	4/4/2014
 88	VOSGES	104	Circourt-sur-Mouzon	BOGARD	Rose-Marie	F	18/2/1955	53	Agents subalternes (entr.publiques)	23/3/2014	28/3/2014
@@ -33373,7 +33391,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 88	VOSGES	221	Gruey-lès-Surance	BEURNE	Marie-Odile	F	16/6/1952	61	Retraités salariés privés	30/3/2014	4/4/2014
 88	VOSGES	222	Gugnécourt	DEBLAY	Lucien	M	19/5/1953	43	Enseignants 1er deg.-directeurs école	23/3/2014	29/3/2014
 88	VOSGES	223	Gugney-aux-Aulx	BRIE	Jack	M	25/8/1938	61	Retraités salariés privés	23/3/2014	4/4/2014
-88	VOSGES	224	Hadigny-les-Verrières	TROUY	Noël	M	27/2/1949	58	Retraités agricoles	23/3/2014	28/3/2014
 88	VOSGES	225	Hadol	COURTOIS-PAULUS	Anne	F	17/5/1974	48	Fonctionnaires de catégorie B	23/3/2014	25/4/2018
 88	VOSGES	226	Hagécourt	TISSIER	Philippe	M	27/3/1957	21	Ouvriers (secteur privé)	23/3/2014	5/4/2014
 88	VOSGES	227	Hagnéville-et-Roncourt	LARCHE	Alain	M	28/3/1965	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
@@ -33409,6 +33426,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 88	VOSGES	259	Landaville	MAILLARD	René	M	10/8/1938	58	Retraités agricoles	23/3/2014	28/3/2014
 88	VOSGES	260	Langley	CHAUDY	Jean-Luc	M	15/7/1951	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	261	Laval-sur-Vologne	L'HOMME	René	M	2/2/1946	61	Retraités salariés privés	23/3/2014	30/3/2014
+88	VOSGES	262	Laveline-devant-Bruyères	FLEURENCE	Allégra	F	24/10/1978	20	Employés (secteur privé)	23/3/2014	9/7/2019
 88	VOSGES	263	Laveline-du-Houx	BOCA	Michel	M	25/10/1942	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	264	Légéville-et-Bonfays	DARTOIS	Yves	M	4/11/1949	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	265	Lemmecourt	GALAND	Laurent	M	22/5/1967	21	Ouvriers (secteur privé)	23/3/2014	30/3/2014
@@ -33418,7 +33436,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 88	VOSGES	269	Liézey	DESCOUPS	Damien	M	3/9/1974	48	Fonctionnaires de catégorie B	23/3/2014	30/3/2014
 88	VOSGES	270	Liffol-le-Grand	VIDOT	Cyril	M	29/8/1972	21	Ouvriers (secteur privé)	23/3/2014	28/3/2014
 88	VOSGES	271	Lignéville	BOGARD	Gilbert	M	12/11/1961	51	Cadres (entreprises publiques)	23/3/2014	28/3/2014
-88	VOSGES	272	Lironcourt	MISIAK	Jean-Jacques	M	6/1/1953	58	Retraités agricoles	23/3/2014	29/3/2014
 88	VOSGES	273	Longchamp	SIVADON	Emilie	F	27/6/1973	39	Autres professions libérales	23/3/2014	19/4/2018
 88	VOSGES	274	Longchamp-sous-Châtenois	SAVARIT	Noël	M	30/12/1964	51	Cadres (entreprises publiques)	23/3/2014	4/4/2014
 88	VOSGES	275	Lubine	RUHLMANN	Jean-Guy	M	11/7/1945	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
@@ -33535,11 +33552,11 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 88	VOSGES	395	Romont	CLOQUARD	Adrien	M	26/5/1969	50	Cadres sup. (entreprises publiques)	23/3/2014	4/4/2014
 88	VOSGES	398	Les Rouges-Eaux	RIVAT	Bernadette	F	7/8/1947	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 88	VOSGES	399	Le Roulier	MICHEL	Jean-Marie	M	15/10/1940	58	Retraités agricoles	23/3/2014	28/3/2014
-88	VOSGES	400	Rouvres-en-Xaintois	CHARLES	Bernard	M	12/8/1952	65	Autres retraités	23/3/2014	4/4/2014
 88	VOSGES	401	Rouvres-la-Chétive	THIERY	Claude	M	15/9/1951	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	402	Roville-aux-Chênes	VILMAIN	Jocelyne	F	8/12/1950	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
 88	VOSGES	403	Rozerotte	VALDENAIRE	Claude	M	11/12/1948	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	404	Rozières-sur-Mouzon	ANDELOT	Serge	M	14/3/1958	44	Professions rattachées à enseignt.	23/3/2014	29/3/2014
+88	VOSGES	406	Rugney	GARCIA	Franck	M	5/12/1977	48	Fonctionnaires de catégorie B	23/3/2014	21/6/2019
 88	VOSGES	407	Ruppes	AUBRY	Maurice	M	22/9/1950	64	Retraités des entreprises publiques	23/3/2014	4/4/2014
 88	VOSGES	408	Rupt-sur-Moselle	TRAMZAL	Stéphane	M	22/3/1974	10	Artisans	23/3/2014	28/3/2014
 88	VOSGES	409	Saint-Amé	ANDRE	Marcelle	F	2/4/1950	62	Retraités de l'enseignement	23/3/2014	28/3/2014
@@ -33657,7 +33674,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 88	VOSGES	526	Wisembach	SCHNELZAUER	Pascal	M	26/6/1959	63	Retraités fonct.publique (sf enseig.)	23/3/2014	28/3/2014
 88	VOSGES	527	Xaffévillers	CLEMENT	André	M	4/3/1951	58	Retraités agricoles	23/3/2014	28/3/2014
 88	VOSGES	528	Xamontarupt	LEDIG	Nicole	F	13/4/1947	23	Salariés du secteur médical	23/3/2014	29/3/2014
-88	VOSGES	529	Xaronval	GODARD	Alain	M	10/5/1954	38	Hommes de lettres et Artistes	23/3/2014	28/3/2014
 88	VOSGES	530	Xertigny	MARCOT	Véronique	F	11/3/1962	18	Cadres supérieurs (secteur privé)	23/3/2014	28/3/2014
 88	VOSGES	531	Xonrupt-Longemer	BERTRAND	Michel	M	7/1/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
 88	VOSGES	532	Zincourt	FERRY	Michel	M	10/11/1949	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -33835,6 +33851,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 89	YONNE	198	Gurgy	BERGER	Aurélie	F	12/6/1977	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 89	YONNE	199	Gy-l'Evêque	BRETAGNE	Jean -Luc	M	13/1/1950	58	Retraités agricoles	23/3/2014	28/3/2014
 89	YONNE	200	Hauterive	ROUCHE	Christine	F	30/9/1961	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
+89	YONNE	201	Héry	ROUSSELLE	Patrick	M	7/7/1955	20	Employés (secteur privé)	23/3/2014	30/6/2019
 89	YONNE	202	Irancy	PODOR	Stephan	M	29/3/1964	01	Agriculteurs propriétaires exploit.	23/3/2014	4/4/2014
 89	YONNE	203	Island	BUFFY	Paule	F	29/6/1952	61	Retraités salariés privés	23/3/2014	22/2/2015
 89	YONNE	204	L'Isle-sur-Serein	CHAPLOT	Alain	M	20/4/1949	01	Agriculteurs propriétaires exploit.	23/3/2014	28/3/2014
@@ -33846,6 +33863,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 89	YONNE	210	Jully	FLEURY	François	M	18/6/1963	01	Agriculteurs propriétaires exploit.	30/3/2014	4/4/2014
 89	YONNE	211	Junay	PROT	Dominique	M	7/7/1956	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 89	YONNE	212	Jussy	BARBOTIN	Patrick	M	1/8/1949	01	Agriculteurs propriétaires exploit.	23/3/2014	29/3/2014
+89	YONNE	214	Lailly	CROSIER	Christiane	F	21/9/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	30/8/2019
 89	YONNE	215	Lain	CHOCHOIS	Michel	M	2/11/1937	61	Retraités salariés privés	23/3/2014	28/3/2014
 89	YONNE	216	Lainsecq	CHOUBARD	Nadia	F	29/10/1969	20	Employés (secteur privé)	23/3/2014	28/3/2014
 89	YONNE	217	Lalande	FERRON	Claude	M	26/1/1947	61	Retraités salariés privés	23/3/2014	28/3/2014
@@ -33863,6 +33881,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 89	YONNE	229	Lixy	SEGUELAS	Etienne	M	1/10/1951	05	Industriels-Chefs entreprise	23/3/2014	28/3/2014
 89	YONNE	230	Looze	CHAT	Laurent	M	10/9/1966	47	Fonctionnaires de catégorie A	23/3/2014	29/3/2014
 89	YONNE	232	Lucy-le-Bois	TISSIER	Joël	M	4/9/1956	10	Artisans	23/3/2014	28/3/2014
+89	YONNE	233	Lucy-sur-Cure	URBAIN LAMBERT	Anne-Marie	F	23/1/1954	62	Retraités de l'enseignement	23/3/2014	8/9/2019
 89	YONNE	234	Lucy-sur-Yonne	FIALA	Eric	M	25/9/1967	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
 89	YONNE	235	Magny	LENOIR	Philippe	M	19/1/1975	19	Autres cadres (secteur privé)	23/3/2014	6/4/2014
 89	YONNE	236	Maillot	SABATTIER	Gilles	M	24/1/1952	61	Retraités salariés privés	23/3/2014	29/3/2014
@@ -34174,7 +34193,7 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 90	TERRITOIRE DE BELFORT	096	Thiancourt	DAMOTTE	Roland	M	1/2/1943	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
 90	TERRITOIRE DE BELFORT	097	Trévenans	BARLOGIS	Pierre	M	8/10/1964	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 90	TERRITOIRE DE BELFORT	098	Urcerey	GAUMEZ	Michel	M	23/9/1940	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	29/3/2014
-90	TERRITOIRE DE BELFORT	099	Valdoie	COUDEREAU	Corinne	F	18/8/1976	49	Fonctionnaires de catégorie C	23/3/2014	28/3/2014
+90	TERRITOIRE DE BELFORT	099	Valdoie	COUDEREAU	Corinne	F	18/8/1976	49	Fonctionnaires de catégorie C	23/3/2014	17/7/2017
 90	TERRITOIRE DE BELFORT	100	Vauthiermont	GIRARDIN	Philippe	M	26/2/1951	61	Retraités salariés privés	23/3/2014	4/4/2014
 90	TERRITOIRE DE BELFORT	101	Vellescot	BOUROUH	Jean-Claude	M	1/1/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
 90	TERRITOIRE DE BELFORT	102	Vescemont	TREBAULT	Claude	M	18/3/1950	59	Retr.artis.commerc.chefs d'entrep.	23/3/2014	28/3/2014
@@ -34357,7 +34376,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 91	ESSONNE	634	Vaugrigneuse	BAYEN	Marcel	M	25/9/1945	62	Retraités de l'enseignement	23/3/2014	28/3/2014
 91	ESSONNE	635	Vauhallan	HILLION	François	M	20/6/1957	13	Ingénieurs	30/3/2014	4/4/2014
 91	ESSONNE	639	Vayres-sur-Essonne	BOITON	Jocelyne	F	26/3/1967	13	Ingénieurs	23/3/2014	29/3/2014
-91	ESSONNE	645	Verrières-le-Buisson	JOLY	Thomas	M	7/8/1961	19	Autres cadres (secteur privé)	23/3/2014	29/3/2014
 91	ESSONNE	648	Vert-le-Grand	QUINTARD	Jean-Claude	M	30/4/1942	61	Retraités salariés privés	30/3/2014	4/4/2014
 91	ESSONNE	649	Vert-le-Petit	BUDELOT	Laurence	F	5/9/1966	39	Autres professions libérales	23/3/2014	29/3/2014
 91	ESSONNE	654	Videlles	BERTOL	Gino	M	4/4/1970	35	Ingénieurs conseils	23/3/2014	23/1/2018
@@ -34627,7 +34645,6 @@ Code du département (Maire)	Libellé de département (Maires)	Code Insee de la com
 95	VAL D'OISE	459	Nucourt	FLAHAUT	Philippe	M	6/11/1954	18	Cadres supérieurs (secteur privé)	23/3/2014	11/9/2015
 95	VAL D'OISE	462	Omerville	DE MAGNITOT	Denys	M	19/6/1957	01	Agriculteurs propriétaires exploit.	23/3/2014	30/3/2014
 95	VAL D'OISE	476	Osny	LEVESQUE	Jean-Michel	M	3/3/1950	61	Retraités salariés privés	23/3/2014	28/3/2014
-95	VAL D'OISE	480	Parmain	GUICHARD	Roland	M	15/8/1941	06	Administrateurs de sociétés	23/3/2014	30/3/2014
 95	VAL D'OISE	483	Le Perchay	MONTIGNIES	Patrice	M	14/4/1961	48	Fonctionnaires de catégorie B	23/3/2014	28/3/2014
 95	VAL D'OISE	487	Persan	KASSE	Alain	M	26/2/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	31/3/2014
 95	VAL D'OISE	488	Pierrelaye	VALLADE	Michel	M	9/6/1942	61	Retraités salariés privés	23/3/2014	30/3/2014
@@ -34699,7 +34716,7 @@ ZA	GUADELOUPE	116	Morne-à-l'Eau	FRANCFORT	Philipson	M	9/5/1948	64	Retraités des 
 ZA	GUADELOUPE	117	Le Moule	LOUIS-CARABIN	Gabrielle	F	20/2/1946	63	Retraités fonct.publique (sf enseig.)	23/3/2014	23/3/2014
 ZA	GUADELOUPE	118	Petit-Bourg	LOSBAR	Guy	M	3/4/1961	05	Industriels-Chefs entreprise	23/3/2014	23/3/2014
 ZA	GUADELOUPE	119	Petit-Canal	MORNAL	Blaise	M	3/2/1973	19	Autres cadres (secteur privé)	30/3/2014	23/3/2014
-ZA	GUADELOUPE	120	Pointe-à-Pitre	BANGOU	Jacques	M	27/10/1950	24	Médecins	23/3/2014	23/3/2014
+ZA	GUADELOUPE	120	Pointe-à-Pitre	GATIBELZA	Josiane	F	15/10/1940	62	Retraités de l'enseignement	23/3/2014	30/7/2019
 ZA	GUADELOUPE	121	Pointe-Noire	JEAN-CHARLES	Christian	M	5/2/1951	63	Retraités fonct.publique (sf enseig.)	30/3/2014	30/3/2014
 ZA	GUADELOUPE	122	Port-Louis	ARTHEIN	Victor	M	7/5/1958	14	Agents technique et techniciens	30/3/2014	30/3/2014
 ZA	GUADELOUPE	124	Saint-Claude	CALIFER	Elie	M	19/4/1954	43	Enseignants 1er deg.-directeurs école	23/3/2014	23/3/2014
@@ -34814,7 +34831,7 @@ ZN	NOUVELLE CALEDONIE	803	Bourail	MUGNIER EP EL ARBI	Brigitte	F	19/9/1966	48	Fon
 ZN	NOUVELLE CALEDONIE	804	Canala	TYUIENON	Gilbert	M	28/3/1958	57	Sans profession déclarée	23/3/2014	28/3/2014
 ZN	NOUVELLE CALEDONIE	805	Dumbéa	NATUREL	Georges	M	21/11/1955	63	Retraités fonct.publique (sf enseig.)	30/3/2014	4/4/2014
 ZN	NOUVELLE CALEDONIE	806	Farino	ROUSTAN	Régis	M	3/7/1955	43	Enseignants 1er deg.-directeurs école	23/3/2014	28/3/2014
-ZN	NOUVELLE CALEDONIE	807	Hienghène	GOA	Daniel	M	14/6/1953	54	Permanents politiques	23/3/2014	28/3/2014
+ZN	NOUVELLE CALEDONIE	807	Hienghène	LEVY	André	M	28/6/1958	62	Retraités de l'enseignement	19/11/2017	24/11/2017
 ZN	NOUVELLE CALEDONIE	808	Houailou	SAWA	Pascal	M	10/3/1982	47	Fonctionnaires de catégorie A	30/3/2014	6/4/2014
 ZN	NOUVELLE CALEDONIE	809	Ile des Pins	VENDEGOU	Hilarion	M	4/9/1941	62	Retraités de l'enseignement	13/12/2015	18/12/2015
 ZN	NOUVELLE CALEDONIE	810	Kaala-Gomen	TEIN-TAOUVA	Hervé	M	24/7/1976	51	Cadres (entreprises publiques)	30/3/2014	4/4/2014
@@ -34826,7 +34843,6 @@ ZN	NOUVELLE CALEDONIE	815	Maré	NGAIOHNI	Pierre Ateroy	M	28/8/1955	43	Enseignants
 ZN	NOUVELLE CALEDONIE	816	Moindou	PEYRONNET	Léon-Joseph	M	22/12/1948	63	Retraités fonct.publique (sf enseig.)	23/3/2014	29/3/2014
 ZN	NOUVELLE CALEDONIE	817	Mont-Dore	GAY	Eric	M	7/1/1958	62	Retraités de l'enseignement	30/3/2014	4/4/2014
 ZN	NOUVELLE CALEDONIE	818	Nouméa	LAGARDE	Sonia	F	29/8/1948	06	Administrateurs de sociétés	30/3/2014	5/4/2014
-ZN	NOUVELLE CALEDONIE	819	Ouégoa	WAHIO	Jacques	M	15/2/1970	20	Employés (secteur privé)	30/3/2014	4/4/2014
 ZN	NOUVELLE CALEDONIE	820	Ouvéa	OUNOU	Boniface	M	15/6/1940	63	Retraités fonct.publique (sf enseig.)	30/3/2014	4/4/2014
 ZN	NOUVELLE CALEDONIE	821	Païta	MARTIN	Harold	M	6/4/1954	54	Permanents politiques	30/3/2014	4/4/2014
 ZN	NOUVELLE CALEDONIE	822	Poindimié	NEAOUTYINE	Paul Tyaou	M	12/10/1951	57	Sans profession déclarée	23/3/2014	28/3/2014
