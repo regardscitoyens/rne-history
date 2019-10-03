@@ -139,10 +139,10 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 04	ALPES DE HAUTE PROVENCE	FONTAINE-DOMEIZEL	Emmanuelle	F	08	Manosque-2		39	Autres professions libérales	28/8/1973	2/4/2015	
 04	ALPES DE HAUTE PROVENCE	GAY	Robert	M	14	Sisteron		61	Retraités salariés privés	28/2/1952	2/4/2015	
 04	ALPES DE HAUTE PROVENCE	GRANET	Patricia	F	05	Digne-les-Bains-2		24	Médecins	7/10/1959	2/4/2015	
-04	ALPES DE HAUTE PROVENCE	LAURENS	André	M	12	Riez		61	Retraités salariés privés	27/1/1949	2/4/2015	
 04	ALPES DE HAUTE PROVENCE	LEFEBVRE	Guylaine	F	10	Oraison		19	Autres cadres (secteur privé)	11/10/1959	2/4/2015	
 04	ALPES DE HAUTE PROVENCE	MASSE	Roger	M	01	Barcelonnette		62	Retraités de l'enseignement	9/2/1944	2/4/2015	
 04	ALPES DE HAUTE PROVENCE	MASSETTE	René	M	04	Digne-les-Bains-1	Président du conseil départemental	47	Fonctionnaires de catégorie A	3/9/1950	2/4/2015	29/9/2017
+04	ALPES DE HAUTE PROVENCE	MOLLING	Bernard	M	12	Riez		47	Fonctionnaires de catégorie A	3/5/1953	26/7/2019	
 04	ALPES DE HAUTE PROVENCE	MORINEAUD	Isabelle	F	14	Sisteron	Septième vice-président du conseil départemental	44	Professions rattachées à enseignt.	3/8/1960	2/4/2015	29/9/2017
 04	ALPES DE HAUTE PROVENCE	PETRIGNY	Jean-Christophe	M	15	Valensole	Quatrième vice-président du conseil départemental	52	Employés (autres entrep. publiques)	15/9/1968	2/4/2015	29/9/2017
 04	ALPES DE HAUTE PROVENCE	PONCE-GASSIER	Nathalie	F	15	Valensole	Premier vice-président du conseil départemental	42	Professeurs du secondaire et techn.	3/4/1965	2/4/2015	29/9/2017
@@ -561,6 +561,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 14	CALVADOS	YON-COURTIN	Stéphanie	F	06	Caen-2	Douzième vice-président du conseil départemental	57	Sans profession déclarée	28/3/1974	2/4/2015	2/4/2015
 15	CANTAL	ACHALME	Didier	M	11	Saint-Flour-1	Quatrième vice-président du conseil départemental	61	Retraités salariés privés	2/6/1956	2/4/2015	17/7/2017
 15	CANTAL	BEAUDREY	Dominique	F	06	Maurs		18	Cadres supérieurs (secteur privé)	21/9/1954	2/4/2015	
+15	CANTAL	BELAIDI	Jamal	M	02	Aurillac-1		10	Artisans	31/1/1978	18/9/2019	
 15	CANTAL	BENITO	Patricia	F	13	Saint-Paul-des-Landes		20	Employés (secteur privé)	1/3/1953	2/4/2015	
 15	CANTAL	BESOMBES	Martine	F	03	Aurillac-2		39	Autres professions libérales	7/2/1962	2/4/2015	
 15	CANTAL	BONY	Jean-Yves	M	05	Mauriac		01	Agriculteurs propriétaires exploit.	11/3/1955	2/4/2015	
@@ -570,7 +571,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 15	CANTAL	CHARRIAUD	Céline	F	09	Neuvéglise		47	Fonctionnaires de catégorie A	30/7/1980	2/4/2015	
 15	CANTAL	CHASTRE	Marie-Hélène	F	05	Mauriac	Septième vice-président du conseil départemental	20	Employés (secteur privé)	25/1/1957	2/4/2015	17/7/2017
 15	CANTAL	CHEVALEYRE	Daniel	M	15	Ydes		58	Retraités agricoles	22/12/1947	2/4/2015	
-15	CANTAL	CORNET	Roland	M	02	Aurillac-1		62	Retraités de l'enseignement	17/6/1950	2/4/2015	
 15	CANTAL	COSTES	Josiane	F	04	Aurillac-3		62	Retraités de l'enseignement	23/8/1947	2/4/2015	
 15	CANTAL	DELCROS	Bernard	M	07	Murat		42	Professeurs du secondaire et techn.	12/2/1953	2/4/2015	
 15	CANTAL	DELRIEU-TOURTOULOU	Annie	F	14	Vic-sur-Cère		57	Sans profession déclarée	10/11/1961	2/4/2015	
@@ -717,7 +717,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 18	CHER	PROGIN	Nicole	F	07	Chârost	Septième vice-président du conseil départemental	47	Fonctionnaires de catégorie A	18/12/1946	2/4/2015	2/4/2015
 18	CHER	RICHER	Marie-Pierre	F	09	Dun-sur-Auron		57	Sans profession déclarée	19/4/1963	2/4/2015	
 18	CHER	RIOTTE	Emmanuel	M	12	Saint-Amand-Montrond		48	Fonctionnaires de catégorie B	31/3/1962	2/4/2015	
-18	CHER	SAULNIER	Jean-Pierre	M	05	Bourges-3		62	Retraités de l'enseignement	4/2/1946	2/4/2015	
 18	CHER	VALLEE	Thierry	M	13	Saint-Doulchard	Dixième vice-président du conseil départemental	14	Agents technique et techniciens	10/2/1957	2/4/2015	2/4/2015
 19	CORREZE	ARFEUILLERE	Christophe	M	17	Ussel	Premier vice-président du conseil départemental	09	Commercants	2/8/1968	2/4/2015	2/4/2015
 19	CORREZE	AUDEGUIL	Agnès	F	07	Egletons		49	Fonctionnaires de catégorie C	15/1/1960	2/4/2015	
@@ -1363,6 +1362,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 34	HERAULT	HENRY	Gabrielle	F	16	Montpellier-2	Sixième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	1/5/1951	2/4/2015	2/4/2015
 34	HERAULT	IMBERT	Audrey	F	14	Mèze		01	Agriculteurs propriétaires exploit.	27/9/1978	2/4/2015	
 34	HERAULT	KHALI	Manaré	F	18	Montpellier-4		48	Fonctionnaires de catégorie B	6/1/1980	7/7/2017	
+34	HERAULT	LEVEQUE	Gaëlle	F	11	Lodève		38	Hommes de lettres et Artistes	20/3/1973	7/7/2019	
 34	HERAULT	LÉVY-RAMEAU	Chantal	F	15	Montpellier-1		24	Médecins	8/1/1960	2/4/2015	
 34	HERAULT	MALEK	Jérémie	M	19	Montpellier-5		22	Assistantes sociales	11/4/1972	2/4/2015	
 34	HERAULT	MANOGIL	Franck	M	04	Béziers-3		20	Employés (secteur privé)	7/12/1982	2/4/2015	
@@ -2255,6 +2255,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 56	MORBIHAN	MARTIN	Marie-Annick	F	16	Questembert		65	Autres retraités	7/10/1942	2/4/2015	
 56	MORBIHAN	MAUGAIN	Annick	F	03	Grand-Champ		61	Retraités salariés privés	20/9/1947	2/4/2015	
 56	MORBIHAN	MELIN	Brigitte	F	12	Ploemeur		44	Professions rattachées à enseignt.	23/5/1959	2/4/2015	
+56	MORBIHAN	MOLLO	Karine	F	08	Lorient-1	Autre membre commission permanente	57	Sans profession déclarée	11/5/1974	2/4/2015	2/4/2015
 56	MORBIHAN	NADEAU	Michèle	F	18	Séné		61	Retraités salariés privés	19/12/1948	2/4/2015	
 56	MORBIHAN	PENHOUET	Christine	F	19	Vannes-1	Onzième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	9/5/1962	2/4/2015	2/4/2015
 56	MORBIHAN	PERRAULT	Soizic	F	15	Pontivy	Neuvième vice-président du conseil départemental	42	Professeurs du secondaire et techn.	18/2/1977	2/4/2015	2/4/2015
@@ -2262,7 +2263,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 56	MORBIHAN	PIERRE	Gérard	M	17	Quiberon	Quatrième vice-président du conseil départemental	06	Administrateurs de sociétés	15/5/1951	2/4/2015	2/4/2015
 56	MORBIHAN	PRUNET	Florence	F	10	Moréac		44	Professions rattachées à enseignt.	21/8/1969	2/4/2015	
 56	MORBIHAN	QUÉRO	Benoît	M	15	Pontivy		27	Vétérinaires	7/9/1976	2/4/2015	
-56	MORBIHAN	RIGOLE	Karine	F	08	Lorient-1	Autre membre commission permanente	57	Sans profession déclarée	11/5/1974	2/4/2015	2/4/2015
 56	MORBIHAN	ROBELET	Fabrice	M	14	Pluvigner	Autre membre commission permanente	39	Autres professions libérales	24/9/1968	2/4/2015	2/4/2015
 56	MORBIHAN	ROBIN	Guénaël	M	10	Moréac	Autre membre commission permanente	51	Cadres (entreprises publiques)	9/8/1958	2/4/2015	2/4/2015
 56	MORBIHAN	TONNERRE	Laurent	M	09	Lorient-2		20	Employés (secteur privé)	8/7/1968	2/4/2015	
@@ -2273,7 +2273,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 57	MOSELLE	BITTE	Claude	M	20	Sarralbe		58	Retraités agricoles	21/9/1941	2/4/2015	
 57	MOSELLE	BOEGLEN	Patricia	F	19	Saint-Avold		44	Professions rattachées à enseignt.	19/1/1974	2/4/2015	
 57	MOSELLE	CALCARI-JEAN	Danielle	F	18	Rombas		19	Autres cadres (secteur privé)	20/10/1961	2/4/2015	
-57	MOSELLE	COLIN-OESTERLE	Nathalie	F	12	Metz-2	Second vice-président du conseil départemental	30	Notaires	5/5/1965	2/4/2015	2/4/2015
 57	MOSELLE	CORRADI	Luc	M	10	Hayange		61	Retraités salariés privés	2/8/1949	2/4/2015	
 57	MOSELLE	CRISTINELLI-FRAIBOEUF	Sonya	F	20	Sarralbe	Huitième vice-président du conseil départemental	23	Salariés du secteur médical	12/7/1952	2/4/2015	2/4/2015
 57	MOSELLE	CUNAT	Jean-Claude	M	22	Sarreguemines	Quinzième vice-président du conseil départemental	42	Professeurs du secondaire et techn.	18/6/1956	2/4/2015	2/4/2015
@@ -2326,6 +2325,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 58	NIEVRE	BAZIN	Fabien	M	04	Corbigny	Second vice-président du conseil départemental	54	Permanents politiques	10/1/1967	6/11/2017	6/11/2017
 58	NIEVRE	BERTRAND	Myrianne	F	14	Nevers-4		08	Agents immobiliers	28/12/1963	2/4/2015	
 58	NIEVRE	BÉZÉ	Stéphanie	F	07	Fourchambault		40	Etudiants	23/4/1976	2/4/2015	
+58	NIEVRE	BISSCHOP	Pierre	M	13	Nevers-3		01	Agriculteurs propriétaires exploit.	18/9/1991	11/2/2019	
 58	NIEVRE	BOIRIN	Carole	F	13	Nevers-3		29	Avocats	11/5/1967	2/4/2015	
 58	NIEVRE	BOUCHARD	Corinne	F	08	Guérigny		42	Professeurs du secondaire et techn.	4/11/1958	9/10/2016	
 58	NIEVRE	BOURGEOIS	Daniel	M	12	Nevers-2	Quatrième vice-président du conseil départemental	18	Cadres supérieurs (secteur privé)	5/11/1959	6/11/2017	6/11/2017
@@ -2351,7 +2351,6 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 58	NIEVRE	MOREL	Philippe	M	14	Nevers-4		60	Retraités des professions libérales	2/12/1939	2/4/2015	
 58	NIEVRE	MULOT	Michel	M	10	Luzy	Neuvième vice-président du conseil départemental	61	Retraités salariés privés	16/1/1954	6/11/2017	6/11/2017
 58	NIEVRE	NOLOT	Philippe	M	03	Clamecy		24	Médecins	17/11/1947	2/4/2015	
-58	NIEVRE	ROSTEIN	Daniel	M	13	Nevers-3		60	Retraités des professions libérales	16/9/1942	2/4/2015	
 58	NIEVRE	VENEAU	Michel	M	05	Cosne-Cours-sur-Loire		58	Retraités agricoles	15/8/1949	2/4/2015	
 58	NIEVRE	VERIN	Anne	F	04	Corbigny		43	Enseignants 1er deg.-directeurs école	11/2/1982	2/4/2015	
 59	NORD	ARLABOSSE	Martine	F	17	Dunkerque-2		05	Industriels-Chefs entreprise	9/9/1961	2/4/2015	
@@ -2507,7 +2506,7 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 61	ORNE	METAYER	Béatrice	F	17	Radon		01	Agriculteurs propriétaires exploit.	30/1/1979	2/4/2015	
 61	ORNE	MEUNIER	Catherine	F	11	Domfront		19	Autres cadres (secteur privé)	26/12/1965	2/4/2015	
 61	ORNE	MONHEE	Guy	M	20	Tourouvre	Cinquième vice-président du conseil départemental	59	Retr.artis.commerc.chefs d'entrep.	10/10/1944	2/4/2015	2/4/2015
-61	ORNE	NURY	Jérôme	M	11	Domfront	Premier vice-président du conseil départemental	56	Autres professions	25/8/1972	2/4/2015	2/4/2015
+61	ORNE	NURY	Jérôme	M	11	Domfront		56	Autres professions	25/8/1972	2/4/2015	
 61	ORNE	OLIVEIRA	Maryse	F	15	Magny-le-Désert	Troisième vice-président du conseil départemental	47	Fonctionnaires de catégorie A	27/11/1958	2/4/2015	2/4/2015
 61	ORNE	PAVIS	Jean-Claude	M	02	Alençon-1		62	Retraités de l'enseignement	15/7/1952	2/4/2015	
 61	ORNE	RENARD	Charlène	F	01	L'Aigle	Septième vice-président du conseil départemental	20	Employés (secteur privé)	13/5/1987	2/4/2015	2/4/2015
@@ -2826,17 +2825,17 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 67	BAS RHIN	WOLFHUGEL	Christiane	F	03	Brumath		63	Retraités fonct.publique (sf enseig.)	22/9/1957	2/4/2015	
 67	BAS RHIN	ZAEGEL	Sébastien	M	09	Lingolsheim		60	Retraités des professions libérales	29/11/1954	2/4/2015	
 68	HAUT RHIN	ADRIAN	Daniel	M	02	Brunstatt	Autre membre commission permanente	18	Cadres supérieurs (secteur privé)	3/4/1954	2/4/2015	2/4/2015
-68	HAUT RHIN	BIHL	Pierre	M	15	Sainte-Marie-aux-Mines	Septième vice-président du conseil départemental	61	Retraités salariés privés	19/2/1951	2/4/2015	2/4/2015
+68	HAUT RHIN	BIHL	Pierre	M	15	Sainte-Marie-aux-Mines	Cinquième vice-président du conseil départemental	61	Retraités salariés privés	19/2/1951	2/4/2015	2/4/2015
 68	HAUT RHIN	BOHN	Patricia	F	13	Rixheim	Autre membre commission permanente	59	Retr.artis.commerc.chefs d'entrep.	9/7/1958	2/4/2015	2/4/2015
 68	HAUT RHIN	COUCHOT	Alain	M	10	Mulhouse-1	Autre membre commission permanente	24	Médecins	25/6/1962	2/4/2015	2/4/2015
-68	HAUT RHIN	DELMOND	Max	M	14	Saint-Louis	Vice-président du conseil départemental	09	Commercants	8/8/1961	2/4/2015	2/4/2015
-68	HAUT RHIN	DIETRICH	Martine	F	04	Colmar-1	Autre membre commission permanente	63	Retraités fonct.publique (sf enseig.)	27/3/1955	2/4/2015	2/4/2015
-68	HAUT RHIN	DREXLER	Sabine	F	01	Altkirch	Autre membre commission permanente	43	Enseignants 1er deg.-directeurs école	17/8/1963	2/4/2015	2/4/2015
+68	HAUT RHIN	DELMOND	Max	M	14	Saint-Louis	Neuvième vice-président du conseil départemental	09	Commercants	8/8/1961	2/4/2015	1/9/2017
+68	HAUT RHIN	DIETRICH	Martine	F	04	Colmar-1		63	Retraités fonct.publique (sf enseig.)	27/3/1955	2/4/2015	
+68	HAUT RHIN	DREXLER	Sabine	F	01	Altkirch		43	Enseignants 1er deg.-directeurs école	17/8/1963	2/4/2015	
 68	HAUT RHIN	FERRARI	Pascal	M	03	Cernay		05	Industriels-Chefs entreprise	11/4/1964	31/12/2017	
-68	HAUT RHIN	GRAPPE	Alain	M	07	Guebwiller	Neuvième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	3/3/1948	2/4/2015	2/4/2015
+68	HAUT RHIN	GRAPPE	Alain	M	07	Guebwiller	Septième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	3/3/1948	2/4/2015	2/4/2015
 68	HAUT RHIN	GROFF	Bernadette	F	02	Brunstatt	Quatrième vice-président du conseil départemental	48	Fonctionnaires de catégorie B	8/2/1959	2/4/2015	2/4/2015
 68	HAUT RHIN	HABIG	Michel	M	06	Ensisheim	Troisième vice-président du conseil départemental	58	Retraités agricoles	16/2/1947	2/4/2015	2/4/2015
-68	HAUT RHIN	HAGENBACH	Vincent	M	08	Kingersheim	Autre membre commission permanente	28	Pharmaciens	10/11/1966	2/4/2015	2/4/2015
+68	HAUT RHIN	HAGENBACH	Vincent	M	08	Kingersheim		28	Pharmaciens	10/11/1966	2/4/2015	
 68	HAUT RHIN	HELDERLÉ	Émilie	F	15	Sainte-Marie-aux-Mines	Autre membre commission permanente	43	Enseignants 1er deg.-directeurs école	7/4/1976	2/4/2015	2/4/2015
 68	HAUT RHIN	HEMEDINGER	Yves	M	04	Colmar-1	Autre membre commission permanente	54	Permanents politiques	23/10/1965	2/4/2015	2/4/2015
 68	HAUT RHIN	JANDER	Nicolas	M	01	Altkirch	Autre membre commission permanente	29	Avocats	5/6/1971	2/4/2015	2/4/2015
@@ -2845,17 +2844,17 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 68	HAUT RHIN	LUTENBACHER	Annick	F	03	Cernay	Autre membre commission permanente	20	Employés (secteur privé)	30/8/1955	2/4/2015	2/4/2015
 68	HAUT RHIN	MARTIN	Monique	F	16	Wintzenheim	Autre membre commission permanente	63	Retraités fonct.publique (sf enseig.)	22/7/1949	2/4/2015	2/4/2015
 68	HAUT RHIN	MEHLEN-VETTER	Josiane	F	08	Kingersheim	Second vice-président du conseil départemental	42	Professeurs du secondaire et techn.	21/9/1957	2/4/2015	2/4/2015
-68	HAUT RHIN	MILLION	Lara	F	12	Mulhouse-3	Huitième vice-président du conseil départemental	47	Fonctionnaires de catégorie A	11/11/1968	2/4/2015	2/4/2015
-68	HAUT RHIN	MULLER	Betty	F	06	Ensisheim	Autre membre commission permanente	49	Fonctionnaires de catégorie C	17/8/1960	2/4/2015	2/4/2015
+68	HAUT RHIN	MILLION	Lara	F	12	Mulhouse-3	Sixième vice-président du conseil départemental	47	Fonctionnaires de catégorie A	11/11/1968	2/4/2015	2/4/2015
+68	HAUT RHIN	MULLER	Betty	F	06	Ensisheim		49	Fonctionnaires de catégorie C	17/8/1960	2/4/2015	
 68	HAUT RHIN	MULLER	Lucien	M	16	Wintzenheim	Autre membre commission permanente	61	Retraités salariés privés	6/1/1952	2/4/2015	2/4/2015
 68	HAUT RHIN	MUNCK	Marc	M	13	Rixheim		18	Cadres supérieurs (secteur privé)	26/8/1954	11/9/2017	
 68	HAUT RHIN	ORLANDI	Fabienne	F	09	Masevaux	Autre membre commission permanente	48	Fonctionnaires de catégorie B	16/6/1962	2/4/2015	2/4/2015
-68	HAUT RHIN	PAGLIARULO	Karine	F	07	Guebwiller	Vice-président du conseil départemental	57	Sans profession déclarée	5/9/1961	2/4/2015	2/4/2015
-68	HAUT RHIN	RAPP	Catherine	F	10	Mulhouse-1	Autre membre commission permanente	57	Sans profession déclarée	17/9/1960	2/4/2015	2/4/2015
+68	HAUT RHIN	PAGLIARULO	Karine	F	07	Guebwiller	Dixième vice-président du conseil départemental	57	Sans profession déclarée	5/9/1961	2/4/2015	1/9/2017
+68	HAUT RHIN	RAPP	Catherine	F	10	Mulhouse-1		57	Sans profession déclarée	17/9/1960	2/4/2015	
 68	HAUT RHIN	SCHITTLY	Marc	M	12	Mulhouse-3	Autre membre commission permanente	24	Médecins	20/2/1950	2/4/2015	2/4/2015
-68	HAUT RHIN	SCHMIDIGER	Pascale	F	14	Saint-Louis	Dixième vice-président du conseil départemental	54	Permanents politiques	15/9/1961	2/4/2015	2/4/2015
-68	HAUT RHIN	TRIMAILLE	Philippe	M	11	Mulhouse-2	Autre membre commission permanente	42	Professeurs du secondaire et techn.	10/5/1961	2/4/2015	2/4/2015
-68	HAUT RHIN	VALLAT	Marie-France	F	17	Wittenheim	Autre membre commission permanente	47	Fonctionnaires de catégorie A	13/11/1952	2/4/2015	2/4/2015
+68	HAUT RHIN	SCHMIDIGER	Pascale	F	14	Saint-Louis	Huitième vice-président du conseil départemental	54	Permanents politiques	15/9/1961	2/4/2015	1/9/2017
+68	HAUT RHIN	TRIMAILLE	Philippe	M	11	Mulhouse-2		42	Professeurs du secondaire et techn.	10/5/1961	2/4/2015	
+68	HAUT RHIN	VALLAT	Marie-France	F	17	Wittenheim		47	Fonctionnaires de catégorie A	13/11/1952	2/4/2015	
 68	HAUT RHIN	VOGT	Pierre	M	17	Wittenheim	Autre membre commission permanente	62	Retraités de l'enseignement	5/5/1949	2/4/2015	2/4/2015
 68	HAUT RHIN	WITH	Rémi	M	09	Masevaux	Premier vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	4/10/1949	2/4/2015	2/4/2015
 69	RHONE	AGARRAT	Christiane	F	05	Brignais	Septième vice-président du conseil départemental	63	Retraités fonct.publique (sf enseig.)	18/7/1953	2/4/2015	1/6/2016
