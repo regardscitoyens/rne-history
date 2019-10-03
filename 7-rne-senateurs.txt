@@ -89,9 +89,9 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 33	GIRONDE	CARTRON	Françoise	F	27/3/1949	62	Retraités de l'enseignement	1/10/2014
 33	GIRONDE	CAZABONNE	Alain	M	25/8/1944	06	Administrateurs de sociétés	1/10/2014
 33	GIRONDE	DELATTRE	Nathalie	F	2/12/1968	57	Sans profession déclarée	1/10/2014
+33	GIRONDE	GILLE	Hervé	M	9/10/1960	18	Cadres supérieurs (secteur privé)	28/8/2019
 33	GIRONDE	HARRIBEY	Laurence	F	8/2/1953	61	Retraités salariés privés	1/10/2014
 33	GIRONDE	LASSARADE	Florence	F	18/8/1957	24	Médecins	1/10/2014
-33	GIRONDE	MADRELLE	Philippe	M	21/4/1937	62	Retraités de l'enseignement	1/10/2014
 34	HERAULT	BRUGUIERE	Marie-Thérèse	F	26/10/1942	63	Retraités fonct.publique (sf enseig.)	1/10/2014
 34	HERAULT	CABANEL	Henri	M	9/3/1959	01	Agriculteurs propriétaires exploit.	1/10/2014
 34	HERAULT	CONSTANT	Agnès	F	16/4/1962	58	Retraités agricoles	1/7/2019
