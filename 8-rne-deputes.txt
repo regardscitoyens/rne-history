@@ -205,7 +205,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 42	LOIRE	06	6ème circonscription	BOROWCZYK	Julien	M	2/5/1979	24	Médecins	18/6/2017
 43	HAUTE LOIRE	01	1ère circonscription	VALENTIN	Isabelle	F	20/1/1962	02	Salariés agricoles	18/6/2017
 43	HAUTE LOIRE	02	2ème circonscription	VIGIER	Jean-Pierre	M	22/10/1969	47	Fonctionnaires de catégorie A	18/6/2017
-44	LOIRE ATLANTIQUE	01	1ère circonscription	BELHAMITI	Mounir	M	8/3/1985	13	Ingénieurs	5/10/2018
+44	LOIRE ATLANTIQUE	01	1ère circonscription	DE RUGY	François	M	6/12/1973	54	Permanents politiques	17/8/2019
 44	LOIRE ATLANTIQUE	02	2ème circonscription	OPPELT	Valérie	F	10/12/1973	06	Administrateurs de sociétés	18/6/2017
 44	LOIRE ATLANTIQUE	03	3ème circonscription	BRUNET	Anne-France	F	12/6/1962	31	Huissiers	18/6/2017
 44	LOIRE ATLANTIQUE	04	4ème circonscription	AMADOU	Aude	F	29/2/1980	20	Employés (secteur privé)	18/6/2017
@@ -462,7 +462,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 84	VAUCLUSE	04	4ème circonscription	LORHO	Marie-France	F	15/12/1964	39	Autres professions libérales	22/8/2017
 84	VAUCLUSE	05	5ème circonscription	AUBERT	Julien	M	11/6/1978	46	Grands corps de l'état	18/6/2017
 85	VENDEE	01	1ère circonscription	LATOMBE	Philippe	M	21/4/1975	18	Cadres supérieurs (secteur privé)	18/6/2017
-85	VENDEE	02	2ème circonscription	GALLERNEAU	Patricia	F	9/9/1954	63	Retraités fonct.publique (sf enseig.)	18/6/2017
+85	VENDEE	02	2ème circonscription	LOISEAU	Patrick	M	8/5/1960	50	Cadres sup. (entreprises publiques)	7/7/2019
 85	VENDEE	03	3ème circonscription	BUCHOU	Stéphane	M	14/3/1974	18	Cadres supérieurs (secteur privé)	18/6/2017
 85	VENDEE	04	4ème circonscription	LEGUILLE-BALLOY	Martine	F	6/9/1957	29	Avocats	18/6/2017
 85	VENDEE	05	5ème circonscription	HENRIET	Pierre	M	26/11/1991	42	Professeurs du secondaire et techn.	18/6/2017
@@ -493,7 +493,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 91	ESSONNE	09	9ème circonscription	GUÉVENOUX	Marie	F	2/11/1976	57	Sans profession déclarée	18/6/2017
 91	ESSONNE	10	10ème circonscription	RAPHAN	Pierre-Alain	M	6/4/1983	39	Autres professions libérales	18/6/2017
 92	HAUTS DE SEINE 	01	1ère circonscription	FAUCILLON	Elsa	F	6/8/1981	20	Employés (secteur privé)	18/6/2017
-92	HAUTS DE SEINE 	02	2ème circonscription	TAQUET	Adrien	M	3/1/1977	37	Journalistes et autres médias	18/6/2017
+92	HAUTS DE SEINE 	02	2ème circonscription	PÉTELLE	Bénédicte	F	4/6/1971	43	Enseignants 1er deg.-directeurs école	26/2/2019
 92	HAUTS DE SEINE 	03	3ème circonscription	HENNION	Christine	F	23/8/1955	18	Cadres supérieurs (secteur privé)	18/6/2017
 92	HAUTS DE SEINE 	04	4ème circonscription	FLORENNES	Isabelle	F	2/8/1967	47	Fonctionnaires de catégorie A	18/6/2017
 92	HAUTS DE SEINE 	05	5ème circonscription	CALVEZ	Céline	F	24/7/1979	39	Autres professions libérales	18/6/2017
