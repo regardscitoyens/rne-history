@@ -1,7 +1,7 @@
 Titre du rapport
 CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat
 00	France entière	ALFONSI	François	M	14/9/1953	50	Cadres sup. (entreprises publiques)	2/7/2019
-00	France entière	ANDRIEU	Eric	M	14/4/1960	56	Autres professions	2/7/2019
+00	France entière	ANDRIEU	Éric	M	14/4/1960	54	Permanents politiques	2/7/2019
 00	France entière	ANDROUËT	Mathilde	F	3/7/1984	20	Employés (secteur privé)	2/7/2019
 00	France entière	AUBRY	Manon	F	22/12/1989	19	Autres cadres (secteur privé)	2/7/2019
 00	France entière	BARDELLA	Jordan	M	13/9/1995	54	Permanents politiques	2/7/2019
@@ -46,7 +46,6 @@ CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	
 00	France entière	KARLESKIND	Pierre	M	19/10/1979	56	Autres professions	2/7/2019
 00	France entière	KELLER	Fabienne	F	20/10/1959	47	Fonctionnaires de catégorie A	2/7/2019
 00	France entière	LALUCQ	Aurore	F	17/4/1979	18	Cadres supérieurs (secteur privé)	2/7/2019
-00	France entière	LAPORTE	Hélène	F	29/12/1978	19	Autres cadres (secteur privé)	2/7/2019
 00	France entière	LARROUTUROU	Pierre	M	19/10/1964	56	Autres professions	2/7/2019
 00	France entière	LEBRETON	Gilles	M	11/10/1958	41	Professeurs de faculté	2/7/2019
 00	France entière	LECHANTEUX	Julie	F	22/12/1977	57	Sans profession déclarée	2/7/2019
@@ -57,6 +56,7 @@ CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	
 00	France entière	MORANO	Nadine	F	6/11/1963	05	Industriels-Chefs entreprise	2/7/2019
 00	France entière	OLIVIER	Philippe	M	30/8/1961	54	Permanents politiques	2/7/2019
 00	France entière	OMARJEE	Younous	M	30/9/1969	54	Permanents politiques	2/7/2019
+00	France entière	PAIN	Hélène	F	29/12/1978	51	Cadres (entreprises publiques)	2/7/2019
 00	France entière	PELLETIER	Anne-Sophie	F	5/2/1976	21	Ouvriers (secteur privé)	2/7/2019
 00	France entière	PIRBAKAS-GRISONI	Maxette	F	14/4/1975	01	Agriculteurs propriétaires exploit.	2/7/2019
 00	France entière	RIQUET	Dominique	M	18/9/1946	65	Autres retraités	2/7/2019
