@@ -1,12 +1,12 @@
 Titre du rapport
 CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat
-00	France entière	ALFONSI	François	M	14/9/1953	150	Cadres sup. (entreprises publiques) (obsolète)	2/7/2019
+00	France entière	ALFONSI	François	M	14/9/1953	38	Ingénieurs et cadres techniques d'entreprise	2/7/2019
 00	France entière	ANDRIEU	Éric	M	14/4/1960	154	Permanents politiques (obsolète)	2/7/2019
 00	France entière	ANDROUËT	Mathilde	F	3/7/1984	120	Employés (secteur privé) (obsolète)	2/7/2019
 00	France entière	AUBRY	Manon	F	22/12/1989	119	Autres cadres (secteur privé) (obsolète)	2/7/2019
 00	France entière	BARDELLA	Jordan	M	13/9/1995	154	Permanents politiques (obsolète)	2/7/2019
 00	France entière	BAY	Nicolas	M	21/12/1977	156	Autres professions (obsolète)	2/7/2019
-00	France entière	BEIGNEUX	Aurélia	F	2/6/1980	120	Employés (secteur privé) (obsolète)	2/7/2019
+00	France entière	BEIGNEUX	Aurélia	F	2/6/1980	43	Professions intermédiaires de la santé et du travail social	2/7/2019
 00	France entière	BELLAMY	François-Xavier	M	11/10/1985	142	Professeurs du secondaire et techn. (obsolète)	2/7/2019
 00	France entière	BIJOUX	Stéphane	M	8/10/1970	137	Journalistes et autres médias (obsolète)	2/7/2019
 00	France entière	BILDE	Dominique	F	1/8/1953	139	Autres professions libérales (obsolète)	2/7/2019
@@ -14,26 +14,26 @@ CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	
 00	France entière	BOMPARD	Manuel	M	30/3/1986	113	Ingénieurs (obsolète)	2/7/2019
 00	France entière	BOYER	Gilles	M	4/7/1971	154	Permanents politiques (obsolète)	2/7/2019
 00	France entière	BRUNA	Annika	F	26/11/1956	154	Permanents politiques (obsolète)	2/7/2019
-00	France entière	BRUNET	Sylvie	F	12/3/1959	141	Professeurs de faculté (obsolète)	2/7/2019
+00	France entière	BRUNET	Sylvie	F	12/3/1959	34	Professeurs, professions scientifiques	2/7/2019
 00	France entière	CANFIN	Pascal	M	22/8/1974	118	Cadres supérieurs (secteur privé) (obsolète)	2/7/2019
 00	France entière	CAREME	Damien	M	16/11/1960	156	Autres professions (obsolète)	2/7/2019
 00	France entière	CHABAUD	Catherine	F	29/11/1962	157	Sans profession déclarée (obsolète)	2/7/2019
 00	France entière	CHAIBI	Leïla	F	5/10/1982	147	Fonctionnaires de catégorie A (obsolète)	2/7/2019
-00	France entière	COLIN-OESTERLE	Nathalie	F	5/5/1965	130	Notaires (obsolète)	2/7/2019
+00	France entière	COLIN-OESTERLÉ	Nathalie	F	5/5/1965	31	Professions libérales	2/7/2019
 00	France entière	COLLARD	Gilbert	M	3/2/1948	129	Avocats (obsolète)	2/7/2019
 00	France entière	CORMAND	David	M	30/11/1974	157	Sans profession déclarée (obsolète)	2/7/2019
 00	France entière	DANJEAN	Arnaud	M	11/2/1971	147	Fonctionnaires de catégorie A (obsolète)	2/7/2019
-00	France entière	DECERLE	Jérémy	M	1/7/1984	101	Agriculteurs propriétaires exploit. (obsolète)	2/7/2019
+00	France entière	DECERLE	Jérémy	M	1/7/1984	12	Agriculteurs sur moyenne exploitation	2/7/2019
 00	France entière	DELBOS-CORFIELD	Gwendoline	F	8/3/1977	150	Cadres sup. (entreprises publiques) (obsolète)	2/7/2019
 00	France entière	DELLI	Karima	F	4/3/1979	151	Cadres (entreprises publiques) (obsolète)	2/7/2019
 00	France entière	DIDIER	Geoffroy	M	12/4/1976	129	Avocats (obsolète)	2/7/2019
 00	France entière	DURAND	Pascal	M	3/10/1960	129	Avocats (obsolète)	2/7/2019
-00	France entière	EVREN	Agnès	F	27/12/1970	105	Industriels-Chefs entreprise (obsolète)	2/7/2019
-00	France entière	FARRENG	Laurence	F	6/9/1966	151	Cadres (entreprises publiques) (obsolète)	2/7/2019
+00	France entière	EVREN	Agnès	F	27/12/1970	56	Personnels des services directs aux particuliers	2/7/2019
+00	France entière	FARRENG	Laurence	F	6/9/1966	37	Cadres administratifs et commerciaux d'entreprise	2/7/2019
 00	France entière	GARRAUD	Jean-Paul	M	27/2/1956	145	Magistrats (obsolète)	2/7/2019
 00	France entière	GLUCKSMANN	Raphaël	M	15/10/1979	138	Hommes de lettres et Artistes (obsolète)	2/7/2019
 00	France entière	GRISET	Catherine	F	20/8/1972	154	Permanents politiques (obsolète)	2/7/2019
-00	France entière	GRUDLER	Christophe	M	9/4/1965	137	Journalistes et autres médias (obsolète)	2/7/2019
+00	France entière	GRUDLER	Christophe	M	9/4/1965	22	Commerçants et assimilés	2/7/2019
 00	France entière	GUETTA	Bernard	M	28/1/1951	137	Journalistes et autres médias (obsolète)	2/7/2019
 00	France entière	GUILLAUME	Sylvie	F	11/6/1962	157	Sans profession déclarée (obsolète)	2/7/2019
 00	France entière	HAYER	Valérie	F	6/4/1986	119	Autres cadres (secteur privé) (obsolète)	2/7/2019
@@ -48,11 +48,11 @@ CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	
 00	France entière	LALUCQ	Aurore	F	17/4/1979	118	Cadres supérieurs (secteur privé) (obsolète)	2/7/2019
 00	France entière	LARROUTUROU	Pierre	M	19/10/1964	156	Autres professions (obsolète)	2/7/2019
 00	France entière	LEBRETON	Gilles	M	11/10/1958	141	Professeurs de faculté (obsolète)	2/7/2019
-00	France entière	LECHANTEUX	Julie	F	22/12/1977	157	Sans profession déclarée (obsolète)	2/7/2019
+00	France entière	LECHANTEUX	Julie	F	22/12/1977			2/7/2019
 00	France entière	LOISEAU	Nathalie	F	1/6/1964	147	Fonctionnaires de catégorie A (obsolète)	2/7/2019
 00	France entière	MARIANI	Thierry	M	8/8/1958	157	Sans profession déclarée (obsolète)	2/7/2019
 00	France entière	MAUREL	Emmanuel	M	10/3/1973	144	Professions rattachées à enseignt. (obsolète)	2/7/2019
-00	France entière	MÉLIN	Joëlle	F	26/3/1950	124	Médecins (obsolète)	2/7/2019
+00	France entière	MÉLIN	Joëlle	F	26/3/1950	31	Professions libérales	2/7/2019
 00	France entière	MORANO	Nadine	F	6/11/1963	105	Industriels-Chefs entreprise (obsolète)	2/7/2019
 00	France entière	OLIVIER	Philippe	M	30/8/1961	154	Permanents politiques (obsolète)	2/7/2019
 00	France entière	OMARJEE	Younous	M	30/9/1969	154	Permanents politiques (obsolète)	2/7/2019
