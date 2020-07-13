@@ -1,76 +1,76 @@
 Titre du rapport
 Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat	Libellé de fonction	Date de début de la fonction
-ANGELINI	Jean-Christophe	M	27/11/1975	109	Commercants (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
-ANGELINI BURESI	Vannina	F	29/12/1975	144	Professions rattachées à enseignt. (obsolète)	1/1/2018		
-ANTONINI	Danielle	F	5/9/1957	124	Médecins (obsolète)	1/1/2018		
-ARMANET	Guy	M	27/10/1964	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
+ANGELINI	Jean-Christophe	M	27/11/1975	22	Commerçants et assimilés	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+ANGELINI BURESI	Vannina	F	29/12/1975	42	Professeurs des écoles, instituteurs et assimilés	1/1/2018		
+ANTONINI	Danielle	F	5/9/1957	31	Professions libérales	1/1/2018		
+ARMANET	Guy	M	27/10/1964	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2018		
 ARRIGHI	Véronique	F	23/1/1974	120	Employés (secteur privé) (obsolète)	2/1/2018		
-BENEDETTI	François	M	17/10/1947	124	Médecins (obsolète)	2/1/2018		
+BENEDETTI	François	M	17/10/1947	31	Professions libérales	2/1/2018		
 BERNARDI	François	M	29/7/1958	147	Fonctionnaires de catégorie A (obsolète)	1/1/2018		
-BIANCUCCI	Jean	M	8/5/1948	110	Artisans (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
-BORROMEI	Vanina	F	10/8/1978	105	Industriels-Chefs entreprise (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
-BOZZI	Valérie	F	18/3/1982	129	Avocats (obsolète)	1/1/2018	Président de groupe	2/1/2018
+BIANCUCCI	Jean	M	8/5/1948	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+BORROMEI	Vanina	F	10/8/1978	22	Commerçants et assimilés	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+BOZZI	Valérie	F	18/3/1982	31	Professions libérales	1/1/2018	Président de groupe	2/1/2018
 CARLOTTI	Pascal	M	25/7/1976	120	Employés (secteur privé) (obsolète)	1/1/2018		
-CASALTA	Jean-François	M	11/12/1974	129	Avocats (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-CASALTA	Mattea	F	15/5/1958	109	Commercants (obsolète)	1/1/2018	Second vice-président de Assemblée de Corse	2/1/2018
+CASALTA	Jean-François	M	11/12/1974	31	Professions libérales	1/1/2018	Autre membre commission permanente	2/1/2018
+CASALTA	Mattea	F	15/5/1958	22	Commerçants et assimilés	1/1/2018	Second vice-président de Assemblée de Corse	2/1/2018
 CASANOVA-SERVAS	Marie-Hélène	F	4/1/1969	129	Avocats (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-CECCOLI	François-Xavier	M	27/10/1968	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
-CESARI	Marcel	M	9/11/1951	101	Agriculteurs propriétaires exploit. (obsolète)	1/1/2018		
-COGNETTI-TURCHINI	Catherine	F	20/5/1964	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
+CECCOLI	François-Xavier	M	27/10/1968	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2018		
+CESARI	Marcel	M	9/11/1951	11	Agriculteurs sur petite exploitation	1/1/2018		
+COGNETTI TURCHINI	Catherine	F	20/5/1964	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2018		
 COLONNA	Romain	M	21/2/1982	141	Professeurs de faculté (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-COMBETTE	Christelle	F	16/3/1972	139	Autres professions libérales (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-DELPOUX	Jean-Louis	M	21/9/1950	165	Autres retraités (obsolète)	1/1/2018		
+COMBETTE	Christelle	F	16/3/1972	46	Professions intermédiaires administratives et commerciales des entreprises	1/1/2018	Autre membre commission permanente	2/1/2018
+DELPOUX	Jean-Louis	M	21/9/1950	74	Anciens cadres	1/1/2018		
 DE ROCCA SERRA	Camille	M	21/5/1954	157	Sans profession déclarée (obsolète)	1/1/2018		
 DUVAL	Santa	F	8/1/1967	109	Commercants (obsolète)	1/1/2018		
 FAGNI	Muriel	F	12/9/1958	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2018		
 FAZI	Bianca	F	10/10/1960	124	Médecins (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
-FELICIAGGI	Isabelle	F	20/3/1973	148	Fonctionnaires de catégorie B (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-FILIPPUTTI	Pierre-José	M	10/1/1975	142	Professeurs du secondaire et techn. (obsolète)	1/1/2018		
-FURIOLI	Laura	F	30/3/1985	129	Avocats (obsolète)	2/1/2018		
+FELICIAGGI	Isabelle	F	20/3/1973	33	Cadres de la fonction publique	1/1/2018	Autre membre commission permanente	2/1/2018
+FILIPPUTTI	Pierre-José	M	10/1/1975	34	Professeurs, professions scientifiques	1/1/2018		
+FURIOLI	Laura	F	30/3/1985	31	Professions libérales	2/1/2018		
 GHIONGA	Pierre	M	5/9/1957	124	Médecins (obsolète)	1/1/2018		
 GIACOMETTI	Josepha	F	5/8/1983	157	Sans profession déclarée (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
 GIOVANNINI	Fabienne	F	2/8/1962	157	Sans profession déclarée (obsolète)	1/1/2018		
-GIRASCHI	Michel	M	19/8/1975	109	Commercants (obsolète)	2/1/2018		
-GIUDICI	Francis	M	29/5/1956	101	Agriculteurs propriétaires exploit. (obsolète)	1/1/2018		
+GIRASCHI	Michel	M	19/8/1975	22	Commerçants et assimilés	2/1/2018		
+GIUDICI	Francis	M	29/5/1956	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2018		
 GRIMALDI	Stéphanie	F	27/5/1968	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2018		
-GUIDICELLI	Lauda	F	27/10/1985	147	Fonctionnaires de catégorie A (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+GUIDICELLI	Lauda	F	27/10/1985	33	Cadres de la fonction publique	1/1/2018	Conseiller exécutif de Corse	2/1/2018
 GUIDONI-DENSARI	Frédérique	F	7/5/1968	119	Autres cadres (secteur privé) (obsolète)	1/1/2018		
-GUISEPPI	Julie	F	23/9/1966	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
+GUISEPPI	Julie	F	23/9/1966	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2018		
 LACOMBE	Xavier	M	8/6/1965	144	Professions rattachées à enseignt. (obsolète)	1/1/2018		
-LEONETTI	Paul	M	30/7/1952	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
+LEONETTI	Paul	M	30/7/1952	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2018		
 LUCCHINI	Jean-Jacques	M	13/4/1964	101	Agriculteurs propriétaires exploit. (obsolète)	2/1/2018		
 LUCIANI	Pierre-Jean	M	8/3/1945	164	Retraités des entreprises publiques (obsolète)	1/1/2018		
-LUCIANI	Xavier	M	24/3/1958	142	Professeurs du secondaire et techn. (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
-MARIOTTI	Marie-Thérèse	F	17/9/1963	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
+LUCIANI	Xavier	M	24/3/1958	34	Professeurs, professions scientifiques	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+MARIOTTI	Marie Thérèse	F	17/9/1963	22	Commerçants et assimilés	1/1/2018		
 MAUPERTUIS	Marie-Antoinette	F	10/4/1967	141	Professeurs de faculté (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
 MINICONI	Paul	M	23/5/1956	119	Autres cadres (secteur privé) (obsolète)	2/1/2018		
-MONDOLONI	Jean-Martin	M	24/10/1968	144	Professions rattachées à enseignt. (obsolète)	1/1/2018	Président de groupe	2/1/2018
-MORTINI	Lionel	M	8/5/1969	101	Agriculteurs propriétaires exploit. (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+MONDOLONI	Jean-Martin	M	24/10/1968	34	Professeurs, professions scientifiques	1/1/2018	Président de groupe	2/1/2018
+MORTINI	Lionel	M	8/5/1969	12	Agriculteurs sur moyenne exploitation	1/1/2018	Conseiller exécutif de Corse	2/1/2018
 MOSCA	Paola	F	25/11/1976	143	Enseignants 1er deg.-directeurs école (obsolète)	2/1/2018		
 NIVAGGIONI	Nadine	F	13/2/1962	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-ORLANDI	François	M	1/11/1957	119	Autres cadres (secteur privé) (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-ORSUCCI	Jean-Charles	M	30/1/1972	148	Fonctionnaires de catégorie B (obsolète)	1/1/2018	Président de groupe	2/1/2018
+ORLANDI	François	M	1/11/1957	74	Anciens cadres	1/1/2018	Autre membre commission permanente	2/1/2018
+ORSUCCI	Jean-Charles	M	30/1/1972	45	Professions intermédiaires administratives de la fonction publique	1/1/2018	Président de groupe	2/1/2018
 PADOVANI	Marie-Hélène	F	8/11/1969	157	Sans profession déclarée (obsolète)	1/1/2018		
-PAOLINI	Julien	M	12/6/1977	141	Professeurs de faculté (obsolète)	2/1/2018		
-PARIGI	Paul	M	7/4/1966	156	Autres professions (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
+PAOLINI	Julien	M	12/6/1977	34	Professeurs, professions scientifiques	2/1/2018		
+PARIGI	Paul	M	7/4/1966	33	Cadres de la fonction publique	1/1/2018	Autre membre commission permanente	2/1/2018
 PEDINIELLI	Chantal	F	2/7/1964	119	Autres cadres (secteur privé) (obsolète)	1/1/2018		
 PIERI	Marie-Anne	F	24/2/1959	130	Notaires (obsolète)	1/1/2018		
-POLI	Antoine	M	16/9/1968	120	Employés (secteur privé) (obsolète)	1/1/2018		
+POLI	Antoine	M	16/9/1968	48	Contremaîtres, agents de maîtrise	1/1/2018		
 POLI	Laura Maria	F	2/9/1986	129	Avocats (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-POLI	Pierre	M	13/1/1958	152	Employés (autres entrep. publiques) (obsolète)	1/1/2018		
-PONZEVERA	Juliette	F	17/3/1982	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
-POZZO DI BORGO	Louis	M	24/4/1977	149	Fonctionnaires de catégorie C (obsolète)	1/1/2018		
+POLI	Pierre	M	13/1/1958	37	Cadres administratifs et commerciaux d'entreprise	1/1/2018		
+PONZEVERA	Juliette	F	17/3/1982	22	Commerçants et assimilés	1/1/2018		
+POZZO DI BORGO	Louis	M	24/4/1977	52	Employés civils et agents de service de la fonction publique	1/1/2018		
 PROSPERI	Rosa	F	19/8/1960	129	Avocats (obsolète)	1/1/2018	Autre membre commission permanente	2/1/2018
-PUCCI	Joseph	M	1/1/1964	109	Commercants (obsolète)	1/1/2018		
+PUCCI	Joseph	M	1/1/1964	22	Commerçants et assimilés	1/1/2018		
 RIERA	Catherine	F	18/12/1962	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2018		
-SANTUCCI	Anne-Laure	F	31/7/1965	143	Enseignants 1er deg.-directeurs école (obsolète)	1/1/2018		
-SARGENTINI	François	M	16/8/1953	157	Sans profession déclarée (obsolète)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
-SIMEONI	Gilles	M	20/4/1967	129	Avocats (obsolète)	1/1/2018	Président Conseil exécutif de Corse	2/1/2018
+SANTUCCI	Anne-Laure	F	31/7/1965	42	Professeurs des écoles, instituteurs et assimilés	1/1/2018		
+SARGENTINI	François	M	16/8/1953	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/1/2018	Conseiller exécutif de Corse	2/1/2018
+SIMEONI	Gilles	M	20/4/1967	31	Professions libérales	1/1/2018	Président Conseil exécutif de Corse	2/1/2018
 SIMEONI	Marie	F	27/8/1970	110	Artisans (obsolète)	2/1/2018		
 SIMONI	Pascale	F	10/10/1971	105	Industriels-Chefs entreprise (obsolète)	1/1/2018		
-STROMBONI	Jeanne	F	8/3/1961	118	Cadres supérieurs (secteur privé) (obsolète)	2/1/2018		
+STROMBONI	Jeanne	F	8/3/1961	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	2/1/2018		
 TALAMONI	Jean-Guy	M	6/5/1960	129	Avocats (obsolète)	1/1/2018	Président de Assemblée de Corse	2/1/2018
-TIBERI	Julia	F	9/10/1981	129	Avocats (obsolète)	2/1/2018		
+TIBERI	Julia	F	9/10/1981	31	Professions libérales	2/1/2018		
 TOMASI	Anne	F	2/3/1985	142	Professeurs du secondaire et techn. (obsolète)	1/1/2018		
 TOMASI	Petr'Antone	M	22/12/1987	148	Fonctionnaires de catégorie B (obsolète)	1/1/2018	Président de groupe	2/1/2018
 VANNI	Hyacinthe	M	27/10/1968	148	Fonctionnaires de catégorie B (obsolète)	1/1/2018	Premier vice-président de Assemblée de Corse	2/1/2018
