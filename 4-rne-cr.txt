@@ -71,7 +71,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 04	La Réunion	ZD	LA REUNION	PAYET	Vincent	M	29/3/1981	148	Fonctionnaires de catégorie B (obsolète)	13/12/2015	Troisième vice-président du conseil régional	16/2/2018
 04	La Réunion	ZD	LA REUNION	PICARDO	Bernard	M	12/11/1965	31	Professions libérales	13/12/2015	Septième vice-président du conseil régional	16/2/2018
 04	La Réunion	ZD	LA REUNION	PROFIL	Patricia	F	24/6/1963	143	Enseignants 1er deg.-directeurs école (obsolète)	13/12/2015	Autre membre commission permanente	16/2/2018
-04	La Réunion	ZD	LA REUNION	RAMASSAMY	Nadia	F	17/5/1961	31	Professions libérales	13/12/2015		
 04	La Réunion	ZD	LA REUNION	RIVIERE	Olivier	M	6/4/1979	33	Cadres de la fonction publique	13/12/2015	Premier vice-président du conseil régional	16/2/2018
 04	La Réunion	ZD	LA REUNION	RIVIERE	Sylviane	F	6/4/1958	165	Autres retraités (obsolète)	8/12/2016		
 04	La Réunion	ZD	LA REUNION	ROBERT	Didier	M	26/4/1964	52	Employés civils et agents de service de la fonction publique	13/12/2015	Président du conseil régional	13/12/2015
@@ -166,7 +165,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	Île-de-France	78	YVELINES	LEQUILLER	Pierre	M	4/12/1949	156	Autres professions (obsolète)	13/12/2015		
 11	Île-de-France	78	YVELINES	MESSIER	Anne	F	7/2/1971	156	Autres professions (obsolète)	13/12/2015		
 11	Île-de-France	78	YVELINES	MILLIENNE	Bruno	M	28/11/1959	118	Cadres supérieurs (secteur privé) (obsolète)	13/12/2015		
-11	Île-de-France	78	YVELINES	NASROU	Othman	M	13/7/1987	23	Chefs d'entreprise de 10 salariés ou plus	13/12/2015		
+11	Île-de-France	78	YVELINES	NASROU	Othman	M	13/7/1987	23	Chefs d'entreprise de 10 salariés ou plus	13/12/2015	Premier vice-président du conseil régional	10/7/2020
 11	Île-de-France	78	YVELINES	NAUTH	Cyril	M	19/12/1981	34	Professeurs, professions scientifiques	13/12/2015		
 11	Île-de-France	78	YVELINES	PECRESSE	Valérie	F	14/7/1967	33	Cadres de la fonction publique	13/12/2015	Président du conseil régional	18/12/2015
 11	Île-de-France	78	YVELINES	PERE-BRILLAULT	Anne	F	1/3/1961	156	Autres professions (obsolète)	13/12/2015		
@@ -209,7 +208,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 11	Île-de-France	92	HAUTS DE SEINE 	DAMERVAL	François	M	31/8/1979	31	Professions libérales	13/12/2015		
 11	Île-de-France	92	HAUTS DE SEINE 	D'ASTA	Nicolas	M	30/4/1964	152	Employés (autres entrep. publiques) (obsolète)	13/12/2015		
 11	Île-de-France	92	HAUTS DE SEINE 	DE LAVALETTE	Béatrice	F	20/9/1965	33	Cadres de la fonction publique	13/12/2015	Treizième vice-président du conseil régional	18/10/2017
-11	Île-de-France	92	HAUTS DE SEINE 	DENIZIOT	Pierre	M	19/9/1981	33	Cadres de la fonction publique	13/12/2015		
+11	Île-de-France	92	HAUTS DE SEINE 	DENIZIOT	Pierre	M	19/9/1981	33	Cadres de la fonction publique	13/12/2015	Quatorzième vice-président du conseil régional	10/7/2020
 11	Île-de-France	92	HAUTS DE SEINE 	DESCHIENS	Sophie	F	6/4/1962	23	Chefs d'entreprise de 10 salariés ou plus	13/12/2015		
 11	Île-de-France	92	HAUTS DE SEINE 	DIDIER	Geoffroy	M	12/4/1976	129	Avocats (obsolète)	13/12/2015		
 11	Île-de-France	92	HAUTS DE SEINE 	GABRIEL	Denis	M	17/7/1960	37	Cadres administratifs et commerciaux d'entreprise	13/12/2015		
@@ -485,6 +484,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 28	Normandie	14	CALVADOS	MEZERAY	Emmanuel	M	14/12/1967	62	Ouvriers qualifiés de type industriel	1/1/2016		
 28	Normandie	14	CALVADOS	MILLET	Marc	M	1/5/1971	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
 28	Normandie	14	CALVADOS	PORTE	Nathalie	F	2/2/1973	22	Commerçants et assimilés	1/1/2016		
+28	Normandie	14	CALVADOS	POUILLE	Frédéric	M	31/1/1968	33	Cadres de la fonction publique	10/11/2018		
 28	Normandie	14	CALVADOS	ROY	Jean-Philippe	M	5/3/1966	116	Représentants de commerce (obsolète)	1/1/2016		
 28	Normandie	14	CALVADOS	THOMAS	Rodolphe	M	8/8/1962	72	Anciens artisans, commerçants, chefs d'entreprise	1/1/2016	Quatrième vice-président du conseil régional	4/1/2016
 28	Normandie	14	CALVADOS	TOUGARD	Serge	M	15/11/1948	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/1/2016		
@@ -598,7 +598,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	59	NORD	COUDEVYLLE	Sophie	F	9/12/1973	156	Autres professions (obsolète)	1/4/2019		
 32	Hauts-de-France	59	NORD	CREPEL	Bénédicte	F	3/10/1960	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
 32	Hauts-de-France	59	NORD	DANZIN	Jacques	M	20/2/1953	147	Fonctionnaires de catégorie A (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
-32	Hauts-de-France	59	NORD	DARMANIN	Gérald	M	11/10/1982	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
 32	Hauts-de-France	59	NORD	DELBAR	Guillaume	M	17/5/1971	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016	Dixième vice-président du conseil régional	23/11/2017
 32	Hauts-de-France	59	NORD	DELEBARRE	Christelle	F	4/8/1974	152	Employés (autres entrep. publiques) (obsolète)	1/1/2016		
 32	Hauts-de-France	59	NORD	DE MEREUIL	Hortense	F	12/3/1965	119	Autres cadres (secteur privé) (obsolète)	1/1/2016		
@@ -646,6 +645,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	59	NORD	ROSEZ	Virginie	F	11/4/1969	120	Employés (secteur privé) (obsolète)	1/1/2016		
 32	Hauts-de-France	59	NORD	SAHRAOUI	Rachida	F	26/6/1963	157	Sans profession déclarée (obsolète)	1/1/2016		
 32	Hauts-de-France	59	NORD	SALMON	Alexis	M	31/3/1984	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016		
+32	Hauts-de-France	59	NORD	SILLANI	Antoine	M	13/3/1991	33	Cadres de la fonction publique	29/7/2020		
 32	Hauts-de-France	59	NORD	SIMÉON	Serge	M	28/7/1952	74	Anciens cadres	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	59	NORD	SIX	Valérie	F	11/1/1963	128	Pharmaciens (obsolète)	1/1/2016		
 32	Hauts-de-France	59	NORD	TEMPREMANT	Grégory	M	5/10/1978	31	Professions libérales	1/1/2016		
@@ -687,7 +687,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 32	Hauts-de-France	62	PAS DE CALAIS	DEFOSSE	Annie	F	5/1/1954	74	Anciens cadres	1/1/2016		
 32	Hauts-de-France	62	PAS DE CALAIS	DELBÉ	Olivier	M	30/11/1967	62	Ouvriers qualifiés de type industriel	1/1/2016		
 32	Hauts-de-France	62	PAS DE CALAIS	DEPREZ-AUDEBERT	Marguerite	F	17/5/1952	161	Retraités salariés privés (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
-32	Hauts-de-France	62	PAS DE CALAIS	DUMONT-DESEIGNE	Véronique	F	4/8/1955	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2016		
+32	Hauts-de-France	62	PAS DE CALAIS	DUMONT-DESEIGNE	Véronique	F	4/8/1955	74	Anciens cadres	1/1/2016		
 32	Hauts-de-France	62	PAS DE CALAIS	DUPAS-GIANNITRAPANI	Marie-Annick	F	29/6/1948	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	1/1/2016		
 32	Hauts-de-France	62	PAS DE CALAIS	DURIEZ	Marie-Christine	F	25/1/1956	48	Contremaîtres, agents de maîtrise	1/1/2016	Autre membre commission permanente	4/1/2016
 32	Hauts-de-France	62	PAS DE CALAIS	ELAZOUZI	Hakim	M	23/8/1986	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016		
@@ -756,7 +756,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 44	Grand Est	51	MARNE	BESSON	Thierry	M	2/4/1958	52	Employés civils et agents de service de la fonction publique	1/1/2016		
 44	Grand Est	51	MARNE	BONNE	Karine	F	17/2/1977	37	Cadres administratifs et commerciaux d'entreprise	18/5/2018		
 44	Grand Est	51	MARNE	CHEVALIER	Cédric	M	10/3/1973	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2016	Autre membre commission permanente	20/10/2017
-44	Grand Est	51	MARNE	DEMANGE	Cindy	F	18/3/1981	120	Employés (secteur privé) (obsolète)	1/1/2016		
+44	Grand Est	51	MARNE	DEMANGE	Cindy	F	18/3/1981	54	Employés administratifs d'entreprise	1/1/2016		
 44	Grand Est	51	MARNE	DUCHENE	Thibaut	M	24/3/1981	37	Cadres administratifs et commerciaux d'entreprise	13/7/2017		
 44	Grand Est	51	MARNE	ERRE	Pascal	M	6/10/1957	33	Cadres de la fonction publique	1/1/2016		
 44	Grand Est	51	MARNE	GOUTHIER	Emilie	F	3/12/1986	157	Sans profession déclarée (obsolète)	1/1/2016		
@@ -878,7 +878,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 44	Grand Est	68	HAUT RHIN	DE LACOSTE LAREYMONDIE	Marie Hélène	F	29/11/1973	157	Sans profession déclarée (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 44	Grand Est	68	HAUT RHIN	GANTER	Claudine	F	16/6/1966	147	Fonctionnaires de catégorie A (obsolète)	1/1/2016		
 44	Grand Est	68	HAUT RHIN	GERBER	Bernard	M	27/1/1955	147	Fonctionnaires de catégorie A (obsolète)	1/1/2016		
-44	Grand Est	68	HAUT RHIN	HOMÉ	Antoine	M	23/6/1965	33	Cadres de la fonction publique	1/1/2016	Autre membre commission permanente	4/1/2016
+44	Grand Est	68	HAUT RHIN	HOMÉ	Antoine	M	23/6/1965			1/1/2016	Autre membre commission permanente	4/1/2016
 44	Grand Est	68	HAUT RHIN	JORON	Virginie	F	11/12/1973	119	Autres cadres (secteur privé) (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 44	Grand Est	68	HAUT RHIN	KLEITZ	Francis	M	14/1/1961	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2016		
 44	Grand Est	68	HAUT RHIN	LAEMLIN-DELMOTTE	Martine	F	31/10/1958	142	Professeurs du secondaire et techn. (obsolète)	1/1/2016		
@@ -887,7 +887,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 44	Grand Est	68	HAUT RHIN	OMEYER	Jean-Paul	M	3/1/1949	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/1/2016	Onzième vice-président du conseil régional	20/10/2017
 44	Grand Est	68	HAUT RHIN	RISSER	Chantal	F	4/2/1951	75	Anciennes professions intermédiaires	1/1/2016	Autre membre commission permanente	4/1/2016
 44	Grand Est	68	HAUT RHIN	ROTTNER	Jean	M	28/1/1967	31	Professions libérales	1/1/2016	Président du conseil régional	20/10/2017
-44	Grand Est	68	HAUT RHIN	SCHWEITZER	Cléo	F	12/2/1965	123	Salariés du secteur médical (obsolète)	1/1/2016		
+44	Grand Est	68	HAUT RHIN	SCHWEITZER	Cléo	F	12/2/1965			1/1/2016		
 44	Grand Est	68	HAUT RHIN	STICH	Grégory	M	29/11/1984	48	Contremaîtres, agents de maîtrise	1/1/2016		
 44	Grand Est	68	HAUT RHIN	WENDLINGER	Laurent	M	29/10/1966	101	Agriculteurs propriétaires exploit. (obsolète)	1/1/2016		
 44	Grand Est	68	HAUT RHIN	WILHELM	Marion	F	26/1/1991	120	Employés (secteur privé) (obsolète)	1/1/2016		
@@ -1004,9 +1004,10 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 53	Bretagne	22	COTES D'ARMOR	BREARD	Georgette	F	7/11/1952	162	Retraités de l'enseignement (obsolète)	13/12/2015	Second vice-président du conseil régional	18/12/2015
 53	Bretagne	22	COTES D'ARMOR	BURLOT	Thierry	M	25/9/1959	147	Fonctionnaires de catégorie A (obsolète)	13/12/2015	Neuvième vice-président du conseil régional	22/6/2017
 53	Bretagne	22	COTES D'ARMOR	CADIOU	Gaby	F	4/2/1971	142	Professeurs du secondaire et techn. (obsolète)	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	CHAPPÉ	Fanny	F	27/11/1980	45	Professions intermédiaires administratives de la fonction publique	30/5/2017		
 53	Bretagne	22	COTES D'ARMOR	DE MELLON	Gérard	M	15/1/1947	23	Chefs d'entreprise de 10 salariés ou plus	13/12/2015		
 53	Bretagne	22	COTES D'ARMOR	DE SALLIER DUPIN	Stéphane	M	8/10/1968	33	Cadres de la fonction publique	13/12/2015	Autre membre commission permanente	18/12/2015
-53	Bretagne	22	COTES D'ARMOR	GUIGNARD	Sylvie	F	4/4/1961	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	13/12/2015		
+53	Bretagne	22	COTES D'ARMOR	GUELOU	Hervé	M	2/8/1961	12	Agriculteurs sur moyenne exploitation	24/7/2020		
 53	Bretagne	22	COTES D'ARMOR	HERCOUËT	Philippe	M	6/8/1960	33	Cadres de la fonction publique	13/12/2015		
 53	Bretagne	22	COTES D'ARMOR	LAHELLEC	Gérard	M	4/4/1954	114	Agents technique et techniciens (obsolète)	13/12/2015	Troisième vice-président du conseil régional	18/12/2015
 53	Bretagne	22	COTES D'ARMOR	LE FUR	Marc	M	28/11/1956	146	Grands corps de l'état (obsolète)	13/12/2015		
@@ -1036,7 +1037,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 53	Bretagne	29	FINISTERE	THOMAÏDIS	Renée	F	13/8/1957	152	Employés (autres entrep. publiques) (obsolète)	13/12/2015		
 53	Bretagne	29	FINISTERE	VIGOUROUX	Gaelle	F	22/7/1973	37	Cadres administratifs et commerciaux d'entreprise	13/12/2015		
 53	Bretagne	29	FINISTERE	VULPIANI	Sylvaine	F	19/9/1963	156	Autres professions (obsolète)	13/12/2015		
-53	Bretagne	35	ILLE ET VILAINE	BERROCHE	Eric	M	2/6/1959	121	Ouvriers (secteur privé) (obsolète)	13/12/2015		
 53	Bretagne	35	ILLE ET VILAINE	BRETEAU	Pierre	M	25/3/1970	38	Ingénieurs et cadres techniques d'entreprise	13/12/2015		
 53	Bretagne	35	ILLE ET VILAINE	CHESNAIS-GIRARD	Loïg	M	25/3/1977	37	Cadres administratifs et commerciaux d'entreprise	13/12/2015	Président du conseil régional	22/6/2017
 53	Bretagne	35	ILLE ET VILAINE	CROCQ	André	M	17/10/1956	38	Ingénieurs et cadres techniques d'entreprise	13/12/2015		
@@ -1115,6 +1115,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	19	CORREZE	BEZIAT	Françoise	F	8/12/1955	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	19	CORREZE	CAVITTE	Pascal	M	19/10/1968	33	Cadres de la fonction publique	1/1/2016		
 75	Nouvelle-Aquitaine	19	CORREZE	DELCOUDERC-JUILLARD	Nathalie	F	13/10/1969	147	Fonctionnaires de catégorie A (obsolète)	1/1/2016	Sixième vice-président du conseil régional	4/1/2016
+75	Nouvelle-Aquitaine	19	CORREZE	DINUCCI	José	M	13/2/1982	31	Professions libérales	15/1/2018		
 75	Nouvelle-Aquitaine	19	CORREZE	KASRI	Shamira	F	25/9/1965	33	Cadres de la fonction publique	10/6/2020		
 75	Nouvelle-Aquitaine	19	CORREZE	NAUCHE	Philippe	M	15/7/1957	124	Médecins (obsolète)	1/1/2016	Sixième vice-président du conseil régional	23/10/2017
 75	Nouvelle-Aquitaine	19	CORREZE	OZSOY	Mumine	F	20/8/1972	132	Conseillers juridiques (obsolète)	1/1/2016		
@@ -1150,7 +1151,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	33	GIRONDE	COLOMBIER	Jacques	M	17/2/1952	160	Retraités des professions libérales (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	CORSAN	Jean-Jacques	M	10/2/1949	162	Retraités de l'enseignement (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	D'AMECOURT	Yves	M	9/5/1968	101	Agriculteurs propriétaires exploit. (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
-75	Nouvelle-Aquitaine	33	GIRONDE	DELATTRE	Nathalie	F	2/12/1968	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	DIAZ	Edwige	F	15/10/1987	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	DORTHE	Philippe	M	5/6/1956	164	Retraités des entreprises publiques (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	DURAND	Pierre	M	16/2/1955	106	Administrateurs de sociétés (obsolète)	1/1/2016		
@@ -1167,8 +1167,10 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	33	GIRONDE	LATOURNERIE	Marie-Angélique	F	20/12/1962	128	Pharmaciens (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	LE GUEN	Nathalie	F	3/1/1975	142	Professeurs du secondaire et techn. (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	LE YONDRE	Nathalie	F	9/2/1966	33	Cadres de la fonction publique	1/1/2016		
+75	Nouvelle-Aquitaine	33	GIRONDE	LUMMEAUX	Bernard	M	1/10/1949	35	Professions de l'information, des arts et des spectacles	15/2/2018		
 75	Nouvelle-Aquitaine	33	GIRONDE	MALHERBE	Gonzague	M	31/3/1989	38	Ingénieurs et cadres techniques d'entreprise	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	MARCHAND	Régine	F	16/9/1952	161	Retraités salariés privés (obsolète)	1/1/2016		
+75	Nouvelle-Aquitaine	33	GIRONDE	METTE	Sophie	F	13/9/1959	157	Sans profession déclarée (obsolète)	2/11/2017		
 75	Nouvelle-Aquitaine	33	GIRONDE	MOEBS	Christine	F	27/10/1966	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	MOGA	Martine	F	9/12/1949	162	Retraités de l'enseignement (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	NEMBRINI	Jean-Louis	M	29/8/1947	162	Retraités de l'enseignement (obsolète)	1/1/2016	Septième vice-président du conseil régional	4/1/2016
@@ -1179,7 +1181,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	33	GIRONDE	SABAROT	Henri	M	17/8/1951	161	Retraités salariés privés (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	SEBTON	Aurélien	M	16/12/1984	154	Permanents politiques (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	SIARRI	Alexandra	F	6/3/1972	33	Cadres de la fonction publique	1/1/2016		
-75	Nouvelle-Aquitaine	33	GIRONDE	TARIS	Joan	M	4/11/1975	154	Permanents politiques (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	THIERRY	Nicolas	M	8/12/1975	156	Autres professions (obsolète)	1/1/2016	Quinzième vice-président du conseil régional	4/1/2016
 75	Nouvelle-Aquitaine	33	GIRONDE	TRIJOULET	Thierry	M	16/2/1959	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
 75	Nouvelle-Aquitaine	33	GIRONDE	VEYSSY	Catherine	F	13/2/1960	33	Cadres de la fonction publique	1/1/2016	Douzième vice-président du conseil régional	4/1/2016
@@ -1238,7 +1239,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 75	Nouvelle-Aquitaine	79	DEUX SEVRES	JUTEL	Elisabeth	F	26/3/1981	138	Hommes de lettres et Artistes (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	79	DEUX SEVRES	LANZI	Nathalie	F	6/2/1965	142	Professeurs du secondaire et techn. (obsolète)	1/1/2016	Second vice-président du conseil régional	4/1/2016
 75	Nouvelle-Aquitaine	79	DEUX SEVRES	MOREAU	Guy	M	12/9/1958	101	Agriculteurs propriétaires exploit. (obsolète)	1/1/2016		
-75	Nouvelle-Aquitaine	79	DEUX SEVRES	SABOURIN-BENELHADJ	Muriel	F	11/8/1965	122	Assistantes sociales (obsolète)	1/1/2016		
+75	Nouvelle-Aquitaine	79	DEUX SEVRES	SABOURIN	Muriel	F	11/8/1965	43	Professions intermédiaires de la santé et du travail social	1/1/2016		
 75	Nouvelle-Aquitaine	86	VIENNE	ABELIN	Véronique	F	28/10/1978	156	Autres professions (obsolète)	1/1/2016		
 75	Nouvelle-Aquitaine	86	VIENNE	CHARTIER	Olivier	M	30/5/1978	154	Permanents politiques (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 75	Nouvelle-Aquitaine	86	VIENNE	CIBERT	Cyril	M	9/11/1972	48	Contremaîtres, agents de maîtrise	1/1/2016		
@@ -1310,7 +1311,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 76	Occitanie	31	HAUTE GARONNE	BOLZAN	Jean-Jacques	M	12/8/1964	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
 76	Occitanie	31	HAUTE GARONNE	BOURGUET	Zina	F	18/2/1957	114	Agents technique et techniciens (obsolète)	1/1/2016		
 76	Occitanie	31	HAUTE GARONNE	BOUSSATON	Michel	M	28/8/1950	160	Retraités des professions libérales (obsolète)	1/1/2016		
-76	Occitanie	31	HAUTE GARONNE	BRIANCON	Philippe	M	14/1/1967	150	Cadres sup. (entreprises publiques) (obsolète)	1/1/2016		
+76	Occitanie	31	HAUTE GARONNE	BRIANCON	Philippe	M	14/1/1967	38	Ingénieurs et cadres techniques d'entreprise	1/1/2016		
 76	Occitanie	31	HAUTE GARONNE	BRIAND	Sacha	M	11/12/1969	31	Professions libérales	1/1/2016		
 76	Occitanie	31	HAUTE GARONNE	CARETTE	Didier	M	11/10/1950	165	Autres retraités (obsolète)	1/1/2016		
 76	Occitanie	31	HAUTE GARONNE	CARSALADE	Maïthé	F	2/3/1943	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
@@ -1472,10 +1473,9 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	26	DROME	THORAVAL	Marie-Hélène	F	3/6/1966	74	Anciens cadres	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	38	ISERE	AMOS	Olivier	M	9/2/1977	23	Chefs d'entreprise de 10 salariés ou plus	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	BADREDDINE	Chokri	M	1/7/1978	33	Cadres de la fonction publique	1/1/2016		
-84	Auvergne-Rhône-Alpes	38	ISERE	BERANGER	Nathalie	F	6/7/1967	151	Cadres (entreprises publiques) (obsolète)	1/1/2016		
+84	Auvergne-Rhône-Alpes	38	ISERE	BERANGER	Nathalie	F	6/7/1967	33	Cadres de la fonction publique	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	BOLVIN	Béatrix	F	18/2/1955	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	BOLZE MANTE	Catherine	F	12/3/1951	161	Retraités salariés privés (obsolète)	1/1/2016		
-84	Auvergne-Rhône-Alpes	38	ISERE	BONNARD	Olivier	M	10/7/1965	46	Professions intermédiaires administratives et commerciales des entreprises	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	BOUKAALA	Sarah	F	13/9/1979	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	38	ISERE	BREUIL	Alain	M	16/9/1958	113	Ingénieurs (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	BURGAZ	Muriel	F	9/11/1961	109	Commercants (obsolète)	1/1/2016		
@@ -1487,6 +1487,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	38	ISERE	FEYSSAGUET	Raymond	M	22/4/1945	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	FILIPPI	Lionel	M	23/11/1972	141	Professeurs de faculté (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	GEMMANI	Stéphane	M	20/2/1971	152	Employés (autres entrep. publiques) (obsolète)	1/1/2016		
+84	Auvergne-Rhône-Alpes	38	ISERE	GIRARD	Jean-Pierre	M	21/4/1951	23	Chefs d'entreprise de 10 salariés ou plus	13/8/2020		
 84	Auvergne-Rhône-Alpes	38	ISERE	GIRAUD	Eliane	F	12/3/1952	147	Fonctionnaires de catégorie A (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	38	ISERE	JOLLY	Alexis	M	22/12/1990	54	Employés administratifs d'entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	38	ISERE	KOVACS	Thierry	M	29/1/1969	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016		
@@ -1544,7 +1545,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	FOUGERE	Myriam	F	19/4/1964	162	Retraités de l'enseignement (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	FROMAGE	Catherine	F	3/9/1972	52	Employés civils et agents de service de la fonction publique	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	GISCARD D'ESTAING	Louis	M	20/10/1958	22	Commerçants et assimilés	1/1/2016		
-84	Auvergne-Rhône-Alpes	63	PUY DE DOME	GUELON -BEVILLARD	Caroline	F	15/9/1984	119	Autres cadres (secteur privé) (obsolète)	1/1/2016		
+84	Auvergne-Rhône-Alpes	63	PUY DE DOME	GUÉLON	Caroline	F	15/9/1984	38	Ingénieurs et cadres techniques d'entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	HORTEFEUX	Brice	M	11/5/1958	156	Autres professions (obsolète)	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	MEALLET	Roger Jean	M	3/3/1956	54	Employés administratifs d'entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	63	PUY DE DOME	PARRET	Fatima	F	5/7/1978	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2016		
@@ -1554,10 +1555,10 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	BERTHOUX	Béatrice	F	11/4/1968	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016	Troisième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	CHAVEROT	Bernard	M	10/4/1956	75	Anciennes professions intermédiaires	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	CONSTANT	Christiane	F	8/2/1948	74	Anciens cadres	1/1/2016		
+84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	COUTARD	Catherine	F	21/2/1961	33	Cadres de la fonction publique	24/7/2020		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	CRUZ	Sophie	F	11/9/1967	144	Professions rattachées à enseignt. (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	DESPRAS	Dominique	M	24/3/1976	12	Agriculteurs sur moyenne exploitation	1/1/2016		
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	HERNANDEZ	Christine	F	1/4/1960	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
-84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	KOHLHAAS	Jean-Charles	M	29/9/1964	31	Professions libérales	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	MARION	Agnès	F	7/6/1977	139	Autres professions libérales (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	THIEN	Jérémy	M	24/6/1971	11	Agriculteurs sur petite exploitation	1/1/2016	Autre membre commission permanente	27/6/2019
 84	Auvergne-Rhône-Alpes	69D	Rhône hors métropole de Lyon	VAGNIER	Nicole	F	19/11/1956	77	Anciens employés	1/1/2016		
@@ -1568,6 +1569,7 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BERRA	Nora	F	21/1/1963	139	Autres professions libérales (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BOUDAOUD	Farida	F	1/1/1966	116	Représentants de commerce (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BOUDOT	Christophe	M	7/8/1969	105	Industriels-Chefs entreprise (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BUFFARD	Laurent	M	19/10/1968	37	Cadres administratifs et commerciaux d'entreprise	9/7/2020		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	CHAMPEL	Romain	M	18/1/1987	156	Autres professions (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	COATIVY	Muriel	F	27/2/1966	22	Commerçants et assimilés	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	CONDEMINE-VUILLOT	Anne-Sophie	F	31/10/1960	118	Cadres supérieurs (secteur privé) (obsolète)	1/1/2016	Autre membre commission permanente	4/1/2016
@@ -1576,7 +1578,6 @@ Code région	Libellé de la région	Code du département	Libellé de département	Nom 
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DEBÛ	Raphaël	M	31/10/1981	37	Cadres administratifs et commerciaux d'entreprise	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DELACROIX	Pierre	M	4/9/1948	124	Médecins (obsolète)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DE MALLIARD	Alice	F	8/7/1970	151	Cadres (entreprises publiques) (obsolète)	1/1/2016		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	GASCON	Gilles	M	21/1/1967	22	Commerçants et assimilés	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	JARRY	Juliette	F	18/10/1981	105	Industriels-Chefs entreprise (obsolète)	1/1/2016	Septième vice-président du conseil régional	4/1/2016
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LAFORET	Catherine	F	6/2/1965	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/1/2016		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	LEVY	Fabienne	F	14/5/1959	139	Autres professions libérales (obsolète)	31/12/2019		
