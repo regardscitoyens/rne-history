@@ -1,107 +1,107 @@
 Titre du rapport
 Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code profession	Libellé de la profession	Date de début du mandat
-01	AIN	CHAIZE	Patrick	M	22/3/1963	156	Autres professions (obsolète)	1/10/2014
-01	AIN	GOY-CHAVENT	Sylvie	F	23/5/1963	34	Professeurs, professions scientifiques	1/10/2014
-01	AIN	MAZUIR	Rachel	M	12/2/1940	162	Retraités de l'enseignement (obsolète)	1/10/2014
-02	AISNE	DAUDIGNY	Yves	M	23/2/1947	162	Retraités de l'enseignement (obsolète)	1/10/2014
-02	AISNE	GRUNY	Pascale	F	18/2/1960	119	Autres cadres (secteur privé) (obsolète)	1/10/2014
-02	AISNE	LEFEVRE	Antoine	M	18/2/1966	37	Cadres administratifs et commerciaux d'entreprise	1/10/2014
-03	ALLIER	DERIOT	Gérard	M	1/11/1944	160	Retraités des professions libérales (obsolète)	1/10/2014
-03	ALLIER	MALHURET	Claude	M	8/3/1950	74	Anciens cadres	1/10/2014
-04	ALPES DE HAUTE PROVENCE	ROUX	Jean-Yves	M	18/1/1970	114	Agents technique et techniciens (obsolète)	1/10/2014
-05	HAUTES ALPES	MORHET-RICHAUD	Patricia	F	28/7/1961	48	Contremaîtres, agents de maîtrise	28/12/2014
-06	ALPES MARITIMES	DAUNIS	Marc	M	22/4/1955	34	Professeurs, professions scientifiques	1/10/2014
-06	ALPES MARITIMES	ESTROSI-SASSONE	Dominique	F	14/11/1958	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2014
-06	ALPES MARITIMES	GIUDICELLI	Colette	F	24/11/1943	157	Sans profession déclarée (obsolète)	1/10/2014
-06	ALPES MARITIMES	LELEUX	Jean-Pierre	M	8/5/1947	113	Ingénieurs (obsolète)	1/10/2014
-06	ALPES MARITIMES	LEROY	Henri	M	31/3/1945	74	Anciens cadres	1/10/2017
-07	ARDECHE	ANDRE	Catherine	F	17/12/1965	156	Autres professions (obsolète)	28/6/2020
-07	ARDECHE	DARNAUD	Mathieu	M	11/7/1975	46	Professions intermédiaires administratives et commerciales des entreprises	1/10/2014
-08	ARDENNES	HURE	Benoît	M	5/6/1953	101	Agriculteurs propriétaires exploit. (obsolète)	1/10/2014
-08	ARDENNES	LAMENIE	Marc	M	11/7/1956	46	Professions intermédiaires administratives et commerciales des entreprises	1/10/2014
-09	ARIEGE	DURAN	Alain	M	2/1/1958	162	Retraités de l'enseignement (obsolète)	1/10/2014
-10	AUBE	ADNOT	Philippe	M	25/8/1945	101	Agriculteurs propriétaires exploit. (obsolète)	1/10/2014
-10	AUBE	PERROT	Evelyne	F	22/6/1951	157	Sans profession déclarée (obsolète)	17/12/2017
-11	AUDE	COURTEAU	Roland	M	24/2/1943	162	Retraités de l'enseignement (obsolète)	1/10/2014
-11	AUDE	JOURDA	Gisèle	F	24/3/1955	33	Cadres de la fonction publique	1/10/2014
-12	AVEYRON	LUCHE	Jean-Claude	M	7/8/1952	119	Autres cadres (secteur privé) (obsolète)	1/10/2014
-12	AVEYRON	MARC	Alain	M	29/1/1957	74	Anciens cadres	1/10/2014
-13	BOUCHES DU RHONE	BERTRAND	Anne-Marie	F	27/11/1942	158	Retraités agricoles (obsolète)	1/10/2014
-13	BOUCHES DU RHONE	BORE	Patrick	M	9/11/1956	23	Chefs d'entreprise de 10 salariés ou plus	3/8/2020
-13	BOUCHES DU RHONE	EINAUDI	Michèle	F	26/6/1953	147	Fonctionnaires de catégorie A (obsolète)	4/8/2020
-13	BOUCHES DU RHONE	GARCIA	Danièle	F	12/3/1948	157	Sans profession déclarée (obsolète)	3/8/2020
-13	BOUCHES DU RHONE	GILLES	Bruno	M	26/12/1960	74	Anciens cadres	1/10/2014
-13	BOUCHES DU RHONE	GUERINI	Jean-Noël	M	1/1/1951	156	Autres professions (obsolète)	1/10/2014
-13	BOUCHES DU RHONE	JOUVE	Mireille	F	30/12/1960	34	Professeurs, professions scientifiques	1/10/2014
-13	BOUCHES DU RHONE	RAVIER	Stéphane	M	4/8/1969	54	Employés administratifs d'entreprise	1/10/2014
-14	CALVADOS	ALLIZARD	Pascal	M	19/12/1962	151	Cadres (entreprises publiques) (obsolète)	1/10/2014
-14	CALVADOS	DE LA PROVÔTÉ	Sonia	F	25/12/1968	34	Professeurs, professions scientifiques	1/10/2017
-14	CALVADOS	FERET	Corinne	F	17/9/1961	148	Fonctionnaires de catégorie B (obsolète)	11/6/2015
-15	CANTAL	COSTES	Josiane	F	23/8/1947	162	Retraités de l'enseignement (obsolète)	4/3/2019
-15	CANTAL	DELCROS	Bernard	M	12/2/1953	142	Professeurs du secondaire et techn. (obsolète)	6/9/2015
-16	CHARENTE	BONNEFOY	Nicole	F	11/8/1958	154	Permanents politiques (obsolète)	1/10/2014
-16	CHARENTE	BOUTANT	Michel	M	23/11/1956	34	Professeurs, professions scientifiques	1/10/2014
-17	CHARENTE MARITIME	IMBERT	Corinne	F	20/11/1958	31	Professions libérales	1/10/2014
-17	CHARENTE MARITIME	LALANDE	Bernard	M	6/4/1954	134	Experts comptables (obsolète)	1/10/2014
-17	CHARENTE MARITIME	LAURENT	Daniel	M	4/2/1949	105	Industriels-Chefs entreprise (obsolète)	1/10/2014
-18	CHER	POINTEREAU	Rémy	M	30/3/1953	71	Anciens agriculteurs exploitants	1/10/2014
-18	CHER	RICHER	Marie-Pierre	F	19/4/1963	157	Sans profession déclarée (obsolète)	4/3/2019
-19	CORREZE	CHASSEING	Daniel	M	10/4/1945	31	Professions libérales	1/10/2014
-19	CORREZE	NOUGEIN	Claude	M	4/12/1946	105	Industriels-Chefs entreprise (obsolète)	1/10/2014
-21	COTE D'OR	HOUPERT	Alain	M	13/8/1957	31	Professions libérales	1/10/2014
-21	COTE D'OR	LOISIER	Anne-Catherine	F	13/3/1969	37	Cadres administratifs et commerciaux d'entreprise	1/10/2014
-21	COTE D'OR	PATRIAT	François	M	21/3/1943	31	Professions libérales	1/10/2014
-22	COTES D'ARMOR	BOTREL	Yannick	M	9/12/1951	156	Autres professions (obsolète)	1/10/2014
-22	COTES D'ARMOR	PRUNAUD	Christine	F	4/9/1950	120	Employés (secteur privé) (obsolète)	1/10/2014
-22	COTES D'ARMOR	VASPART	Michel	M	22/2/1948	105	Industriels-Chefs entreprise (obsolète)	1/10/2014
-23	CREUSE	JEANSANNETAS	Eric	M	21/10/1962	143	Enseignants 1er deg.-directeurs école (obsolète)	1/10/2014
-23	CREUSE	LOZACH	Jean-Jacques	M	8/2/1954	142	Professeurs du secondaire et techn. (obsolète)	1/10/2014
-24	DORDOGNE	BERIT-DEBAT	Claude	M	19/2/1946	161	Retraités salariés privés (obsolète)	1/10/2014
-24	DORDOGNE	CAZEAU	Bernard	M	27/4/1939	160	Retraités des professions libérales (obsolète)	1/10/2014
-25	DOUBS	GROSPERRIN	Jacques	M	17/10/1955	141	Professeurs de faculté (obsolète)	1/10/2014
-25	DOUBS	LONGEOT	Jean-François	M	27/12/1956	147	Fonctionnaires de catégorie A (obsolète)	1/10/2014
-25	DOUBS	SCHOELLER	Marie-Noëlle	F	12/12/1946	162	Retraités de l'enseignement (obsolète)	15/6/2020
-26	DROME	BOUCHET	Gilbert	M	8/1/1947			1/10/2014
-26	DROME	BUIS	Bernard	M	23/6/1956	144	Professions rattachées à enseignt. (obsolète)	1/10/2014
-26	DROME	MONIER	Marie-Pierre	F	28/2/1958	34	Professeurs, professions scientifiques	1/10/2014
-27	EURE	DURANTON	Nicole	F	13/10/1958	45	Professions intermédiaires administratives de la fonction publique	1/10/2014
-27	EURE	MAUREY	Hervé	M	7/5/1961	154	Permanents politiques (obsolète)	1/10/2014
-27	EURE	PONIATOWSKI	Ladislas	M	10/11/1946	156	Autres professions (obsolète)	1/10/2014
-28	EURE ET LOIR	DE MONTGOLFIER	Albéric	M	6/7/1964	154	Permanents politiques (obsolète)	1/10/2014
-28	EURE ET LOIR	DESEYNE	Chantal	F	29/1/1957	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2014
-28	EURE ET LOIR	RAMOND	Françoise	F	29/9/1940	165	Autres retraités (obsolète)	31/12/2018
-29	FINISTERE	BLONDIN	Maryvonne	F	20/1/1947	162	Retraités de l'enseignement (obsolète)	1/10/2014
-29	FINISTERE	CANEVET	Michel	M	14/12/1960	150	Cadres sup. (entreprises publiques) (obsolète)	1/10/2014
-29	FINISTERE	FICHET	Jean-Luc	M	15/7/1953	156	Autres professions (obsolète)	25/9/2017
-29	FINISTERE	PAUL	Philippe	M	25/1/1965	119	Autres cadres (secteur privé) (obsolète)	1/10/2014
-2A	CORSE SUD	PANUNZI	Jean-Jacques	M	5/4/1956	147	Fonctionnaires de catégorie A (obsolète)	1/10/2014
-2B	HAUTE CORSE	CASTELLI	Joseph	M	4/6/1948	72	Anciens artisans, commerçants, chefs d'entreprise	1/10/2014
-30	GARD	CARDENES	Stéphane	M	11/11/1971	45	Professions intermédiaires administratives de la fonction publique	18/6/2020
-30	GARD	LOPEZ	Vivette	F	27/12/1954	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-30	GARD	SUTOUR	Simon	M	18/8/1952	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-31	HAUTE GARONNE	CHATILLON	Alain	M	15/3/1943	74	Anciens cadres	1/10/2014
-31	HAUTE GARONNE	LABORDE	Françoise	F	8/7/1958	143	Enseignants 1er deg.-directeurs école (obsolète)	1/10/2014
-31	HAUTE GARONNE	MEDEVIELLE	Pierre	M	17/4/1960	128	Pharmaciens (obsolète)	1/10/2014
-31	HAUTE GARONNE	MICOULEAU	Brigitte	F	10/9/1951	77	Anciens employés	1/10/2014
-31	HAUTE GARONNE	RAYNAL	Claude	M	10/10/1957	145	Magistrats (obsolète)	1/10/2014
-32	GERS	MONTAUGE	Franck	M	14/9/1961	38	Ingénieurs et cadres techniques d'entreprise	28/9/2014
-32	GERS	VALL	Raymond	M	13/1/1942	161	Retraités salariés privés (obsolète)	6/9/2015
-33	GIRONDE	CARTRON	Françoise	F	27/3/1949	162	Retraités de l'enseignement (obsolète)	1/10/2014
-33	GIRONDE	CAZABONNE	Alain	M	25/8/1944	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2014
-33	GIRONDE	DELATTRE	Nathalie	F	2/12/1968	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2014
-33	GIRONDE	GILLE	Hervé	M	9/10/1960	118	Cadres supérieurs (secteur privé) (obsolète)	28/8/2019
-33	GIRONDE	HARRIBEY	Laurence	F	8/2/1953	161	Retraités salariés privés (obsolète)	1/10/2014
-33	GIRONDE	LASSARADE	Florence	F	18/8/1957	31	Professions libérales	1/10/2014
-34	HERAULT	BRUGUIERE	Marie-Thérèse	F	26/10/1942	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-34	HERAULT	CABANEL	Henri	M	9/3/1959	101	Agriculteurs propriétaires exploit. (obsolète)	1/10/2014
-34	HERAULT	CONSTANT	Agnès	F	16/4/1962	11	Agriculteurs sur petite exploitation	1/7/2019
-34	HERAULT	GRAND	Jean-Pierre	M	18/11/1950	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-35	ILLE ET VILAINE	DE LEGGE	Dominique	M	18/2/1952	165	Autres retraités (obsolète)	1/10/2014
-35	ILLE ET VILAINE	GATEL	Françoise	F	14/3/1953	33	Cadres de la fonction publique	1/10/2014
-35	ILLE ET VILAINE	ROBERT	Sylvie	F	28/8/1963	118	Cadres supérieurs (secteur privé) (obsolète)	1/10/2014
-35	ILLE ET VILAINE	TOURENNE	Jean-Louis	M	25/8/1944	162	Retraités de l'enseignement (obsolète)	1/10/2014
-36	INDRE	GERBAUD	Frédérique	F	3/7/1959	74	Anciens cadres	28/9/2014
-36	INDRE	MAYET	Jean-François	M	30/1/1940	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	1/10/2014
+01	AIN	BLATRIX CONTAT	Florence	F	30/3/1966	34	Professeurs, professions scientifiques	1/10/2020
+01	AIN	CHAIZE	Patrick	M	22/3/1963	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+01	AIN	GOY-CHAVENT	Sylvie	F	23/5/1963	34	Professeurs, professions scientifiques	1/10/2020
+02	AISNE	GRUNY	Pascale	F	18/2/1960	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+02	AISNE	LEFEVRE	Antoine	M	18/2/1966	74	Anciens cadres	1/10/2020
+02	AISNE	VERZELEN	Pierre-Jean	M	29/8/1983	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+03	ALLIER	MALHURET	Claude	M	8/3/1950	74	Anciens cadres	1/10/2020
+03	ALLIER	ROJOUAN	Bruno	M	6/3/1957	74	Anciens cadres	1/10/2020
+04	ALPES DE HAUTE PROVENCE	ROUX	Jean-Yves	M	18/1/1970	77	Anciens employés	1/10/2020
+05	HAUTES ALPES	ARNAUD	Jean-Michel	M	28/4/1966	11	Agriculteurs sur petite exploitation	1/10/2020
+06	ALPES MARITIMES	BORCHIO FONTIMP	Alexandra	F	5/10/1981	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+06	ALPES MARITIMES	DEMAS	Patricia	F	15/9/1966	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+06	ALPES MARITIMES	ESTROSI-SASSONE	Dominique	F	14/11/1958	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2020
+06	ALPES MARITIMES	LEROY	Henri	M	31/3/1945	74	Anciens cadres	1/10/2020
+06	ALPES MARITIMES	TABAROT	Philippe	M	25/11/1970	35	Professions de l'information, des arts et des spectacles	1/10/2020
+07	ARDECHE	DARNAUD	Mathieu	M	11/7/1975	46	Professions intermédiaires administratives et commerciales des entreprises	1/10/2020
+07	ARDECHE	VENTALON	Anne	F	7/1/1972	34	Professeurs, professions scientifiques	1/10/2020
+08	ARDENNES	JOSEPH	Else	F	24/12/1961	34	Professeurs, professions scientifiques	1/10/2020
+08	ARDENNES	LAMÉNIE	Marc	M	11/7/1956	56	Personnels des services directs aux particuliers	1/10/2020
+09	ARIEGE	MICHAU	Jean-Jacques	M	23/7/1956	75	Anciennes professions intermédiaires	1/10/2020
+10	AUBE	PAOLI-GAGIN	Vanina	F	25/1/1967	31	Professions libérales	1/10/2020
+10	AUBE	PERROT	Evelyne	F	22/6/1951	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2020
+11	AUDE	JOURDA	Gisèle	F	24/3/1955	33	Cadres de la fonction publique	1/10/2020
+11	AUDE	PLA	Sebastien	M	18/7/1977	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+12	AVEYRON	ANGLARS	Jean-Claude	M	20/2/1961	38	Ingénieurs et cadres techniques d'entreprise	1/10/2020
+12	AVEYRON	MARC	Alain	M	29/1/1957	74	Anciens cadres	1/10/2020
+13	BOUCHES DU RHONE	BACCHI	Jérémy	M	8/3/1986	43	Professions intermédiaires de la santé et du travail social	1/10/2020
+13	BOUCHES DU RHONE	BENARROCHE	Guy	M	25/7/1954	74	Anciens cadres	1/10/2020
+13	BOUCHES DU RHONE	BORÉ	Patrick	M	9/11/1956	31	Professions libérales	1/10/2020
+13	BOUCHES DU RHONE	BOYER	Valérie	F	11/6/1962	33	Cadres de la fonction publique	1/10/2020
+13	BOUCHES DU RHONE	CARLOTTI	Marie-Arlette	F	21/1/1952	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+13	BOUCHES DU RHONE	GUERINI	Jean-Noël	M	1/1/1951	75	Anciennes professions intermédiaires	1/10/2020
+13	BOUCHES DU RHONE	LE RUDULIER	Stéphane	M	9/12/1973	34	Professeurs, professions scientifiques	1/10/2020
+13	BOUCHES DU RHONE	RAVIER	Stéphane	M	4/8/1969	54	Employés administratifs d'entreprise	1/10/2020
+14	CALVADOS	ALLIZARD	Pascal	M	19/12/1962	33	Cadres de la fonction publique	1/10/2020
+14	CALVADOS	DE LA PROVÔTÉ	Sonia	F	25/12/1968	43	Professions intermédiaires de la santé et du travail social	1/10/2020
+14	CALVADOS	FÉRET	Corinne	F	17/9/1961	33	Cadres de la fonction publique	1/10/2020
+15	CANTAL	DELCROS	Bernard	M	12/2/1953	34	Professeurs, professions scientifiques	1/10/2020
+15	CANTAL	SAUTAREL	Stéphane	M	29/1/1965	31	Professions libérales	1/10/2020
+16	CHARENTE	BONNEAU	François	M	8/2/1958	31	Professions libérales	1/10/2020
+16	CHARENTE	BONNEFOY	Nicole	F	11/8/1958	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2020
+17	CHARENTE MARITIME	IMBERT	Corinne	F	20/11/1958	31	Professions libérales	1/10/2020
+17	CHARENTE MARITIME	LAURENT	Daniel	M	4/2/1949	71	Anciens agriculteurs exploitants	1/10/2020
+17	CHARENTE MARITIME	VALLET	Mickaël	M	26/5/1979	33	Cadres de la fonction publique	1/10/2020
+18	CHER	POINTEREAU	Rémy	M	30/3/1953	71	Anciens agriculteurs exploitants	1/10/2020
+18	CHER	RICHER	Marie-Pierre	F	19/4/1963	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+19	CORREZE	CHASSEING	Daniel	M	10/4/1945	31	Professions libérales	1/10/2020
+19	CORREZE	NOUGEIN	Claude	M	4/12/1946	72	Anciens artisans, commerçants, chefs d'entreprise	1/10/2020
+21	COTE D'OR	HOUPERT	Alain	M	13/8/1957	31	Professions libérales	1/10/2020
+21	COTE D'OR	LOISIER	Anne-Catherine	F	13/3/1969	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+21	COTE D'OR	PATRIAT	François	M	21/3/1943	31	Professions libérales	1/10/2020
+22	COTES D'ARMOR	CADEC	Alain	M	21/6/1953	74	Anciens cadres	1/10/2020
+22	COTES D'ARMOR	LAHELLEC	Gérard	M	4/4/1954	74	Anciens cadres	1/10/2020
+22	COTES D'ARMOR	LE HOUEROU	Annie	F	31/3/1960	33	Cadres de la fonction publique	1/10/2020
+23	CREUSE	JEANSANNETAS	Eric	M	21/10/1962	42	Professeurs des écoles, instituteurs et assimilés	1/10/2020
+23	CREUSE	LOZACH	Jean-Jacques	M	8/2/1954	34	Professeurs, professions scientifiques	1/10/2020
+24	DORDOGNE	MERILLOU	Serge	M	14/2/1952	74	Anciens cadres	1/10/2020
+24	DORDOGNE	VARAILLAS	Marie-Claude	F	18/12/1950	33	Cadres de la fonction publique	1/10/2020
+25	DOUBS	GROSPERRIN	Jacques	M	17/10/1955	74	Anciens cadres	1/10/2020
+25	DOUBS	JACQUEMET	Annick	F	20/1/1956	31	Professions libérales	1/10/2020
+25	DOUBS	LONGEOT	Jean-François	M	27/12/1956	74	Anciens cadres	1/10/2020
+26	DROME	BOUCHET	Gilbert	M	8/1/1947	72	Anciens artisans, commerçants, chefs d'entreprise	1/10/2020
+26	DROME	BUIS	Bernard	M	23/6/1956	74	Anciens cadres	1/10/2020
+26	DROME	MONIER	Marie-Pierre	F	28/2/1958	74	Anciens cadres	1/10/2020
+27	EURE	LECORNU	Sébastien	M	11/6/1986	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+27	EURE	MAUREY	Hervé	M	7/5/1961	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+27	EURE	PLUCHET	Kristina	F	1/5/1973	12	Agriculteurs sur moyenne exploitation	1/10/2020
+28	EURE ET LOIR	DE MONTGOLFIER	Albéric	M	6/7/1964	31	Professions libérales	1/10/2020
+28	EURE ET LOIR	DESEYNE	Chantal	F	29/1/1957	34	Professeurs, professions scientifiques	1/10/2020
+28	EURE ET LOIR	GUERET	Daniel	M	17/4/1961	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+29	FINISTERE	CANEVET	Michel	M	14/12/1960	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+29	FINISTERE	FICHET	Jean-Luc	M	15/7/1953	74	Anciens cadres	1/10/2020
+29	FINISTERE	HAVET	Nadège	F	30/12/1975	33	Cadres de la fonction publique	1/10/2020
+29	FINISTERE	PAUL	Philippe	M	25/1/1965	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+2A	CORSE SUD	PANUNZI	Jean-Jacques	M	5/4/1956	72	Anciens artisans, commerçants, chefs d'entreprise	1/10/2020
+2B	HAUTE CORSE	PARIGI	Paul Toussaint	M	7/4/1966	33	Cadres de la fonction publique	1/10/2020
+30	GARD	BOUAD	Denis	M	1/11/1952	71	Anciens agriculteurs exploitants	1/10/2020
+30	GARD	BURGOA	Laurent	M	4/2/1969	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+30	GARD	LOPEZ	Vivette	F	27/12/1954	74	Anciens cadres	1/10/2020
+31	HAUTE GARONNE	CHATILLON	Alain	M	15/3/1943	74	Anciens cadres	1/10/2020
+31	HAUTE GARONNE	MEDEVIELLE	Pierre	M	17/4/1960	31	Professions libérales	1/10/2020
+31	HAUTE GARONNE	MICOULEAU	Brigitte	F	10/9/1951	74	Anciens cadres	1/10/2020
+31	HAUTE GARONNE	POUMIROL	Emilienne	F	25/7/1950	31	Professions libérales	1/10/2020
+31	HAUTE GARONNE	RAYNAL	Claude	M	10/10/1957	33	Cadres de la fonction publique	1/10/2020
+32	GERS	DUFFOURG	Alain	M	22/1/1950	31	Professions libérales	1/10/2020
+32	GERS	MONTAUGE	Franck	M	14/9/1961	38	Ingénieurs et cadres techniques d'entreprise	1/10/2020
+33	GIRONDE	CAZABONNE	Alain	M	25/8/1944	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2020
+33	GIRONDE	DELATTRE	Nathalie	F	2/12/1968	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+33	GIRONDE	DE MARCO	Monique	F	12/11/1953	34	Professeurs, professions scientifiques	1/10/2020
+33	GIRONDE	GILLE	Hervé	M	9/10/1960	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+33	GIRONDE	HARRIBEY	Laurence	F	8/2/1953	77	Anciens employés	1/10/2020
+33	GIRONDE	LASSARADE	Florence	F	18/8/1957	31	Professions libérales	1/10/2020
+34	HERAULT	BILHAC	Christian	M	10/4/1955	75	Anciennes professions intermédiaires	1/10/2020
+34	HERAULT	BOURGI	Hussein	M	5/10/1973	33	Cadres de la fonction publique	1/10/2020
+34	HERAULT	CABANEL	Henri	M	9/3/1959	12	Agriculteurs sur moyenne exploitation	1/10/2020
+34	HERAULT	GRAND	Jean-Pierre	M	18/11/1950	74	Anciens cadres	1/10/2020
+35	ILLE ET VILAINE	DE LEGGE	Dominique	M	18/2/1952	74	Anciens cadres	1/10/2020
+35	ILLE ET VILAINE	GATEL	Françoise	F	14/3/1953	74	Anciens cadres	1/10/2020
+35	ILLE ET VILAINE	ROBERT	Sylvie	F	28/8/1963	35	Professions de l'information, des arts et des spectacles	1/10/2020
+35	ILLE ET VILAINE	SALMON	Daniel	M	21/10/1962	74	Anciens cadres	1/10/2020
+36	INDRE	BELLUROT	Nadine	F	5/4/1965	33	Cadres de la fonction publique	1/10/2020
+36	INDRE	GERBAUD	Frédérique	F	3/7/1959	74	Anciens cadres	1/10/2020
 37	INDRE ET LOIRE 	BABARY	Serge	M	16/7/1946	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	2/10/2017
 37	INDRE ET LOIRE 	LOUAULT	Pierre	M	3/5/1949	71	Anciens agriculteurs exploitants	2/10/2017
 37	INDRE ET LOIRE 	RAIMOND-PAVERO	Isabelle	F	23/2/1961	132	Conseillers juridiques (obsolète)	2/10/2017
@@ -199,35 +199,35 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 65	HAUTES PYRENEES	CARRERE	Maryse	F	8/4/1967	147	Fonctionnaires de catégorie A (obsolète)	2/10/2017
 66	PYRENEES ORIENTALES	CALVET	François	M	1/4/1953	157	Sans profession déclarée (obsolète)	2/10/2017
 66	PYRENEES ORIENTALES	SOL	Jean	M	3/6/1952	147	Fonctionnaires de catégorie A (obsolète)	2/10/2017
-67	BAS RHIN	BIGOT	Jacques	M	31/7/1952	160	Retraités des professions libérales (obsolète)	1/10/2014
-67	BAS RHIN	KENNEL	Guy-Dominique	M	14/4/1952	144	Professions rattachées à enseignt. (obsolète)	1/10/2014
-67	BAS RHIN	KERN	Claude	M	13/3/1959	34	Professeurs, professions scientifiques	1/10/2014
-67	BAS RHIN	REICHARDT	André	M	5/12/1949	164	Retraités des entreprises publiques (obsolète)	1/10/2014
-67	BAS RHIN	SITTLER	Esther	F	9/5/1952	165	Autres retraités (obsolète)	24/6/2019
-68	HAUT RHIN	BOCKEL	Jean-Marie	M	22/6/1950	129	Avocats (obsolète)	1/10/2014
-68	HAUT RHIN	DANESI	René	M	30/8/1947	74	Anciens cadres	1/10/2014
-68	HAUT RHIN	SCHILLINGER	Patricia	F	18/1/1963	157	Sans profession déclarée (obsolète)	1/10/2014
-68	HAUT RHIN	TROENDLE	Catherine	F	20/2/1961	156	Autres professions (obsolète)	1/10/2014
-69	RHONE	BUFFET	François-Noël	M	28/8/1963	31	Professions libérales	1/10/2014
-69	RHONE	DEVINAZ	Gilbert Luc	M	19/7/1953	74	Anciens cadres	6/12/2018
-69	RHONE	DI FOLCO	Catherine	F	30/11/1960	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2014
-69	RHONE	FORISSIER	Michel	M	12/9/1943	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	1/10/2014
-69	RHONE	GUILLEMOT	Annie	F	27/1/1956	147	Fonctionnaires de catégorie A (obsolète)	1/10/2014
-69	RHONE	LAMURE	Elisabeth	F	20/11/1947	157	Sans profession déclarée (obsolète)	1/10/2014
-69	RHONE	VULLIEN	Michèle	F	18/1/1944	74	Anciens cadres	1/10/2014
-70	HAUTE SAONE	JOYANDET	Alain	M	15/1/1954	105	Industriels-Chefs entreprise (obsolète)	1/10/2014
-70	HAUTE SAONE	RAISON	Michel	M	5/11/1949	158	Retraités agricoles (obsolète)	1/10/2014
-71	SAONE ET LOIRE 	DURAIN	Jérôme	M	2/6/1969	147	Fonctionnaires de catégorie A (obsolète)	1/10/2014
-71	SAONE ET LOIRE 	EMORINE	Jean-Paul	M	20/3/1944	158	Retraités agricoles (obsolète)	1/10/2014
-71	SAONE ET LOIRE 	MERCIER	Marie	F	16/6/1958	31	Professions libérales	12/6/2015
-72	SARTHE	CABARET	Muriel	F	9/3/1955	75	Anciennes professions intermédiaires	26/6/2020
-72	SARTHE	DE NICOLAY	Louis-Jean	M	18/9/1949	72	Anciens artisans, commerçants, chefs d'entreprise	1/10/2014
-72	SARTHE	VOGEL	Jean-Pierre	M	7/8/1956	31	Professions libérales	1/10/2014
-73	SAVOIE	BERTHET	Martine	F	27/3/1961	128	Pharmaciens (obsolète)	2/10/2017
-73	SAVOIE	VIAL	Jean-Pierre	M	17/2/1951	129	Avocats (obsolète)	1/10/2014
-74	HAUTE SAVOIE	HERVE	Loïc	M	8/6/1980	33	Cadres de la fonction publique	1/10/2014
-74	HAUTE SAVOIE	NOEL	Sylviane	F	27/1/1978	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	8/8/2018
-74	HAUTE SAVOIE	PELLEVAT	Cyril	M	18/2/1981	118	Cadres supérieurs (secteur privé) (obsolète)	1/10/2014
+67	BAS RHIN	FERNIQUE	Jacques	M	13/11/1961	34	Professeurs, professions scientifiques	1/10/2020
+67	BAS RHIN	KERN	Claude	M	13/3/1959	34	Professeurs, professions scientifiques	1/10/2020
+67	BAS RHIN	MULLER-BRONN	Laurence	F	4/11/1961	31	Professions libérales	1/10/2020
+67	BAS RHIN	REICHARDT	André	M	5/12/1949	74	Anciens cadres	1/10/2020
+67	BAS RHIN	SCHALCK	Elsa	F	4/12/1986	31	Professions libérales	1/10/2020
+68	HAUT RHIN	DREXLER	Sabine	F	17/8/1963	42	Professeurs des écoles, instituteurs et assimilés	1/10/2020
+68	HAUT RHIN	HAYE	Ludovic	M	18/1/1975	38	Ingénieurs et cadres techniques d'entreprise	1/10/2020
+68	HAUT RHIN	KLINGER	Christian	M	15/12/1968	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+68	HAUT RHIN	SCHILLINGER	Patricia	F	18/1/1963	77	Anciens employés	1/10/2020
+69	RHONE	BLANC	Étienne	M	29/8/1954	31	Professions libérales	1/10/2020
+69	RHONE	BUFFET	François-Noël	M	28/8/1963	31	Professions libérales	1/10/2020
+69	RHONE	DEVINAZ	Gilbert-Luc	M	19/7/1953	74	Anciens cadres	1/10/2020
+69	RHONE	DI FOLCO	Catherine	F	30/11/1960	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+69	RHONE	DOSSUS	Thomas	M	28/7/1982	46	Professions intermédiaires administratives et commerciales des entreprises	1/10/2020
+69	RHONE	FIALAIRE	Bernard	M	13/9/1957	31	Professions libérales	1/10/2020
+69	RHONE	PONCET	Raymonde	F	1/8/1951	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+70	HAUTE SAONE	JOYANDET	Alain	M	15/1/1954	72	Anciens artisans, commerçants, chefs d'entreprise	1/10/2020
+70	HAUTE SAONE	RIETMANN	Olivier	M	22/11/1971	12	Agriculteurs sur moyenne exploitation	1/10/2020
+71	SAONE ET LOIRE 	DURAIN	Jérôme	M	2/6/1969	33	Cadres de la fonction publique	1/10/2020
+71	SAONE ET LOIRE 	GENET	Fabien	M	22/3/1975	46	Professions intermédiaires administratives et commerciales des entreprises	1/10/2020
+71	SAONE ET LOIRE 	MERCIER	Marie	F	16/6/1958	31	Professions libérales	1/10/2020
+72	SARTHE	COZIC	Thierry	M	9/2/1973	33	Cadres de la fonction publique	1/10/2020
+72	SARTHE	DE NICOLAY	Louis-Jean	M	18/9/1949	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2020
+72	SARTHE	VOGEL	Jean Pierre	M	7/8/1956	31	Professions libérales	1/10/2020
+73	SAVOIE	BERTHET	Martine	F	27/3/1961	31	Professions libérales	1/10/2020
+73	SAVOIE	VIAL	Cédric	M	25/3/1978	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+74	HAUTE SAVOIE	HERVÉ	Loïc	M	8/6/1980	33	Cadres de la fonction publique	1/10/2020
+74	HAUTE SAVOIE	NOEL	Sylviane	F	27/1/1978	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+74	HAUTE SAVOIE	PELLEVAT	Cyril	M	18/2/1981	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
 75	PARIS	ASSOULINE	David	M	16/6/1959	142	Professeurs du secondaire et techn. (obsolète)	2/10/2017
 75	PARIS	BARGETON	Julien	M	29/3/1973	132	Conseillers juridiques (obsolète)	2/10/2017
 75	PARIS	BENBASSA	Esther	F	27/3/1950	141	Professeurs de faculté (obsolète)	2/10/2017
@@ -240,12 +240,12 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 75	PARIS	JOMIER	Bernard	M	9/10/1963	124	Médecins (obsolète)	2/10/2017
 75	PARIS	LAURENT	Pierre	M	1/7/1957	137	Journalistes et autres médias (obsolète)	2/10/2017
 75	PARIS	LIENEMANN	Marie-Noëlle	F	12/7/1951	162	Retraités de l'enseignement (obsolète)	2/10/2017
-76	SEINE MARITIME 	BRULIN	Céline	F	4/3/1970	147	Fonctionnaires de catégorie A (obsolète)	1/6/2018
-76	SEINE MARITIME 	CANAYER	Agnès	F	21/9/1965	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2014
-76	SEINE MARITIME 	MARIE	Didier	M	19/5/1960	34	Professeurs, professions scientifiques	1/10/2014
-76	SEINE MARITIME 	MORIN-DESAILLY	Catherine	F	6/7/1960	154	Permanents politiques (obsolète)	1/10/2014
-76	SEINE MARITIME 	REVET	Charles	M	9/11/1937	101	Agriculteurs propriétaires exploit. (obsolète)	1/10/2014
-76	SEINE MARITIME 	TOCQUEVILLE	Nelly	F	2/5/1950	162	Retraités de l'enseignement (obsolète)	1/10/2014
+76	SEINE MARITIME 	BRULIN	Céline	F	4/3/1970	33	Cadres de la fonction publique	1/10/2020
+76	SEINE MARITIME 	CANAYER	Agnès	F	21/9/1965	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+76	SEINE MARITIME 	CHAUVET	Patrick	M	27/3/1958	12	Agriculteurs sur moyenne exploitation	1/10/2020
+76	SEINE MARITIME 	MARIE	Didier	M	19/5/1960	42	Professeurs des écoles, instituteurs et assimilés	1/10/2020
+76	SEINE MARITIME 	MARTIN	Pascal	M	7/3/1960	74	Anciens cadres	1/10/2020
+76	SEINE MARITIME 	MORIN-DESAILLY	Catherine	F	6/7/1960	34	Professeurs, professions scientifiques	1/10/2020
 77	SEINE ET MARNE 	CHAIN-LARCHÉ	Anne	F	11/4/1958	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	2/10/2017
 77	SEINE ET MARNE 	CUYPERS	Pierre	M	23/3/1944	101	Agriculteurs propriétaires exploit. (obsolète)	2/10/2017
 77	SEINE ET MARNE 	DE BELENET	Arnaud	M	14/3/1975	37	Cadres administratifs et commerciaux d'entreprise	2/10/2017
@@ -258,34 +258,34 @@ Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Code sex
 78	YVELINES	LÉVRIER	Martin	M	30/10/1962	118	Cadres supérieurs (secteur privé) (obsolète)	2/10/2017
 78	YVELINES	PRIMAS	Sophie	F	7/6/1962	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	2/10/2017
 78	YVELINES	SCHMITZ	Alain	M	27/4/1948	160	Retraités des professions libérales (obsolète)	2/10/2017
-79	DEUX SEVRES	MORISSET	Jean-Marie	M	18/8/1947	161	Retraités salariés privés (obsolète)	1/10/2014
-79	DEUX SEVRES	MOUILLER	Philippe	M	20/9/1969	33	Cadres de la fonction publique	1/10/2014
-80	SOMME	BIGNON	Jérôme	M	1/1/1949	129	Avocats (obsolète)	1/10/2014
-80	SOMME	DUBOIS	Daniel	M	5/2/1952	74	Anciens cadres	1/10/2014
-80	SOMME	MANABLE	Christian	M	19/6/1948	75	Anciennes professions intermédiaires	1/10/2014
-81	TARN	BONNECARRERE	Philippe	M	12/7/1955	129	Avocats (obsolète)	1/10/2014
-81	TARN	CARCENAC	Thierry	M	19/12/1950	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-82	TARN ET GARONNE	BONHOMME	François	M	5/5/1969	33	Cadres de la fonction publique	1/10/2014
-82	TARN ET GARONNE	COLLIN	Yvon	M	10/4/1944	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-83	VAR	COLLOMBAT	Pierre-Yves	M	18/7/1945	162	Retraités de l'enseignement (obsolète)	1/10/2014
-83	VAR	GINESTA	Jordi Dit Georges	M	8/7/1942	117	Agents d'assurances (obsolète)	22/9/2017
-83	VAR	KAUFFMANN	Claudine	F	28/9/1944	165	Autres retraités (obsolète)	1/10/2014
-83	VAR	LANFRANCHI-DORGAL	Christine	F	24/4/1961	33	Cadres de la fonction publique	1/10/2014
-84	VAUCLUSE	DUFAUT	Alain	M	2/1/1944	139	Autres professions libérales (obsolète)	13/2/2015
-84	VAUCLUSE	HAUT	Claude	M	22/12/1944	163	Retraités fonct.publique (sf enseig.) (obsolète)	1/10/2014
-84	VAUCLUSE	MILON	Alain	M	16/9/1947	75	Anciennes professions intermédiaires	1/10/2014
-85	VENDEE	BILLON	Annick	F	3/8/1967	157	Sans profession déclarée (obsolète)	1/10/2014
-85	VENDEE	MANDELLI	Didier	M	7/8/1964	156	Autres professions (obsolète)	1/10/2014
-85	VENDEE	RETAILLEAU	Bruno	M	20/11/1960	154	Permanents politiques (obsolète)	1/10/2014
-86	VIENNE	BOULOUX	Yves	M	30/8/1960	156	Autres professions (obsolète)	17/12/2017
-86	VIENNE	FOUCHÉ	Alain	M	4/12/1942	160	Retraités des professions libérales (obsolète)	1/10/2014
-87	HAUTE VIENNE	GABOUTY	Jean-Marc	M	17/5/1949	23	Chefs d'entreprise de 10 salariés ou plus	1/10/2014
-87	HAUTE VIENNE	PEROL-DUMONT	Marie-Françoise	F	26/5/1952	162	Retraités de l'enseignement (obsolète)	1/10/2014
-88	VOSGES	GREMILLET	Daniel	M	31/7/1953	101	Agriculteurs propriétaires exploit. (obsolète)	1/10/2014
-88	VOSGES	PIERRE	Jackie	M	27/5/1946	161	Retraités salariés privés (obsolète)	1/10/2014
-89	YONNE	RAUSCENT	Noëlle	F	10/10/1946	71	Anciens agriculteurs exploitants	22/7/2017
-89	YONNE	VERIEN	Dominique	F	29/8/1965	74	Anciens cadres	17/12/2017
-90	TERRITOIRE DE BELFORT	PERRIN	Cédric	M	20/1/1974	37	Cadres administratifs et commerciaux d'entreprise	1/10/2014
+79	DEUX SEVRES	FAVREAU	Gilbert	M	4/5/1949	31	Professions libérales	1/10/2020
+79	DEUX SEVRES	MOUILLER	Philippe	M	20/9/1969	33	Cadres de la fonction publique	1/10/2020
+80	SOMME	CARDON	Rémi	M	3/5/1994	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+80	SOMME	DEMILLY	Stéphane	M	26/6/1963	31	Professions libérales	1/10/2020
+80	SOMME	SOMON	Laurent	M	28/12/1957	31	Professions libérales	1/10/2020
+81	TARN	BONNECARRERE	Philippe	M	12/7/1955	31	Professions libérales	1/10/2020
+81	TARN	FOLLIOT	Philippe	M	14/7/1963	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+82	TARN ET GARONNE	BONHOMME	François	M	5/5/1969	74	Anciens cadres	1/10/2020
+82	TARN ET GARONNE	LEVI	Pierre-Antoine	M	15/5/1965	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+83	VAR	BACCI	Jean	M	17/3/1951	74	Anciens cadres	1/10/2020
+83	VAR	BONNUS	Michel	M	14/4/1965	22	Commerçants et assimilés	1/10/2020
+83	VAR	DUMONT	Françoise	F	9/4/1965	56	Personnels des services directs aux particuliers	1/10/2020
+83	VAR	GUIOL	André	M	28/6/1954	74	Anciens cadres	1/10/2020
+84	VAUCLUSE	BLANC	Jean-Baptiste	M	3/9/1972	31	Professions libérales	1/10/2020
+84	VAUCLUSE	MILON	Alain	M	16/9/1947	75	Anciennes professions intermédiaires	1/10/2020
+84	VAUCLUSE	STANZIONE	Lucien	M	19/8/1950	74	Anciens cadres	1/10/2020
+85	VENDEE	BILLON	Annick	F	3/8/1967	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+85	VENDEE	MANDELLI	Didier	M	7/8/1964	23	Chefs d'entreprise de 10 salariés ou plus	1/10/2020
+85	VENDEE	RETAILLEAU	Bruno	M	20/11/1960	74	Anciens cadres	1/10/2020
+86	VIENNE	BELIN	Bruno	M	8/6/1962	31	Professions libérales	1/10/2020
+86	VIENNE	BOULOUX	Yves	M	30/8/1960	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	1/10/2020
+87	HAUTE VIENNE	BRIQUET	Isabelle	F	4/9/1967	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+87	HAUTE VIENNE	REDON-SARRAZY	Christian	M	18/11/1959	34	Professeurs, professions scientifiques	1/10/2020
+88	VOSGES	GREMILLET	Daniel	M	31/7/1953	71	Anciens agriculteurs exploitants	1/10/2020
+88	VOSGES	HINGRAY	Jean	M	19/7/1986	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	1/10/2020
+89	YONNE	LEMOYNE	Jean-Baptiste	M	15/9/1977	33	Cadres de la fonction publique	1/10/2020
+89	YONNE	VERIEN	Dominique	F	29/8/1965	38	Ingénieurs et cadres techniques d'entreprise	1/10/2020
+90	TERRITOIRE DE BELFORT	PERRIN	Cédric	M	20/1/1974	74	Anciens cadres	1/10/2020
 91	ESSONNE	DARCOS	Laure	F	27/11/1970	157	Sans profession déclarée (obsolète)	2/10/2017
 91	ESSONNE	DELAHAYE	Vincent	M	23/8/1959	33	Cadres de la fonction publique	2/10/2017
 91	ESSONNE	GUIDEZ	Jocelyne	F	26/9/1956	33	Cadres de la fonction publique	2/10/2017
@@ -320,8 +320,8 @@ ZA	GUADELOUPE	LUREL	Victorin	M	20/8/1951	163	Retraités fonct.publique (sf enseig
 ZA	GUADELOUPE	THEOPHILE	Dominique	M	4/8/1960	37	Cadres administratifs et commerciaux d'entreprise	2/10/2017
 ZB	MARTINIQUE	ANTISTE	Maurice	M	22/6/1953	162	Retraités de l'enseignement (obsolète)	2/10/2017
 ZB	MARTINIQUE	CONCONNE	Catherine	F	18/5/1963	154	Permanents politiques (obsolète)	2/10/2017
-ZC	GUYANE	KARAM	Antoine	M	21/2/1950	143	Enseignants 1er deg.-directeurs école (obsolète)	1/10/2014
-ZC	GUYANE	PATIENT	Georges	M	1/4/1949	154	Permanents politiques (obsolète)	1/10/2014
+ZC	GUYANE	PATIENT	Georges	M	1/4/1949	37	Cadres administratifs et commerciaux d'entreprise	1/10/2020
+ZC	GUYANE	PHINÉRA-HORTH	Marie-Laure	F	28/6/1957	43	Professions intermédiaires de la santé et du travail social	1/10/2020
 ZD	LA REUNION	DENNEMONT	Michel	M	11/2/1949	160	Retraités des professions libérales (obsolète)	2/10/2017
 ZD	LA REUNION	DINDAR	Nassimah	F	20/1/1960	142	Professeurs du secondaire et techn. (obsolète)	2/10/2017
 ZD	LA REUNION	LAGOURGUE	Jean-Louis	M	5/8/1947	118	Cadres supérieurs (secteur privé) (obsolète)	2/10/2017
@@ -330,12 +330,12 @@ ZM	MAYOTTE	HASSANI	Abdallah	M	2/7/1954	142	Professeurs du secondaire et techn. (
 ZM	MAYOTTE	MOHAMED SOILIHI	Thani	M	20/6/1972	129	Avocats (obsolète)	2/10/2017
 ZN	NOUVELLE CALEDONIE	FROGIER	Pierre	M	16/11/1950	108	Agents immobiliers (obsolète)	2/10/2017
 ZN	NOUVELLE CALEDONIE	POADJA	Gérard	M	30/9/1963	154	Permanents politiques (obsolète)	2/10/2017
-ZP	POLYNESIE FRANCAISE	LAUREY	Nuihau	M	29/12/1964	119	Autres cadres (secteur privé) (obsolète)	3/5/2015
-ZP	POLYNESIE FRANCAISE	TETUANUI	Lana	F	23/2/1970	156	Autres professions (obsolète)	3/5/2015
+ZP	POLYNESIE FRANCAISE	ROHFRITSCH	Teva	M	3/2/1975	23	Chefs d'entreprise de 10 salariés ou plus	1/10/2020
+ZP	POLYNESIE FRANCAISE	TETUANUI	Lana	F	23/2/1970	45	Professions intermédiaires administratives de la fonction publique	1/10/2020
 ZS	SAINT PIERRE ET MIQUELON	ARTANO	Stéphane	M	9/3/1973	119	Autres cadres (secteur privé) (obsolète)	2/10/2017
-ZT	SAINT-MARTIN	ARNELL	Guillaume Jacques	M	20/1/1958	37	Cadres administratifs et commerciaux d'entreprise	28/9/2014
-ZW	WALLIS ET FUTUNA	LAUFOAULU	Robert	M	7/7/1947	162	Retraités de l'enseignement (obsolète)	1/10/2014
-ZY	SAINT-BARTHELEMY	MAGRAS	Michel	M	6/1/1954	34	Professeurs, professions scientifiques	28/9/2014
+ZT	SAINT-MARTIN	PÉTRUS	Annick	F	5/1/1961	42	Professeurs des écoles, instituteurs et assimilés	1/10/2020
+ZW	WALLIS ET FUTUNA	KULIMOETOKE	Mikaele	M	17/6/1963	53	Policiers et militaires	1/10/2020
+ZY	SAINT-BARTHELEMY	JACQUES	Micheline	F	8/10/1971	42	Professeurs des écoles, instituteurs et assimilés	1/10/2020
 ZZ	FRANCAIS DE L'ETRANGER	CADIC	Olivier	M	22/4/1962	105	Industriels-Chefs entreprise (obsolète)	1/10/2014
 ZZ	FRANCAIS DE L'ETRANGER	CONWAY-MOURET	Hélène	F	13/9/1960	141	Professeurs de faculté (obsolète)	2/10/2017
 ZZ	FRANCAIS DE L'ETRANGER	DEL PICCHIA	Robert	M	10/11/1942	165	Autres retraités (obsolète)	1/10/2014
