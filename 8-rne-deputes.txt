@@ -43,7 +43,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 12	AVEYRON	01	1ère circonscription	MAZARS	Stéphane	M	25/3/1969	129	Avocats (obsolète)	18/6/2017
 12	AVEYRON	02	2ème circonscription	BLANC	Anne	F	20/7/1966	139	Autres professions libérales (obsolète)	18/6/2017
 12	AVEYRON	03	3ème circonscription	VIALA	Arnaud	M	4/12/1974	34	Professeurs, professions scientifiques	18/6/2017
-13	BOUCHES DU RHONE	01	1ère circonscription	BOYER	Valérie	F	11/6/1962	37	Cadres administratifs et commerciaux d'entreprise	18/6/2017
+13	BOUCHES DU RHONE	01	1ère circonscription	BOYER	Valérie	F	11/6/1962	33	Cadres de la fonction publique	18/6/2017
 13	BOUCHES DU RHONE	02	2ème circonscription	PITOLLAT	Claire	F	17/9/1979	113	Ingénieurs (obsolète)	18/6/2017
 13	BOUCHES DU RHONE	03	3ème circonscription	LOUIS	Alexandra	F	17/9/1983	129	Avocats (obsolète)	18/6/2017
 13	BOUCHES DU RHONE	04	4ème circonscription	MELENCHON	Jean-Luc	M	19/8/1951	157	Sans profession déclarée (obsolète)	18/6/2017
@@ -230,6 +230,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 48	LOZERE	01	1ère circonscription	MOREL A L'HUISSIER	Pierre	M	21/12/1958	129	Avocats (obsolète)	18/6/2017
 49	MAINE ET LOIRE 	01	1ère circonscription	ORPHELIN	Matthieu	M	3/12/1972	150	Cadres sup. (entreprises publiques) (obsolète)	18/6/2017
 49	MAINE ET LOIRE 	02	2ème circonscription	DUPONT	Stella	F	3/11/1973	46	Professions intermédiaires administratives et commerciales des entreprises	18/6/2017
+49	MAINE ET LOIRE 	03	3ème circonscription	BLIN	Anne-Laure	F	12/6/1983	37	Cadres administratifs et commerciaux d'entreprise	28/9/2020
 49	MAINE ET LOIRE 	04	4ème circonscription	SAINT-PAUL	Laëtitia	F	21/1/1981	147	Fonctionnaires de catégorie A (obsolète)	18/6/2017
 49	MAINE ET LOIRE 	05	5ème circonscription	MASSEGLIA	Denis	M	11/4/1981	113	Ingénieurs (obsolète)	18/6/2017
 49	MAINE ET LOIRE 	06	6ème circonscription	DUBRE-CHIRAT	Nicole	F	18/12/1951	163	Retraités fonct.publique (sf enseig.) (obsolète)	18/6/2017
@@ -309,7 +310,6 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 62	PAS DE CALAIS	03	3ème circonscription	EVRARD	José	M	17/7/1945	163	Retraités fonct.publique (sf enseig.) (obsolète)	18/6/2017
 62	PAS DE CALAIS	04	4ème circonscription	THERRY	Robert	M	27/6/1947	159	Retr.artis.commerc.chefs d'entrep. (obsolète)	5/8/2020
 62	PAS DE CALAIS	05	5ème circonscription	PONT	Jean-Pierre	M	9/5/1950	124	Médecins (obsolète)	18/6/2017
-62	PAS DE CALAIS	06	6ème circonscription	LOQUET	Ludovic	M	4/2/1965	33	Cadres de la fonction publique	7/8/2020
 62	PAS DE CALAIS	07	7ème circonscription	DUMONT	Pierre-Henri	M	7/10/1987	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	18/6/2017
 62	PAS DE CALAIS	08	8ème circonscription	POTTERIE	Benoît	M	23/7/1967	109	Commercants (obsolète)	18/6/2017
 62	PAS DE CALAIS	09	9ème circonscription	DEPREZ-AUDEBERT	Marguerite	F	17/5/1952	161	Retraités salariés privés (obsolète)	18/6/2017
@@ -342,6 +342,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 67	BAS RHIN	07	7ème circonscription	HETZEL	Patrick	M	2/7/1964	141	Professeurs de faculté (obsolète)	18/6/2017
 67	BAS RHIN	08	8ème circonscription	REISS	Frédéric	M	12/11/1949	162	Retraités de l'enseignement (obsolète)	18/6/2017
 67	BAS RHIN	09	9ème circonscription	THIEBAUT	Vincent	M	23/5/1972	119	Autres cadres (secteur privé) (obsolète)	18/6/2017
+68	HAUT RHIN	01	1ère circonscription	HEMEDINGER	Yves	M	23/10/1965	154	Permanents politiques (obsolète)	28/9/2020
 68	HAUT RHIN	02	2ème circonscription	CATTIN	Jacques	M	4/6/1958	23	Chefs d'entreprise de 10 salariés ou plus	18/6/2017
 68	HAUT RHIN	03	3ème circonscription	REITZER	Jean-Luc	M	29/12/1951	118	Cadres supérieurs (secteur privé) (obsolète)	18/6/2017
 68	HAUT RHIN	04	4ème circonscription	SCHELLENBERGER	Raphaël	M	14/2/1990	33	Cadres de la fonction publique	18/6/2017
@@ -404,6 +405,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 76	SEINE MARITIME 	02	2ème circonscription	VIDAL	Annie	F	17/9/1956	147	Fonctionnaires de catégorie A (obsolète)	18/6/2017
 76	SEINE MARITIME 	03	3ème circonscription	WULFRANC	Hubert	M	17/12/1956	34	Professeurs, professions scientifiques	18/6/2017
 76	SEINE MARITIME 	04	4ème circonscription	SYLLA	Sira	F	14/3/1980	129	Avocats (obsolète)	18/6/2017
+76	SEINE MARITIME 	05	5ème circonscription	LESEUL	Gérard	M	19/8/1960	34	Professeurs, professions scientifiques	28/9/2020
 76	SEINE MARITIME 	06	6ème circonscription	JUMEL	Sébastien	M	20/12/1971	45	Professions intermédiaires administratives de la fonction publique	18/6/2017
 76	SEINE MARITIME 	07	7ème circonscription	FIRMIN LE BODO	Agnès	F	20/11/1968	128	Pharmaciens (obsolète)	18/6/2017
 76	SEINE MARITIME 	08	8ème circonscription	LECOQ	Jean-Paul	M	13/10/1958	47	Techniciens	18/6/2017
@@ -431,6 +433,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 78	YVELINES	08	8ème circonscription	VIALAY	Michel	M	6/1/1960	118	Cadres supérieurs (secteur privé) (obsolète)	18/6/2017
 78	YVELINES	09	9ème circonscription	MILLIENNE	Bruno	M	28/11/1959	118	Cadres supérieurs (secteur privé) (obsolète)	18/6/2017
 78	YVELINES	10	10ème circonscription	BERGE	Aurore	F	13/11/1986	118	Cadres supérieurs (secteur privé) (obsolète)	18/6/2017
+78	YVELINES	11	11ème circonscription	BENASSAYA	Philippe	M	4/8/1964	31	Professions libérales	28/9/2020
 78	YVELINES	12	12ème circonscription	GRANJUS	Florence	F	17/5/1962	150	Cadres sup. (entreprises publiques) (obsolète)	18/6/2017
 79	DEUX SEVRES	01	1ère circonscription	CHICHE	Guillaume	M	30/3/1986	119	Autres cadres (secteur privé) (obsolète)	18/6/2017
 79	DEUX SEVRES	02	2ème circonscription	BATHO	Delphine	F	23/3/1973	147	Fonctionnaires de catégorie A (obsolète)	18/6/2017
@@ -439,8 +442,8 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 80	SOMME	02	2ème circonscription	DELPIROU	Cécile	F	23/3/1964	38	Ingénieurs et cadres techniques d'entreprise	7/8/2020
 80	SOMME	03	3ème circonscription	MAQUET	Emmanuel	M	2/6/1968	33	Cadres de la fonction publique	18/6/2017
 80	SOMME	04	4ème circonscription	LECLABART	Jean-Claude	M	4/12/1954	158	Retraités agricoles (obsolète)	18/6/2017
-80	SOMME	05	5ème circonscription	DEMILLY	Stéphane	M	26/6/1963	37	Cadres administratifs et commerciaux d'entreprise	11/6/2017
-81	TARN	01	1ère circonscription	FOLLIOT	Philippe	M	14/7/1963	33	Cadres de la fonction publique	18/6/2017
+80	SOMME	05	5ème circonscription	DEMILLY	Stéphane	M	26/6/1963	31	Professions libérales	11/6/2017
+81	TARN	01	1ère circonscription	FOLLIOT	Philippe	M	14/7/1963	85	Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités)	18/6/2017
 81	TARN	02	2ème circonscription	VERDIER-JOUCLAS	Marie-Christine	F	19/3/1965	156	Autres professions (obsolète)	18/6/2017
 81	TARN	03	3ème circonscription	TERLIER	Jean	M	2/3/1977	129	Avocats (obsolète)	18/6/2017
 82	TARN ET GARONNE	01	1ère circonscription	RABAULT	Valerie	F	25/4/1973	38	Ingénieurs et cadres techniques d'entreprise	18/6/2017
@@ -522,6 +525,7 @@ Code du département	Libellé du département	Code de la cir.législative	Libellé de
 94	VAL DE MARNE	06	6ème circonscription	GOUFFIER-CHA	Guillaume	M	1/2/1986	156	Autres professions (obsolète)	18/6/2017
 94	VAL DE MARNE	07	7ème circonscription	BRIDEY	Jean-Jacques	M	7/5/1953	118	Cadres supérieurs (secteur privé) (obsolète)	18/6/2017
 94	VAL DE MARNE	08	8ème circonscription	HERBILLON	Michel	M	6/3/1951	86	Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités)	18/6/2017
+94	VAL DE MARNE	09	9ème circonscription	SANTIAGO	Isabelle	F	20/9/1965	33	Cadres de la fonction publique	28/9/2020
 94	VAL DE MARNE	10	10ème circonscription	PANOT	Mathilde	F	15/1/1989	118	Cadres supérieurs (secteur privé) (obsolète)	18/6/2017
 94	VAL DE MARNE	11	11ème circonscription	GAILLOT	Albane	F	7/7/1971	119	Autres cadres (secteur privé) (obsolète)	18/6/2017
 95	VAL D'OISE	01	1ère circonscription	SAVIGNAT	Antoine	M	22/7/1975	129	Avocats (obsolète)	5/2/2018
@@ -545,6 +549,7 @@ ZB	MARTINIQUE	04	4ème circonscription	NILOR	Jean-Philippe	M	15/5/1965	157	Sans p
 ZC	GUYANE	01	1ère circonscription	SERVILLE	Gabriel	M	27/9/1959			18/6/2017
 ZC	GUYANE	02	2ème circonscription	ADAM	Lenaïck	M	19/2/1992	22	Commerçants et assimilés	11/3/2018
 ZD	LA REUNION	01	1ère circonscription	NAILLET	Philippe	M	14/8/1960	23	Chefs d'entreprise de 10 salariés ou plus	14/7/2020
+ZD	LA REUNION	02	2ème circonscription	LEBON	Karine	F	9/6/1985	42	Professeurs des écoles, instituteurs et assimilés	28/9/2020
 ZD	LA REUNION	03	3ème circonscription	BASSIRE	Nathalie	F	22/1/1968	75	Anciennes professions intermédiaires	18/6/2017
 ZD	LA REUNION	04	4ème circonscription	LORION	David	M	15/10/1964	34	Professeurs, professions scientifiques	18/6/2017
 ZD	LA REUNION	05	5ème circonscription	RATENON	Jean-Hugues	M	25/6/1967	156	Autres professions (obsolète)	18/6/2017
