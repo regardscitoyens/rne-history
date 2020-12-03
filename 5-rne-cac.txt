@@ -52,7 +52,6 @@ ORLANDI	François	M	1/11/1957	74	Anciens cadres	1/1/2018	Autre membre commission 
 ORSUCCI	Jean-Charles	M	30/1/1972	45	Professions intermédiaires administratives de la fonction publique	1/1/2018	Président de groupe	2/1/2018
 PADOVANI	Marie-Hélène	F	8/11/1969	157	Sans profession déclarée (obsolète)	1/1/2018		
 PAOLINI	Julien	M	12/6/1977	34	Professeurs, professions scientifiques	2/1/2018		
-PARIGI	Paul	M	7/4/1966	33	Cadres de la fonction publique	1/1/2018	Autre membre commission permanente	2/1/2018
 PEDINIELLI	Chantal	F	2/7/1964	119	Autres cadres (secteur privé) (obsolète)	1/1/2018		
 PIERI	Marie-Anne	F	24/2/1959	130	Notaires (obsolète)	1/1/2018		
 POLI	Antoine	M	16/9/1968	48	Contremaîtres, agents de maîtrise	1/1/2018		
