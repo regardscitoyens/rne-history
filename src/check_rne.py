@@ -24,39 +24,46 @@ if __name__ == '__main__' :
     r = requests.get('https://www.data.gouv.fr/api/1/datasets/5c34c4d1634f4173183a64f1')
 
     r.raise_for_status()
-    
+
     res = r.json()
 
     resources = res['resources']
 
+    index = 1
+
     for resource in resources:
 
 
-        title = resource['title']
+        title = "%d-%s" % (index, resource['title'])
         hashType = resource['checksum']['type']
         hash = resource['checksum']['value']
         url = resource['latest']
 
         desc_file = title + "_desc"
 
-        #TODO : check if file exists
-        with open(desc_file,'r') as f :
-            previous_desc = json.load(f)
+        if os.path.exists(desc_file):
+            with open(desc_file,'r') as f :
+                previous_desc = json.load(f)
 
-            previous_hashType = previous_desc['checksum']['type']
+                previous_hashType = previous_desc['checksum']['type']
 
-            if previous_hashType != hashType:
-                sys.exit("Not the same Hash type for file : " + title)
+                if previous_hashType != hashType:
+                    sys.exit("Not the same Hash type for file : " + title)
 
-            previous_hash = previous_desc['checksum']['value']
-            if hash != previous_hash:
-                print(title + " : Error desync on hash.")
-                updateFile(url, title)
-                updateDescFile(desc_file, resource)
-            else :
-                print(title + ": Ok!")
+                previous_hash = previous_desc['checksum']['value']
+                if hash != previous_hash:
+                    print(title + " : Error desync on hash.")
+                    updateFile(url, title)
+                    updateDescFile(desc_file, resource)
+                else :
+                    print(title + ": Ok!")
 
+        else:
+            print("Tracking new registre: " + title)
+            updateFile(url, title)
+            updateDescFile(desc_file, resource)
 
+        index += 1
 
 
 
