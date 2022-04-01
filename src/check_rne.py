@@ -55,8 +55,8 @@ if __name__ == '__main__' :
                     print(title + " : Error desync on hash.")
                     updateFile(url, title)
                     updateDescFile(desc_file, resource)
-                else :
-                    print(title + ": Ok!")
+                #else:
+                #    print(title + ": Ok!")
 
         else:
             print("Tracking new registre: " + title)
