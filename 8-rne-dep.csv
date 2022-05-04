@@ -132,7 +132,6 @@ Code du département	Libellé du département	Code de la collectivité à statut
 31	Haute-Garonne			3101	1Ère Circonscription	CABARE	Pierre	M	12/12/1957	110	Artisan (obsolète)	18/06/2017
 31	Haute-Garonne			3102	2Ème Circonscription	LAGLEIZE	Jean-Luc	M	09/09/1958	132	Conseiller juridique (obsolète)	18/06/2017
 31	Haute-Garonne			3103	3Ème Circonscription	VIGNON	Corinne	F	10/06/1963	118	Cadre supérieur (secteur privé) (obsolète)	18/06/2017
-31	Haute-Garonne			3104	4Ème Circonscription	NOGAL	Mickaël	M	26/11/1990	139	Autre profession libérale (obsolète)	18/06/2017
 31	Haute-Garonne			3105	5Ème Circonscription	PORTARRIEU	Jean-François	M	14/10/1965	45	Profession intermédiaire administrative de la fonction publique	18/06/2017
 31	Haute-Garonne			3106	6Ème Circonscription	IBORRA	Monique	F	08/03/1945	163	Retraité fonct.publique (sf enseig.) (obsolète)	18/06/2017
 31	Haute-Garonne			3107	7Ème Circonscription	TOUTUT-PICARD	Elisabeth	F	17/12/1954	147	Fonctionnaire de catégorie A (obsolète)	18/06/2017
@@ -160,7 +159,7 @@ Code du département	Libellé du département	Code de la collectivité à statut
 34	Hérault			3405	5Ème Circonscription	HUPPE	Philippe	M	12/02/1968	138	Homme de lettres et Artiste (obsolète)	18/06/2017
 34	Hérault			3406	6Ème Circonscription	MÉNARD	Emmanuelle	F	15/08/1968	35	Profession de l'information, des arts et des spectacles	18/06/2017
 34	Hérault			3407	7Ème Circonscription	EUZET	Christophe	M	02/04/1967	141	Professeur de faculté (obsolète)	18/06/2017
-34	Hérault			3408	8Ème Circonscription	DÉMOULIN	Nicolas	M	22/07/1979	133	Agent général d'assurances (obsolète)	18/06/2017
+34	Hérault			3408	8Ème Circonscription	DÉMOULIN	Nicolas	M	22/07/1972	133	Agent général d'assurances (obsolète)	18/06/2017
 34	Hérault			3409	9Ème Circonscription	VIGNAL	Patrick	M	22/01/1958	106	Administrateur de sociétés (obsolète)	18/06/2017
 35	Ille-Et-Vilaine			3502	2Ème Circonscription	MAILLART-MÉHAIGNERIE	Laurence	F	05/04/1967	105	Industriel-Chef entreprise (obsolète)	18/06/2017
 35	Ille-Et-Vilaine			3503	3Ème Circonscription	ROUAUX	Claudia	F	13/10/1963	38	Ingénieur et cadre technique d'entreprise	11/02/2020
@@ -350,7 +349,6 @@ Code du département	Libellé du département	Code de la collectivité à statut
 69	Rhône			6903	3Ème Circonscription	TOURAINE	Jean-Louis	M	08/10/1945	163	Retraité fonct.publique (sf enseig.) (obsolète)	18/06/2017
 69	Rhône			6904	4Ème Circonscription	BRUGNERA	Anne	F	28/11/1970	33	Cadre de la fonction publique	18/06/2017
 69	Rhône			6905	5Ème Circonscription	BROCARD	Blandine	F	03/11/1981	120	Employé (secteur privé) (obsolète)	18/06/2017
-69	Rhône			6906	6Ème Circonscription	BONNELL	Bruno	M	06/10/1958	105	Industriel-Chef entreprise (obsolète)	18/06/2017
 69	Rhône			6907	7Ème Circonscription	KHEDHER	Anissa	F	01/04/1980	147	Fonctionnaire de catégorie A (obsolète)	18/06/2017
 69	Rhône			6908	8Ème Circonscription	SERRE	Nathalie	F	17/08/1968	46	Profession intermédiaire administrative et commerciale des entreprises	18/06/2020
 69	Rhône			6909	9Ème Circonscription	PERRUT	Bernard	M	24/01/1957	34	Professeur, profession scientifique	18/06/2017
@@ -394,7 +392,6 @@ Code du département	Libellé du département	Code de la collectivité à statut
 75	Paris			7512	12Ème Circonscription	SILIN	Marie	F	04/10/1978	33	Cadre de la fonction publique	27/08/2020
 75	Paris			7513	13Ème Circonscription	RENSON	Hugues	M	11/02/1978	150	Cadre sup. (entreprises publiques) (obsolète)	18/06/2017
 75	Paris			7514	14Ème Circonscription	BOËLLE	Sandrine	F	26/05/1961	77	Ancien employé	28/05/2020
-75	Paris			7515	15Ème Circonscription	EL AARAJE	Lamia	F	22/11/1986	37	Cadre administratif et commercial d'entreprise	06/06/2021
 75	Paris			7516	16Ème Circonscription	MAHJOUBI	Mounir	M	01/03/1984	139	Autre profession libérale (obsolète)	29/04/2019
 75	Paris			7517	17Ème Circonscription	OBONO	Danièle	F	12/07/1980	147	Fonctionnaire de catégorie A (obsolète)	18/06/2017
 75	Paris			7518	18Ème Circonscription	BOURNAZEL	Pierre-Yves	M	31/08/1977	139	Autre profession libérale (obsolète)	18/06/2017
@@ -528,7 +525,7 @@ Code du département	Libellé du département	Code de la collectivité à statut
 95	Val-D'Oise			9503	3Ème Circonscription	RILHAC	Cecile	F	21/04/1974	33	Cadre de la fonction publique	18/06/2017
 95	Val-D'Oise			9504	4Ème Circonscription	MOUTCHOU	Naïma	F	04/11/1980	129	Avocat (obsolète)	18/06/2017
 95	Val-D'Oise			9505	5Ème Circonscription	LAZAAR	Fiona	F	19/09/1985	119	Autre cadre (secteur privé) (obsolète)	18/06/2017
-95	Val-D'Oise			9506	6Ème Circonscription	CORCEIRO	David	M	03/08/1977	37	Cadre administratif et commercial d'entreprise	27/08/2020
+95	Val-D'Oise			9506	6Ème Circonscription	ELIMAS	Nathalie	F	05/06/1973	33	Cadre de la fonction publique	06/04/2022
 95	Val-D'Oise			9507	7Ème Circonscription	DA SILVA	Dominique	M	30/06/1968	105	Industriel-Chef entreprise (obsolète)	18/06/2017
 95	Val-D'Oise			9508	8Ème Circonscription	PUPPONI	François	M	31/07/1962	33	Cadre de la fonction publique	18/06/2017
 95	Val-D'Oise			9509	9Ème Circonscription	PARK	Zivka	F	22/01/1985	119	Autre cadre (secteur privé) (obsolète)	18/06/2017
