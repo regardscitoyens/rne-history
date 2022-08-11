@@ -33,6 +33,8 @@ if __name__ == '__main__' :
 
     for resource in resources:
 
+        if not resource['title'].endswith(".csv"):
+            resource['title'] += ".csv"
 
         title = "%d-%s" % (index, resource['title'])
         hashType = resource['checksum']['type']
