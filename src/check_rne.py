@@ -4,7 +4,7 @@ import sys, os
 
 
 def updateFile(url, name):
-    cmd = "wget {0} -O {1}".format(url, name)
+    cmd = "wget -nv {0} -O {1}".format(url, name)
     os.system(cmd)
 
 
