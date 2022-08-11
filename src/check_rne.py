@@ -6,30 +6,22 @@ import sys, os
 def updateFile(url, name):
     cmd = "wget {0} -O {1}".format(url, name)
     os.system(cmd)
-    git_cmd = "git commit -m 'Update file {0} after checksum changed.' {0}".format(name)
-    os.system(git_cmd)
 
-    os.system('git push')
 
 def updateDescFile(path, desc):
     with open(path,'w') as f :
         f.write(json.dumps(desc))
 
-    git_cmd = "git commit -m 'Update file {0} after checksum changed.' {0}".format(path)
-    os.system(git_cmd)
-    os.system('git push')
 
 if __name__ == '__main__' :
 
     r = requests.get('https://www.data.gouv.fr/api/1/datasets/5c34c4d1634f4173183a64f1')
-
     r.raise_for_status()
-
     res = r.json()
-
     resources = res['resources']
 
     index = 1
+    push = False
 
     for resource in resources:
 
@@ -57,8 +49,9 @@ if __name__ == '__main__' :
                     print(title + " : Error desync on hash.")
                     updateFile(url, title)
                     updateDescFile(desc_file, resource)
-                #else:
-                #    print(title + ": Ok!")
+                    git_cmd = "git commit -m 'Update file %s after checksum changed.' %s %s" % (title, title, desc_file)
+                    os.system(git_cmd)
+                    push = True
 
         else:
             print("Tracking new registre: " + title)
@@ -67,5 +60,6 @@ if __name__ == '__main__' :
 
         index += 1
 
-
+    if push:
+        os.system('git push')
 
