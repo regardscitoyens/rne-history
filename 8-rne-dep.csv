@@ -1,578 +1,577 @@
-"Code du département"	"Libellé du département"	"Code de la collectivité à statut particulier"	"Libellé de la collectivité à statut particulier"	"Code de la circonscription législative"	"Libellé de la circonscription législative"	"Nom de l'élu"	"Prénom de l'élu"	"Code sexe"	"Date de naissance"	"Code de la catégorie socio-professionnelle"	"Libellé de la catégorie socio-professionnelle"	"Date de début du mandat"
-1	"Ain"			101	"1Ère Circonscription"	"BRETON"	"Xavier"	"M"	25/11/62	33	"Cadre de la fonction publique"	22/06/22
-1	"Ain"			102	"2Ème Circonscription"	"DAUBIÉ"	"Romain"	"M"	05/05/80	31	"Profession libérale"	22/06/22
-1	"Ain"			103	"3Ème Circonscription"	"GIVERNET"	"Olga"	"F"	17/10/81	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-1	"Ain"			104	"4Ème Circonscription"	"BUISSON"	"Jérôme"	"M"	15/01/73	34	"Professeur, profession scientifique"	22/06/22
-1	"Ain"			105	"5Ème Circonscription"	"ABAD"	"Damien"	"M"	05/04/80	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-2	"Aisne"			201	"1Ère Circonscription"	"DRAGON"	"Nicolas"	"M"	19/04/77	31	"Profession libérale"	22/06/22
-2	"Aisne"			202	"2Ème Circonscription"	"DIVE"	"Julien"	"M"	21/05/85	74	"Ancien cadre"	22/06/22
-2	"Aisne"			203	"3Ème Circonscription"	"BRICOUT"	"Jean-Louis"	"M"	27/12/57	74	"Ancien cadre"	22/06/22
-2	"Aisne"			204	"4Ème Circonscription"	"BEAURAIN"	"José"	"M"	27/07/71	21	"Artisan"	22/06/22
-2	"Aisne"			205	"5Ème Circonscription"	"DESSIGNY"	"Jocelyn"	"M"	29/06/81	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-3	"Allier"			301	"1Ère Circonscription"	"MONNET"	"Yannick"	"M"	07/10/75	33	"Cadre de la fonction publique"	22/06/22
-3	"Allier"			302	"2Ème Circonscription"	"BOVET"	"Jorys"	"M"	30/03/93	64	"Chauffeur"	22/06/22
-3	"Allier"			303	"3Ème Circonscription"	"RAY"	"Nicolas"	"M"	14/05/81	33	"Cadre de la fonction publique"	22/06/22
-4	"Alpes-De-Haute-Provence"			401	"1Ère Circonscription"	"GIRARD"	"Christian"	"M"	07/05/52	74	"Ancien cadre"	22/06/22
-4	"Alpes-De-Haute-Provence"			402	"2Ème Circonscription"	"WALTER"	"Léo"	"M"	14/04/72	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-5	"Hautes-Alpes"			501	"1Ère Circonscription"	"BOYER"	"Pascale"	"F"	28/09/65	48	"Contremaître, agent de maîtrise"	22/06/22
-5	"Hautes-Alpes"			502	"2Ème Circonscription"	"GIRAUD"	"Joel"	"M"	14/10/59	33	"Cadre de la fonction publique"	22/06/22
-6	"Alpes-Maritimes"			601	"1Ère Circonscription"	"CIOTTI"	"Eric"	"M"	28/09/65	33	"Cadre de la fonction publique"	22/06/22
-6	"Alpes-Maritimes"			602	"2Ème Circonscription"	"TIVOLI"	"Lionel"	"M"	29/02/88	22	"Commerçant et assimilé"	22/06/22
-6	"Alpes-Maritimes"			603	"3Ème Circonscription"	"PRADAL"	"Philippe"	"M"	01/02/63	31	"Profession libérale"	22/06/22
-6	"Alpes-Maritimes"			604	"4Ème Circonscription"	"MASSON"	"Alexandra"	"F"	02/07/71	31	"Profession libérale"	22/06/22
-6	"Alpes-Maritimes"			605	"5Ème Circonscription"	"D'INTORNI"	"Christelle"	"F"	02/05/85	31	"Profession libérale"	22/06/22
-6	"Alpes-Maritimes"			606	"6Ème Circonscription"	"MASSON"	"Bryan"	"M"	21/12/96	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-6	"Alpes-Maritimes"			607	"7Ème Circonscription"	"PAUGET"	"Eric"	"M"	18/08/70	22	"Commerçant et assimilé"	22/06/22
-6	"Alpes-Maritimes"			608	"8Ème Circonscription"	"MARTIN"	"Alexandra"	"F"	25/10/68	52	"Employé civil et agent de service de la fonction publique"	22/06/22
-6	"Alpes-Maritimes"			609	"9Ème Circonscription"	"TABAROT"	"Michèle"	"F"	13/10/62	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-7	"Ardèche"			701	"1Ère Circonscription"	"SAULIGNAC"	"Hervé"	"M"	06/11/70	33	"Cadre de la fonction publique"	22/06/22
-7	"Ardèche"			702	"2Ème Circonscription"	"HEYDEL-GRILLERE"	"Laurence"	"F"	18/11/68	38	"Ingénieur et cadre technique d'entreprise"	23/07/22
-7	"Ardèche"			703	"3Ème Circonscription"	"BRUN"	"Fabrice"	"M"	02/04/68	22	"Commerçant et assimilé"	22/06/22
-8	"Ardennes"			801	"1Ère Circonscription"	"VUIBERT"	"Lionel"	"M"	31/08/68	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-8	"Ardennes"			802	"2Ème Circonscription"	"CORDIER"	"Pierre"	"M"	27/05/72	33	"Cadre de la fonction publique"	22/06/22
-8	"Ardennes"			803	"3Ème Circonscription"	"WARSMANN"	"Jean-Luc"	"M"	22/10/65	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-9	"Ariège"			901	"1Ère Circonscription"	"TAURINE"	"Bénédicte"	"F"	18/06/76	34	"Professeur, profession scientifique"	22/06/22
-9	"Ariège"			902	"2Ème Circonscription"	"PANIFOUS"	"Laurent"	"M"	21/12/76	33	"Cadre de la fonction publique"	22/06/22
-10	"Aube"			1001	"1Ère Circonscription"	"GUITTON"	"Jordan"	"M"	30/01/95	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-10	"Aube"			1002	"2Ème Circonscription"	"BAZIN-MALGRAS"	"Valérie"	"F"	31/10/69	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-10	"Aube"			1003	"3Ème Circonscription"	"RANC"	"Angélique"	"F"	16/03/88	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-11	"Aude"			1101	"1Ère Circonscription"	"BARTHÈS"	"Christophe"	"M"	12/10/66	12	"Agriculteur sur moyenne exploitation"	22/06/22
-11	"Aude"			1102	"2Ème Circonscription"	"FALCON"	"Frédéric"	"M"	21/11/85	22	"Commerçant et assimilé"	22/06/22
-11	"Aude"			1103	"3Ème Circonscription"	"RANCOULE"	"Julien"	"M"	31/07/93	31	"Profession libérale"	22/06/22
-12	"Aveyron"			1201	"1Ère Circonscription"	"MAZARS"	"Stéphane"	"M"	25/03/69	31	"Profession libérale"	22/06/22
-12	"Aveyron"			1202	"2Ème Circonscription"	"ALEXANDRE"	"Laurent"	"M"	09/06/73	62	"Ouvrier qualifié de type industriel"	22/06/22
-12	"Aveyron"			1203	"3Ème Circonscription"	"ROUSSET"	"Jean-François"	"M"	09/09/52	31	"Profession libérale"	22/06/22
-13	"Bouches-Du-Rhône"			1301	"1Ère Circonscription"	"AGRESTI ROUBACHE"	"Sabrina"	"F"	13/10/76	31	"Profession libérale"	22/06/22
-13	"Bouches-Du-Rhône"			1302	"2Ème Circonscription"	"PITOLLAT"	"Claire"	"F"	17/09/79	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-13	"Bouches-Du-Rhône"			1303	"3Ème Circonscription"	"LELOUIS"	"Gisèle"	"F"	10/03/52	77	"Ancien employé"	22/06/22
-13	"Bouches-Du-Rhône"			1304	"4Ème Circonscription"	"BOMPARD"	"Manuel"	"M"	30/03/86	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-13	"Bouches-Du-Rhône"			1305	"5Ème Circonscription"	"DAVI"	"Hendrik"	"M"	21/12/77	34	"Professeur, profession scientifique"	22/06/22
-13	"Bouches-Du-Rhône"			1306	"6Ème Circonscription"	"ROYER-PERREAUT"	"Lionel"	"M"	13/11/72	33	"Cadre de la fonction publique"	22/06/22
-13	"Bouches-Du-Rhône"			1307	"7Ème Circonscription"	"DELOGU"	"Sébastien"	"M"	08/06/87	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-13	"Bouches-Du-Rhône"			1308	"8Ème Circonscription"	"ZULESI"	"Jean-Marc"	"M"	06/06/88	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-13	"Bouches-Du-Rhône"			1309	"9Ème Circonscription"	"MÉLIN"	"Joëlle"	"F"	26/03/50	31	"Profession libérale"	22/06/22
-13	"Bouches-Du-Rhône"			1310	"10Ème Circonscription"	"GONZALEZ"	"José"	"M"	28/04/43	77	"Ancien employé"	22/06/22
-13	"Bouches-Du-Rhône"			1311	"11Ème Circonscription"	"LAQHILA"	"Mohamed"	"M"	03/08/59	31	"Profession libérale"	22/06/22
-13	"Bouches-Du-Rhône"			1312	"12Ème Circonscription"	"ALLISIO"	"Franck"	"M"	04/08/80	31	"Profession libérale"	22/06/22
-13	"Bouches-Du-Rhône"			1313	"13Ème Circonscription"	"DHARRÉVILLE"	"Pierre"	"M"	15/06/75	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-13	"Bouches-Du-Rhône"			1314	"14Ème Circonscription"	"PETEL"	"Anne-Laurence"	"F"	08/02/70	33	"Cadre de la fonction publique"	22/06/22
-13	"Bouches-Du-Rhône"			1315	"15Ème Circonscription"	"BAUBRY"	"Romain"	"M"	28/01/89	53	"Policier et militaire"	22/06/22
-13	"Bouches-Du-Rhône"			1316	"16Ème Circonscription"	"TACHE DE LA PAGERIE"	"Emmanuel"	"M"	20/02/75	33	"Cadre de la fonction publique"	22/06/22
-14	"Calvados"			1401	"1Ère Circonscription"	"LE VIGOUREUX"	"Fabrice"	"M"	27/08/69	34	"Professeur, profession scientifique"	22/06/22
-14	"Calvados"			1402	"2Ème Circonscription"	"DELAPORTE"	"Arthur"	"M"	07/10/91	34	"Professeur, profession scientifique"	22/06/22
-14	"Calvados"			1403	"3Ème Circonscription"	"PATRIER-LEITUS"	"Jérémie"	"M"	07/03/89	33	"Cadre de la fonction publique"	22/06/22
-14	"Calvados"			1404	"4Ème Circonscription"	"BLANCHET"	"Christophe"	"M"	09/04/73	22	"Commerçant et assimilé"	22/06/22
-14	"Calvados"			1405	"5Ème Circonscription"	"BOUYX"	"Bertrand"	"M"	26/05/70	34	"Professeur, profession scientifique"	22/06/22
-14	"Calvados"			1406	"6Ème Circonscription"	"SERTIN"	"Freddy"	"M"	07/02/80	47	"Technicien"	23/07/22
-15	"Cantal"			1501	"1Ère Circonscription"	"DESCOEUR"	"Vincent"	"M"	13/12/62	34	"Professeur, profession scientifique"	22/06/22
-15	"Cantal"			1502	"2Ème Circonscription"	"BONY"	"Jean-Yves"	"M"	11/03/55	12	"Agriculteur sur moyenne exploitation"	22/06/22
-16	"Charente"			1601	"1Ère Circonscription"	"MESNIER"	"Thomas"	"M"	04/03/86	33	"Cadre de la fonction publique"	22/06/22
-16	"Charente"			1602	"2Ème Circonscription"	"MARSAUD"	"Sandra"	"F"	02/01/74	74	"Ancien cadre"	22/06/22
-16	"Charente"			1603	"3Ème Circonscription"	"COLOMBIER"	"Caroline"	"F"	22/08/57	74	"Ancien cadre"	22/06/22
-17	"Charente-Maritime"			1701	"1Ère Circonscription"	"FALORNI"	"Olivier"	"M"	27/03/72	34	"Professeur, profession scientifique"	22/06/22
-17	"Charente-Maritime"			1702	"2Ème Circonscription"	"BABAULT"	"Anne-Laure"	"F"	03/01/82	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-17	"Charente-Maritime"			1703	"3Ème Circonscription"	"ARDOUIN"	"Jean-Philippe"	"M"	05/03/64	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-17	"Charente-Maritime"			1704	"4Ème Circonscription"	"GERARD"	"Raphaël"	"M"	17/10/68	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-17	"Charente-Maritime"			1705	"5Ème Circonscription"	"PLASSARD"	"Christophe"	"M"	19/11/67	31	"Profession libérale"	22/06/22
-18	"Cher"			1801	"1Ère Circonscription"	"CORMIER BOULIGEON"	"François"	"M"	19/11/72	33	"Cadre de la fonction publique"	22/06/22
-18	"Cher"			1802	"2Ème Circonscription"	"SANSU"	"Nicolas"	"M"	17/06/68	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-18	"Cher"			1803	"3Ème Circonscription"	"KERVRAN"	"Loïc"	"M"	11/02/84	33	"Cadre de la fonction publique"	22/06/22
-19	"Corrèze"			1901	"1Ère Circonscription"	"DUBOIS"	"Francis"	"M"	28/11/61	47	"Technicien"	22/06/22
-19	"Corrèze"			1902	"2Ème Circonscription"	"MEUNIER"	"Frédérique"	"F"	08/12/60	31	"Profession libérale"	22/06/22
-21	"Côte-D'Or"			2101	"1Ère Circonscription"	"MARTIN"	"Didier"	"M"	20/08/56	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-21	"Côte-D'Or"			2102	"2Ème Circonscription"	"BORDAT"	"Benoît"	"M"	07/02/84	74	"Ancien cadre"	22/06/22
-21	"Côte-D'Or"			2103	"3Ème Circonscription"	"KHATTABI"	"Fadila"	"F"	23/02/62	34	"Professeur, profession scientifique"	22/06/22
-21	"Côte-D'Or"			2104	"4Ème Circonscription"	"BRIGAND"	"Hubert"	"M"	28/07/52	75	"Ancienne profession intermédiaire"	22/06/22
-21	"Côte-D'Or"			2105	"5Ème Circonscription"	"PARIS"	"Didier"	"M"	14/02/54	74	"Ancien cadre"	22/06/22
-22	"Côtes-D'Armor"			2201	"1Ère Circonscription"	"COSSON"	"Mickaël"	"M"	29/11/75	33	"Cadre de la fonction publique"	22/06/22
-22	"Côtes-D'Armor"			2202	"2Ème Circonscription"	"BOULOUX"	"Chantal"	"F"	23/06/61	33	"Cadre de la fonction publique"	04/08/22
-22	"Côtes-D'Armor"			2203	"3Ème Circonscription"	"LE FUR"	"Marc"	"M"	28/11/56	33	"Cadre de la fonction publique"	22/06/22
-22	"Côtes-D'Armor"			2204	"4Ème Circonscription"	"LEPVRAUD"	"Murielle"	"F"	15/07/74	54	"Employé administratif d'entreprise"	22/06/22
-22	"Côtes-D'Armor"			2205	"5Ème Circonscription"	"BOTHOREL"	"Eric"	"M"	20/10/66	33	"Cadre de la fonction publique"	22/06/22
-23	"Creuse"			2301	"1Ère Circonscription"	"COUTURIER"	"Catherine France Nadine"	"F"	27/02/59	75	"Ancienne profession intermédiaire"	22/06/22
-24	"Dordogne"			2401	"1Ère Circonscription"	"MARTIN"	"Pascale"	"F"	24/08/61	74	"Ancien cadre"	22/06/22
-24	"Dordogne"			2402	"2Ème Circonscription"	"MULLER"	"Serge"	"M"	26/02/76	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-24	"Dordogne"			2403	"3Ème Circonscription"	"CUBERTAFON"	"Jean-Pierre"	"M"	05/02/48	74	"Ancien cadre"	22/06/22
-24	"Dordogne"			2404	"4Ème Circonscription"	"PEYTAVIE"	"Sébastien"	"M"	17/04/82	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-25	"Doubs"			2501	"1Ère Circonscription"	"CROIZIER"	"Laurent"	"M"	29/01/75	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-25	"Doubs"			2502	"2Ème Circonscription"	"ALAUZET"	"Eric"	"M"	07/06/58	31	"Profession libérale"	22/06/22
-25	"Doubs"			2503	"3Ème Circonscription"	"PACQUOT"	"Nicolas"	"M"	12/12/78	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-25	"Doubs"			2504	"4Ème Circonscription"	"GRANGIER"	"Géraldine"	"F"	13/02/75	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-25	"Doubs"			2505	"5Ème Circonscription"	"GENEVARD"	"Annie"	"F"	07/09/56	34	"Professeur, profession scientifique"	22/06/22
-26	"Drôme"			2601	"1Ère Circonscription"	"CLAPOT"	"Mireille"	"F"	14/10/63	33	"Cadre de la fonction publique"	22/06/22
-26	"Drôme"			2602	"2Ème Circonscription"	"POLLET"	"Lisette"	"F"	04/01/68	62	"Ouvrier qualifié de type industriel"	22/06/22
-26	"Drôme"			2603	"3Ème Circonscription"	"POCHON"	"Marie"	"F"	04/05/90	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-26	"Drôme"			2604	"4Ème Circonscription"	"ANTHOINE"	"Emmanuelle"	"F"	02/07/64	75	"Ancienne profession intermédiaire"	22/06/22
-27	"Eure"			2701	"1Ère Circonscription"	"LOIR"	"Christine"	"F"	22/02/77	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-27	"Eure"			2702	"2Ème Circonscription"	"LEVAVASSEUR"	"Katiana"	"F"	09/12/70	67	"Ouvrier non qualifié de type industriel"	22/06/22
-27	"Eure"			2703	"3Ème Circonscription"	"MAUVIEUX"	"Kévin"	"M"	09/09/91	55	"Employé de commerce"	22/06/22
-27	"Eure"			2704	"4Ème Circonscription"	"BRUN"	"Philippe"	"M"	16/10/91	33	"Cadre de la fonction publique"	22/06/22
-27	"Eure"			2705	"5Ème Circonscription"	"HOUSSIN"	"Timothée"	"M"	29/05/88	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-28	"Eure-Et-Loir"			2801	"1Ère Circonscription"	"KASBARIAN"	"Guillaume"	"M"	28/02/87	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-28	"Eure-Et-Loir"			2802	"2Ème Circonscription"	"MARLEIX"	"Olivier"	"M"	06/02/71	33	"Cadre de la fonction publique"	22/06/22
-28	"Eure-Et-Loir"			2803	"3Ème Circonscription"	"LAMIRAULT"	"Luc"	"M"	12/05/62	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-28	"Eure-Et-Loir"			2804	"4Ème Circonscription"	"VIGIER"	"Philippe"	"M"	03/02/58	31	"Profession libérale"	22/06/22
-29	"Finistère"			2901	"1Ère Circonscription"	"LE MEUR"	"Annaïg"	"F"	29/04/73	31	"Profession libérale"	22/06/22
-29	"Finistère"			2902	"2Ème Circonscription"	"LARSONNEUR"	"Jean-Charles"	"M"	24/01/84	33	"Cadre de la fonction publique"	22/06/22
-29	"Finistère"			2903	"3Ème Circonscription"	"LE GAC"	"Didier"	"M"	19/07/65	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-29	"Finistère"			2904	"4Ème Circonscription"	"LE FEUR"	"Sandrine"	"F"	18/03/91	12	"Agriculteur sur moyenne exploitation"	22/06/22
-29	"Finistère"			2905	"5Ème Circonscription"	"MELCHIOR"	"Graziella"	"F"	06/04/60	34	"Professeur, profession scientifique"	22/06/22
-29	"Finistère"			2906	"6Ème Circonscription"	"THOMIN"	"Mélanie"	"F"	04/06/84	34	"Professeur, profession scientifique"	22/06/22
-29	"Finistère"			2907	"7Ème Circonscription"	"TANGUY"	"Liliana"	"F"	12/03/67	33	"Cadre de la fonction publique"	22/06/22
-29	"Finistère"			2908	"8Ème Circonscription"	"BALANANT"	"Erwan"	"M"	21/02/71	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-"2A"	"Corse-Du-Sud"	94	"Corse"	"2A01"	"1Ère Circonscription"	"MARCANGELI"	"Laurent"	"M"	10/12/80	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-"2A"	"Corse-Du-Sud"	94	"Corse"	"2A02"	"2Ème Circonscription"	"COLOMBANI"	"Paul-André"	"M"	17/08/67	31	"Profession libérale"	22/06/22
-"2B"	"Haute-Corse"	94	"Corse"	"2B01"	"1Ère Circonscription"	"CASTELLANI"	"Michel"	"M"	28/09/45	34	"Professeur, profession scientifique"	22/06/22
-"2B"	"Haute-Corse"	94	"Corse"	"2B02"	"2Ème Circonscription"	"ACQUAVIVA"	"Jean-Félix"	"M"	19/03/73	74	"Ancien cadre"	22/06/22
-30	"Gard"			3001	"1Ère Circonscription"	"GILLET"	"Yoann"	"M"	29/08/86	33	"Cadre de la fonction publique"	22/06/22
-30	"Gard"			3002	"2Ème Circonscription"	"MEIZONNET"	"Nicolas"	"M"	22/12/83	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-30	"Gard"			3003	"3Ème Circonscription"	"BORDES"	"Pascale"	"F"	15/10/61	31	"Profession libérale"	22/06/22
-30	"Gard"			3004	"4Ème Circonscription"	"MEURIN"	"Pierre"	"M"	30/11/89	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-30	"Gard"			3005	"5Ème Circonscription"	"SALA"	"Michel"	"M"	13/05/54	77	"Ancien employé"	22/06/22
-30	"Gard"			3006	"6Ème Circonscription"	"BERTA"	"Philippe"	"M"	11/04/60	34	"Professeur, profession scientifique"	22/06/22
-31	"Haute-Garonne"			3101	"1Ère Circonscription"	"CLOUET"	"Hadrien"	"M"	13/07/91	34	"Professeur, profession scientifique"	22/06/22
-31	"Haute-Garonne"			3102	"2Ème Circonscription"	"STAMBACH-TERRENOIR"	"Anne"	"F"	23/06/80	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-31	"Haute-Garonne"			3103	"3Ème Circonscription"	"VIGNON"	"Corinne"	"F"	10/06/63	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-31	"Haute-Garonne"			3104	"4Ème Circonscription"	"PIQUEMAL"	"François"	"M"	28/12/84	34	"Professeur, profession scientifique"	22/06/22
-31	"Haute-Garonne"			3105	"5Ème Circonscription"	"PORTARRIEU"	"Jean-François"	"M"	14/10/65	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-31	"Haute-Garonne"			3106	"6Ème Circonscription"	"IBORRA"	"Monique"	"F"	08/03/45	74	"Ancien cadre"	22/06/22
-31	"Haute-Garonne"			3107	"7Ème Circonscription"	"BEX"	"Christophe"	"M"	14/11/61	33	"Cadre de la fonction publique"	22/06/22
-31	"Haute-Garonne"			3108	"8Ème Circonscription"	"AVIRAGNET"	"Joël"	"M"	16/06/56	74	"Ancien cadre"	22/06/22
-31	"Haute-Garonne"			3109	"9Ème Circonscription"	"ARRIGHI"	"Christine"	"F"	19/09/59	74	"Ancien cadre"	22/06/22
-31	"Haute-Garonne"			3110	"10Ème Circonscription"	"ESQUENET"	"Laurent"	"M"	23/08/62	156	"Autre profession (obsolète)"	04/08/22
-32	"Gers"			3201	"1Ère Circonscription"	"CAZENEUVE"	"Jean-René"	"M"	09/06/58	74	"Ancien cadre"	22/06/22
-32	"Gers"			3202	"2Ème Circonscription"	"TAUPIAC"	"David"	"M"	13/05/75	31	"Profession libérale"	22/06/22
-33	"Gironde"			3301	"1Ère Circonscription"	"CAZENAVE"	"Thomas"	"M"	06/03/78	33	"Cadre de la fonction publique"	22/06/22
-33	"Gironde"			3302	"2Ème Circonscription"	"THIERRY"	"Nicolas"	"M"	08/12/75	31	"Profession libérale"	22/06/22
-33	"Gironde"			3303	"3Ème Circonscription"	"PRUD'HOMME"	"Loïc"	"M"	19/08/69	47	"Technicien"	22/06/22
-33	"Gironde"			3304	"4Ème Circonscription"	"DAVID"	"Alain"	"M"	02/06/49	164	"Retraité des entreprises publiques (obsolète)"	22/06/22
-33	"Gironde"			3305	"5Ème Circonscription"	"DE FOURNAS"	"Grégoire"	"M"	19/03/85	12	"Agriculteur sur moyenne exploitation"	22/06/22
-33	"Gironde"			3306	"6Ème Circonscription"	"POULLIAT"	"Eric"	"M"	09/07/74	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-33	"Gironde"			3307	"7Ème Circonscription"	"ZGAINSKI"	"Frédéric"	"M"	30/10/72	23	"Chef d'entreprise de 10 salariés ou plus"	04/08/22
-33	"Gironde"			3308	"8Ème Circonscription"	"PANONACLE"	"Sophie"	"F"	16/12/68	157	"Sans profession déclarée (obsolète)"	22/06/22
-33	"Gironde"			3309	"9Ème Circonscription"	"METTE"	"Sophie"	"F"	13/09/59	157	"Sans profession déclarée (obsolète)"	22/06/22
-33	"Gironde"			3310	"10Ème Circonscription"	"BOUDIÉ"	"Florent"	"M"	22/09/73	33	"Cadre de la fonction publique"	22/06/22
-33	"Gironde"			3311	"11Ème Circonscription"	"DIAZ"	"Edwige"	"F"	15/10/87	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-33	"Gironde"			3312	"12Ème Circonscription"	"LAVERGNE"	"Pascal"	"M"	28/08/67	12	"Agriculteur sur moyenne exploitation"	22/06/22
-34	"Hérault"			3401	"1Ère Circonscription"	"SOREZ"	"Philippe"	"M"	20/05/61	119	"Autre cadre (secteur privé) (obsolète)"	04/08/22
-34	"Hérault"			3402	"2Ème Circonscription"	"OZIOL"	"Nathalie"	"F"	18/02/90	34	"Professeur, profession scientifique"	22/06/22
-34	"Hérault"			3403	"3Ème Circonscription"	"CRISTOL"	"Laurence"	"F"	08/11/67	34	"Professeur, profession scientifique"	22/06/22
-34	"Hérault"			3404	"4Ème Circonscription"	"ROME"	"Sébastien"	"M"	12/10/78	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-34	"Hérault"			3405	"5Ème Circonscription"	"GALZY"	"Stéphanie"	"F"	21/10/81	54	"Employé administratif d'entreprise"	22/06/22
-34	"Hérault"			3406	"6Ème Circonscription"	"MÉNARD"	"Emmanuelle"	"F"	15/08/68	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-34	"Hérault"			3407	"7Ème Circonscription"	"LOPEZ LIGUORI"	"Aurélien"	"M"	17/05/93	33	"Cadre de la fonction publique"	22/06/22
-34	"Hérault"			3408	"8Ème Circonscription"	"CARRIERE"	"Sylvain"	"M"	21/05/91	55	"Employé de commerce"	22/06/22
-34	"Hérault"			3409	"9Ème Circonscription"	"VIGNAL"	"Patrick"	"M"	22/01/58	22	"Commerçant et assimilé"	22/06/22
-35	"Ille-Et-Vilaine"			3501	"1Ère Circonscription"	"MATHIEU"	"Frédéric"	"M"	06/11/77	33	"Cadre de la fonction publique"	22/06/22
-35	"Ille-Et-Vilaine"			3502	"2Ème Circonscription"	"MAILLART-MÉHAIGNERIE"	"Laurence"	"F"	05/04/67	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-35	"Ille-Et-Vilaine"			3503	"3Ème Circonscription"	"ROUAUX"	"Claudia"	"F"	13/10/63	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-35	"Ille-Et-Vilaine"			3504	"4Ème Circonscription"	"HIGNET"	"Mathilde"	"F"	10/06/93	69	"Ouvrier agricole"	22/06/22
-35	"Ille-Et-Vilaine"			3505	"5Ème Circonscription"	"LE NABOUR-CLOAREC"	"Christine"	"F"	28/10/64	55	"Employé de commerce"	22/06/22
-35	"Ille-Et-Vilaine"			3506	"6Ème Circonscription"	"BENOIT"	"Thierry"	"M"	13/09/66	22	"Commerçant et assimilé"	22/06/22
-35	"Ille-Et-Vilaine"			3507	"7Ème Circonscription"	"BOURGEAUX"	"Jean-Luc"	"M"	10/04/63	11	"Agriculteur sur petite exploitation"	22/06/22
-35	"Ille-Et-Vilaine"			3508	"8Ème Circonscription"	"BOULOUX"	"Mickaël"	"M"	16/08/72	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-36	"Indre"			3601	"1Ère Circonscription"	"JOLIVET"	"François"	"M"	21/03/66	74	"Ancien cadre"	22/06/22
-36	"Indre"			3602	"2Ème Circonscription"	"FORISSIER"	"Nicolas"	"M"	17/02/61	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-37	"Indre-Et-Loire"			3701	"1Ère Circonscription"	"FOURNIER"	"Charles"	"M"	10/03/68	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-37	"Indre-Et-Loire"			3702	"2Ème Circonscription"	"LABARONNE"	"Daniel"	"M"	16/07/55	74	"Ancien cadre"	22/06/22
-37	"Indre-Et-Loire"			3703	"3Ème Circonscription"	"ALFANDARI"	"Henri"	"M"	02/10/79	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-37	"Indre-Et-Loire"			3704	"4Ème Circonscription"	"COLBOC"	"Fabienne"	"F"	09/08/71	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-37	"Indre-Et-Loire"			3705	"5Ème Circonscription"	"THILLAYE"	"Sabine"	"F"	18/05/59	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-38	"Isère"			3801	"1Ère Circonscription"	"HUGUES"	"Servane"	"F"	28/06/76	33	"Cadre de la fonction publique"	23/07/22
-38	"Isère"			3802	"2Ème Circonscription"	"CHATELAIN"	"Cyrielle"	"F"	15/07/87	33	"Cadre de la fonction publique"	22/06/22
-38	"Isère"			3803	"3Ème Circonscription"	"MARTIN"	"Élisa"	"F"	15/05/72	34	"Professeur, profession scientifique"	22/06/22
-38	"Isère"			3804	"4Ème Circonscription"	"BATTISTEL"	"Marie-Noëlle"	"F"	20/08/56	86	"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)"	22/06/22
-38	"Isère"			3805	"5Ème Circonscription"	"IORDANOFF"	"Jérémie"	"M"	02/02/83	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-38	"Isère"			3806	"6Ème Circonscription"	"JOLLY"	"Alexis"	"M"	22/12/90	22	"Commerçant et assimilé"	22/06/22
-38	"Isère"			3807	"7Ème Circonscription"	"NEUDER"	"Yannick"	"M"	15/03/69	34	"Professeur, profession scientifique"	22/06/22
-38	"Isère"			3808	"8Ème Circonscription"	"ABADIE"	"Caroline"	"F"	07/09/76	22	"Commerçant et assimilé"	22/06/22
-38	"Isère"			3809	"9Ème Circonscription"	"JACQUIER-LAFORGE"	"Elodie"	"F"	15/04/78	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-38	"Isère"			3810	"10Ème Circonscription"	"MEYNIER-MILLEFERT"	"Marjolaine"	"F"	30/09/82	22	"Commerçant et assimilé"	22/06/22
-39	"Jura"			3901	"1Ère Circonscription"	"BRULEBOIS"	"Danielle"	"F"	04/07/47	75	"Ancienne profession intermédiaire"	22/06/22
-39	"Jura"			3902	"2Ème Circonscription"	"DALLOZ"	"Marie-Christine"	"F"	10/01/58	86	"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)"	22/06/22
-39	"Jura"			3903	"3Ème Circonscription"	"GRUET"	"Justine"	"F"	23/10/89	31	"Profession libérale"	22/06/22
-40	"Landes"			4001	"1Ère Circonscription"	"LAINÉ"	"Fabien"	"M"	15/04/76	31	"Profession libérale"	04/08/22
-40	"Landes"			4002	"2Ème Circonscription"	"CAUSSE"	"Lionel"	"M"	06/05/71	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-40	"Landes"			4003	"3Ème Circonscription"	"VALLAUD"	"Boris"	"M"	25/07/75	33	"Cadre de la fonction publique"	22/06/22
-41	"Loir-Et-Cher"			4101	"1Ère Circonscription"	"DESJONQUÈRES"	"Mathilde"	"F"	06/09/80	37	"Cadre administratif et commercial d'entreprise"	23/07/22
-41	"Loir-Et-Cher"			4102	"2Ème Circonscription"	"CHUDEAU"	"Roger"	"M"	28/09/49	74	"Ancien cadre"	22/06/22
-41	"Loir-Et-Cher"			4103	"3Ème Circonscription"	"MARION"	"Christophe"	"M"	25/04/73	33	"Cadre de la fonction publique"	22/06/22
-42	"Loire"			4201	"1Ère Circonscription"	"BATAILLON"	"Quentin"	"M"	09/09/93	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-42	"Loire"			4202	"2Ème Circonscription"	"TAURINYA"	"Andrée"	"F"	03/06/63	34	"Professeur, profession scientifique"	22/06/22
-42	"Loire"			4203	"3Ème Circonscription"	"MANDON"	"Emmanuel"	"M"	22/06/65	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-42	"Loire"			4204	"4Ème Circonscription"	"CINIERI"	"Dino"	"M"	09/07/55	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-42	"Loire"			4205	"5Ème Circonscription"	"VERMOREL-MARQUES"	"Antoine"	"M"	17/02/93	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-42	"Loire"			4206	"6Ème Circonscription"	"TAITE"	"Jean-Pierre"	"M"	14/03/62	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-43	"Haute-Loire"			4301	"1Ère Circonscription"	"VALENTIN"	"Isabelle"	"F"	20/01/62	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-43	"Haute-Loire"			4302	"2Ème Circonscription"	"VIGIER"	"Jean-Pierre"	"M"	22/10/69	33	"Cadre de la fonction publique"	22/06/22
-44	"Loire-Atlantique"			4401	"1Ère Circonscription"	"BELHAMITI"	"Mounir"	"M"	08/03/85	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-44	"Loire-Atlantique"			4402	"2Ème Circonscription"	"KERBRAT"	"Andy"	"M"	01/10/90	54	"Employé administratif d'entreprise"	22/06/22
-44	"Loire-Atlantique"			4403	"3Ème Circonscription"	"AMIOT"	"Ségolène"	"F"	23/02/86	54	"Employé administratif d'entreprise"	22/06/22
-44	"Loire-Atlantique"			4404	"4Ème Circonscription"	"LAERNOES"	"Julie"	"F"	03/07/82	74	"Ancien cadre"	22/06/22
-44	"Loire-Atlantique"			4405	"5Ème Circonscription"	"GEISMAR"	"Luc"	"M"	01/11/66	119	"Autre cadre (secteur privé) (obsolète)"	04/08/22
-44	"Loire-Atlantique"			4406	"6Ème Circonscription"	"RAUX"	"Jean-Claude"	"M"	18/01/67	34	"Professeur, profession scientifique"	22/06/22
-44	"Loire-Atlantique"			4407	"7Ème Circonscription"	"JOSSO"	"Sandrine"	"F"	19/09/75	31	"Profession libérale"	22/06/22
-44	"Loire-Atlantique"			4408	"8Ème Circonscription"	"TAVEL"	"Matthias"	"M"	06/07/87	33	"Cadre de la fonction publique"	22/06/22
-44	"Loire-Atlantique"			4409	"9Ème Circonscription"	"HAURY"	"Yannick"	"M"	12/06/54	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-44	"Loire-Atlantique"			4410	"10Ème Circonscription"	"ERRANTE"	"Sophie"	"F"	22/07/71	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-45	"Loiret"			4501	"1Ère Circonscription"	"RIST"	"Stéphanie"	"F"	06/08/73	34	"Professeur, profession scientifique"	22/06/22
-45	"Loiret"			4502	"2Ème Circonscription"	"JANVIER"	"Caroline"	"F"	09/03/82	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-45	"Loiret"			4503	"3Ème Circonscription"	"PARIS"	"Mathilde"	"F"	14/01/85	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-45	"Loiret"			4504	"4Ème Circonscription"	"MÉNAGÉ"	"Thomas"	"M"	06/01/92	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-45	"Loiret"			4505	"5Ème Circonscription"	"BROSSE"	"Anthony"	"M"	04/11/80	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-45	"Loiret"			4506	"6Ème Circonscription"	"RAMOS"	"Richard"	"M"	23/03/68	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-46	"Lot"			4601	"1Ère Circonscription"	"PRADIÉ"	"Aurélien"	"M"	14/03/86	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-46	"Lot"			4602	"2Ème Circonscription"	"TIEGNA"	"Huguette"	"F"	01/04/82	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-47	"Lot-Et-Garonne"			4701	"1Ère Circonscription"	"LAUZZANA"	"Michel"	"M"	20/03/57	31	"Profession libérale"	22/06/22
-47	"Lot-Et-Garonne"			4702	"2Ème Circonscription"	"LAPORTE"	"Hélène"	"F"	29/12/78	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-47	"Lot-Et-Garonne"			4703	"3Ème Circonscription"	"COUSIN"	"Annick"	"F"	07/08/73	52	"Employé civil et agent de service de la fonction publique"	22/06/22
-48	"Lozère"			4801	"1Ère Circonscription"	"MOREL A L'HUISSIER"	"Pierre"	"M"	21/12/58	31	"Profession libérale"	22/06/22
-49	"Maine-Et-Loire"			4901	"1Ère Circonscription"	"GERNIGON"	"François"	"M"	02/04/61	74	"Ancien cadre"	22/06/22
-49	"Maine-Et-Loire"			4902	"2Ème Circonscription"	"DUPONT"	"Stella"	"F"	03/11/73	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-49	"Maine-Et-Loire"			4903	"3Ème Circonscription"	"BLIN"	"Anne-Laure"	"F"	12/06/83	74	"Ancien cadre"	22/06/22
-49	"Maine-Et-Loire"			4904	"4Ème Circonscription"	"SAINT-PAUL"	"Laëtitia"	"F"	21/01/81	83	"Militaire du contingent"	22/06/22
-49	"Maine-Et-Loire"			4905	"5Ème Circonscription"	"MASSEGLIA"	"Denis"	"M"	11/04/81	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-49	"Maine-Et-Loire"			4906	"6Ème Circonscription"	"DUBRE CHIRAT"	"Nicole"	"F"	18/12/51	33	"Cadre de la fonction publique"	22/06/22
-49	"Maine-Et-Loire"			4907	"7Ème Circonscription"	"BOLO"	"Philippe"	"M"	25/03/67	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-50	"Manche"			5001	"1Ère Circonscription"	"GOSSELIN"	"Philippe"	"M"	23/10/66	34	"Professeur, profession scientifique"	22/06/22
-50	"Manche"			5002	"2Ème Circonscription"	"SORRE"	"Bertrand"	"M"	08/05/65	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-50	"Manche"			5003	"3Ème Circonscription"	"TRAVERT"	"Stéphane"	"M"	12/10/69	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-50	"Manche"			5004	"4Ème Circonscription"	"PIC"	"Anna"	"F"	04/06/78	34	"Professeur, profession scientifique"	22/06/22
-51	"Marne"			5101	"1Ère Circonscription"	"ALBERTINI"	"Xavier"	"M"	28/01/70	31	"Profession libérale"	22/06/22
-51	"Marne"			5102	"2Ème Circonscription"	"FRIGOUT"	"Anne-Sophie"	"F"	11/04/71	34	"Professeur, profession scientifique"	22/06/22
-51	"Marne"			5103	"3Ème Circonscription"	"GIRARDIN"	"Eric"	"M"	12/02/62	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-51	"Marne"			5104	"4Ème Circonscription"	"MAGNIER"	"Lise"	"F"	31/12/84	33	"Cadre de la fonction publique"	22/06/22
-51	"Marne"			5105	"5Ème Circonscription"	"DE COURSON"	"Charles"	"M"	02/04/52	74	"Ancien cadre"	22/06/22
-52	"Haute-Marne"			5201	"1Ère Circonscription"	"BENTZ"	"Christophe"	"M"	04/07/87	34	"Professeur, profession scientifique"	22/06/22
-52	"Haute-Marne"			5202	"2Ème Circonscription"	"ROBERT-DEHAULT"	"Laurence"	"F"	17/01/64	31	"Profession libérale"	22/06/22
-53	"Mayenne"			5301	"1Ère Circonscription"	"GAROT"	"Guillaume"	"M"	29/05/66	33	"Cadre de la fonction publique"	22/06/22
-53	"Mayenne"			5302	"2Ème Circonscription"	"BANNIER"	"Géraldine"	"F"	22/11/79	34	"Professeur, profession scientifique"	22/06/22
-53	"Mayenne"			5303	"3Ème Circonscription"	"FAVENNEC"	"Yannick"	"M"	12/08/58	74	"Ancien cadre"	22/06/22
-54	"Meurthe-Et-Moselle"			5401	"1Ère Circonscription"	"GUILLEMARD"	"Philippe"	"M"	28/04/75	31	"Profession libérale"	03/07/22
-54	"Meurthe-Et-Moselle"			5402	"2Ème Circonscription"	"LACRESSE"	"Emmanuel"	"M"	14/07/71	33	"Cadre de la fonction publique"	22/06/22
-54	"Meurthe-Et-Moselle"			5403	"3Ème Circonscription"	"ETIENNE"	"Martine"	"F"	22/06/56	77	"Ancien employé"	22/06/22
-54	"Meurthe-Et-Moselle"			5404	"4Ème Circonscription"	"BAZIN"	"Thibault"	"M"	27/10/84	74	"Ancien cadre"	22/06/22
-54	"Meurthe-Et-Moselle"			5405	"5Ème Circonscription"	"POTIER"	"Dominique"	"M"	17/03/64	12	"Agriculteur sur moyenne exploitation"	22/06/22
-54	"Meurthe-Et-Moselle"			5406	"6Ème Circonscription"	"FIAT"	"Caroline"	"F"	28/01/77	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-55	"Meuse"			5501	"1Ère Circonscription"	"PANCHER"	"Bertrand"	"M"	05/06/58	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-55	"Meuse"			5502	"2Ème Circonscription"	"GOULET"	"Florence"	"F"	30/06/61	33	"Cadre de la fonction publique"	22/06/22
-56	"Morbihan"			5601	"1Ère Circonscription"	"LE HÉNANFF"	"Anne"	"F"	22/07/69	22	"Commerçant et assimilé"	22/06/22
-56	"Morbihan"			5602	"2Ème Circonscription"	"PAHUN"	"Jimmy"	"M"	15/05/62	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-56	"Morbihan"			5603	"3Ème Circonscription"	"LE PEIH"	"Nicole"	"F"	28/09/59	12	"Agriculteur sur moyenne exploitation"	22/06/22
-56	"Morbihan"			5604	"4Ème Circonscription"	"MOLAC"	"Paul"	"M"	21/05/62	34	"Professeur, profession scientifique"	22/06/22
-56	"Morbihan"			5605	"5Ème Circonscription"	"MÉTAYER"	"Lysiane"	"F"	07/08/63	33	"Cadre de la fonction publique"	22/06/22
-56	"Morbihan"			5606	"6Ème Circonscription"	"JACQUES"	"Jean-Michel"	"M"	29/02/68	31	"Profession libérale"	22/06/22
-57	"Moselle"			5701	"1Ère Circonscription"	"BELHADDAD"	"Belkhir"	"M"	09/07/69	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-57	"Moselle"			5702	"2Ème Circonscription"	"MENDES"	"Ludovic"	"M"	11/04/87	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-57	"Moselle"			5703	"3Ème Circonscription"	"LEDUC"	"Charlotte"	"F"	18/06/80	34	"Professeur, profession scientifique"	22/06/22
-57	"Moselle"			5704	"4Ème Circonscription"	"DI FILIPPO"	"Fabien"	"M"	23/08/86	74	"Ancien cadre"	22/06/22
-57	"Moselle"			5705	"5Ème Circonscription"	"SEITLINGER"	"Vincent"	"M"	18/01/87	31	"Profession libérale"	22/06/22
-57	"Moselle"			5706	"6Ème Circonscription"	"PFEFFER"	"Kévin"	"M"	09/07/90	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-57	"Moselle"			5707	"7Ème Circonscription"	"LOUBET"	"Alexandre"	"M"	07/07/94	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-57	"Moselle"			5708	"8Ème Circonscription"	"JACOBELLI"	"Laurent"	"M"	13/10/69	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-57	"Moselle"			5709	"9Ème Circonscription"	"RAUCH"	"Isabelle"	"F"	10/08/68	33	"Cadre de la fonction publique"	22/06/22
-58	"Nièvre"			5801	"1Ère Circonscription"	"GOULET"	"Perrine"	"F"	19/03/78	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-58	"Nièvre"			5802	"2Ème Circonscription"	"PERROT"	"Patrice"	"M"	24/02/64	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-59	"Nord"			5901	"1Ère Circonscription"	"QUATENNENS"	"Adrien"	"M"	23/05/90	54	"Employé administratif d'entreprise"	22/06/22
-59	"Nord"			5902	"2Ème Circonscription"	"BERNALICIS"	"Ugo"	"M"	25/09/89	33	"Cadre de la fonction publique"	22/06/22
-59	"Nord"			5903	"3Ème Circonscription"	"SAINT-HUILE"	"Benjamin"	"M"	10/05/83	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-59	"Nord"			5904	"4Ème Circonscription"	"LISO"	"Brigitte"	"F"	29/07/59	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-59	"Nord"			5905	"5Ème Circonscription"	"CATTEAU"	"Victor"	"M"	18/09/95	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-59	"Nord"			5906	"6Ème Circonscription"	"PARMENTIER-LECOCQ"	"Charlotte"	"F"	17/07/77	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-59	"Nord"			5907	"7Ème Circonscription"	"GÉRARD"	"Félicie"	"F"	28/01/74	48	"Contremaître, agent de maîtrise"	22/06/22
-59	"Nord"			5908	"8Ème Circonscription"	"GUIRAUD"	"David"	"M"	18/11/92	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-59	"Nord"			5909	"9Ème Circonscription"	"SPILLEBOUT"	"Violette"	"F"	02/09/72	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-59	"Nord"			5910	"10Ème Circonscription"	"LEDOUX"	"Vincent"	"M"	21/06/66	34	"Professeur, profession scientifique"	23/07/22
-59	"Nord"			5911	"11Ème Circonscription"	"VICOT"	"Roger"	"M"	01/06/63	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-59	"Nord"			5912	"12Ème Circonscription"	"TAVERNE"	"Michaël"	"M"	10/03/79	53	"Policier et militaire"	22/06/22
-59	"Nord"			5913	"13Ème Circonscription"	"DECODTS"	"Christine"	"F"	19/05/66	74	"Ancien cadre"	22/06/22
-59	"Nord"			5914	"14Ème Circonscription"	"CHRISTOPHE"	"Paul"	"M"	10/02/71	33	"Cadre de la fonction publique"	22/06/22
-59	"Nord"			5915	"15Ème Circonscription"	"BERTELOOT"	"Pierrick"	"M"	11/01/99	55	"Employé de commerce"	22/06/22
-59	"Nord"			5916	"16Ème Circonscription"	"MARCHIO"	"Matthieu"	"M"	08/06/93	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-59	"Nord"			5917	"17Ème Circonscription"	"FRANCOIS"	"Thibaut"	"M"	10/12/89	33	"Cadre de la fonction publique"	22/06/22
-59	"Nord"			5918	"18Ème Circonscription"	"BRICOUT"	"Guy"	"M"	18/02/44	74	"Ancien cadre"	22/06/22
-59	"Nord"			5919	"19Ème Circonscription"	"CHENU"	"Sébastien"	"M"	13/04/73	33	"Cadre de la fonction publique"	22/06/22
-59	"Nord"			5920	"20Ème Circonscription"	"ROUSSEL"	"Fabien"	"M"	16/04/69	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-59	"Nord"			5921	"21Ème Circonscription"	"DESCAMPS"	"Béatrice"	"F"	24/04/61	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-60	"Oise"			6001	"1Ère Circonscription"	"HABERT-DASSAULT"	"Victor"	"M"	12/07/92	31	"Profession libérale"	22/06/22
-60	"Oise"			6002	"2Ème Circonscription"	"BALLARD"	"Philippe"	"M"	24/11/60	74	"Ancien cadre"	22/06/22
-60	"Oise"			6003	"3Ème Circonscription"	"SABATOU"	"Alexandre"	"M"	18/02/93	33	"Cadre de la fonction publique"	22/06/22
-60	"Oise"			6004	"4Ème Circonscription"	"WOERTH"	"Eric"	"M"	29/01/56	86	"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)"	22/06/22
-60	"Oise"			6005	"5Ème Circonscription"	"VATIN"	"Pierre"	"M"	21/08/67	33	"Cadre de la fonction publique"	22/06/22
-60	"Oise"			6006	"6Ème Circonscription"	"GUINIOT"	"Michel"	"M"	29/11/54	74	"Ancien cadre"	22/06/22
-60	"Oise"			6007	"7Ème Circonscription"	"MINOT"	"Maxime"	"M"	20/07/87	77	"Ancien employé"	22/06/22
-61	"Orne"			6101	"1Ère Circonscription"	"JOURDAN"	"Chantal"	"F"	02/09/58	86	"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)"	22/06/22
-61	"Orne"			6102	"2Ème Circonscription"	"LOUWAGIE"	"Véronique"	"F"	20/03/61	31	"Profession libérale"	22/06/22
-61	"Orne"			6103	"3Ème Circonscription"	"NURY"	"Jérôme"	"M"	25/08/72	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-62	"Pas-De-Calais"			6201	"1Ère Circonscription"	"BLAIRY"	"Emmanuel"	"M"	14/03/86	48	"Contremaître, agent de maîtrise"	22/06/22
-62	"Pas-De-Calais"			6202	"2Ème Circonscription"	"MAQUET"	"Jacqueline"	"F"	13/05/49	74	"Ancien cadre"	22/06/22
-62	"Pas-De-Calais"			6203	"3Ème Circonscription"	"TELLIER"	"Jean-Marc"	"M"	23/08/69	74	"Ancien cadre"	22/06/22
-62	"Pas-De-Calais"			6204	"4Ème Circonscription"	"FAIT"	"Philippe"	"M"	24/06/69	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-62	"Pas-De-Calais"			6205	"5Ème Circonscription"	"PONT"	"Jean-Pierre"	"M"	09/05/50	31	"Profession libérale"	22/06/22
-62	"Pas-De-Calais"			6206	"6Ème Circonscription"	"ENGRAND"	"Christine"	"F"	07/05/55	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-62	"Pas-De-Calais"			6207	"7Ème Circonscription"	"DUMONT"	"Pierre-Henri"	"M"	07/10/87	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-62	"Pas-De-Calais"			6208	"8Ème Circonscription"	"PETIT"	"Bertrand"	"M"	28/08/64	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-62	"Pas-De-Calais"			6209	"9Ème Circonscription"	"PARMENTIER"	"Caroline"	"F"	16/12/65	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-62	"Pas-De-Calais"			6210	"10Ème Circonscription"	"FRAPPÉ"	"Thierry"	"M"	23/05/52	31	"Profession libérale"	22/06/22
-62	"Pas-De-Calais"			6211	"11Ème Circonscription"	"LE PEN"	"Marine"	"F"	05/08/68	31	"Profession libérale"	22/06/22
-62	"Pas-De-Calais"			6212	"12Ème Circonscription"	"BILDE"	"Bruno"	"M"	22/09/76	31	"Profession libérale"	22/06/22
-63	"Puy-De-Dôme"			6301	"1Ère Circonscription"	"MAXIMI"	"Marianne"	"F"	13/11/85	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-63	"Puy-De-Dôme"			6302	"2Ème Circonscription"	"PIRES-BEAUNE"	"Christine"	"F"	06/10/64	147	"Fonctionnaire de catégorie A (obsolète)"	22/06/22
-63	"Puy-De-Dôme"			6303	"3Ème Circonscription"	"VICHNIEVSKY"	"Laurence"	"F"	05/02/55	74	"Ancien cadre"	22/06/22
-63	"Puy-De-Dôme"			6304	"4Ème Circonscription"	"LINGEMANN"	"Delphine"	"F"	14/11/72	34	"Professeur, profession scientifique"	22/06/22
-63	"Puy-De-Dôme"			6305	"5Ème Circonscription"	"CHASSAIGNE"	"André"	"M"	02/07/50	34	"Professeur, profession scientifique"	22/06/22
-64	"Pyrénées-Atlantiques"			6401	"1Ère Circonscription"	"POUEYTO"	"Josy"	"F"	13/01/54	77	"Ancien employé"	22/06/22
-64	"Pyrénées-Atlantiques"			6402	"2Ème Circonscription"	"MATTEI"	"Jean-Paul"	"M"	21/03/54	31	"Profession libérale"	22/06/22
-64	"Pyrénées-Atlantiques"			6403	"3Ème Circonscription"	"HABIB"	"David"	"M"	16/03/61	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-64	"Pyrénées-Atlantiques"			6404	"4Ème Circonscription"	"ECHANIZ"	"Inaki"	"M"	02/09/93	33	"Cadre de la fonction publique"	22/06/22
-64	"Pyrénées-Atlantiques"			6405	"5Ème Circonscription"	"LASSERRE"	"Florence"	"F"	29/06/74	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-64	"Pyrénées-Atlantiques"			6406	"6Ème Circonscription"	"BRU"	"Vincent"	"M"	29/04/55	34	"Professeur, profession scientifique"	22/06/22
-65	"Hautes-Pyrénées"			6501	"1Ère Circonscription"	"FERRER"	"Sylvie"	"F"	06/11/67	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-65	"Hautes-Pyrénées"			6502	"2Ème Circonscription"	"MOURNET"	"Benoit"	"M"	16/01/86	33	"Cadre de la fonction publique"	22/06/22
-66	"Pyrénées-Orientales"			6601	"1Ère Circonscription"	"BLANC"	"Sophie"	"F"	20/02/68	31	"Profession libérale"	22/06/22
-66	"Pyrénées-Orientales"			6602	"2Ème Circonscription"	"SABATINI"	"Anaïs"	"F"	10/03/90	31	"Profession libérale"	22/06/22
-66	"Pyrénées-Orientales"			6603	"3Ème Circonscription"	"DOGOR-SUCH"	"Sandrine"	"F"	08/11/70	55	"Employé de commerce"	22/06/22
-66	"Pyrénées-Orientales"			6604	"4Ème Circonscription"	"MARTINEZ"	"Michèle"	"F"	06/06/68	54	"Employé administratif d'entreprise"	22/06/22
-67	"Bas-Rhin"			6701	"1Ère Circonscription"	"REGOL"	"Sandra"	"F"	13/04/78	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-67	"Bas-Rhin"			6702	"2Ème Circonscription"	"FERNANDES"	"Emmanuel"	"M"	10/08/80	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-67	"Bas-Rhin"			6703	"3Ème Circonscription"	"STUDER"	"Bruno"	"M"	18/06/78	34	"Professeur, profession scientifique"	22/06/22
-67	"Bas-Rhin"			6704	"4Ème Circonscription"	"BUFFET"	"Françoise"	"F"	11/12/53	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-67	"Bas-Rhin"			6705	"5Ème Circonscription"	"SITZENSTUHL"	"Charles"	"M"	03/12/88	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-67	"Bas-Rhin"			6706	"6Ème Circonscription"	"MOREL"	"Louise"	"F"	15/10/95	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-67	"Bas-Rhin"			6707	"7Ème Circonscription"	"HETZEL"	"Patrick"	"M"	02/07/64	34	"Professeur, profession scientifique"	22/06/22
-67	"Bas-Rhin"			6708	"8Ème Circonscription"	"KOCHERT"	"Stéphanie"	"F"	12/08/75	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-67	"Bas-Rhin"			6709	"9Ème Circonscription"	"THIEBAUT"	"Vincent"	"M"	23/05/72	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-68	"Haut-Rhin"			6801	"1Ère Circonscription"	"KLINKERT"	"Brigitte"	"F"	22/07/56	74	"Ancien cadre"	22/06/22
-68	"Haut-Rhin"			6802	"2Ème Circonscription"	"OTT"	"Hubert"	"M"	06/06/64	34	"Professeur, profession scientifique"	22/06/22
-68	"Haut-Rhin"			6803	"3Ème Circonscription"	"LEMAIRE"	"Didier"	"M"	23/07/75	52	"Employé civil et agent de service de la fonction publique"	22/06/22
-68	"Haut-Rhin"			6804	"4Ème Circonscription"	"SCHELLENBERGER"	"Raphaël"	"M"	14/02/90	33	"Cadre de la fonction publique"	22/06/22
-68	"Haut-Rhin"			6805	"5Ème Circonscription"	"BOLOGNESE"	"Charlotte"	"F"	21/07/90	54	"Employé administratif d'entreprise"	04/08/22
-68	"Haut-Rhin"			6806	"6Ème Circonscription"	"FUCHS"	"Bruno"	"M"	07/04/59	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-69	"Rhône"			6901	"1Ère Circonscription"	"RUDIGOZ"	"Thomas"	"M"	11/01/71	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-69	"Rhône"			6902	"2Ème Circonscription"	"JULIEN-LAFERRIERE"	"Hubert"	"M"	27/02/66	34	"Professeur, profession scientifique"	22/06/22
-69	"Rhône"			6903	"3Ème Circonscription"	"GARIN"	"Marie-Charlotte"	"F"	02/09/95	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-69	"Rhône"			6904	"4Ème Circonscription"	"BRUGNERA"	"Anne"	"F"	28/11/70	33	"Cadre de la fonction publique"	22/06/22
-69	"Rhône"			6905	"5Ème Circonscription"	"BROCARD"	"Blandine"	"F"	03/11/81	54	"Employé administratif d'entreprise"	22/06/22
-69	"Rhône"			6906	"6Ème Circonscription"	"AMARD"	"Gabriel"	"M"	05/05/67	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-69	"Rhône"			6907	"7Ème Circonscription"	"VINCENDET"	"Alexandre"	"M"	06/10/83	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-69	"Rhône"			6908	"8Ème Circonscription"	"SERRE"	"Nathalie"	"F"	17/08/68	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-69	"Rhône"			6909	"9Ème Circonscription"	"PORTIER"	"Alexandre"	"M"	21/04/90	34	"Professeur, profession scientifique"	22/06/22
-69	"Rhône"			6910	"10Ème Circonscription"	"GASSILLOUD"	"Thomas"	"M"	21/05/81	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-69	"Rhône"			6911	"11Ème Circonscription"	"FUGIT"	"Jean-Luc"	"M"	27/11/69	34	"Professeur, profession scientifique"	22/06/22
-69	"Rhône"			6912	"12Ème Circonscription"	"ISAAC-SIBILLE"	"Cyrille"	"M"	30/04/58	31	"Profession libérale"	22/06/22
-69	"Rhône"			6913	"13Ème Circonscription"	"TANZILLI"	"Sarah"	"F"	23/01/85	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-69	"Rhône"			6914	"14Ème Circonscription"	"BOUMERTIT"	"Idir"	"M"	04/10/74	54	"Employé administratif d'entreprise"	22/06/22
-70	"Haute-Saône"			7001	"1Ère Circonscription"	"VILLEDIEU"	"Antoine"	"M"	08/03/89	53	"Policier et militaire"	22/06/22
-70	"Haute-Saône"			7002	"2Ème Circonscription"	"SALMON"	"Emeric"	"M"	26/11/73	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-71	"Saône-Et-Loire"			7101	"1Ère Circonscription"	"DIRX"	"Benjamin"	"M"	25/01/79	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-71	"Saône-Et-Loire"			7102	"2Ème Circonscription"	"CORNELOUP"	"Josiane"	"F"	30/09/59	31	"Profession libérale"	22/06/22
-71	"Saône-Et-Loire"			7103	"3Ème Circonscription"	"REBEYROTTE"	"Rémy"	"M"	27/03/66	34	"Professeur, profession scientifique"	22/06/22
-71	"Saône-Et-Loire"			7104	"4Ème Circonscription"	"UNTERMAIER"	"Cécile"	"F"	28/12/51	74	"Ancien cadre"	22/06/22
-71	"Saône-Et-Loire"			7105	"5Ème Circonscription"	"MARGUERITTE"	"Louis"	"M"	10/09/84	33	"Cadre de la fonction publique"	22/06/22
-72	"Sarthe"			7201	"1Ère Circonscription"	"DELPECH"	"Julie"	"F"	25/09/89	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-72	"Sarthe"			7202	"2Ème Circonscription"	"KARAMANLI"	"Marietta"	"F"	18/12/64	34	"Professeur, profession scientifique"	22/06/22
-72	"Sarthe"			7203	"3Ème Circonscription"	"MARTINEAU"	"Eric"	"M"	08/05/68	12	"Agriculteur sur moyenne exploitation"	22/06/22
-72	"Sarthe"			7204	"4Ème Circonscription"	"LEBOUCHER"	"Elise"	"F"	09/10/82	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-72	"Sarthe"			7205	"5Ème Circonscription"	"GRELIER"	"Jean-Carles"	"M"	15/03/66	31	"Profession libérale"	22/06/22
-73	"Savoie"			7301	"1Ère Circonscription"	"FERRARI"	"Marina"	"F"	10/10/73	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-73	"Savoie"			7302	"2Ème Circonscription"	"ROLLAND"	"Vincent"	"M"	01/02/70	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-73	"Savoie"			7303	"3Ème Circonscription"	"BONNIVARD"	"Emilie"	"F"	02/08/80	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-73	"Savoie"			7304	"4Ème Circonscription"	"COULOMME"	"Jean-François"	"M"	01/04/66	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-74	"Haute-Savoie"			7401	"1Ère Circonscription"	"RIOTTON"	"Véronique"	"F"	02/11/69	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-74	"Haute-Savoie"			7402	"2Ème Circonscription"	"ARMAND"	"Antoine"	"M"	10/09/91	33	"Cadre de la fonction publique"	22/06/22
-74	"Haute-Savoie"			7403	"3Ème Circonscription"	"PETEX-LEVET"	"Christelle"	"F"	02/09/80	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-74	"Haute-Savoie"			7404	"4Ème Circonscription"	"DUBY-MULLER"	"Virginie"	"F"	16/08/79	33	"Cadre de la fonction publique"	22/06/22
-74	"Haute-Savoie"			7405	"5Ème Circonscription"	"VIOLLAND"	"Anne-Cécile"	"F"	10/06/73	31	"Profession libérale"	22/06/22
-74	"Haute-Savoie"			7406	"6Ème Circonscription"	"ROSEREN"	"Xavier"	"M"	12/01/70	22	"Commerçant et assimilé"	22/06/22
-75	"Paris"			7501	"1Ère Circonscription"	"MAILLARD"	"Sylvain"	"M"	28/04/74	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-75	"Paris"			7502	"2Ème Circonscription"	"LE GENDRE"	"Gilles"	"M"	13/05/58	74	"Ancien cadre"	22/06/22
-75	"Paris"			7503	"3Ème Circonscription"	"YADAN"	"Caroline"	"F"	14/08/68	31	"Profession libérale"	23/07/22
-75	"Paris"			7504	"4Ème Circonscription"	"PANOSYAN-BOUVET"	"Astrid"	"F"	13/08/71	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-75	"Paris"			7505	"5Ème Circonscription"	"BAYOU"	"Julien"	"M"	11/06/80	31	"Profession libérale"	22/06/22
-75	"Paris"			7506	"6Ème Circonscription"	"CHIKIROU"	"Sophia"	"F"	03/06/79	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-75	"Paris"			7507	"7Ème Circonscription"	"CHASSANIOL"	"Clara"	"F"	26/07/93	33	"Cadre de la fonction publique"	23/07/22
-75	"Paris"			7508	"8Ème Circonscription"	"SAS"	"Eva"	"F"	13/08/70	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-75	"Paris"			7509	"9Ème Circonscription"	"ROUSSEAU"	"Sandrine"	"F"	08/03/72	34	"Professeur, profession scientifique"	22/06/22
-75	"Paris"			7510	"10Ème Circonscription"	"ARENAS"	"Rodrigo"	"M"	24/04/74	33	"Cadre de la fonction publique"	22/06/22
-75	"Paris"			7511	"11Ème Circonscription"	"GATEL"	"Maud"	"F"	06/04/79	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-75	"Paris"			7512	"12Ème Circonscription"	"BERETE"	"Fanta"	"F"	31/05/75	33	"Cadre de la fonction publique"	23/07/22
-75	"Paris"			7513	"13Ème Circonscription"	"AMIEL"	"David"	"M"	28/11/92	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-75	"Paris"			7514	"14Ème Circonscription"	"HADDAD"	"Benjamin"	"M"	23/10/85	34	"Professeur, profession scientifique"	22/06/22
-75	"Paris"			7515	"15Ème Circonscription"	"SIMONNET"	"Danielle"	"F"	02/07/71	34	"Professeur, profession scientifique"	22/06/22
-75	"Paris"			7516	"16Ème Circonscription"	"LEGRAIN"	"Sarah"	"F"	17/11/85	34	"Professeur, profession scientifique"	22/06/22
-75	"Paris"			7517	"17Ème Circonscription"	"OBONO"	"Danièle"	"F"	12/07/80	147	"Fonctionnaire de catégorie A (obsolète)"	22/06/22
-75	"Paris"			7518	"18Ème Circonscription"	"CARON"	"Aymeric"	"M"	04/12/71	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-76	"Seine-Maritime"			7601	"1Ère Circonscription"	"ADAM"	"Damien"	"M"	28/06/89	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-76	"Seine-Maritime"			7602	"2Ème Circonscription"	"VIDAL"	"Annie"	"F"	17/09/56	74	"Ancien cadre"	22/06/22
-76	"Seine-Maritime"			7603	"3Ème Circonscription"	"WULFRANC"	"Hubert"	"M"	17/12/56	34	"Professeur, profession scientifique"	22/06/22
-76	"Seine-Maritime"			7604	"4Ème Circonscription"	"DUFOUR"	"Alma"	"F"	06/05/90	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-76	"Seine-Maritime"			7605	"5Ème Circonscription"	"LESEUL"	"Gérard"	"M"	15/08/60	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-76	"Seine-Maritime"			7606	"6Ème Circonscription"	"JUMEL"	"Sébastien"	"M"	20/12/71	33	"Cadre de la fonction publique"	22/06/22
-76	"Seine-Maritime"			7607	"7Ème Circonscription"	"CAREL"	"Agnès"	"F"	09/06/68	34	"Professeur, profession scientifique"	04/08/22
-76	"Seine-Maritime"			7608	"8Ème Circonscription"	"LECOQ"	"Jean-Paul"	"M"	13/10/58	47	"Technicien"	22/06/22
-76	"Seine-Maritime"			7609	"9Ème Circonscription"	"POUSSIER-WINSBACK"	"Marie-Agnès"	"F"	25/03/67	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-76	"Seine-Maritime"			7610	"10Ème Circonscription"	"BATUT"	"Xavier"	"M"	26/12/76	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-77	"Seine-Et-Marne"			7701	"1Ère Circonscription"	"LUQUET"	"Aude"	"F"	18/08/67	33	"Cadre de la fonction publique"	22/06/22
-77	"Seine-Et-Marne"			7702	"2Ème Circonscription"	"VALLETOUX"	"Frédéric"	"M"	23/08/66	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-77	"Seine-Et-Marne"			7703	"3Ème Circonscription"	"THIÉRIOT"	"Jean-Louis"	"M"	26/06/69	31	"Profession libérale"	22/06/22
-77	"Seine-Et-Marne"			7704	"4Ème Circonscription"	"PERIGAULT"	"Isabelle"	"F"	04/09/71	33	"Cadre de la fonction publique"	22/06/22
-77	"Seine-Et-Marne"			7705	"5Ème Circonscription"	"LEMOINE"	"Patricia"	"F"	30/12/61	157	"Sans profession déclarée (obsolète)"	23/07/22
-77	"Seine-Et-Marne"			7706	"6Ème Circonscription"	"ROULLAUD"	"Béatrice"	"F"	09/06/60	31	"Profession libérale"	22/06/22
-77	"Seine-Et-Marne"			7707	"7Ème Circonscription"	"SOUDAIS"	"Ersilia"	"F"	21/05/88	34	"Professeur, profession scientifique"	22/06/22
-77	"Seine-Et-Marne"			7708	"8Ème Circonscription"	"GHOMI"	"Hadrien"	"M"	06/04/89	33	"Cadre de la fonction publique"	22/06/22
-77	"Seine-Et-Marne"			7709	"9Ème Circonscription"	"PEYRON"	"Michèle"	"F"	22/07/61	86	"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)"	22/06/22
-77	"Seine-Et-Marne"			7710	"10Ème Circonscription"	"LAISNEY"	"Maxime"	"M"	19/01/81	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-77	"Seine-Et-Marne"			7711	"11Ème Circonscription"	"FAURE"	"Olivier"	"M"	18/08/68	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-78	"Yvelines"			7801	"1Ère Circonscription"	"RODWELL"	"Charles"	"M"	26/07/96	33	"Cadre de la fonction publique"	22/06/22
-78	"Yvelines"			7802	"2Ème Circonscription"	"GRIGNON"	"Anne"	"F"	16/05/77	33	"Cadre de la fonction publique"	04/08/22
-78	"Yvelines"			7803	"3Ème Circonscription"	"PIRON"	"Béatrice"	"F"	30/08/65	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-78	"Yvelines"			7804	"4Ème Circonscription"	"LEBEC"	"Marie"	"F"	17/12/90	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-78	"Yvelines"			7805	"5Ème Circonscription"	"BRAUN-PIVET"	"Yaël"	"F"	07/12/70	31	"Profession libérale"	22/06/22
-78	"Yvelines"			7806	"6Ème Circonscription"	"POUZYREFF"	"Natalia"	"F"	18/02/61	86	"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)"	22/06/22
-78	"Yvelines"			7807	"7Ème Circonscription"	"HAI"	"Nadia"	"F"	08/03/80	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-78	"Yvelines"			7808	"8Ème Circonscription"	"LUCAS"	"Benjamin"	"M"	08/10/90	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-78	"Yvelines"			7809	"9Ème Circonscription"	"MILLIENNE"	"Bruno"	"M"	28/11/59	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-78	"Yvelines"			7810	"10Ème Circonscription"	"BERGÉ"	"Aurore"	"F"	13/11/86	33	"Cadre de la fonction publique"	22/06/22
-78	"Yvelines"			7811	"11Ème Circonscription"	"MARTINET"	"William"	"M"	06/09/88	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-78	"Yvelines"			7812	"12Ème Circonscription"	"OLIVE"	"Karl"	"M"	29/03/69	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-79	"Deux-Sèvres"			7901	"1Ère Circonscription"	"MARCHIVE"	"Bastien"	"M"	15/07/90	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-79	"Deux-Sèvres"			7902	"2Ème Circonscription"	"BATHO"	"Delphine"	"F"	23/03/73	33	"Cadre de la fonction publique"	22/06/22
-79	"Deux-Sèvres"			7903	"3Ème Circonscription"	"FIÉVET"	"Jean-Marie"	"M"	19/06/64	52	"Employé civil et agent de service de la fonction publique"	22/06/22
-80	"Somme"			8001	"1Ère Circonscription"	"RUFFIN"	"François"	"M"	18/10/75	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-80	"Somme"			8002	"2Ème Circonscription"	"POMPILI"	"Barbara"	"F"	13/06/75	52	"Employé civil et agent de service de la fonction publique"	22/06/22
-80	"Somme"			8003	"3Ème Circonscription"	"MAQUET"	"Emmanuel"	"M"	02/06/68	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-80	"Somme"			8004	"4Ème Circonscription"	"TANGUY"	"Jean-Philippe"	"M"	25/03/86	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-80	"Somme"			8005	"5Ème Circonscription"	"MENACHE"	"Yael"	"F"	12/05/85	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-81	"Tarn"			8101	"1Ère Circonscription"	"CABROLIER"	"Frédéric"	"M"	12/10/66	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-81	"Tarn"			8102	"2Ème Circonscription"	"ERODI"	"Karen"	"F"	04/02/77	31	"Profession libérale"	22/06/22
-81	"Tarn"			8103	"3Ème Circonscription"	"TERLIER"	"Jean"	"M"	02/03/77	31	"Profession libérale"	22/06/22
-82	"Tarn-Et-Garonne"			8201	"1Ère Circonscription"	"RABAULT"	"Valérie"	"F"	25/04/73	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-82	"Tarn-Et-Garonne"			8202	"2Ème Circonscription"	"HAMELET"	"Marine"	"F"	13/07/67	46	"Profession intermédiaire administrative et commerciale des entreprises"	22/06/22
-83	"Var"			8301	"1Ère Circonscription"	"CHENEVARD"	"Yannick"	"M"	27/11/59	31	"Profession libérale"	22/06/22
-83	"Var"			8302	"2Ème Circonscription"	"LAVALETTE"	"Laure"	"F"	16/04/76	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-83	"Var"			8303	"3Ème Circonscription"	"RAMBAUD"	"Stephane"	"M"	05/04/60	74	"Ancien cadre"	22/06/22
-83	"Var"			8304	"4Ème Circonscription"	"LOTTIAUX"	"Philippe"	"M"	14/08/66	33	"Cadre de la fonction publique"	22/06/22
-83	"Var"			8305	"5Ème Circonscription"	"LECHANTEUX"	"Julie"	"F"	22/12/77	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-83	"Var"			8306	"6Ème Circonscription"	"GILETTI"	"Frank"	"M"	01/03/73	55	"Employé de commerce"	22/06/22
-83	"Var"			8307	"7Ème Circonscription"	"BOCCALETTI"	"Frédéric"	"M"	23/11/73	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-83	"Var"			8308	"8Ème Circonscription"	"SCHRECK"	"Philippe"	"M"	02/02/72	31	"Profession libérale"	22/06/22
-84	"Vaucluse"			8401	"1Ère Circonscription"	"HEBRARD"	"Joris"	"M"	31/05/82	31	"Profession libérale"	22/06/22
-84	"Vaucluse"			8402	"2Ème Circonscription"	"AUZANOT"	"Bénédicte"	"F"	05/08/72	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-84	"Vaucluse"			8403	"3Ème Circonscription"	"DE LÉPINAU"	"Hervé"	"M"	08/06/69	129	"Avocat (obsolète)"	22/06/22
-84	"Vaucluse"			8404	"4Ème Circonscription"	"LORHO"	"Marie-France"	"F"	15/12/64	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-84	"Vaucluse"			8405	"5Ème Circonscription"	"LOVISOLO"	"Jean-François"	"M"	15/11/68	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-85	"Vendée"			8501	"1Ère Circonscription"	"LATOMBE"	"Philippe"	"M"	21/04/75	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-85	"Vendée"			8502	"2Ème Circonscription"	"BELLAMY"	"Béatrice"	"F"	20/10/66	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-85	"Vendée"			8503	"3Ème Circonscription"	"BUCHOU"	"Stéphane"	"M"	14/03/74	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-85	"Vendée"			8504	"4Ème Circonscription"	"BESSE"	"Véronique"	"F"	11/08/63	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-85	"Vendée"			8505	"5Ème Circonscription"	"HENRIET"	"Pierre"	"M"	26/11/91	34	"Professeur, profession scientifique"	22/06/22
-86	"Vienne"			8601	"1Ère Circonscription"	"BELLUCO"	"Lisa"	"F"	20/07/88	33	"Cadre de la fonction publique"	22/06/22
-86	"Vienne"			8602	"2Ème Circonscription"	"HOULIÉ"	"Sacha"	"M"	08/10/88	31	"Profession libérale"	22/06/22
-86	"Vienne"			8603	"3Ème Circonscription"	"LECAMP"	"Pascal"	"M"	06/04/58	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-86	"Vienne"			8604	"4Ème Circonscription"	"TURQUOIS"	"Nicolas"	"M"	26/07/72	13	"Agriculteur sur grande exploitation"	22/06/22
-87	"Haute-Vienne"			8701	"1Ère Circonscription"	"MAUDET"	"Damien"	"M"	14/11/96	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-87	"Haute-Vienne"			8702	"2Ème Circonscription"	"DELAUTRETTE"	"Stéphane"	"M"	20/09/72	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-87	"Haute-Vienne"			8703	"3Ème Circonscription"	"MEUNIER"	"Manon"	"F"	30/03/96	33	"Cadre de la fonction publique"	22/06/22
-88	"Vosges"			8801	"1Ère Circonscription"	"VIRY"	"Stéphane"	"M"	14/10/69	31	"Profession libérale"	22/06/22
-88	"Vosges"			8802	"2Ème Circonscription"	"VALENCE"	"David"	"M"	07/10/81	34	"Professeur, profession scientifique"	22/06/22
-88	"Vosges"			8803	"3Ème Circonscription"	"NAEGELEN"	"Christophe"	"M"	30/12/83	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-88	"Vosges"			8804	"4Ème Circonscription"	"GAULTIER"	"Jean-Jacques"	"M"	13/07/63	31	"Profession libérale"	22/06/22
-89	"Yonne"			8901	"1Ère Circonscription"	"GRENON"	"Daniel"	"M"	31/07/48	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-89	"Yonne"			8902	"2Ème Circonscription"	"VILLIERS"	"André"	"M"	13/12/54	13	"Agriculteur sur grande exploitation"	22/06/22
-89	"Yonne"			8903	"3Ème Circonscription"	"ODOUL"	"Julien"	"M"	08/05/85	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-90	"Territoire De Belfort"			9001	"1Ère Circonscription"	"BOUCARD"	"Ian"	"M"	05/05/88	77	"Ancien employé"	22/06/22
-90	"Territoire De Belfort"			9002	"2Ème Circonscription"	"CHAUCHE"	"Florian"	"M"	22/01/84	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-91	"Essonne"			9101	"1Ère Circonscription"	"AMRANI"	"Farida"	"F"	03/09/76	33	"Cadre de la fonction publique"	22/06/22
-91	"Essonne"			9102	"2Ème Circonscription"	"DA CONCEICAO CARVALHO"	"Nathalie"	"F"	31/03/66	31	"Profession libérale"	22/06/22
-91	"Essonne"			9103	"3Ème Circonscription"	"IZARD"	"Alexis"	"M"	15/06/92	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-91	"Essonne"			9104	"4Ème Circonscription"	"RIXAIN"	"Marie-Pierre"	"F"	18/01/77	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-91	"Essonne"			9105	"5Ème Circonscription"	"MIDY"	"Paul"	"M"	25/01/83	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-91	"Essonne"			9106	"6Ème Circonscription"	"GUEDJ"	"Jérôme"	"M"	23/01/72	31	"Profession libérale"	22/06/22
-91	"Essonne"			9107	"7Ème Circonscription"	"REDA"	"Robin"	"M"	10/05/91	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-91	"Essonne"			9108	"8Ème Circonscription"	"DUPONT-AIGNAN"	"Nicolas"	"M"	07/03/61	33	"Cadre de la fonction publique"	22/06/22
-91	"Essonne"			9109	"9Ème Circonscription"	"GUÉVENOUX"	"Marie"	"F"	02/11/76	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-91	"Essonne"			9110	"10Ème Circonscription"	"LÉAUMENT"	"Antoine"	"M"	04/09/89	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-92	"Hauts-De-Seine"			9201	"1Ère Circonscription"	"FAUCILLON"	"Elsa"	"F"	06/08/81	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-92	"Hauts-De-Seine"			9202	"2Ème Circonscription"	"PASQUINI"	"Francesca"	"F"	27/12/81	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-92	"Hauts-De-Seine"			9203	"3Ème Circonscription"	"JUVIN"	"Philippe"	"M"	01/02/64	33	"Cadre de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9204	"4Ème Circonscription"	"SEBAIHI"	"Sabrina"	"F"	10/05/81	31	"Profession libérale"	22/06/22
-92	"Hauts-De-Seine"			9205	"5Ème Circonscription"	"CALVEZ"	"Céline"	"F"	24/07/79	33	"Cadre de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9206	"6Ème Circonscription"	"LE GRIP"	"Constance"	"F"	14/11/60	33	"Cadre de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9207	"7Ème Circonscription"	"CAZENEUVE"	"Pierre"	"M"	11/03/95	33	"Cadre de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9208	"8Ème Circonscription"	"THEVENOT"	"Prisca"	"F"	01/03/85	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9209	"9Ème Circonscription"	"PELLERIN"	"Emmanuel"	"M"	20/08/70	31	"Profession libérale"	22/06/22
-92	"Hauts-De-Seine"			9210	"10Ème Circonscription"	"GUICHARD"	"Claire"	"F"	30/05/67	23	"Chef d'entreprise de 10 salariés ou plus"	23/07/22
-92	"Hauts-De-Seine"			9211	"11Ème Circonscription"	"SAINTOUL"	"Aurélien"	"M"	26/05/88	33	"Cadre de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9212	"12Ème Circonscription"	"BOURLANGES"	"Jean-Louis"	"M"	13/07/46	33	"Cadre de la fonction publique"	22/06/22
-92	"Hauts-De-Seine"			9213	"13Ème Circonscription"	"BREGEON"	"Maud"	"F"	11/02/91	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-93	"Seine-Saint-Denis"			9301	"1Ère Circonscription"	"COQUEREL"	"Eric"	"M"	30/12/58	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-93	"Seine-Saint-Denis"			9302	"2Ème Circonscription"	"PEU"	"Stéphane"	"M"	24/07/62	54	"Employé administratif d'entreprise"	22/06/22
-93	"Seine-Saint-Denis"			9303	"3Ème Circonscription"	"PORTES"	"Thomas"	"M"	18/11/85	52	"Employé civil et agent de service de la fonction publique"	22/06/22
-93	"Seine-Saint-Denis"			9304	"4Ème Circonscription"	"BOUROUAHA"	"Soumya"	"F"	16/03/64	34	"Professeur, profession scientifique"	22/06/22
-93	"Seine-Saint-Denis"			9305	"5Ème Circonscription"	"GARRIDO"	"Raquel"	"F"	23/04/74	31	"Profession libérale"	22/06/22
-93	"Seine-Saint-Denis"			9306	"6Ème Circonscription"	"LACHAUD"	"Bastien"	"M"	05/08/80	34	"Professeur, profession scientifique"	22/06/22
-93	"Seine-Saint-Denis"			9307	"7Ème Circonscription"	"CORBIÈRE"	"Alexis"	"M"	17/08/68	34	"Professeur, profession scientifique"	22/06/22
-93	"Seine-Saint-Denis"			9308	"8Ème Circonscription"	"KELOUA HACHI"	"Fatiha"	"F"	05/06/71	34	"Professeur, profession scientifique"	22/06/22
-93	"Seine-Saint-Denis"			9309	"9Ème Circonscription"	"TROUVÉ"	"Aurélie"	"F"	20/09/79	33	"Cadre de la fonction publique"	22/06/22
-93	"Seine-Saint-Denis"			9310	"10Ème Circonscription"	"ABOMANGOLI"	"Nadège"	"F"	15/09/75	33	"Cadre de la fonction publique"	22/06/22
-93	"Seine-Saint-Denis"			9311	"11Ème Circonscription"	"AUTAIN"	"Clémentine"	"F"	26/05/73	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-93	"Seine-Saint-Denis"			9312	"12Ème Circonscription"	"LEGAVRE"	"Jérôme"	"M"	20/08/72	34	"Professeur, profession scientifique"	22/06/22
-94	"Val-De-Marne"			9401	"1Ère Circonscription"	"DESCROZAILLE"	"Frédéric"	"M"	16/04/67	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-94	"Val-De-Marne"			9402	"2Ème Circonscription"	"GUETTÉ"	"Clémence"	"F"	15/03/91	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-94	"Val-De-Marne"			9403	"3Ème Circonscription"	"BOYARD"	"Louis"	"M"	26/08/00	84	"Elève, étudiant"	22/06/22
-94	"Val-De-Marne"			9404	"4Ème Circonscription"	"PETIT"	"Maud"	"F"	15/11/71	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-94	"Val-De-Marne"			9405	"5Ème Circonscription"	"LEFEVRE"	"Mathieu"	"M"	27/10/86	33	"Cadre de la fonction publique"	22/06/22
-94	"Val-De-Marne"			9406	"6Ème Circonscription"	"GOUFFIER-CHA"	"Guillaume"	"M"	01/02/86	33	"Cadre de la fonction publique"	22/06/22
-94	"Val-De-Marne"			9407	"7Ème Circonscription"	"KEKE"	"Rachel"	"F"	30/05/74	56	"Personnel des services directs aux particuliers"	22/06/22
-94	"Val-De-Marne"			9408	"8Ème Circonscription"	"HERBILLON"	"Michel"	"M"	06/03/51	74	"Ancien cadre"	22/06/22
-94	"Val-De-Marne"			9409	"9Ème Circonscription"	"SANTIAGO"	"Isabelle"	"F"	20/09/65	33	"Cadre de la fonction publique"	22/06/22
-94	"Val-De-Marne"			9410	"10Ème Circonscription"	"PANOT"	"Mathilde"	"F"	15/01/89	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-94	"Val-De-Marne"			9411	"11Ème Circonscription"	"TAILLÉ-POLIAN"	"Sophie"	"F"	04/10/74	33	"Cadre de la fonction publique"	22/06/22
-95	"Val-D'Oise"			9501	"1Ère Circonscription"	"CHANDLER"	"Emilie"	"F"	29/04/83	31	"Profession libérale"	22/06/22
-95	"Val-D'Oise"			9502	"2Ème Circonscription"	"VUILLETET"	"Guillaume"	"M"	20/06/67	31	"Profession libérale"	22/06/22
-95	"Val-D'Oise"			9503	"3Ème Circonscription"	"RILHAC"	"Cécile"	"F"	21/04/74	33	"Cadre de la fonction publique"	22/06/22
-95	"Val-D'Oise"			9504	"4Ème Circonscription"	"MOUTCHOU"	"Naïma"	"F"	04/11/80	31	"Profession libérale"	22/06/22
-95	"Val-D'Oise"			9505	"5Ème Circonscription"	"VANNIER"	"Paul"	"M"	19/09/85	34	"Professeur, profession scientifique"	22/06/22
-95	"Val-D'Oise"			9506	"6Ème Circonscription"	"FOLEST"	"Estelle"	"F"	17/06/76	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-95	"Val-D'Oise"			9507	"7Ème Circonscription"	"DA SILVA"	"Dominique"	"M"	30/06/68	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-95	"Val-D'Oise"			9508	"8Ème Circonscription"	"BILONGO"	"Carlos Martens"	"M"	31/12/90	34	"Professeur, profession scientifique"	22/06/22
-95	"Val-D'Oise"			9509	"9Ème Circonscription"	"LE GALL"	"Arnaud"	"M"	29/11/80	33	"Cadre de la fonction publique"	22/06/22
-95	"Val-D'Oise"			9510	"10Ème Circonscription"	"TACHÉ"	"Aurélien"	"M"	26/05/84	33	"Cadre de la fonction publique"	22/06/22
-971	"Guadeloupe"			97101	"1Ère Circonscription"	"SERVA"	"Olivier"	"M"	21/06/74	31	"Profession libérale"	22/06/22
-971	"Guadeloupe"			97102	"2Ème Circonscription"	"BAPTISTE"	"Christian"	"M"	18/06/62	33	"Cadre de la fonction publique"	22/06/22
-971	"Guadeloupe"			97103	"3Ème Circonscription"	"MATHIASIN"	"Max"	"M"	24/02/56	33	"Cadre de la fonction publique"	22/06/22
-971	"Guadeloupe"			97104	"4Ème Circonscription"	"CALIFER"	"Elie"	"M"	19/04/54	74	"Ancien cadre"	22/06/22
-972	"Martinique"	972	"Martinique"	97201	"1Ère Circonscription"	"WILLIAM"	"Jiovanny"	"M"	03/06/85	31	"Profession libérale"	22/06/22
-972	"Martinique"	972	"Martinique"	97202	"2Ème Circonscription"	"NADEAU"	"Marcellin"	"M"	02/11/62	33	"Cadre de la fonction publique"	22/06/22
-972	"Martinique"	972	"Martinique"	97203	"3Ème Circonscription"	"HAJJAR"	"Johnny"	"M"	17/01/73	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-972	"Martinique"	972	"Martinique"	97204	"4Ème Circonscription"	"NILOR"	"Jean-Philippe"	"M"	15/05/65	74	"Ancien cadre"	22/06/22
-973	"Guyane"	973	"Guyane"	97301	"1Ère Circonscription"	"CASTOR"	"Jean-Victor"	"M"	21/04/62	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-973	"Guyane"	973	"Guyane"	97302	"2Ème Circonscription"	"RIMANE"	"Davy"	"M"	15/12/79	47	"Technicien"	22/06/22
-974	"La Réunion"			97401	"1Ère Circonscription"	"NAILLET"	"Philippe"	"M"	14/08/60	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-974	"La Réunion"			97402	"2Ème Circonscription"	"LEBON"	"Karine"	"F"	09/06/85	42	"Professeur des écoles, instituteur et assimilé"	22/06/22
-974	"La Réunion"			97403	"3Ème Circonscription"	"BASSIRE"	"Nathalie"	"F"	22/01/68	75	"Ancienne profession intermédiaire"	22/06/22
-974	"La Réunion"			97404	"4Ème Circonscription"	"K/BIDI"	"Emeline"	"F"	13/05/87	31	"Profession libérale"	22/06/22
-974	"La Réunion"			97405	"5Ème Circonscription"	"RATENON"	"Jean-Hugues"	"M"	25/06/67	85	"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)"	22/06/22
-974	"La Réunion"			97406	"6Ème Circonscription"	"MAILLOT"	"Frédéric"	"M"	15/11/86	56	"Personnel des services directs aux particuliers"	22/06/22
-974	"La Réunion"			97407	"7Ème Circonscription"	"GAILLARD"	"Perceval"	"M"	24/04/83	43	"Profession intermédiaire de la santé et du travail social"	22/06/22
-976	"Mayotte"			97601	"1Ère Circonscription"	"YOUSSOUFFA"	"Estelle"	"F"	31/07/78	35	"Profession de l'information, des arts et des spectacles"	22/06/22
-976	"Mayotte"			97602	"2Ème Circonscription"	"KAMARDINE"	"Mansour"	"M"	23/03/59	31	"Profession libérale"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ01"	"1Ère Circonscription"	"WEISSBERG"	"Christopher"	"M"	26/11/85	37	"Cadre administratif et commercial d'entreprise"	04/08/22
-"ZZ"	"Français Établis Hors De France"			"ZZ02"	"2Ème Circonscription"	"CAROIT"	"Eléonore"	"F"	08/07/85	31	"Profession libérale"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ03"	"3Ème Circonscription"	"HOLROYD"	"Alexandre"	"M"	17/05/87	31	"Profession libérale"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ04"	"4Ème Circonscription"	"ANGLADE"	"Pieyre-Alexandre"	"M"	02/11/86	33	"Cadre de la fonction publique"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ05"	"5Ème Circonscription"	"VOJETTA"	"Stéphane"	"M"	19/07/74	37	"Cadre administratif et commercial d'entreprise"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ06"	"6Ème Circonscription"	"FERRACCI"	"Marc"	"M"	19/12/77	34	"Professeur, profession scientifique"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ07"	"7Ème Circonscription"	"PETIT"	"Frédéric"	"M"	10/02/61	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ08"	"8Ème Circonscription"	"HABIB"	"Meyer"	"M"	28/04/61	23	"Chef d'entreprise de 10 salariés ou plus"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ09"	"9Ème Circonscription"	"BEN CHEÏKH"	"Karim"	"M"	19/03/77	33	"Cadre de la fonction publique"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ10"	"10Ème Circonscription"	"LAKRAFI"	"Amélia"	"F"	20/03/78	72	"Ancien artisan, commerçant, chef d'entreprise"	22/06/22
-"ZZ"	"Français Établis Hors De France"			"ZZ11"	"11Ème Circonscription"	"GENETET"	"Anne"	"F"	20/04/63	31	"Profession libérale"	22/06/22
-		975	"Saint-Pierre-Et-Miquelon"	97501	"Saint-Pierre-Et-Miquelon"	"LENORMAND"	"Stéphane"	"M"	13/08/64	74	"Ancien cadre"	22/06/22
-		986	"Wallis Et Futuna"	98601	"1Ère Circonscription"	"SEO"	"Mikaele"	"M"	27/12/71	45	"Profession intermédiaire administrative de la fonction publique"	22/06/22
-		987	"Polynésie Française"	98701	"1Ère Circonscription"	"LE GAYIC"	"Tematai"	"M"	11/10/00	84	"Elève, étudiant"	22/06/22
-		987	"Polynésie Française"	98702	"2Ème Circonscription"	"CHAILLOUX"	"Steve"	"M"	04/11/85	34	"Professeur, profession scientifique"	22/06/22
-		987	"Polynésie Française"	98703	"3Ème Circonscription"	"BROTHERSON"	"Moetai"	"M"	22/10/69	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-		988	"Nouvelle-Calédonie"	98801	"1Ère Circonscription"	"DUNOYER"	"Philippe"	"M"	11/01/68	33	"Cadre de la fonction publique"	22/06/22
-		988	"Nouvelle-Calédonie"	98802	"2Ème Circonscription"	"METZDORF"	"Nicolas"	"M"	20/05/88	38	"Ingénieur et cadre technique d'entreprise"	22/06/22
-		"ZX"	"Saint-Martin / Saint-Barthélémy"	97701	"1Ère Circonscription"	"GUMBS"	"Frantz"	"M"	21/01/54	74	"Ancien cadre"	22/06/22
+Code du département	Libellé du département	Code de la collectivité à statut particulier	Libellé de la collectivité à statut particulier	Code de la circonscription législative	Libellé de la circonscription législative	'Nom de l''élu'	'Prénom de l''élu'	Code sexe	Date de naissance	Code de la catégorie socio-professionnelle	Libellé de la catégorie socio-professionnelle	Date de début du mandat
+1	Ain			101	1Ère Circonscription	BRETON	Xavier	M	25/11/1962	33	Cadre de la fonction publique	22/06/2022
+1	Ain			102	2Ème Circonscription	DAUBIÉ	Romain	M	05/05/1980	31	Profession libérale	22/06/2022
+1	Ain			103	3Ème Circonscription	GIVERNET	Olga	F	17/10/1981	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+1	Ain			104	4Ème Circonscription	BUISSON	Jérôme	M	15/01/1973	34	Professeur, profession scientifique	22/06/2022
+1	Ain			105	5Ème Circonscription	ABAD	Damien	M	05/04/1980	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+2	Aisne			201	1Ère Circonscription	DRAGON	Nicolas	M	19/04/1977	31	Profession libérale	22/06/2022
+2	Aisne			202	2Ème Circonscription	DIVE	Julien	M	21/05/1985	74	Ancien cadre	22/06/2022
+2	Aisne			203	3Ème Circonscription	BRICOUT	Jean-Louis	M	27/12/1957	74	Ancien cadre	22/06/2022
+2	Aisne			204	4Ème Circonscription	BEAURAIN	José	M	27/07/1971	21	Artisan	22/06/2022
+2	Aisne			205	5Ème Circonscription	DESSIGNY	Jocelyn	M	29/06/1981	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+3	Allier			301	1Ère Circonscription	MONNET	Yannick	M	07/10/1975	33	Cadre de la fonction publique	22/06/2022
+3	Allier			302	2Ème Circonscription	BOVET	Jorys	M	30/03/1993	64	Chauffeur	22/06/2022
+3	Allier			303	3Ème Circonscription	RAY	Nicolas	M	14/05/1981	33	Cadre de la fonction publique	22/06/2022
+4	Alpes-De-Haute-Provence			401	1Ère Circonscription	GIRARD	Christian	M	07/05/1952	74	Ancien cadre	22/06/2022
+4	Alpes-De-Haute-Provence			402	2Ème Circonscription	WALTER	Léo	M	14/04/1972	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+5	Hautes-Alpes			501	1Ère Circonscription	BOYER	Pascale	F	28/09/1965	48	Contremaître, agent de maîtrise	22/06/2022
+5	Hautes-Alpes			502	2Ème Circonscription	GIRAUD	Joel	M	14/10/1959	33	Cadre de la fonction publique	22/06/2022
+6	Alpes-Maritimes			601	1Ère Circonscription	CIOTTI	Eric	M	28/09/1965	33	Cadre de la fonction publique	22/06/2022
+6	Alpes-Maritimes			602	2Ème Circonscription	TIVOLI	Lionel	M	29/02/1988	22	Commerçant et assimilé	22/06/2022
+6	Alpes-Maritimes			603	3Ème Circonscription	PRADAL	Philippe	M	01/02/1963	31	Profession libérale	22/06/2022
+6	Alpes-Maritimes			604	4Ème Circonscription	MASSON	Alexandra	F	02/07/1971	31	Profession libérale	22/06/2022
+6	Alpes-Maritimes			605	5Ème Circonscription	'D''INTORNI'	Christelle	F	02/05/1985	31	Profession libérale	22/06/2022
+6	Alpes-Maritimes			606	6Ème Circonscription	MASSON	Bryan	M	21/12/1996	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+6	Alpes-Maritimes			607	7Ème Circonscription	PAUGET	Eric	M	18/08/1970	22	Commerçant et assimilé	22/06/2022
+6	Alpes-Maritimes			608	8Ème Circonscription	MARTIN	Alexandra	F	25/10/1968	52	Employé civil et agent de service de la fonction publique	22/06/2022
+6	Alpes-Maritimes			609	9Ème Circonscription	TABAROT	Michèle	F	13/10/1962	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+7	Ardèche			701	1Ère Circonscription	SAULIGNAC	Hervé	M	06/11/1970	33	Cadre de la fonction publique	22/06/2022
+7	Ardèche			702	2Ème Circonscription	HEYDEL-GRILLERE	Laurence	F	18/11/1968	38	'Ingénieur et cadre technique d''entreprise'	23/07/2022
+7	Ardèche			703	3Ème Circonscription	BRUN	Fabrice	M	02/04/1968	22	Commerçant et assimilé	22/06/2022
+8	Ardennes			801	1Ère Circonscription	VUIBERT	Lionel	M	31/08/1968	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+8	Ardennes			802	2Ème Circonscription	CORDIER	Pierre	M	27/05/1972	33	Cadre de la fonction publique	22/06/2022
+8	Ardennes			803	3Ème Circonscription	WARSMANN	Jean-Luc	M	22/10/1965	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+9	Ariège			901	1Ère Circonscription	TAURINE	Bénédicte	F	18/06/1976	34	Professeur, profession scientifique	22/06/2022
+9	Ariège			902	2Ème Circonscription	PANIFOUS	Laurent	M	21/12/1976	33	Cadre de la fonction publique	22/06/2022
+10	Aube			1001	1Ère Circonscription	GUITTON	Jordan	M	30/01/1995	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+10	Aube			1002	2Ème Circonscription	BAZIN-MALGRAS	Valérie	F	31/10/1969	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+10	Aube			1003	3Ème Circonscription	RANC	Angélique	F	16/03/1988	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+11	Aude			1101	1Ère Circonscription	BARTHÈS	Christophe	M	12/10/1966	12	Agriculteur sur moyenne exploitation	22/06/2022
+11	Aude			1102	2Ème Circonscription	FALCON	Frédéric	M	21/11/1985	22	Commerçant et assimilé	22/06/2022
+11	Aude			1103	3Ème Circonscription	RANCOULE	Julien	M	31/07/1993	31	Profession libérale	22/06/2022
+12	Aveyron			1201	1Ère Circonscription	MAZARS	Stéphane	M	25/03/1969	31	Profession libérale	22/06/2022
+12	Aveyron			1202	2Ème Circonscription	ALEXANDRE	Laurent	M	09/06/1973	62	Ouvrier qualifié de type industriel	22/06/2022
+12	Aveyron			1203	3Ème Circonscription	ROUSSET	Jean-François	M	09/09/1952	31	Profession libérale	22/06/2022
+13	Bouches-Du-Rhône			1301	1Ère Circonscription	AGRESTI ROUBACHE	Sabrina	F	13/10/1976	31	Profession libérale	22/06/2022
+13	Bouches-Du-Rhône			1302	2Ème Circonscription	PITOLLAT	Claire	F	17/09/1979	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+13	Bouches-Du-Rhône			1303	3Ème Circonscription	LELOUIS	Gisèle	F	10/03/1952	77	Ancien employé	22/06/2022
+13	Bouches-Du-Rhône			1304	4Ème Circonscription	BOMPARD	Manuel	M	30/03/1986	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+13	Bouches-Du-Rhône			1305	5Ème Circonscription	DAVI	Hendrik	M	21/12/1977	34	Professeur, profession scientifique	22/06/2022
+13	Bouches-Du-Rhône			1306	6Ème Circonscription	ROYER-PERREAUT	Lionel	M	13/11/1972	33	Cadre de la fonction publique	22/06/2022
+13	Bouches-Du-Rhône			1307	7Ème Circonscription	DELOGU	Sébastien	M	08/06/1987	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+13	Bouches-Du-Rhône			1308	8Ème Circonscription	ZULESI	Jean-Marc	M	06/06/1988	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+13	Bouches-Du-Rhône			1309	9Ème Circonscription	MÉLIN	Joëlle	F	26/03/1950	31	Profession libérale	22/06/2022
+13	Bouches-Du-Rhône			1310	10Ème Circonscription	GONZALEZ	José	M	28/04/1943	77	Ancien employé	22/06/2022
+13	Bouches-Du-Rhône			1311	11Ème Circonscription	LAQHILA	Mohamed	M	03/08/1959	31	Profession libérale	22/06/2022
+13	Bouches-Du-Rhône			1312	12Ème Circonscription	ALLISIO	Franck	M	04/08/1980	31	Profession libérale	22/06/2022
+13	Bouches-Du-Rhône			1313	13Ème Circonscription	DHARRÉVILLE	Pierre	M	15/06/1975	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+13	Bouches-Du-Rhône			1314	14Ème Circonscription	PETEL	Anne-Laurence	F	08/02/1970	33	Cadre de la fonction publique	22/06/2022
+13	Bouches-Du-Rhône			1315	15Ème Circonscription	BAUBRY	Romain	M	28/01/1989	53	Policier et militaire	22/06/2022
+13	Bouches-Du-Rhône			1316	16Ème Circonscription	TACHE DE LA PAGERIE	Emmanuel	M	20/02/1975	33	Cadre de la fonction publique	22/06/2022
+14	Calvados			1401	1Ère Circonscription	LE VIGOUREUX	Fabrice	M	27/08/1969	34	Professeur, profession scientifique	22/06/2022
+14	Calvados			1402	2Ème Circonscription	DELAPORTE	Arthur	M	07/10/1991	34	Professeur, profession scientifique	22/06/2022
+14	Calvados			1403	3Ème Circonscription	PATRIER-LEITUS	Jérémie	M	07/03/1989	33	Cadre de la fonction publique	22/06/2022
+14	Calvados			1404	4Ème Circonscription	BLANCHET	Christophe	M	09/04/1973	22	Commerçant et assimilé	22/06/2022
+14	Calvados			1405	5Ème Circonscription	BOUYX	Bertrand	M	26/05/1970	34	Professeur, profession scientifique	22/06/2022
+14	Calvados			1406	6Ème Circonscription	SERTIN	Freddy	M	07/02/1980	47	Technicien	23/07/2022
+15	Cantal			1501	1Ère Circonscription	DESCOEUR	Vincent	M	13/12/1962	34	Professeur, profession scientifique	22/06/2022
+15	Cantal			1502	2Ème Circonscription	BONY	Jean-Yves	M	11/03/1955	12	Agriculteur sur moyenne exploitation	22/06/2022
+16	Charente			1601	1Ère Circonscription	MESNIER	Thomas	M	04/03/1986	33	Cadre de la fonction publique	22/06/2022
+16	Charente			1602	2Ème Circonscription	MARSAUD	Sandra	F	02/01/1974	74	Ancien cadre	22/06/2022
+16	Charente			1603	3Ème Circonscription	COLOMBIER	Caroline	F	22/08/1957	74	Ancien cadre	22/06/2022
+17	Charente-Maritime			1701	1Ère Circonscription	FALORNI	Olivier	M	27/03/1972	34	Professeur, profession scientifique	22/06/2022
+17	Charente-Maritime			1702	2Ème Circonscription	BABAULT	Anne-Laure	F	03/01/1982	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+17	Charente-Maritime			1703	3Ème Circonscription	ARDOUIN	Jean-Philippe	M	05/03/1964	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+17	Charente-Maritime			1704	4Ème Circonscription	GERARD	Raphaël	M	17/10/1968	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+17	Charente-Maritime			1705	5Ème Circonscription	PLASSARD	Christophe	M	19/11/1967	31	Profession libérale	22/06/2022
+18	Cher			1801	1Ère Circonscription	CORMIER BOULIGEON	François	M	19/11/1972	33	Cadre de la fonction publique	22/06/2022
+18	Cher			1802	2Ème Circonscription	SANSU	Nicolas	M	17/06/1968	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+18	Cher			1803	3Ème Circonscription	KERVRAN	Loïc	M	11/02/1984	33	Cadre de la fonction publique	22/06/2022
+19	Corrèze			1901	1Ère Circonscription	DUBOIS	Francis	M	28/11/1961	47	Technicien	22/06/2022
+19	Corrèze			1902	2Ème Circonscription	MEUNIER	Frédérique	F	08/12/1960	31	Profession libérale	22/06/2022
+21	'Côte-D''Or'			2101	1Ère Circonscription	MARTIN	Didier	M	20/08/1956	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+21	'Côte-D''Or'			2102	2Ème Circonscription	BORDAT	Benoît	M	07/02/1984	74	Ancien cadre	22/06/2022
+21	'Côte-D''Or'			2103	3Ème Circonscription	KHATTABI	Fadila	F	23/02/1962	34	Professeur, profession scientifique	22/06/2022
+21	'Côte-D''Or'			2104	4Ème Circonscription	BRIGAND	Hubert	M	28/07/1952	75	Ancienne profession intermédiaire	22/06/2022
+21	'Côte-D''Or'			2105	5Ème Circonscription	PARIS	Didier	M	14/02/1954	74	Ancien cadre	22/06/2022
+22	'Côtes-D''Armor'			2201	1Ère Circonscription	COSSON	Mickaël	M	29/11/1975	33	Cadre de la fonction publique	22/06/2022
+22	'Côtes-D''Armor'			2202	2Ème Circonscription	BOULOUX	Chantal	F	23/06/1961	33	Cadre de la fonction publique	04/08/2022
+22	'Côtes-D''Armor'			2203	3Ème Circonscription	LE FUR	Marc	M	28/11/1956	33	Cadre de la fonction publique	22/06/2022
+22	'Côtes-D''Armor'			2204	4Ème Circonscription	LEPVRAUD	Murielle	F	15/07/1974	54	'Employé administratif d''entreprise'	22/06/2022
+22	'Côtes-D''Armor'			2205	5Ème Circonscription	BOTHOREL	Eric	M	20/10/1966	33	Cadre de la fonction publique	22/06/2022
+23	Creuse			2301	1Ère Circonscription	COUTURIER	Catherine France Nadine	F	27/02/1959	75	Ancienne profession intermédiaire	22/06/2022
+24	Dordogne			2401	1Ère Circonscription	MARTIN	Pascale	F	24/08/1961	74	Ancien cadre	22/06/2022
+24	Dordogne			2402	2Ème Circonscription	MULLER	Serge	M	26/02/1976	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+24	Dordogne			2403	3Ème Circonscription	CUBERTAFON	Jean-Pierre	M	05/02/1948	74	Ancien cadre	22/06/2022
+24	Dordogne			2404	4Ème Circonscription	PEYTAVIE	Sébastien	M	17/04/1982	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+25	Doubs			2501	1Ère Circonscription	CROIZIER	Laurent	M	29/01/1975	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+25	Doubs			2502	2Ème Circonscription	ALAUZET	Eric	M	07/06/1958	31	Profession libérale	22/06/2022
+25	Doubs			2503	3Ème Circonscription	PACQUOT	Nicolas	M	12/12/1978	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+25	Doubs			2504	4Ème Circonscription	GRANGIER	Géraldine	F	13/02/1975	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+25	Doubs			2505	5Ème Circonscription	GENEVARD	Annie	F	07/09/1956	34	Professeur, profession scientifique	22/06/2022
+26	Drôme			2601	1Ère Circonscription	CLAPOT	Mireille	F	14/10/1963	33	Cadre de la fonction publique	22/06/2022
+26	Drôme			2602	2Ème Circonscription	POLLET	Lisette	F	04/01/1968	62	Ouvrier qualifié de type industriel	22/06/2022
+26	Drôme			2603	3Ème Circonscription	POCHON	Marie	F	04/05/1990	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+26	Drôme			2604	4Ème Circonscription	ANTHOINE	Emmanuelle	F	02/07/1964	75	Ancienne profession intermédiaire	22/06/2022
+27	Eure			2701	1Ère Circonscription	LOIR	Christine	F	22/02/1977	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+27	Eure			2702	2Ème Circonscription	LEVAVASSEUR	Katiana	F	09/12/1970	67	Ouvrier non qualifié de type industriel	22/06/2022
+27	Eure			2703	3Ème Circonscription	MAUVIEUX	Kévin	M	09/09/1991	55	Employé de commerce	22/06/2022
+27	Eure			2704	4Ème Circonscription	BRUN	Philippe	M	16/10/1991	33	Cadre de la fonction publique	22/06/2022
+27	Eure			2705	5Ème Circonscription	HOUSSIN	Timothée	M	29/05/1988	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+28	Eure-Et-Loir			2801	1Ère Circonscription	KASBARIAN	Guillaume	M	28/02/1987	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+28	Eure-Et-Loir			2802	2Ème Circonscription	MARLEIX	Olivier	M	06/02/1971	33	Cadre de la fonction publique	22/06/2022
+28	Eure-Et-Loir			2803	3Ème Circonscription	LAMIRAULT	Luc	M	12/05/1962	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+28	Eure-Et-Loir			2804	4Ème Circonscription	VIGIER	Philippe	M	03/02/1958	31	Profession libérale	22/06/2022
+29	Finistère			2901	1Ère Circonscription	LE MEUR	Annaïg	F	29/04/1973	31	Profession libérale	22/06/2022
+29	Finistère			2902	2Ème Circonscription	LARSONNEUR	Jean-Charles	M	24/01/1984	33	Cadre de la fonction publique	22/06/2022
+29	Finistère			2903	3Ème Circonscription	LE GAC	Didier	M	19/07/1965	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+29	Finistère			2904	4Ème Circonscription	LE FEUR	Sandrine	F	18/03/1991	12	Agriculteur sur moyenne exploitation	22/06/2022
+29	Finistère			2905	5Ème Circonscription	MELCHIOR	Graziella	F	06/04/1960	34	Professeur, profession scientifique	22/06/2022
+29	Finistère			2906	6Ème Circonscription	THOMIN	Mélanie	F	04/06/1984	34	Professeur, profession scientifique	22/06/2022
+29	Finistère			2907	7Ème Circonscription	TANGUY	Liliana	F	12/03/1967	33	Cadre de la fonction publique	22/06/2022
+29	Finistère			2908	8Ème Circonscription	BALANANT	Erwan	M	21/02/1971	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+2A	Corse-Du-Sud	94	Corse	2A01	1Ère Circonscription	MARCANGELI	Laurent	M	10/12/1980	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+2A	Corse-Du-Sud	94	Corse	2A02	2Ème Circonscription	COLOMBANI	Paul-André	M	17/08/1967	31	Profession libérale	22/06/2022
+2B	Haute-Corse	94	Corse	2B01	1Ère Circonscription	CASTELLANI	Michel	M	28/09/1945	34	Professeur, profession scientifique	22/06/2022
+2B	Haute-Corse	94	Corse	2B02	2Ème Circonscription	ACQUAVIVA	Jean-Félix	M	19/03/1973	74	Ancien cadre	22/06/2022
+30	Gard			3001	1Ère Circonscription	GILLET	Yoann	M	29/08/1986	33	Cadre de la fonction publique	22/06/2022
+30	Gard			3002	2Ème Circonscription	MEIZONNET	Nicolas	M	22/12/1983	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+30	Gard			3003	3Ème Circonscription	BORDES	Pascale	F	15/10/1961	31	Profession libérale	22/06/2022
+30	Gard			3004	4Ème Circonscription	MEURIN	Pierre	M	30/11/1989	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+30	Gard			3005	5Ème Circonscription	SALA	Michel	M	13/05/1954	77	Ancien employé	22/06/2022
+30	Gard			3006	6Ème Circonscription	BERTA	Philippe	M	11/04/1960	34	Professeur, profession scientifique	22/06/2022
+31	Haute-Garonne			3101	1Ère Circonscription	CLOUET	Hadrien	M	13/07/1991	34	Professeur, profession scientifique	22/06/2022
+31	Haute-Garonne			3102	2Ème Circonscription	STAMBACH-TERRENOIR	Anne	F	23/06/1980	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+31	Haute-Garonne			3103	3Ème Circonscription	VIGNON	Corinne	F	10/06/1963	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+31	Haute-Garonne			3104	4Ème Circonscription	PIQUEMAL	François	M	28/12/1984	34	Professeur, profession scientifique	22/06/2022
+31	Haute-Garonne			3105	5Ème Circonscription	PORTARRIEU	Jean-François	M	14/10/1965	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+31	Haute-Garonne			3106	6Ème Circonscription	IBORRA	Monique	F	08/03/1945	74	Ancien cadre	22/06/2022
+31	Haute-Garonne			3107	7Ème Circonscription	BEX	Christophe	M	14/11/1961	33	Cadre de la fonction publique	22/06/2022
+31	Haute-Garonne			3108	8Ème Circonscription	AVIRAGNET	Joël	M	16/06/1956	74	Ancien cadre	22/06/2022
+31	Haute-Garonne			3109	9Ème Circonscription	ARRIGHI	Christine	F	19/09/1959	74	Ancien cadre	22/06/2022
+31	Haute-Garonne			3110	10Ème Circonscription	ESQUENET	Laurent	M	23/08/1962	156	Autre profession (obsolète)	04/08/2022
+32	Gers			3201	1Ère Circonscription	CAZENEUVE	Jean-René	M	09/06/1958	74	Ancien cadre	22/06/2022
+32	Gers			3202	2Ème Circonscription	TAUPIAC	David	M	13/05/1975	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+33	Gironde			3301	1Ère Circonscription	CAZENAVE	Thomas	M	06/03/1978	33	Cadre de la fonction publique	22/06/2022
+33	Gironde			3302	2Ème Circonscription	THIERRY	Nicolas	M	08/12/1975	31	Profession libérale	22/06/2022
+33	Gironde			3303	3Ème Circonscription	'PRUD''HOMME'	Loïc	M	19/08/1969	47	Technicien	22/06/2022
+33	Gironde			3304	4Ème Circonscription	DAVID	Alain	M	02/06/1949	164	Retraité des entreprises publiques (obsolète)	22/06/2022
+33	Gironde			3305	5Ème Circonscription	DE FOURNAS	Grégoire	M	19/03/1985	12	Agriculteur sur moyenne exploitation	22/06/2022
+33	Gironde			3306	6Ème Circonscription	POULLIAT	Eric	M	09/07/1974	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+33	Gironde			3307	7Ème Circonscription	ZGAINSKI	Frédéric	M	30/10/1972	23	'Chef d''entreprise de 10 salariés ou plus'	04/08/2022
+33	Gironde			3308	8Ème Circonscription	PANONACLE	Sophie	F	16/12/1968	157	Sans profession déclarée (obsolète)	22/06/2022
+33	Gironde			3309	9Ème Circonscription	METTE	Sophie	F	13/09/1959	157	Sans profession déclarée (obsolète)	22/06/2022
+33	Gironde			3310	10Ème Circonscription	BOUDIÉ	Florent	M	22/09/1973	33	Cadre de la fonction publique	22/06/2022
+33	Gironde			3311	11Ème Circonscription	DIAZ	Edwige	F	15/10/1987	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+33	Gironde			3312	12Ème Circonscription	LAVERGNE	Pascal	M	28/08/1967	12	Agriculteur sur moyenne exploitation	22/06/2022
+34	Hérault			3401	1Ère Circonscription	SOREZ	Philippe	M	20/05/1961	119	Autre cadre (secteur privé) (obsolète)	04/08/2022
+34	Hérault			3402	2Ème Circonscription	OZIOL	Nathalie	F	18/02/1990	34	Professeur, profession scientifique	22/06/2022
+34	Hérault			3403	3Ème Circonscription	CRISTOL	Laurence	F	08/11/1967	34	Professeur, profession scientifique	22/06/2022
+34	Hérault			3404	4Ème Circonscription	ROME	Sébastien	M	12/10/1978	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+34	Hérault			3405	5Ème Circonscription	GALZY	Stéphanie	F	21/10/1981	54	'Employé administratif d''entreprise'	22/06/2022
+34	Hérault			3406	6Ème Circonscription	MÉNARD	Emmanuelle	F	15/08/1968	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+34	Hérault			3407	7Ème Circonscription	LOPEZ LIGUORI	Aurélien	M	17/05/1993	33	Cadre de la fonction publique	22/06/2022
+34	Hérault			3408	8Ème Circonscription	CARRIERE	Sylvain	M	21/05/1991	55	Employé de commerce	22/06/2022
+34	Hérault			3409	9Ème Circonscription	VIGNAL	Patrick	M	22/01/1958	22	Commerçant et assimilé	22/06/2022
+35	Ille-Et-Vilaine			3501	1Ère Circonscription	MATHIEU	Frédéric	M	06/11/1977	33	Cadre de la fonction publique	22/06/2022
+35	Ille-Et-Vilaine			3502	2Ème Circonscription	MAILLART-MÉHAIGNERIE	Laurence	F	05/04/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+35	Ille-Et-Vilaine			3503	3Ème Circonscription	ROUAUX	Claudia	F	13/10/1963	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+35	Ille-Et-Vilaine			3504	4Ème Circonscription	HIGNET	Mathilde	F	10/06/1993	69	Ouvrier agricole	22/06/2022
+35	Ille-Et-Vilaine			3505	5Ème Circonscription	LE NABOUR-CLOAREC	Christine	F	28/10/1964	55	Employé de commerce	22/06/2022
+35	Ille-Et-Vilaine			3506	6Ème Circonscription	BENOIT	Thierry	M	13/09/1966	22	Commerçant et assimilé	22/06/2022
+35	Ille-Et-Vilaine			3507	7Ème Circonscription	BOURGEAUX	Jean-Luc	M	10/04/1963	11	Agriculteur sur petite exploitation	22/06/2022
+35	Ille-Et-Vilaine			3508	8Ème Circonscription	BOULOUX	Mickaël	M	16/08/1972	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+36	Indre			3601	1Ère Circonscription	JOLIVET	François	M	21/03/1966	74	Ancien cadre	22/06/2022
+36	Indre			3602	2Ème Circonscription	FORISSIER	Nicolas	M	17/02/1961	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+37	Indre-Et-Loire			3701	1Ère Circonscription	FOURNIER	Charles	M	10/03/1968	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+37	Indre-Et-Loire			3702	2Ème Circonscription	LABARONNE	Daniel	M	16/07/1955	74	Ancien cadre	22/06/2022
+37	Indre-Et-Loire			3703	3Ème Circonscription	ALFANDARI	Henri	M	02/10/1979	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+37	Indre-Et-Loire			3704	4Ème Circonscription	COLBOC	Fabienne	F	09/08/1971	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+37	Indre-Et-Loire			3705	5Ème Circonscription	THILLAYE	Sabine	F	18/05/1959	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+38	Isère			3801	1Ère Circonscription	HUGUES	Servane	F	28/06/1976	33	Cadre de la fonction publique	23/07/2022
+38	Isère			3802	2Ème Circonscription	CHATELAIN	Cyrielle	F	15/07/1987	33	Cadre de la fonction publique	22/06/2022
+38	Isère			3803	3Ème Circonscription	MARTIN	Élisa	F	15/05/1972	34	Professeur, profession scientifique	22/06/2022
+38	Isère			3804	4Ème Circonscription	BATTISTEL	Marie-Noëlle	F	20/08/1956	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	22/06/2022
+38	Isère			3805	5Ème Circonscription	IORDANOFF	Jérémie	M	02/02/1983	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+38	Isère			3806	6Ème Circonscription	JOLLY	Alexis	M	22/12/1990	22	Commerçant et assimilé	22/06/2022
+38	Isère			3807	7Ème Circonscription	NEUDER	Yannick	M	15/03/1969	34	Professeur, profession scientifique	22/06/2022
+38	Isère			3808	8Ème Circonscription	ABADIE	Caroline	F	07/09/1976	22	Commerçant et assimilé	22/06/2022
+38	Isère			3809	9Ème Circonscription	JACQUIER-LAFORGE	Elodie	F	15/04/1978	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+38	Isère			3810	10Ème Circonscription	MEYNIER-MILLEFERT	Marjolaine	F	30/09/1982	22	Commerçant et assimilé	22/06/2022
+39	Jura			3901	1Ère Circonscription	BRULEBOIS	Danielle	F	04/07/1947	75	Ancienne profession intermédiaire	22/06/2022
+39	Jura			3902	2Ème Circonscription	DALLOZ	Marie-Christine	F	10/01/1958	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	22/06/2022
+39	Jura			3903	3Ème Circonscription	GRUET	Justine	F	23/10/1989	31	Profession libérale	22/06/2022
+40	Landes			4001	1Ère Circonscription	LAINÉ	Fabien	M	15/04/1976	31	Profession libérale	04/08/2022
+40	Landes			4002	2Ème Circonscription	CAUSSE	Lionel	M	06/05/1971	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+40	Landes			4003	3Ème Circonscription	VALLAUD	Boris	M	25/07/1975	33	Cadre de la fonction publique	22/06/2022
+41	Loir-Et-Cher			4101	1Ère Circonscription	DESJONQUÈRES	Mathilde	F	06/09/1980	37	'Cadre administratif et commercial d''entreprise'	23/07/2022
+41	Loir-Et-Cher			4102	2Ème Circonscription	CHUDEAU	Roger	M	28/09/1949	74	Ancien cadre	22/06/2022
+41	Loir-Et-Cher			4103	3Ème Circonscription	MARION	Christophe	M	25/04/1973	33	Cadre de la fonction publique	22/06/2022
+42	Loire			4201	1Ère Circonscription	BATAILLON	Quentin	M	09/09/1993	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+42	Loire			4202	2Ème Circonscription	TAURINYA	Andrée	F	03/06/1963	34	Professeur, profession scientifique	22/06/2022
+42	Loire			4203	3Ème Circonscription	MANDON	Emmanuel	M	22/06/1965	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+42	Loire			4204	4Ème Circonscription	CINIERI	Dino	M	09/07/1955	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+42	Loire			4205	5Ème Circonscription	VERMOREL-MARQUES	Antoine	M	17/02/1993	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+42	Loire			4206	6Ème Circonscription	TAITE	Jean-Pierre	M	14/03/1962	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+43	Haute-Loire			4301	1Ère Circonscription	VALENTIN	Isabelle	F	20/01/1962	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+43	Haute-Loire			4302	2Ème Circonscription	VIGIER	Jean-Pierre	M	22/10/1969	33	Cadre de la fonction publique	22/06/2022
+44	Loire-Atlantique			4401	1Ère Circonscription	BELHAMITI	Mounir	M	08/03/1985	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+44	Loire-Atlantique			4402	2Ème Circonscription	KERBRAT	Andy	M	01/10/1990	54	'Employé administratif d''entreprise'	22/06/2022
+44	Loire-Atlantique			4403	3Ème Circonscription	AMIOT	Ségolène	F	23/02/1986	54	'Employé administratif d''entreprise'	22/06/2022
+44	Loire-Atlantique			4404	4Ème Circonscription	LAERNOES	Julie	F	03/07/1982	74	Ancien cadre	22/06/2022
+44	Loire-Atlantique			4405	5Ème Circonscription	GEISMAR	Luc	M	01/11/1966	119	Autre cadre (secteur privé) (obsolète)	04/08/2022
+44	Loire-Atlantique			4406	6Ème Circonscription	RAUX	Jean-Claude	M	18/01/1967	34	Professeur, profession scientifique	22/06/2022
+44	Loire-Atlantique			4407	7Ème Circonscription	JOSSO	Sandrine	F	19/09/1975	31	Profession libérale	22/06/2022
+44	Loire-Atlantique			4408	8Ème Circonscription	TAVEL	Matthias	M	06/07/1987	33	Cadre de la fonction publique	22/06/2022
+44	Loire-Atlantique			4409	9Ème Circonscription	HAURY	Yannick	M	12/06/1954	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+44	Loire-Atlantique			4410	10Ème Circonscription	ERRANTE	Sophie	F	22/07/1971	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+45	Loiret			4501	1Ère Circonscription	RIST	Stéphanie	F	06/08/1973	34	Professeur, profession scientifique	22/06/2022
+45	Loiret			4502	2Ème Circonscription	JANVIER	Caroline	F	09/03/1982	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+45	Loiret			4503	3Ème Circonscription	PARIS	Mathilde	F	14/01/1985	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+45	Loiret			4504	4Ème Circonscription	MÉNAGÉ	Thomas	M	06/01/1992	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+45	Loiret			4505	5Ème Circonscription	BROSSE	Anthony	M	04/11/1980	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+45	Loiret			4506	6Ème Circonscription	RAMOS	Richard	M	23/03/1968	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+46	Lot			4601	1Ère Circonscription	PRADIÉ	Aurélien	M	14/03/1986	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+46	Lot			4602	2Ème Circonscription	TIEGNA	Huguette	F	01/04/1982	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+47	Lot-Et-Garonne			4701	1Ère Circonscription	LAUZZANA	Michel	M	20/03/1957	31	Profession libérale	22/06/2022
+47	Lot-Et-Garonne			4702	2Ème Circonscription	LAPORTE	Hélène	F	29/12/1978	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+47	Lot-Et-Garonne			4703	3Ème Circonscription	COUSIN	Annick	F	07/08/1973	52	Employé civil et agent de service de la fonction publique	22/06/2022
+48	Lozère			4801	1Ère Circonscription	'MOREL A L''HUISSIER'	Pierre	M	21/12/1958	31	Profession libérale	22/06/2022
+49	Maine-Et-Loire			4901	1Ère Circonscription	GERNIGON	François	M	02/04/1961	74	Ancien cadre	22/06/2022
+49	Maine-Et-Loire			4902	2Ème Circonscription	DUPONT	Stella	F	03/11/1973	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+49	Maine-Et-Loire			4903	3Ème Circonscription	BLIN	Anne-Laure	F	12/06/1983	74	Ancien cadre	22/06/2022
+49	Maine-Et-Loire			4904	4Ème Circonscription	SAINT-PAUL	Laëtitia	F	21/01/1981	83	Militaire du contingent	22/06/2022
+49	Maine-Et-Loire			4905	5Ème Circonscription	MASSEGLIA	Denis	M	11/04/1981	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+49	Maine-Et-Loire			4906	6Ème Circonscription	DUBRE CHIRAT	Nicole	F	18/12/1951	33	Cadre de la fonction publique	22/06/2022
+49	Maine-Et-Loire			4907	7Ème Circonscription	BOLO	Philippe	M	25/03/1967	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+50	Manche			5001	1Ère Circonscription	GOSSELIN	Philippe	M	23/10/1966	34	Professeur, profession scientifique	22/06/2022
+50	Manche			5002	2Ème Circonscription	SORRE	Bertrand	M	08/05/1965	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+50	Manche			5003	3Ème Circonscription	TRAVERT	Stéphane	M	12/10/1969	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+50	Manche			5004	4Ème Circonscription	PIC	Anna	F	04/06/1978	34	Professeur, profession scientifique	22/06/2022
+51	Marne			5101	1Ère Circonscription	ALBERTINI	Xavier	M	28/01/1970	31	Profession libérale	22/06/2022
+51	Marne			5102	2Ème Circonscription	FRIGOUT	Anne-Sophie	F	11/04/1971	34	Professeur, profession scientifique	22/06/2022
+51	Marne			5103	3Ème Circonscription	GIRARDIN	Eric	M	12/02/1962	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+51	Marne			5104	4Ème Circonscription	MAGNIER	Lise	F	31/12/1984	33	Cadre de la fonction publique	22/06/2022
+51	Marne			5105	5Ème Circonscription	DE COURSON	Charles	M	02/04/1952	74	Ancien cadre	22/06/2022
+52	Haute-Marne			5201	1Ère Circonscription	BENTZ	Christophe	M	04/07/1987	34	Professeur, profession scientifique	22/06/2022
+52	Haute-Marne			5202	2Ème Circonscription	ROBERT-DEHAULT	Laurence	F	17/01/1964	31	Profession libérale	22/06/2022
+53	Mayenne			5301	1Ère Circonscription	GAROT	Guillaume	M	29/05/1966	33	Cadre de la fonction publique	22/06/2022
+53	Mayenne			5302	2Ème Circonscription	BANNIER	Géraldine	F	22/11/1979	34	Professeur, profession scientifique	22/06/2022
+53	Mayenne			5303	3Ème Circonscription	FAVENNEC	Yannick	M	12/08/1958	74	Ancien cadre	22/06/2022
+54	Meurthe-Et-Moselle			5401	1Ère Circonscription	GUILLEMARD	Philippe	M	28/04/1975	31	Profession libérale	03/07/2022
+54	Meurthe-Et-Moselle			5402	2Ème Circonscription	LACRESSE	Emmanuel	M	14/07/1971	33	Cadre de la fonction publique	22/06/2022
+54	Meurthe-Et-Moselle			5403	3Ème Circonscription	ETIENNE	Martine	F	22/06/1956	77	Ancien employé	22/06/2022
+54	Meurthe-Et-Moselle			5404	4Ème Circonscription	BAZIN	Thibault	M	27/10/1984	74	Ancien cadre	22/06/2022
+54	Meurthe-Et-Moselle			5405	5Ème Circonscription	POTIER	Dominique	M	17/03/1964	12	Agriculteur sur moyenne exploitation	22/06/2022
+54	Meurthe-Et-Moselle			5406	6Ème Circonscription	FIAT	Caroline	F	28/01/1977	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+55	Meuse			5501	1Ère Circonscription	PANCHER	Bertrand	M	05/06/1958	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+55	Meuse			5502	2Ème Circonscription	GOULET	Florence	F	30/06/1961	33	Cadre de la fonction publique	22/06/2022
+56	Morbihan			5601	1Ère Circonscription	LE HÉNANFF	Anne	F	22/07/1969	22	Commerçant et assimilé	22/06/2022
+56	Morbihan			5602	2Ème Circonscription	PAHUN	Jimmy	M	15/05/1962	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+56	Morbihan			5603	3Ème Circonscription	LE PEIH	Nicole	F	28/09/1959	12	Agriculteur sur moyenne exploitation	22/06/2022
+56	Morbihan			5604	4Ème Circonscription	MOLAC	Paul	M	21/05/1962	34	Professeur, profession scientifique	22/06/2022
+56	Morbihan			5605	5Ème Circonscription	MÉTAYER	Lysiane	F	07/08/1963	33	Cadre de la fonction publique	22/06/2022
+56	Morbihan			5606	6Ème Circonscription	JACQUES	Jean-Michel	M	29/02/1968	31	Profession libérale	22/06/2022
+57	Moselle			5701	1Ère Circonscription	BELHADDAD	Belkhir	M	09/07/1969	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+57	Moselle			5702	2Ème Circonscription	MENDES	Ludovic	M	11/04/1987	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+57	Moselle			5703	3Ème Circonscription	LEDUC	Charlotte	F	18/06/1980	34	Professeur, profession scientifique	22/06/2022
+57	Moselle			5704	4Ème Circonscription	DI FILIPPO	Fabien	M	23/08/1986	74	Ancien cadre	22/06/2022
+57	Moselle			5705	5Ème Circonscription	SEITLINGER	Vincent	M	18/01/1987	31	Profession libérale	22/06/2022
+57	Moselle			5706	6Ème Circonscription	PFEFFER	Kévin	M	09/07/1990	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+57	Moselle			5707	7Ème Circonscription	LOUBET	Alexandre	M	07/07/1994	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+57	Moselle			5708	8Ème Circonscription	JACOBELLI	Laurent	M	13/10/1969	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+57	Moselle			5709	9Ème Circonscription	RAUCH	Isabelle	F	10/08/1968	33	Cadre de la fonction publique	22/06/2022
+58	Nièvre			5801	1Ère Circonscription	GOULET	Perrine	F	19/03/1978	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+58	Nièvre			5802	2Ème Circonscription	PERROT	Patrice	M	24/02/1964	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+59	Nord			5901	1Ère Circonscription	QUATENNENS	Adrien	M	23/05/1990	54	'Employé administratif d''entreprise'	22/06/2022
+59	Nord			5902	2Ème Circonscription	BERNALICIS	Ugo	M	25/09/1989	33	Cadre de la fonction publique	22/06/2022
+59	Nord			5903	3Ème Circonscription	SAINT-HUILE	Benjamin	M	10/05/1983	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+59	Nord			5904	4Ème Circonscription	LISO	Brigitte	F	29/07/1959	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+59	Nord			5905	5Ème Circonscription	CATTEAU	Victor	M	18/09/1995	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+59	Nord			5906	6Ème Circonscription	PARMENTIER-LECOCQ	Charlotte	F	17/07/1977	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+59	Nord			5907	7Ème Circonscription	GÉRARD	Félicie	F	28/01/1974	48	Contremaître, agent de maîtrise	22/06/2022
+59	Nord			5908	8Ème Circonscription	GUIRAUD	David	M	18/11/1992	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+59	Nord			5909	9Ème Circonscription	SPILLEBOUT	Violette	F	02/09/1972	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+59	Nord			5910	10Ème Circonscription	LEDOUX	Vincent	M	21/06/1966	34	Professeur, profession scientifique	23/07/2022
+59	Nord			5911	11Ème Circonscription	VICOT	Roger	M	01/06/1963	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+59	Nord			5912	12Ème Circonscription	TAVERNE	Michaël	M	10/03/1979	53	Policier et militaire	22/06/2022
+59	Nord			5913	13Ème Circonscription	DECODTS	Christine	F	19/05/1966	74	Ancien cadre	22/06/2022
+59	Nord			5914	14Ème Circonscription	CHRISTOPHE	Paul	M	10/02/1971	33	Cadre de la fonction publique	22/06/2022
+59	Nord			5915	15Ème Circonscription	BERTELOOT	Pierrick	M	11/01/1999	55	Employé de commerce	22/06/2022
+59	Nord			5916	16Ème Circonscription	MARCHIO	Matthieu	M	08/06/1993	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+59	Nord			5917	17Ème Circonscription	FRANCOIS	Thibaut	M	10/12/1989	33	Cadre de la fonction publique	22/06/2022
+59	Nord			5918	18Ème Circonscription	BRICOUT	Guy	M	18/02/1944	74	Ancien cadre	22/06/2022
+59	Nord			5919	19Ème Circonscription	CHENU	Sébastien	M	13/04/1973	33	Cadre de la fonction publique	22/06/2022
+59	Nord			5920	20Ème Circonscription	ROUSSEL	Fabien	M	16/04/1969	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+59	Nord			5921	21Ème Circonscription	DESCAMPS	Béatrice	F	24/04/1961	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+60	Oise			6001	1Ère Circonscription	HABERT-DASSAULT	Victor	M	12/07/1992	31	Profession libérale	22/06/2022
+60	Oise			6002	2Ème Circonscription	BALLARD	Philippe	M	24/11/1960	74	Ancien cadre	22/06/2022
+60	Oise			6003	3Ème Circonscription	SABATOU	Alexandre	M	18/02/1993	33	Cadre de la fonction publique	22/06/2022
+60	Oise			6004	4Ème Circonscription	WOERTH	Eric	M	29/01/1956	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	22/06/2022
+60	Oise			6005	5Ème Circonscription	VATIN	Pierre	M	21/08/1967	33	Cadre de la fonction publique	22/06/2022
+60	Oise			6006	6Ème Circonscription	GUINIOT	Michel	M	29/11/1954	74	Ancien cadre	22/06/2022
+60	Oise			6007	7Ème Circonscription	MINOT	Maxime	M	20/07/1987	77	Ancien employé	22/06/2022
+61	Orne			6101	1Ère Circonscription	JOURDAN	Chantal	F	02/09/1958	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	22/06/2022
+61	Orne			6102	2Ème Circonscription	LOUWAGIE	Véronique	F	20/03/1961	31	Profession libérale	22/06/2022
+61	Orne			6103	3Ème Circonscription	NURY	Jérôme	M	25/08/1972	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+62	Pas-De-Calais			6201	1Ère Circonscription	BLAIRY	Emmanuel	M	14/03/1986	48	Contremaître, agent de maîtrise	22/06/2022
+62	Pas-De-Calais			6202	2Ème Circonscription	MAQUET	Jacqueline	F	13/05/1949	74	Ancien cadre	22/06/2022
+62	Pas-De-Calais			6203	3Ème Circonscription	TELLIER	Jean-Marc	M	23/08/1969	74	Ancien cadre	22/06/2022
+62	Pas-De-Calais			6204	4Ème Circonscription	FAIT	Philippe	M	24/06/1969	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+62	Pas-De-Calais			6205	5Ème Circonscription	PONT	Jean-Pierre	M	09/05/1950	31	Profession libérale	22/06/2022
+62	Pas-De-Calais			6206	6Ème Circonscription	ENGRAND	Christine	F	07/05/1955	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+62	Pas-De-Calais			6207	7Ème Circonscription	DUMONT	Pierre-Henri	M	07/10/1987	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+62	Pas-De-Calais			6208	8Ème Circonscription	PETIT	Bertrand	M	28/08/1964	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+62	Pas-De-Calais			6209	9Ème Circonscription	PARMENTIER	Caroline	F	16/12/1965	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+62	Pas-De-Calais			6210	10Ème Circonscription	FRAPPÉ	Thierry	M	23/05/1952	31	Profession libérale	22/06/2022
+62	Pas-De-Calais			6211	11Ème Circonscription	LE PEN	Marine	F	05/08/1968	31	Profession libérale	22/06/2022
+62	Pas-De-Calais			6212	12Ème Circonscription	BILDE	Bruno	M	22/09/1976	31	Profession libérale	22/06/2022
+63	Puy-De-Dôme			6301	1Ère Circonscription	MAXIMI	Marianne	F	13/11/1985	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+63	Puy-De-Dôme			6302	2Ème Circonscription	PIRES-BEAUNE	Christine	F	06/10/1964	147	Fonctionnaire de catégorie A (obsolète)	22/06/2022
+63	Puy-De-Dôme			6303	3Ème Circonscription	VICHNIEVSKY	Laurence	F	05/02/1955	74	Ancien cadre	22/06/2022
+63	Puy-De-Dôme			6304	4Ème Circonscription	LINGEMANN	Delphine	F	14/11/1972	34	Professeur, profession scientifique	22/06/2022
+63	Puy-De-Dôme			6305	5Ème Circonscription	CHASSAIGNE	André	M	02/07/1950	34	Professeur, profession scientifique	22/06/2022
+64	Pyrénées-Atlantiques			6401	1Ère Circonscription	POUEYTO	Josy	F	13/01/1954	77	Ancien employé	22/06/2022
+64	Pyrénées-Atlantiques			6402	2Ème Circonscription	MATTEI	Jean-Paul	M	21/03/1954	31	Profession libérale	22/06/2022
+64	Pyrénées-Atlantiques			6403	3Ème Circonscription	HABIB	David	M	16/03/1961	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+64	Pyrénées-Atlantiques			6404	4Ème Circonscription	ECHANIZ	Inaki	M	02/09/1993	33	Cadre de la fonction publique	22/06/2022
+64	Pyrénées-Atlantiques			6405	5Ème Circonscription	LASSERRE	Florence	F	29/06/1974	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+64	Pyrénées-Atlantiques			6406	6Ème Circonscription	BRU	Vincent	M	29/04/1955	34	Professeur, profession scientifique	22/06/2022
+65	Hautes-Pyrénées			6501	1Ère Circonscription	FERRER	Sylvie	F	06/11/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+65	Hautes-Pyrénées			6502	2Ème Circonscription	MOURNET	Benoit	M	16/01/1986	33	Cadre de la fonction publique	22/06/2022
+66	Pyrénées-Orientales			6601	1Ère Circonscription	BLANC	Sophie	F	20/02/1968	31	Profession libérale	22/06/2022
+66	Pyrénées-Orientales			6602	2Ème Circonscription	SABATINI	Anaïs	F	10/03/1990	31	Profession libérale	22/06/2022
+66	Pyrénées-Orientales			6603	3Ème Circonscription	DOGOR-SUCH	Sandrine	F	08/11/1970	55	Employé de commerce	22/06/2022
+66	Pyrénées-Orientales			6604	4Ème Circonscription	MARTINEZ	Michèle	F	06/06/1968	54	'Employé administratif d''entreprise'	22/06/2022
+67	Bas-Rhin			6701	1Ère Circonscription	REGOL	Sandra	F	13/04/1978	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+67	Bas-Rhin			6702	2Ème Circonscription	FERNANDES	Emmanuel	M	10/08/1980	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+67	Bas-Rhin			6703	3Ème Circonscription	STUDER	Bruno	M	18/06/1978	34	Professeur, profession scientifique	22/06/2022
+67	Bas-Rhin			6704	4Ème Circonscription	BUFFET	Françoise	F	11/12/1953	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+67	Bas-Rhin			6705	5Ème Circonscription	SITZENSTUHL	Charles	M	03/12/1988	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+67	Bas-Rhin			6706	6Ème Circonscription	MOREL	Louise	F	15/10/1995	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+67	Bas-Rhin			6707	7Ème Circonscription	HETZEL	Patrick	M	02/07/1964	34	Professeur, profession scientifique	22/06/2022
+67	Bas-Rhin			6708	8Ème Circonscription	KOCHERT	Stéphanie	F	12/08/1975	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+67	Bas-Rhin			6709	9Ème Circonscription	THIEBAUT	Vincent	M	23/05/1972	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+68	Haut-Rhin			6801	1Ère Circonscription	KLINKERT	Brigitte	F	22/07/1956	74	Ancien cadre	22/06/2022
+68	Haut-Rhin			6802	2Ème Circonscription	OTT	Hubert	M	06/06/1964	34	Professeur, profession scientifique	22/06/2022
+68	Haut-Rhin			6803	3Ème Circonscription	LEMAIRE	Didier	M	23/07/1975	52	Employé civil et agent de service de la fonction publique	22/06/2022
+68	Haut-Rhin			6804	4Ème Circonscription	SCHELLENBERGER	Raphaël	M	14/02/1990	33	Cadre de la fonction publique	22/06/2022
+68	Haut-Rhin			6805	5Ème Circonscription	BOLOGNESE	Charlotte	F	21/07/1990	54	'Employé administratif d''entreprise'	04/08/2022
+68	Haut-Rhin			6806	6Ème Circonscription	FUCHS	Bruno	M	07/04/1959	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+69	Rhône			6901	1Ère Circonscription	RUDIGOZ	Thomas	M	11/01/1971	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+69	Rhône			6902	2Ème Circonscription	JULIEN-LAFERRIERE	Hubert	M	27/02/1966	34	Professeur, profession scientifique	22/06/2022
+69	Rhône			6903	3Ème Circonscription	GARIN	Marie-Charlotte	F	02/09/1995	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+69	Rhône			6904	4Ème Circonscription	BRUGNERA	Anne	F	28/11/1970	33	Cadre de la fonction publique	22/06/2022
+69	Rhône			6905	5Ème Circonscription	BROCARD	Blandine	F	03/11/1981	54	'Employé administratif d''entreprise'	22/06/2022
+69	Rhône			6906	6Ème Circonscription	AMARD	Gabriel	M	05/05/1967	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+69	Rhône			6907	7Ème Circonscription	VINCENDET	Alexandre	M	06/10/1983	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+69	Rhône			6908	8Ème Circonscription	SERRE	Nathalie	F	17/08/1968	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+69	Rhône			6909	9Ème Circonscription	PORTIER	Alexandre	M	21/04/1990	34	Professeur, profession scientifique	22/06/2022
+69	Rhône			6910	10Ème Circonscription	GASSILLOUD	Thomas	M	21/05/1981	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+69	Rhône			6911	11Ème Circonscription	FUGIT	Jean-Luc	M	27/11/1969	34	Professeur, profession scientifique	22/06/2022
+69	Rhône			6912	12Ème Circonscription	ISAAC-SIBILLE	Cyrille	M	30/04/1958	31	Profession libérale	22/06/2022
+69	Rhône			6913	13Ème Circonscription	TANZILLI	Sarah	F	23/01/1985	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+69	Rhône			6914	14Ème Circonscription	BOUMERTIT	Idir	M	04/10/1974	54	'Employé administratif d''entreprise'	22/06/2022
+70	Haute-Saône			7001	1Ère Circonscription	VILLEDIEU	Antoine	M	08/03/1989	53	Policier et militaire	22/06/2022
+70	Haute-Saône			7002	2Ème Circonscription	SALMON	Emeric	M	26/11/1973	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+71	Saône-Et-Loire			7101	1Ère Circonscription	DIRX	Benjamin	M	25/01/1979	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+71	Saône-Et-Loire			7102	2Ème Circonscription	CORNELOUP	Josiane	F	30/09/1959	31	Profession libérale	22/06/2022
+71	Saône-Et-Loire			7103	3Ème Circonscription	REBEYROTTE	Rémy	M	27/03/1966	34	Professeur, profession scientifique	22/06/2022
+71	Saône-Et-Loire			7104	4Ème Circonscription	UNTERMAIER	Cécile	F	28/12/1951	74	Ancien cadre	22/06/2022
+71	Saône-Et-Loire			7105	5Ème Circonscription	MARGUERITTE	Louis	M	10/09/1984	33	Cadre de la fonction publique	22/06/2022
+72	Sarthe			7201	1Ère Circonscription	DELPECH	Julie	F	25/09/1989	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+72	Sarthe			7202	2Ème Circonscription	KARAMANLI	Marietta	F	18/12/1964	34	Professeur, profession scientifique	22/06/2022
+72	Sarthe			7203	3Ème Circonscription	MARTINEAU	Eric	M	08/05/1968	12	Agriculteur sur moyenne exploitation	22/06/2022
+72	Sarthe			7204	4Ème Circonscription	LEBOUCHER	Elise	F	09/10/1982	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+72	Sarthe			7205	5Ème Circonscription	GRELIER	Jean-Carles	M	15/03/1966	31	Profession libérale	22/06/2022
+73	Savoie			7301	1Ère Circonscription	FERRARI	Marina	F	10/10/1973	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+73	Savoie			7302	2Ème Circonscription	ROLLAND	Vincent	M	01/02/1970	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+73	Savoie			7303	3Ème Circonscription	BONNIVARD	Emilie	F	02/08/1980	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+73	Savoie			7304	4Ème Circonscription	COULOMME	Jean-François	M	01/04/1966	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+74	Haute-Savoie			7401	1Ère Circonscription	RIOTTON	Véronique	F	02/11/1969	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+74	Haute-Savoie			7402	2Ème Circonscription	ARMAND	Antoine	M	10/09/1991	33	Cadre de la fonction publique	22/06/2022
+74	Haute-Savoie			7403	3Ème Circonscription	PETEX-LEVET	Christelle	F	02/09/1980	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+74	Haute-Savoie			7404	4Ème Circonscription	DUBY-MULLER	Virginie	F	16/08/1979	33	Cadre de la fonction publique	22/06/2022
+74	Haute-Savoie			7405	5Ème Circonscription	VIOLLAND	Anne-Cécile	F	10/06/1973	31	Profession libérale	22/06/2022
+74	Haute-Savoie			7406	6Ème Circonscription	ROSEREN	Xavier	M	12/01/1970	22	Commerçant et assimilé	22/06/2022
+75	Paris			7501	1Ère Circonscription	MAILLARD	Sylvain	M	28/04/1974	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+75	Paris			7502	2Ème Circonscription	LE GENDRE	Gilles	M	13/05/1958	74	Ancien cadre	22/06/2022
+75	Paris			7503	3Ème Circonscription	YADAN	Caroline	F	14/08/1968	31	Profession libérale	23/07/2022
+75	Paris			7504	4Ème Circonscription	PANOSYAN-BOUVET	Astrid	F	13/08/1971	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+75	Paris			7505	5Ème Circonscription	BAYOU	Julien	M	11/06/1980	31	Profession libérale	22/06/2022
+75	Paris			7506	6Ème Circonscription	CHIKIROU	Sophia	F	03/06/1979	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+75	Paris			7507	7Ème Circonscription	CHASSANIOL	Clara	F	26/07/1993	33	Cadre de la fonction publique	23/07/2022
+75	Paris			7508	8Ème Circonscription	SAS	Eva	F	13/08/1970	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+75	Paris			7509	9Ème Circonscription	ROUSSEAU	Sandrine	F	08/03/1972	34	Professeur, profession scientifique	22/06/2022
+75	Paris			7510	10Ème Circonscription	ARENAS	Rodrigo	M	24/04/1974	33	Cadre de la fonction publique	22/06/2022
+75	Paris			7511	11Ème Circonscription	GATEL	Maud	F	06/04/1979	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+75	Paris			7512	12Ème Circonscription	BERETE	Fanta	F	31/05/1975	33	Cadre de la fonction publique	23/07/2022
+75	Paris			7513	13Ème Circonscription	AMIEL	David	M	28/11/1992	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+75	Paris			7514	14Ème Circonscription	HADDAD	Benjamin	M	23/10/1985	34	Professeur, profession scientifique	22/06/2022
+75	Paris			7515	15Ème Circonscription	SIMONNET	Danielle	F	02/07/1971	34	Professeur, profession scientifique	22/06/2022
+75	Paris			7516	16Ème Circonscription	LEGRAIN	Sarah	F	17/11/1985	34	Professeur, profession scientifique	22/06/2022
+75	Paris			7517	17Ème Circonscription	OBONO	Danièle	F	12/07/1980	147	Fonctionnaire de catégorie A (obsolète)	22/06/2022
+75	Paris			7518	18Ème Circonscription	CARON	Aymeric	M	04/12/1971	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+76	Seine-Maritime			7601	1Ère Circonscription	ADAM	Damien	M	28/06/1989	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+76	Seine-Maritime			7602	2Ème Circonscription	VIDAL	Annie	F	17/09/1956	74	Ancien cadre	22/06/2022
+76	Seine-Maritime			7603	3Ème Circonscription	WULFRANC	Hubert	M	17/12/1956	34	Professeur, profession scientifique	22/06/2022
+76	Seine-Maritime			7604	4Ème Circonscription	DUFOUR	Alma	F	06/05/1990	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+76	Seine-Maritime			7605	5Ème Circonscription	LESEUL	Gérard	M	15/08/1960	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+76	Seine-Maritime			7606	6Ème Circonscription	JUMEL	Sébastien	M	20/12/1971	33	Cadre de la fonction publique	22/06/2022
+76	Seine-Maritime			7607	7Ème Circonscription	CAREL	Agnès	F	09/06/1968	34	Professeur, profession scientifique	04/08/2022
+76	Seine-Maritime			7608	8Ème Circonscription	LECOQ	Jean-Paul	M	13/10/1958	47	Technicien	22/06/2022
+76	Seine-Maritime			7609	9Ème Circonscription	POUSSIER-WINSBACK	Marie-Agnès	F	25/03/1967	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+76	Seine-Maritime			7610	10Ème Circonscription	BATUT	Xavier	M	26/12/1976	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+77	Seine-Et-Marne			7701	1Ère Circonscription	LUQUET	Aude	F	18/08/1967	33	Cadre de la fonction publique	22/06/2022
+77	Seine-Et-Marne			7702	2Ème Circonscription	VALLETOUX	Frédéric	M	23/08/1966	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+77	Seine-Et-Marne			7703	3Ème Circonscription	THIÉRIOT	Jean-Louis	M	26/06/1969	31	Profession libérale	22/06/2022
+77	Seine-Et-Marne			7704	4Ème Circonscription	PERIGAULT	Isabelle	F	04/09/1971	33	Cadre de la fonction publique	22/06/2022
+77	Seine-Et-Marne			7705	5Ème Circonscription	LEMOINE	Patricia	F	30/12/1961	157	Sans profession déclarée (obsolète)	23/07/2022
+77	Seine-Et-Marne			7706	6Ème Circonscription	ROULLAUD	Béatrice	F	09/06/1960	31	Profession libérale	22/06/2022
+77	Seine-Et-Marne			7707	7Ème Circonscription	SOUDAIS	Ersilia	F	21/05/1988	34	Professeur, profession scientifique	22/06/2022
+77	Seine-Et-Marne			7708	8Ème Circonscription	GHOMI	Hadrien	M	06/04/1989	33	Cadre de la fonction publique	22/06/2022
+77	Seine-Et-Marne			7709	9Ème Circonscription	PEYRON	Michèle	F	22/07/1961	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	22/06/2022
+77	Seine-Et-Marne			7710	10Ème Circonscription	LAISNEY	Maxime	M	19/01/1981	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+77	Seine-Et-Marne			7711	11Ème Circonscription	FAURE	Olivier	M	18/08/1968	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+78	Yvelines			7801	1Ère Circonscription	RODWELL	Charles	M	26/07/1996	33	Cadre de la fonction publique	22/06/2022
+78	Yvelines			7803	3Ème Circonscription	PIRON	Béatrice	F	30/08/1965	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+78	Yvelines			7804	4Ème Circonscription	LEBEC	Marie	F	17/12/1990	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+78	Yvelines			7805	5Ème Circonscription	BRAUN-PIVET	Yaël	F	07/12/1970	31	Profession libérale	22/06/2022
+78	Yvelines			7806	6Ème Circonscription	POUZYREFF	Natalia	F	18/02/1961	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	22/06/2022
+78	Yvelines			7807	7Ème Circonscription	HAI	Nadia	F	08/03/1980	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+78	Yvelines			7808	8Ème Circonscription	LUCAS	Benjamin	M	08/10/1990	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+78	Yvelines			7809	9Ème Circonscription	MILLIENNE	Bruno	M	28/11/1959	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+78	Yvelines			7810	10Ème Circonscription	BERGÉ	Aurore	F	13/11/1986	33	Cadre de la fonction publique	22/06/2022
+78	Yvelines			7811	11Ème Circonscription	MARTINET	William	M	06/09/1988	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+78	Yvelines			7812	12Ème Circonscription	OLIVE	Karl	M	29/03/1969	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+79	Deux-Sèvres			7901	1Ère Circonscription	MARCHIVE	Bastien	M	15/07/1990	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+79	Deux-Sèvres			7902	2Ème Circonscription	BATHO	Delphine	F	23/03/1973	33	Cadre de la fonction publique	22/06/2022
+79	Deux-Sèvres			7903	3Ème Circonscription	FIÉVET	Jean-Marie	M	19/06/1964	52	Employé civil et agent de service de la fonction publique	22/06/2022
+80	Somme			8001	1Ère Circonscription	RUFFIN	François	M	18/10/1975	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+80	Somme			8002	2Ème Circonscription	POMPILI	Barbara	F	13/06/1975	52	Employé civil et agent de service de la fonction publique	22/06/2022
+80	Somme			8003	3Ème Circonscription	MAQUET	Emmanuel	M	02/06/1968	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+80	Somme			8004	4Ème Circonscription	TANGUY	Jean-Philippe	M	25/03/1986	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+80	Somme			8005	5Ème Circonscription	MENACHE	Yael	F	12/05/1985	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+81	Tarn			8101	1Ère Circonscription	CABROLIER	Frédéric	M	12/10/1966	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+81	Tarn			8102	2Ème Circonscription	ERODI	Karen	F	04/02/1977	31	Profession libérale	22/06/2022
+81	Tarn			8103	3Ème Circonscription	TERLIER	Jean	M	02/03/1977	31	Profession libérale	22/06/2022
+82	Tarn-Et-Garonne			8201	1Ère Circonscription	RABAULT	Valérie	F	25/04/1973	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+82	Tarn-Et-Garonne			8202	2Ème Circonscription	HAMELET	Marine	F	13/07/1967	46	Profession intermédiaire administrative et commerciale des entreprises	22/06/2022
+83	Var			8301	1Ère Circonscription	CHENEVARD	Yannick	M	27/11/1959	31	Profession libérale	22/06/2022
+83	Var			8302	2Ème Circonscription	LAVALETTE	Laure	F	16/04/1976	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+83	Var			8303	3Ème Circonscription	RAMBAUD	Stephane	M	05/04/1960	74	Ancien cadre	22/06/2022
+83	Var			8304	4Ème Circonscription	LOTTIAUX	Philippe	M	14/08/1966	33	Cadre de la fonction publique	22/06/2022
+83	Var			8305	5Ème Circonscription	LECHANTEUX	Julie	F	22/12/1977	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+83	Var			8306	6Ème Circonscription	GILETTI	Frank	M	01/03/1973	55	Employé de commerce	22/06/2022
+83	Var			8307	7Ème Circonscription	BOCCALETTI	Frédéric	M	23/11/1973	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+83	Var			8308	8Ème Circonscription	SCHRECK	Philippe	M	02/02/1972	31	Profession libérale	22/06/2022
+84	Vaucluse			8401	1Ère Circonscription	HEBRARD	Joris	M	31/05/1982	31	Profession libérale	22/06/2022
+84	Vaucluse			8402	2Ème Circonscription	AUZANOT	Bénédicte	F	05/08/1972	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+84	Vaucluse			8403	3Ème Circonscription	DE LÉPINAU	Hervé	M	08/06/1969	129	Avocat (obsolète)	22/06/2022
+84	Vaucluse			8404	4Ème Circonscription	LORHO	Marie-France	F	15/12/1964	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+84	Vaucluse			8405	5Ème Circonscription	LOVISOLO	Jean-François	M	15/11/1968	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+85	Vendée			8501	1Ère Circonscription	LATOMBE	Philippe	M	21/04/1975	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+85	Vendée			8502	2Ème Circonscription	BELLAMY	Béatrice	F	20/10/1966	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+85	Vendée			8503	3Ème Circonscription	BUCHOU	Stéphane	M	14/03/1974	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+85	Vendée			8504	4Ème Circonscription	BESSE	Véronique	F	11/08/1963	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+85	Vendée			8505	5Ème Circonscription	HENRIET	Pierre	M	26/11/1991	34	Professeur, profession scientifique	22/06/2022
+86	Vienne			8601	1Ère Circonscription	BELLUCO	Lisa	F	20/07/1988	33	Cadre de la fonction publique	22/06/2022
+86	Vienne			8602	2Ème Circonscription	HOULIÉ	Sacha	M	08/10/1988	31	Profession libérale	22/06/2022
+86	Vienne			8603	3Ème Circonscription	LECAMP	Pascal	M	06/04/1958	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+86	Vienne			8604	4Ème Circonscription	TURQUOIS	Nicolas	M	26/07/1972	13	Agriculteur sur grande exploitation	22/06/2022
+87	Haute-Vienne			8701	1Ère Circonscription	MAUDET	Damien	M	14/11/1996	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+87	Haute-Vienne			8702	2Ème Circonscription	DELAUTRETTE	Stéphane	M	20/09/1972	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+87	Haute-Vienne			8703	3Ème Circonscription	MEUNIER	Manon	F	30/03/1996	33	Cadre de la fonction publique	22/06/2022
+88	Vosges			8801	1Ère Circonscription	VIRY	Stéphane	M	14/10/1969	31	Profession libérale	22/06/2022
+88	Vosges			8802	2Ème Circonscription	VALENCE	David	M	07/10/1981	34	Professeur, profession scientifique	22/06/2022
+88	Vosges			8803	3Ème Circonscription	NAEGELEN	Christophe	M	30/12/1983	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+88	Vosges			8804	4Ème Circonscription	GAULTIER	Jean-Jacques	M	13/07/1963	31	Profession libérale	22/06/2022
+89	Yonne			8901	1Ère Circonscription	GRENON	Daniel	M	31/07/1948	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+89	Yonne			8902	2Ème Circonscription	VILLIERS	André	M	13/12/1954	13	Agriculteur sur grande exploitation	22/06/2022
+89	Yonne			8903	3Ème Circonscription	ODOUL	Julien	M	08/05/1985	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+90	Territoire De Belfort			9001	1Ère Circonscription	BOUCARD	Ian	M	05/05/1988	77	Ancien employé	22/06/2022
+90	Territoire De Belfort			9002	2Ème Circonscription	CHAUCHE	Florian	M	22/01/1984	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+91	Essonne			9101	1Ère Circonscription	AMRANI	Farida	F	03/09/1976	33	Cadre de la fonction publique	22/06/2022
+91	Essonne			9102	2Ème Circonscription	DA CONCEICAO CARVALHO	Nathalie	F	31/03/1966	31	Profession libérale	22/06/2022
+91	Essonne			9103	3Ème Circonscription	IZARD	Alexis	M	15/06/1992	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+91	Essonne			9104	4Ème Circonscription	RIXAIN	Marie-Pierre	F	18/01/1977	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+91	Essonne			9105	5Ème Circonscription	MIDY	Paul	M	25/01/1983	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+91	Essonne			9106	6Ème Circonscription	GUEDJ	Jérôme	M	23/01/1972	31	Profession libérale	22/06/2022
+91	Essonne			9107	7Ème Circonscription	REDA	Robin	M	10/05/1991	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+91	Essonne			9108	8Ème Circonscription	DUPONT-AIGNAN	Nicolas	M	07/03/1961	33	Cadre de la fonction publique	22/06/2022
+91	Essonne			9109	9Ème Circonscription	GUÉVENOUX	Marie	F	02/11/1976	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+91	Essonne			9110	10Ème Circonscription	LÉAUMENT	Antoine	M	04/09/1989	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+92	Hauts-De-Seine			9201	1Ère Circonscription	FAUCILLON	Elsa	F	06/08/1981	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+92	Hauts-De-Seine			9202	2Ème Circonscription	PASQUINI	Francesca	F	27/12/1981	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+92	Hauts-De-Seine			9203	3Ème Circonscription	JUVIN	Philippe	M	01/02/1964	33	Cadre de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9204	4Ème Circonscription	SEBAIHI	Sabrina	F	10/05/1981	31	Profession libérale	22/06/2022
+92	Hauts-De-Seine			9205	5Ème Circonscription	CALVEZ	Céline	F	24/07/1979	33	Cadre de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9206	6Ème Circonscription	LE GRIP	Constance	F	14/11/1960	33	Cadre de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9207	7Ème Circonscription	CAZENEUVE	Pierre	M	11/03/1995	33	Cadre de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9208	8Ème Circonscription	THEVENOT	Prisca	F	01/03/1985	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9209	9Ème Circonscription	PELLERIN	Emmanuel	M	20/08/1970	31	Profession libérale	22/06/2022
+92	Hauts-De-Seine			9210	10Ème Circonscription	GUICHARD	Claire	F	30/05/1967	23	'Chef d''entreprise de 10 salariés ou plus'	23/07/2022
+92	Hauts-De-Seine			9211	11Ème Circonscription	SAINTOUL	Aurélien	M	26/05/1988	33	Cadre de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9212	12Ème Circonscription	BOURLANGES	Jean-Louis	M	13/07/1946	33	Cadre de la fonction publique	22/06/2022
+92	Hauts-De-Seine			9213	13Ème Circonscription	BREGEON	Maud	F	11/02/1991	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+93	Seine-Saint-Denis			9301	1Ère Circonscription	COQUEREL	Eric	M	30/12/1958	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+93	Seine-Saint-Denis			9302	2Ème Circonscription	PEU	Stéphane	M	24/07/1962	54	'Employé administratif d''entreprise'	22/06/2022
+93	Seine-Saint-Denis			9303	3Ème Circonscription	PORTES	Thomas	M	18/11/1985	52	Employé civil et agent de service de la fonction publique	22/06/2022
+93	Seine-Saint-Denis			9304	4Ème Circonscription	BOUROUAHA	Soumya	F	16/03/1964	34	Professeur, profession scientifique	22/06/2022
+93	Seine-Saint-Denis			9305	5Ème Circonscription	GARRIDO	Raquel	F	23/04/1974	31	Profession libérale	22/06/2022
+93	Seine-Saint-Denis			9306	6Ème Circonscription	LACHAUD	Bastien	M	05/08/1980	34	Professeur, profession scientifique	22/06/2022
+93	Seine-Saint-Denis			9307	7Ème Circonscription	CORBIÈRE	Alexis	M	17/08/1968	34	Professeur, profession scientifique	22/06/2022
+93	Seine-Saint-Denis			9308	8Ème Circonscription	KELOUA HACHI	Fatiha	F	05/06/1971	34	Professeur, profession scientifique	22/06/2022
+93	Seine-Saint-Denis			9309	9Ème Circonscription	TROUVÉ	Aurélie	F	20/09/1979	33	Cadre de la fonction publique	22/06/2022
+93	Seine-Saint-Denis			9310	10Ème Circonscription	ABOMANGOLI	Nadège	F	15/09/1975	33	Cadre de la fonction publique	22/06/2022
+93	Seine-Saint-Denis			9311	11Ème Circonscription	AUTAIN	Clémentine	F	26/05/1973	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+93	Seine-Saint-Denis			9312	12Ème Circonscription	LEGAVRE	Jérôme	M	20/08/1972	34	Professeur, profession scientifique	22/06/2022
+94	Val-De-Marne			9401	1Ère Circonscription	DESCROZAILLE	Frédéric	M	16/04/1967	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+94	Val-De-Marne			9402	2Ème Circonscription	GUETTÉ	Clémence	F	15/03/1991	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+94	Val-De-Marne			9403	3Ème Circonscription	BOYARD	Louis	M	26/08/2000	84	Elève, étudiant	22/06/2022
+94	Val-De-Marne			9404	4Ème Circonscription	PETIT	Maud	F	15/11/1971	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+94	Val-De-Marne			9405	5Ème Circonscription	LEFEVRE	Mathieu	M	27/10/1986	33	Cadre de la fonction publique	22/06/2022
+94	Val-De-Marne			9406	6Ème Circonscription	GOUFFIER-CHA	Guillaume	M	01/02/1986	33	Cadre de la fonction publique	22/06/2022
+94	Val-De-Marne			9407	7Ème Circonscription	KEKE	Rachel	F	30/05/1974	56	Personnel des services directs aux particuliers	22/06/2022
+94	Val-De-Marne			9408	8Ème Circonscription	HERBILLON	Michel	M	06/03/1951	74	Ancien cadre	22/06/2022
+94	Val-De-Marne			9409	9Ème Circonscription	SANTIAGO	Isabelle	F	20/09/1965	33	Cadre de la fonction publique	22/06/2022
+94	Val-De-Marne			9410	10Ème Circonscription	PANOT	Mathilde	F	15/01/1989	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+94	Val-De-Marne			9411	11Ème Circonscription	TAILLE-POLIAN	Sophie	F	04/10/1974	33	Cadre de la fonction publique	22/06/2022
+95	'Val-D''Oise'			9501	1Ère Circonscription	CHANDLER	Emilie	F	29/04/1983	31	Profession libérale	22/06/2022
+95	'Val-D''Oise'			9502	2Ème Circonscription	VUILLETET	Guillaume	M	20/06/1967	31	Profession libérale	22/06/2022
+95	'Val-D''Oise'			9503	3Ème Circonscription	RILHAC	Cécile	F	21/04/1974	33	Cadre de la fonction publique	22/06/2022
+95	'Val-D''Oise'			9504	4Ème Circonscription	MOUTCHOU	Naïma	F	04/11/1980	31	Profession libérale	22/06/2022
+95	'Val-D''Oise'			9505	5Ème Circonscription	VANNIER	Paul	M	19/09/1985	34	Professeur, profession scientifique	22/06/2022
+95	'Val-D''Oise'			9506	6Ème Circonscription	FOLEST	Estelle	F	17/06/1976	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+95	'Val-D''Oise'			9507	7Ème Circonscription	DA SILVA	Dominique	M	30/06/1968	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+95	'Val-D''Oise'			9508	8Ème Circonscription	BILONGO	Carlos Martens	M	31/12/1990	34	Professeur, profession scientifique	22/06/2022
+95	'Val-D''Oise'			9509	9Ème Circonscription	LE GALL	Arnaud	M	29/11/1980	33	Cadre de la fonction publique	22/06/2022
+95	'Val-D''Oise'			9510	10Ème Circonscription	TACHÉ	Aurélien	M	26/05/1984	33	Cadre de la fonction publique	22/06/2022
+971	Guadeloupe			97101	1Ère Circonscription	SERVA	Olivier	M	21/06/1974	31	Profession libérale	22/06/2022
+971	Guadeloupe			97102	2Ème Circonscription	BAPTISTE	Christian	M	18/06/1962	33	Cadre de la fonction publique	22/06/2022
+971	Guadeloupe			97103	3Ème Circonscription	MATHIASIN	Max	M	24/02/1956	33	Cadre de la fonction publique	22/06/2022
+971	Guadeloupe			97104	4Ème Circonscription	CALIFER	Elie	M	19/04/1954	74	Ancien cadre	22/06/2022
+972	Martinique	972	Martinique	97201	1Ère Circonscription	WILLIAM	Jiovanny	M	03/06/1985	31	Profession libérale	22/06/2022
+972	Martinique	972	Martinique	97202	2Ème Circonscription	NADEAU	Marcellin	M	02/11/1962	33	Cadre de la fonction publique	22/06/2022
+972	Martinique	972	Martinique	97203	3Ème Circonscription	HAJJAR	Johnny	M	17/01/1973	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+972	Martinique	972	Martinique	97204	4Ème Circonscription	NILOR	Jean-Philippe	M	15/05/1965	74	Ancien cadre	22/06/2022
+973	Guyane	973	Guyane	97301	1Ère Circonscription	CASTOR	Jean-Victor	M	21/04/1962	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+973	Guyane	973	Guyane	97302	2Ème Circonscription	RIMANE	Davy	M	15/12/1979	47	Technicien	22/06/2022
+974	La Réunion			97401	1Ère Circonscription	NAILLET	Philippe	M	14/08/1960	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+974	La Réunion			97402	2Ème Circonscription	LEBON	Karine	F	09/06/1985	42	Professeur des écoles, instituteur et assimilé	22/06/2022
+974	La Réunion			97403	3Ème Circonscription	BASSIRE	Nathalie	F	22/01/1968	75	Ancienne profession intermédiaire	22/06/2022
+974	La Réunion			97404	4Ème Circonscription	KBIDI	Emeline	F	13/05/1987	31	Profession libérale	22/06/2022
+974	La Réunion			97405	5Ème Circonscription	RATENON	Jean-Hugues	M	25/06/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
+974	La Réunion			97406	6Ème Circonscription	MAILLOT	Frédéric	M	15/11/1986	56	Personnel des services directs aux particuliers	22/06/2022
+974	La Réunion			97407	7Ème Circonscription	GAILLARD	Perceval	M	24/04/1983	43	Profession intermédiaire de la santé et du travail social	22/06/2022
+976	Mayotte			97601	1Ère Circonscription	YOUSSOUFFA	Estelle	F	31/07/1978	35	'Profession de l''information, des arts et des spectacles'	22/06/2022
+976	Mayotte			97602	2Ème Circonscription	KAMARDINE	Mansour	M	23/03/1959	31	Profession libérale	22/06/2022
+ZZ	Français Établis Hors De France			ZZ01	1Ère Circonscription	WEISSBERG	Christopher	M	26/11/1985	37	'Cadre administratif et commercial d''entreprise'	04/08/2022
+ZZ	Français Établis Hors De France			ZZ02	2Ème Circonscription	CAROIT	Eléonore	F	08/07/1985	31	Profession libérale	22/06/2022
+ZZ	Français Établis Hors De France			ZZ03	3Ème Circonscription	HOLROYD	Alexandre	M	17/05/1987	31	Profession libérale	22/06/2022
+ZZ	Français Établis Hors De France			ZZ04	4Ème Circonscription	ANGLADE	Pieyre-Alexandre	M	02/11/1986	33	Cadre de la fonction publique	22/06/2022
+ZZ	Français Établis Hors De France			ZZ05	5Ème Circonscription	VOJETTA	Stéphane	M	19/07/1974	37	'Cadre administratif et commercial d''entreprise'	22/06/2022
+ZZ	Français Établis Hors De France			ZZ06	6Ème Circonscription	FERRACCI	Marc	M	19/12/1977	34	Professeur, profession scientifique	22/06/2022
+ZZ	Français Établis Hors De France			ZZ07	7Ème Circonscription	PETIT	Frédéric	M	10/02/1961	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+ZZ	Français Établis Hors De France			ZZ08	8Ème Circonscription	HABIB	Meyer	M	28/04/1961	23	'Chef d''entreprise de 10 salariés ou plus'	22/06/2022
+ZZ	Français Établis Hors De France			ZZ09	9Ème Circonscription	BEN CHEÏKH	Karim	M	19/03/1977	33	Cadre de la fonction publique	22/06/2022
+ZZ	Français Établis Hors De France			ZZ10	10Ème Circonscription	LAKRAFI	Amélia	F	20/03/1978	72	'Ancien artisan, commerçant, chef d''entreprise'	22/06/2022
+ZZ	Français Établis Hors De France			ZZ11	11Ème Circonscription	GENETET	Anne	F	20/04/1963	31	Profession libérale	22/06/2022
+		975	Saint-Pierre-Et-Miquelon	97501	Saint-Pierre-Et-Miquelon	LENORMAND	Stéphane	M	13/08/1964	74	Ancien cadre	22/06/2022
+		986	Wallis Et Futuna	98601	1Ère Circonscription	SEO	Mikaele	M	27/12/1971	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
+		987	Polynésie Française	98701	1Ère Circonscription	LE GAYIC	Tematai	M	11/10/2000	84	Elève, étudiant	22/06/2022
+		987	Polynésie Française	98702	2Ème Circonscription	CHAILLOUX	Steve	M	04/11/1985	34	Professeur, profession scientifique	22/06/2022
+		987	Polynésie Française	98703	3Ème Circonscription	BROTHERSON	Moetai	M	22/10/1969	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+		988	Nouvelle-Calédonie	98801	1Ère Circonscription	DUNOYER	Philippe	M	11/01/1968	33	Cadre de la fonction publique	22/06/2022
+		988	Nouvelle-Calédonie	98802	2Ème Circonscription	METZDORF	Nicolas	M	20/05/1988	38	'Ingénieur et cadre technique d''entreprise'	22/06/2022
+		ZX	Saint-Martin / Saint-Barthélémy	97701	1Ère Circonscription	GUMBS	Frantz	M	21/01/1954	74	Ancien cadre	22/06/2022
