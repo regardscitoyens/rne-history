@@ -64,7 +64,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 04	La Réunion	974	La Réunion	LEBRETON	Laëtitia	F	02/01/1987	31	Profession libérale	02/07/2021		
 04	La Réunion	974	La Réunion	LEBRETON	Patrick	M	06/09/1963	33	Cadre de la fonction publique	02/07/2021	1er Vice-président du conseil régional	02/07/2021
 04	La Réunion	974	La Réunion	LOCAME VAISSETTE	Patricia	F	22/06/1975	22	Commerçant et assimilé	02/07/2021		
-04	La Réunion	974	La Réunion	MAILLOT	Frédéric	M	15/11/1986	54	Employé administratif d'entreprise	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
+04	La Réunion	974	La Réunion	MAILLOT	Frédéric	M	15/11/1986	56	Personnel des services directs aux particuliers	02/07/2021		
 04	La Réunion	974	La Réunion	MARATCHIA	Jean-Bernard	M	27/11/1962	11	Agriculteur sur petite exploitation	02/07/2021		
 04	La Réunion	974	La Réunion	MOREL	Jean Jacques	M	21/05/1963	31	Profession libérale	02/07/2021		
 04	La Réunion	974	La Réunion	NABENESA	Karine	F	11/10/1976	33	Cadre de la fonction publique	02/07/2021	4ème Vice-président du conseil régional	02/07/2021
@@ -85,10 +85,10 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 04	La Réunion	974	La Réunion	VERGOZ	Michel	M	10/01/1950	31	Profession libérale	02/07/2021		
 04	La Réunion	974	La Réunion	VIENNE	Axel	M	04/01/1956	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 11	Île-De-France	75	Paris	ABEILLE	Laurence	F	17/06/1960	35	Profession de l'information, des arts et des spectacles	02/07/2021		
-11	Île-De-France	75	Paris	BALLARD	Philippe	M	24/11/1960	35	Profession de l'information, des arts et des spectacles	02/07/2021		
+11	Île-De-France	75	Paris	BALLARD	Philippe	M	24/11/1960	74	Ancien cadre	02/07/2021		
 11	Île-De-France	75	Paris	BARGETON	Julien	M	29/03/1973	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	75	Paris	BATY	Pierre-Jean	M	31/01/1992	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-11	Île-De-France	75	Paris	BAYOU	Julien	M	11/06/1980	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
+11	Île-De-France	75	Paris	BAYOU	Julien	M	11/06/1980	31	Profession libérale	02/07/2021		
 11	Île-De-France	75	Paris	BLOCH	Gypsie	F	30/04/1972	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 11	Île-De-France	75	Paris	BLOND	Olivier	M	22/12/1970	34	Professeur, profession scientifique	02/07/2021		
 11	Île-De-France	75	Paris	BOHBOT	Jack-Yves	M	18/04/1956	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -134,6 +134,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	77	Seine-Et-Marne	CHEVRON	Benoît	M	31/05/1968	12	Agriculteur sur moyenne exploitation	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	CHÉRON	James	M	22/12/1977	45	Profession intermédiaire administrative de la fonction publique	02/07/2021	14ème Vice-président du conseil régional	02/07/2021
 11	Île-De-France	77	Seine-Et-Marne	DEMONCHY	Martine	F	27/10/1960	54	Employé administratif d'entreprise	02/07/2021		
+11	Île-De-France	77	Seine-Et-Marne	DROMIGNY	Sébastien	M	25/09/1975	12	Agriculteur sur moyenne exploitation	29/06/2022		
 11	Île-De-France	77	Seine-Et-Marne	DURAND	Jean-Louis	M	01/04/1961	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	DUROX	Aymeric	M	06/08/1985	34	Professeur, profession scientifique	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	GARRIDO	Raquel	F	23/04/1974	31	Profession libérale	02/07/2021		
@@ -148,10 +149,9 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	77	Seine-Et-Marne	REZEG	Hamida	F	09/11/1972	34	Professeur, profession scientifique	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	ROULLAUD	Béatrice	F	09/06/1960	31	Profession libérale	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	TORTRAT	Nathalie	F	16/10/1967	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-11	Île-De-France	77	Seine-Et-Marne	VALLETOUX	Frédéric	M	23/08/1966	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	VAN	Thi Hong Chau	F	01/08/1970	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
 11	Île-De-France	77	Seine-Et-Marne	VOGEL	Louis	M	22/10/1954	34	Professeur, profession scientifique	02/07/2021		
-11	Île-De-France	78	Yvelines	BARROT	Jean-Noël	M	13/05/1983	33	Cadre de la fonction publique	02/07/2021		
+11	Île-De-France	78	Yvelines	BARROT	Jean-Noël	M	13/05/1983	34	Professeur, profession scientifique	02/07/2021		
 11	Île-De-France	78	Yvelines	BERGÉ	Aurore	F	13/11/1986	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	78	Yvelines	BERNO DOS SANTOS	Sandrine	F	24/09/1972	22	Commerçant et assimilé	02/07/2021		
 11	Île-De-France	78	Yvelines	CABRIT	Anne	F	01/06/1970	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
@@ -173,7 +173,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	78	Yvelines	MESSIER	Anne	F	07/02/1971	31	Profession libérale	02/07/2021		
 11	Île-De-France	78	Yvelines	MORIN	Laurent	M	11/05/1976	22	Commerçant et assimilé	02/07/2021		
 11	Île-De-France	78	Yvelines	NASROU	Othman	M	13/07/1987	22	Commerçant et assimilé	02/07/2021	2ème Vice-président du conseil régional	02/07/2021
-11	Île-De-France	78	Yvelines	PARMENTIER	Caroline	F	16/12/1965	54	Employé administratif d'entreprise	02/07/2021		
+11	Île-De-France	78	Yvelines	PARMENTIER	Caroline	F	16/12/1965	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 11	Île-De-France	78	Yvelines	PIGANEAU	Sylvie	F	11/05/1957	74	Ancien cadre	02/07/2021		
 11	Île-De-France	78	Yvelines	POIRET	Vincent	M	17/07/1971	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	78	Yvelines	PÉCRESSE	Valérie	F	14/07/1967	33	Cadre de la fonction publique	02/07/2021	Président du conseil régional	02/07/2021
@@ -200,7 +200,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	91	Essonne	LAMIRÉ	Sandrine	F	14/10/1971	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 11	Île-De-France	91	Essonne	LEGRAND	Aurélien	M	27/03/1983	34	Professeur, profession scientifique	02/07/2021		
 11	Île-De-France	91	Essonne	OGBI	Fatima	F	28/05/1975	33	Cadre de la fonction publique	02/07/2021		
-11	Île-De-France	91	Essonne	REDA	Robin	M	10/05/1991	33	Cadre de la fonction publique	02/07/2021		
+11	Île-De-France	91	Essonne	REDA	Robin	M	10/05/1991	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 11	Île-De-France	91	Essonne	SY	Mama	F	03/11/1986	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 11	Île-De-France	91	Essonne	VIGIER	Jean-François	M	20/06/1963	31	Profession libérale	02/07/2021		
 11	Île-De-France	91	Essonne	VILAIN	Jean-Marie	M	10/06/1959	52	Employé civil et agent de service de la fonction publique	02/07/2021		
@@ -210,6 +210,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	92	Hauts-De-Seine	BERGER	Jean-Didier	M	23/01/1980	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	1er Vice-président du conseil régional	02/07/2021
 11	Île-De-France	92	Hauts-De-Seine	BOUZID	Élodie	F	03/06/2002	84	Elève, étudiant	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	CUIP	Mathieu	M	20/05/1989	37	Cadre administratif et commercial d'entreprise	02/07/2021		
+11	Île-De-France	92	Hauts-De-Seine	DE LARMINAT	Ségolène	F	12/07/1978	42	Professeur des écoles, instituteur et assimilé	30/06/2022		
 11	Île-De-France	92	Hauts-De-Seine	DE PAMPELONNE	Florence	F	07/04/1962	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	DE SAINT JUST	Wallerand	M	06/07/1950	74	Ancien cadre	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	DENIZIOT	Pierre	M	19/09/1981	33	Cadre de la fonction publique	02/07/2021		
@@ -222,7 +223,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	92	Hauts-De-Seine	HAMZA	Nassera	F	11/01/1971	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	JACOB-CHAILLET	Marion	F	21/03/1971	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	JULIARD-GENDARME	Armelle	F	25/06/1971	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
-11	Île-De-France	92	Hauts-De-Seine	JUVIN	Philippe	M	01/02/1964	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	LAURENT	Hadrien	M	12/09/1989	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	LAURENT	Philippe	M	14/05/1954	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	LE PEN	Marie-Caroline	F	23/01/1960	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
@@ -239,7 +239,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	92	Hauts-De-Seine	SOLERE	Thierry	M	17/08/1971	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	92	Hauts-De-Seine	TAQUILLAIN	Aurélie	F	19/08/1983	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	93	Seine-Saint-Denis	ADLANI	Farida	F	11/03/1976	43	Profession intermédiaire de la santé et du travail social	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
-11	Île-De-France	93	Seine-Saint-Denis	AUTAIN	Clémentine	F	26/05/1973	33	Cadre de la fonction publique	02/07/2021		
+11	Île-De-France	93	Seine-Saint-Denis	AUTAIN	Clémentine	F	26/05/1973	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 11	Île-De-France	93	Seine-Saint-Denis	BARDELLA	Jordan	M	13/09/1995	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	93	Seine-Saint-Denis	BESCHIZZA	Bruno	M	24/03/1968	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	93	Seine-Saint-Denis	BOURREAU	Murielle	F	15/10/1977	22	Commerçant et assimilé	02/07/2021		
@@ -261,6 +261,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	94	Val-De-Marne	CLAUDE	Jessie	F	20/05/1992	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 11	Île-De-France	94	Val-De-Marne	DE COMARMOND	Hélène	F	15/03/1964	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	94	Val-De-Marne	DOSNE	Olivier	M	20/01/1961	31	Profession libérale	02/07/2021		
+11	Île-De-France	94	Val-De-Marne	DOUSSET	Didier	M	07/06/1955	74	Ancien cadre	17/08/2022		
 11	Île-De-France	94	Val-De-Marne	DUSSAUSAYE	Gaëtan	M	05/04/1994	54	Employé administratif d'entreprise	02/07/2021		
 11	Île-De-France	94	Val-De-Marne	GERGEN	Colette	F	10/03/1981	34	Professeur, profession scientifique	02/07/2021		
 11	Île-De-France	94	Val-De-Marne	GONZALES	Élise	F	06/07/1992	84	Elève, étudiant	02/07/2021		
@@ -275,7 +276,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 11	Île-De-France	94	Val-De-Marne	PERRU	Marie-Eve	F	03/05/1959	38	Ingénieur et cadre technique d'entreprise	02/07/2021		
 11	Île-De-France	94	Val-De-Marne	ROYER	Christel	F	11/06/1954	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	94	Val-De-Marne	SAINT-MARTIN	Laurent	M	22/06/1985	33	Cadre de la fonction publique	02/07/2021		
-11	Île-De-France	94	Val-De-Marne	WARGON	Emmanuelle	F	24/02/1971	33	Cadre de la fonction publique	02/07/2021		
 11	Île-De-France	95	Val-D'Oise	BERESSI	Isabelle	F	08/05/1970	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 11	Île-De-France	95	Val-D'Oise	CHKROUN	Benjamin	M	15/02/1981	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 11	Île-De-France	95	Val-D'Oise	ELIMAS	Nathalie	F	05/06/1973	33	Cadre de la fonction publique	02/07/2021		
@@ -299,7 +299,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 24	Centre-Val De Loire	18	Cher	DE LA TOCNAYE	Thibaut	M	20/10/1958	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 24	Centre-Val De Loire	18	Cher	ESSAYAN	Nadia	F	06/06/1957	119	Autre cadre (secteur privé) (obsolète)	07/07/2021		
 24	Centre-Val De Loire	18	Cher	FERRON	Julie	F	09/07/1979	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
-24	Centre-Val De Loire	18	Cher	FOURNIÉ	Philippe	M	09/11/1967	33	Cadre de la fonction publique	02/07/2021	6ème Vice-président du conseil régional	02/07/2021
+24	Centre-Val De Loire	18	Cher	FOURNIÉ	Philippe	M	09/11/1967	33	Cadre de la fonction publique	02/07/2021	13ème Vice-président du conseil régional	02/07/2022
 24	Centre-Val De Loire	18	Cher	LOUISIN	Ambre	F	02/06/1999	84	Elève, étudiant	02/07/2021		
 24	Centre-Val De Loire	18	Cher	POINTEREAU	Rémy	M	30/03/1953	71	Ancien agriculteur exploitant	02/07/2021		
 24	Centre-Val De Loire	18	Cher	RENIER	Laurence	F	04/10/1966	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
@@ -316,10 +316,10 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 24	Centre-Val De Loire	28	Eure-Et-Loir	STEPANOFF	Anna	F	21/08/1982	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 24	Centre-Val De Loire	28	Eure-Et-Loir	VIGIER	Philippe	M	03/02/1958	31	Profession libérale	02/07/2021		
 24	Centre-Val De Loire	36	Indre	BESNIER	Anne	F	28/09/1955	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021	11ème Vice-président du conseil régional	02/07/2021
-24	Centre-Val De Loire	36	Indre	FORISSIER	Nicolas	M	17/02/1961	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
+24	Centre-Val De Loire	36	Indre	FORISSIER	Nicolas	M	17/02/1961	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
 24	Centre-Val De Loire	36	Indre	FOUCHET	Mathilde	F	16/05/1991	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 24	Centre-Val De Loire	36	Indre	GENESTE	Delphine	F	11/11/1969	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
-24	Centre-Val De Loire	36	Indre	GODET	Jérémie	M	24/12/1985	84	Elève, étudiant	02/07/2021		
+24	Centre-Val De Loire	36	Indre	GODET	Jérémie	M	24/12/1985	84	Elève, étudiant	02/07/2021	2ème Vice-président du conseil régional	01/07/2022
 24	Centre-Val De Loire	36	Indre	ROULLET	Dominique	M	11/03/1953	74	Ancien cadre	02/07/2021	10ème Vice-président du conseil régional	02/07/2021
 24	Centre-Val De Loire	36	Indre	WUNSCH	Mylène	F	18/09/1958	74	Ancien cadre	02/07/2021		
 24	Centre-Val De Loire	37	Indre-Et-Loire	ANGENAULT	Marc	M	05/05/1961	31	Profession libérale	02/07/2021		
@@ -330,7 +330,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 24	Centre-Val De Loire	37	Indre-Et-Loire	FAUQUET	Christine	F	06/07/1959	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 24	Centre-Val De Loire	37	Indre-Et-Loire	FLAUNET	Régine	F	18/04/1955	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 24	Centre-Val De Loire	37	Indre-Et-Loire	GAY	Catherine	F	25/06/1958	31	Profession libérale	02/07/2021		
-24	Centre-Val De Loire	37	Indre-Et-Loire	GILLE	Jean-Patrick	M	28/01/1962	37	Cadre administratif et commercial d'entreprise	02/07/2021	13ème Vice-président du conseil régional	02/07/2021
+24	Centre-Val De Loire	37	Indre-Et-Loire	GILLE	Jean-Patrick	M	28/01/1962	37	Cadre administratif et commercial d'entreprise	02/07/2021	6ème Vice-président du conseil régional	02/07/2021
 24	Centre-Val De Loire	37	Indre-Et-Loire	GIRARD	Temanuata	F	13/01/1976	12	Agriculteur sur moyenne exploitation	02/07/2021	14ème Vice-président du conseil régional	02/07/2021
 24	Centre-Val De Loire	37	Indre-Et-Loire	HAAS	Betsabée	F	19/02/1972	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 24	Centre-Val De Loire	37	Indre-Et-Loire	LAHOREAU	Gaelle	F	27/05/1978	31	Profession libérale	02/07/2021	12ème Vice-président du conseil régional	02/07/2021
@@ -345,7 +345,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 24	Centre-Val De Loire	41	Loir-Et-Cher	BENASSY	Delphine	F	06/04/1977	37	Cadre administratif et commercial d'entreprise	02/07/2021	5ème Vice-président du conseil régional	02/07/2021
 24	Centre-Val De Loire	41	Loir-Et-Cher	CHASSIER	Michel	M	28/11/1948	74	Ancien cadre	02/07/2021		
 24	Centre-Val De Loire	41	Loir-Et-Cher	FESNEAU	Marc	M	11/01/1971	33	Cadre de la fonction publique	02/07/2021		
-24	Centre-Val De Loire	41	Loir-Et-Cher	FOURNIER	Charles	M	10/03/1968	54	Employé administratif d'entreprise	02/07/2021	2ème Vice-président du conseil régional	02/07/2021
+24	Centre-Val De Loire	41	Loir-Et-Cher	FOURNIER	Charles	M	10/03/1968	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 24	Centre-Val De Loire	41	Loir-Et-Cher	GLOANEC MAURIN	Karine	F	11/01/1958	74	Ancien cadre	02/07/2021		
 24	Centre-Val De Loire	41	Loir-Et-Cher	GRICOURT	Marc	M	05/04/1961	31	Profession libérale	02/07/2021	1er Vice-président du conseil régional	02/07/2021
 24	Centre-Val De Loire	41	Loir-Et-Cher	LEONARD	Emmanuel	M	31/12/1970	47	Technicien	02/07/2021		
@@ -383,7 +383,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 27	Bourgogne-Franche-Comté	21	Côte-D'Or	MOLINOZ	Patrick	M	14/01/1970	33	Cadre de la fonction publique	02/07/2021	5ème Vice-président du conseil régional	02/07/2021
 27	Bourgogne-Franche-Comté	21	Côte-D'Or	MOUROT	Sylviane	F	28/10/1958	22	Commerçant et assimilé	02/07/2021		
 27	Bourgogne-Franche-Comté	21	Côte-D'Or	NEUGNOT	Michel	M	13/10/1950	38	Ingénieur et cadre technique d'entreprise	02/07/2021	1er Vice-président du conseil régional	02/07/2021
-27	Bourgogne-Franche-Comté	21	Côte-D'Or	PARIS	Didier	M	14/02/1954	74	Ancien cadre	02/07/2021		
 27	Bourgogne-Franche-Comté	21	Côte-D'Or	POINSEL	Marie	F	08/04/1977	38	Ingénieur et cadre technique d'entreprise	02/07/2021		
 27	Bourgogne-Franche-Comté	21	Côte-D'Or	RETY	Jean-Marc	M	22/09/1970	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
 27	Bourgogne-Franche-Comté	21	Côte-D'Or	SADON	Catherine	F	07/11/1954	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -396,7 +395,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 27	Bourgogne-Franche-Comté	25	Doubs	CHIAPPA-KIGER	Myriam	F	25/07/1970	33	Cadre de la fonction publique	02/07/2021		
 27	Bourgogne-Franche-Comté	25	Doubs	DUFAY	Marie-Guite	F	21/05/1949	33	Cadre de la fonction publique	02/07/2021	Président du conseil régional	02/07/2021
 27	Bourgogne-Franche-Comté	25	Doubs	FRITSCH	Nathalie	F	21/06/1965	56	Personnel des services directs aux particuliers	02/07/2021		
-27	Bourgogne-Franche-Comté	25	Doubs	GRANGIER	Géraldine	F	13/02/1975	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
+27	Bourgogne-Franche-Comté	25	Doubs	GRANGIER	Géraldine	F	13/02/1975	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 27	Bourgogne-Franche-Comté	25	Doubs	GROSPERRIN	Jacques	M	17/10/1955	34	Professeur, profession scientifique	02/07/2021		
 27	Bourgogne-Franche-Comté	25	Doubs	GUINEBERT	Matthieu	M	03/10/1995	33	Cadre de la fonction publique	02/07/2021		
 27	Bourgogne-Franche-Comté	25	Doubs	HAKKAR-BOYER	Nabia	F	06/07/1983	33	Cadre de la fonction publique	02/07/2021		
@@ -499,7 +498,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 28	Normandie	27	Eure	BEAUTÉ	Thibaut	M	04/04/1957	74	Ancien cadre	02/07/2021		
 28	Normandie	27	Eure	CHEVALIER	Marie-Noëlle	F	25/12/1952	13	Agriculteur sur grande exploitation	02/07/2021		
 28	Normandie	27	Eure	DOSSANG	Guy	M	08/12/1949	74	Ancien cadre	02/07/2021		
-28	Normandie	27	Eure	HOUSSIN	Timothée	M	29/05/1988	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
+28	Normandie	27	Eure	HOUSSIN	Timothée	M	29/05/1988	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 28	Normandie	27	Eure	LEFRAND	Guy	M	11/03/1963	31	Profession libérale	02/07/2021	8ème Vice-président du conseil régional	02/07/2021
 28	Normandie	27	Eure	MAUREY	Hervé	M	07/05/1961	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 28	Normandie	27	Eure	MORIN	Hervé	M	17/08/1961	12	Agriculteur sur moyenne exploitation	02/07/2021	Président du conseil régional	02/07/2021
@@ -514,16 +513,16 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 28	Normandie	27	Eure	VEYRI	Timour	M	07/08/1981	33	Cadre de la fonction publique	02/07/2021		
 28	Normandie	50	Manche	BARENTON-GUILLAS	Julie	F	14/04/1975	106	Administrateur de sociétés (obsolète)	02/07/2021	9ème Vice-président du conseil régional	02/07/2021
 28	Normandie	50	Manche	FERREIRA	Angélique	F	29/06/1975	22	Commerçant et assimilé	02/07/2021		
-28	Normandie	50	Manche	HÉDOUIN	Guillaume	M	10/03/1976	33	Cadre de la fonction publique	02/07/2021		
+28	Normandie	50	Manche	HÉDOUIN	Guillaume	M	18/03/1976	33	Cadre de la fonction publique	02/07/2021		
 28	Normandie	50	Manche	JEAN	Antoine	M	25/09/1992	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
 28	Normandie	50	Manche	KURDZIEL	Marie-Françoise	F	26/01/1958	77	Ancien employé	02/07/2021		
+28	Normandie	50	Manche	LAGALLARDE	Quentin	M	18/02/1983	31	Profession libérale	15/07/2022		
 28	Normandie	50	Manche	LAISNEY	Valérie	F	05/02/1966	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 28	Normandie	50	Manche	LETOUZÉ	Sylvain	M	20/12/1979	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 28	Normandie	50	Manche	MARGUERITTE	David	M	19/06/1980	31	Profession libérale	02/07/2021	2ème Vice-président du conseil régional	02/07/2021
 28	Normandie	50	Manche	MARIE	Pascal	M	16/02/1967	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 28	Normandie	50	Manche	MAUBÉ	Stéphanie	F	26/11/1979	12	Agriculteur sur moyenne exploitation	02/07/2021		
 28	Normandie	50	Manche	MAZIER	Florence	F	28/05/1971	12	Agriculteur sur moyenne exploitation	02/07/2021		
-28	Normandie	50	Manche	PIC	Anna	F	04/06/1978	34	Professeur, profession scientifique	02/07/2021		
 28	Normandie	50	Manche	PJANIC	Olivier	M	14/10/1976	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 28	Normandie	50	Manche	ROUSSEAU	Claire	F	19/04/1962	55	Employé de commerce	02/07/2021		
 28	Normandie	50	Manche	ROZET	Marianne	F	27/07/1969	47	Technicien	02/07/2021		
@@ -569,7 +568,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 28	Normandie	76	Seine-Maritime	MORIN-DESAILLY	Catherine	F	06/07/1960	34	Professeur, profession scientifique	02/07/2021		
 28	Normandie	76	Seine-Maritime	NIANG-FOUQUET	Oumou	F	27/01/1982	22	Commerçant et assimilé	02/07/2021		
 28	Normandie	76	Seine-Maritime	PENNELLE	Guillaume	M	19/02/1975	34	Professeur, profession scientifique	02/07/2021		
-28	Normandie	76	Seine-Maritime	POUSSIER-WINSBACK	Marie-Agnès	F	25/03/1967	42	Professeur des écoles, instituteur et assimilé	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
 28	Normandie	76	Seine-Maritime	ROUX	Marie-Hélène	F	13/01/1965	33	Cadre de la fonction publique	02/07/2021		
 28	Normandie	76	Seine-Maritime	THOMAS	Anaïs	F	15/11/1994	55	Employé de commerce	02/07/2021		
 32	Hauts-De-France	02	Aisne	BERTRAND	Xavier	M	21/03/1965	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	Président du conseil régional	02/07/2021
@@ -592,7 +590,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 32	Hauts-De-France	59	Nord	BARISEAU	Florence	F	24/06/1972	37	Cadre administratif et commercial d'entreprise	02/07/2021	15ème Vice-président du conseil régional	02/07/2021
 32	Hauts-De-France	59	Nord	BATAILLE	Jean-Pierre	M	24/10/1963	31	Profession libérale	02/07/2021		
 32	Hauts-De-France	59	Nord	BAZAN	Laure	F	08/07/1981	21	Artisan	02/07/2021		
-32	Hauts-De-France	59	Nord	BERTELOOT	Pierrick	M	11/01/1999	65	Ouvrier qualifié de la manutention, du magasinage et du transport	02/07/2021		
+32	Hauts-De-France	59	Nord	BERTELOOT	Pierrick	M	11/01/1999	55	Employé de commerce	02/07/2021		
 32	Hauts-De-France	59	Nord	BEYAERT	Martial	M	16/06/1971	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 32	Hauts-De-France	59	Nord	BOISSEAUX	Anne-Sophie	F	01/06/1973	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 32	Hauts-De-France	59	Nord	BOURGHELLE-KOS	Nadège	F	08/06/1968	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
@@ -636,7 +634,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 32	Hauts-De-France	59	Nord	LERMYTTE-BAVAY	Marie-Claude	F	04/06/1965	33	Cadre de la fonction publique	02/07/2021		
 32	Hauts-De-France	59	Nord	LESNE	Marie-Sophie	F	25/07/1971	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
 32	Hauts-De-France	59	Nord	LUBREZ	Caroline	F	15/07/1975	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-32	Hauts-De-France	59	Nord	LUCAS	Benjamin	M	08/10/1990	52	Employé civil et agent de service de la fonction publique	02/07/2021		
+32	Hauts-De-France	59	Nord	LUCAS	Benjamin	M	08/10/1990	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 32	Hauts-De-France	59	Nord	MICHALAK	Jean-Michel	M	04/08/1971	33	Cadre de la fonction publique	02/07/2021		
 32	Hauts-De-France	59	Nord	MOTTE	Frédéric	M	31/07/1964	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 32	Hauts-De-France	59	Nord	NAVE	Adrien	M	25/10/1991	31	Profession libérale	02/07/2021		
@@ -646,7 +644,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 32	Hauts-De-France	59	Nord	RIGAUD	Laurent	M	09/12/1970	21	Artisan	02/07/2021	6ème Vice-président du conseil régional	02/07/2021
 32	Hauts-De-France	59	Nord	ROHART	Ludovic	M	29/06/1970	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 32	Hauts-De-France	59	Nord	ROUCHET	Margaux	F	10/09/1993	33	Cadre de la fonction publique	02/07/2021		
-32	Hauts-De-France	59	Nord	SAINT-HUILE	Benjamin	M	10/05/1983	33	Cadre de la fonction publique	02/07/2021		
+32	Hauts-De-France	59	Nord	SAINT-HUILE	Benjamin	M	10/05/1983	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 32	Hauts-De-France	59	Nord	SILLANI	Antoine	M	13/03/1991	33	Cadre de la fonction publique	02/07/2021		
 32	Hauts-De-France	59	Nord	SIMÉON	Serge	M	28/07/1952	74	Ancien cadre	02/07/2021		
 32	Hauts-De-France	59	Nord	SIX	Valérie	F	11/01/1963	31	Profession libérale	02/07/2021		
@@ -740,7 +738,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 32	Hauts-De-France	80	Somme	PINON	Anne	F	29/12/1970	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	11ème Vice-président du conseil régional	02/07/2021
 32	Hauts-De-France	80	Somme	POUPART	Patricia	F	28/11/1965	13	Agriculteur sur grande exploitation	02/07/2021		
 32	Hauts-De-France	80	Somme	QUIGNON	Catherine	F	04/04/1964	33	Cadre de la fonction publique	02/07/2021		
-32	Hauts-De-France	80	Somme	TANGUY	Jean-Philippe	M	25/03/1986	31	Profession libérale	02/07/2021		
+32	Hauts-De-France	80	Somme	TANGUY	Jean-Philippe	M	25/03/1986	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 32	Hauts-De-France	80	Somme	THÉVENIAUD	Philippe	M	14/08/1961	48	Contremaître, agent de maîtrise	02/07/2021		
 44	Grand Est	08	Ardennes	DUMONT	Christophe	M	02/02/1959	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 44	Grand Est	08	Ardennes	GAILLOT	Pascale	F	16/06/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
@@ -749,12 +747,12 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	08	Ardennes	RAVIGNON	Boris	M	30/11/1975	33	Cadre de la fonction publique	02/07/2021	9ème Vice-président du conseil régional	02/07/2021
 44	Grand Est	08	Ardennes	RODRIGUES	Virginie	F	01/01/1980	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 44	Grand Est	08	Ardennes	SCHNEIDER	Patricia	F	09/04/1958	33	Cadre de la fonction publique	02/07/2021		
-44	Grand Est	08	Ardennes	WARSMANN	Jean-Luc	M	22/10/1965	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
+44	Grand Est	08	Ardennes	WARSMANN	Jean-Luc	M	22/10/1965	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
 44	Grand Est	10	Aube	BORDE	Philippe	M	19/04/1967	33	Cadre de la fonction publique	02/07/2021		
 44	Grand Est	10	Aube	DUCHÊNE	Annie	F	09/09/1961	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 44	Grand Est	10	Aube	DUPRÉ	Gaëlle	F	23/01/1972	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
 44	Grand Est	10	Aube	HÉLIOT-COURONNE	Isabelle	F	11/05/1964	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-44	Grand Est	10	Aube	JACOBELLI	Laurent	M	13/10/1969	37	Cadre administratif et commercial d'entreprise	02/07/2021		
+44	Grand Est	10	Aube	JACOBELLI	Laurent	M	13/10/1969	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 44	Grand Est	10	Aube	MEUNIER	Maxence	M	06/03/1971	12	Agriculteur sur moyenne exploitation	02/07/2021		
 44	Grand Est	10	Aube	RANC	Angélique	F	16/03/1988	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 44	Grand Est	10	Aube	SEBEYRAN	Marc	M	13/09/1952	74	Ancien cadre	02/07/2021	15ème Vice-président du conseil régional	02/07/2021
@@ -763,7 +761,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	51	Marne	DESBROSSE	Jacky	M	04/11/1952	74	Ancien cadre	02/07/2021		
 44	Grand Est	51	Marne	DUCHÊNE	Thibaut	M	24/03/1981	33	Cadre de la fonction publique	02/07/2021		
 44	Grand Est	51	Marne	ERRE	Pascal	M	06/10/1957	33	Cadre de la fonction publique	02/07/2021		
-44	Grand Est	51	Marne	FRIGOUT	Anne-Sophie	F	11/04/1991	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
+44	Grand Est	51	Marne	FRIGOUT	Anne-Sophie	F	11/04/1971	34	Professeur, profession scientifique	02/07/2021		
 44	Grand Est	51	Marne	KURIC	Aina	F	15/05/1987	105	Industriel-Chef entreprise (obsolète)	02/07/2021		
 44	Grand Est	51	Marne	LEROY	Franck	M	12/01/1963	31	Profession libérale	02/07/2021	1er Vice-président du conseil régional	02/07/2021
 44	Grand Est	51	Marne	LIZOLA	Martine	F	24/10/1958	33	Cadre de la fonction publique	02/07/2021		
@@ -824,7 +822,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	57	Moselle	MASSON	Jean-Louis	M	25/03/1947	74	Ancien cadre	02/07/2021		
 44	Grand Est	57	Moselle	MAZZERO	Peggy	F	03/04/1978	33	Cadre de la fonction publique	02/07/2021		
 44	Grand Est	57	Moselle	MULLER	Yves	M	24/09/1957	74	Ancien cadre	02/07/2021		
-44	Grand Est	57	Moselle	PFEFFER	Kévin	M	09/07/1990	54	Employé administratif d'entreprise	02/07/2021		
 44	Grand Est	57	Moselle	RAUCH	Isabelle	F	10/08/1968	33	Cadre de la fonction publique	02/07/2021		
 44	Grand Est	57	Moselle	ROMANI	Eliane	F	30/10/1957	31	Profession libérale	02/07/2021		
 44	Grand Est	57	Moselle	SADOCCO	Rémy	M	02/08/1968	33	Cadre de la fonction publique	02/07/2021		
@@ -838,7 +835,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	57	Moselle	WEY	Joëlle	F	20/05/1974	31	Profession libérale	02/07/2021		
 44	Grand Est	57	Moselle	ZINGRAFF	Marc	M	11/01/1960	34	Professeur, profession scientifique	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	ALOIRD	Régine	F	09/09/1958	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-44	Grand Est	6AE	Collectivité Européenne d'Alsace	ANDREU SANCHEZ	Michel	M	02/12/1996	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	AUBERT	Nathalie	F	25/07/1965	56	Personnel des services directs aux particuliers	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	BADER	Jean-Claude	M	22/09/1951	74	Ancien cadre	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	BLOCH	Gabrielle	F	13/05/1967	35	Profession de l'information, des arts et des spectacles	02/07/2021		
@@ -855,7 +851,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	GAY	Marie-Paule	F	07/12/1962	34	Professeur, profession scientifique	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	GERMAIN-ECUER	Cecile	F	11/01/1986	34	Professeur, profession scientifique	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	GNAEDIG	Laurent	M	24/02/1970	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
-44	Grand Est	6AE	Collectivité Européenne d'Alsace	GUITTON	Jordan	M	30/01/1995	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
+44	Grand Est	6AE	Collectivité Européenne d'Alsace	GUITTON	Jordan	M	30/01/1995	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	HAAG	Laure	F	01/04/1986	31	Profession libérale	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	HANS	Thierry	M	10/03/1962	47	Technicien	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	HAYE	Ludovic	M	18/01/1975	33	Cadre de la fonction publique	02/07/2021		
@@ -866,7 +862,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	JUNG	Pauline	F	30/10/1987	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	KENNEL	Guy-Dominique	M	14/04/1952	74	Ancien cadre	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	KERN	Claude	M	13/03/1959	34	Professeur, profession scientifique	02/07/2021		
-44	Grand Est	6AE	Collectivité Européenne d'Alsace	KLINKERT	Brigitte	F	22/07/1956	33	Cadre de la fonction publique	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	KÖPPE-RITZENTHALER	Jill	F	25/01/1975	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	LEHRY	Christelle	F	15/05/1987	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 44	Grand Est	6AE	Collectivité Européenne d'Alsace	MARX	Armand	M	26/06/1955	31	Profession libérale	02/07/2021		
@@ -910,7 +905,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 44	Grand Est	88	Vosges	NAEGELEN	Christophe	M	30/12/1983	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 44	Grand Est	88	Vosges	NOIRCLERE	Lou	M	27/10/1996	84	Elève, étudiant	02/07/2021		
 44	Grand Est	88	Vosges	PRINCE	Charline	F	07/02/1993	54	Employé administratif d'entreprise	02/07/2021		
-44	Grand Est	88	Vosges	VALENCE	David	M	07/10/1981	34	Professeur, profession scientifique	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
+44	Grand Est	88	Vosges	VALENCE	David	M	07/10/1981	34	Professeur, profession scientifique	02/07/2021		
 52	Pays De La Loire	44	Loire-Atlantique	ANNEREAU	Béatrice	F	09/05/1978	31	Profession libérale	02/07/2021		
 52	Pays De La Loire	44	Loire-Atlantique	AUCANT	William	M	03/10/1986	31	Profession libérale	02/07/2021		
 52	Pays De La Loire	44	Loire-Atlantique	BAINVEL	Julien	M	03/04/1980	33	Cadre de la fonction publique	02/07/2021		
@@ -1081,7 +1076,6 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 53	Bretagne	56	Morbihan	LE DIFFON	Patrick	M	06/02/1958	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 53	Bretagne	56	Morbihan	LE GOFF	Aurélie	F	12/10/1985	31	Profession libérale	02/07/2021		
 53	Bretagne	56	Morbihan	LE GUERNEVÉ	Fabien	M	21/09/1986	31	Profession libérale	02/07/2021		
-53	Bretagne	56	Morbihan	LE HÉNANFF	Anne	F	22/07/1969	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 53	Bretagne	56	Morbihan	LE STRADIC	Gaëlle	F	13/01/1981	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 53	Bretagne	56	Morbihan	MARTORELL	Aurélie	F	15/04/1983	31	Profession libérale	02/07/2021		
 53	Bretagne	56	Morbihan	MOLAC	Paul	M	21/05/1962	34	Professeur, profession scientifique	02/07/2021		
@@ -1148,7 +1142,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 75	Nouvelle-Aquitaine	33	Gironde	BEDU	Anne-Laure	F	31/03/1971	31	Profession libérale	02/07/2021		
 75	Nouvelle-Aquitaine	33	Gironde	BOEUF	Gilles	M	06/11/1950	34	Professeur, profession scientifique	02/07/2021		
 75	Nouvelle-Aquitaine	33	Gironde	BOUDINEAU	Isabelle	F	17/08/1966	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
-75	Nouvelle-Aquitaine	33	Gironde	BOUDIÉ	Florent	M	22/09/1973	74	Ancien cadre	02/07/2021		
+75	Nouvelle-Aquitaine	33	Gironde	BOUDIÉ	Florent	M	22/09/1973	33	Cadre de la fonction publique	02/07/2021		
 75	Nouvelle-Aquitaine	33	Gironde	BOULMIER	Muriel	F	21/11/1953	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 75	Nouvelle-Aquitaine	33	Gironde	BOULTAM	Yasmina	F	19/12/1974	52	Employé civil et agent de service de la fonction publique	02/07/2021		
 75	Nouvelle-Aquitaine	33	Gironde	BOUSQUET-PITT	Pascale	F	10/04/1976	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -1194,7 +1188,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 75	Nouvelle-Aquitaine	40	Landes	BAZUS	Julien	M	28/03/1983	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 75	Nouvelle-Aquitaine	40	Landes	BEYRIS	Maryline	F	21/09/1967	12	Agriculteur sur moyenne exploitation	02/07/2021		
 75	Nouvelle-Aquitaine	40	Landes	CHARPENEL	Frédérique	F	15/12/1969	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-75	Nouvelle-Aquitaine	40	Landes	DARRIEUSSECQ	Geneviève	F	04/03/1956	31	Profession libérale	02/07/2021		
+75	Nouvelle-Aquitaine	40	Landes	DOLET-FAYET	Michael	M	27/03/1990	12	Agriculteur sur moyenne exploitation	19/08/2022		
 75	Nouvelle-Aquitaine	40	Landes	DUFAY	Michel	M	29/04/1950	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
 75	Nouvelle-Aquitaine	40	Landes	FRANCESCHINI	Sylvie	F	26/07/1979	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 75	Nouvelle-Aquitaine	40	Landes	LAFARGUE	Marie-Laure	F	24/05/1976	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
@@ -1246,8 +1240,8 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 75	Nouvelle-Aquitaine	79	Deux-Sèvres	DUFORESTEL	Pascal	M	15/03/1966	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 75	Nouvelle-Aquitaine	79	Deux-Sèvres	GAMACHE	Nicolas	M	11/03/1974	34	Professeur, profession scientifique	02/07/2021		
 75	Nouvelle-Aquitaine	79	Deux-Sèvres	GUIBERT	Olivier	M	24/07/1967	21	Artisan	02/07/2021		
+75	Nouvelle-Aquitaine	79	Deux-Sèvres	JARRY	Marie	F	16/04/1951	77	Ancien employé	13/07/2022		
 75	Nouvelle-Aquitaine	79	Deux-Sèvres	LANZI	Nathalie	F	06/02/1965	34	Professeur, profession scientifique	02/07/2021		
-75	Nouvelle-Aquitaine	79	Deux-Sèvres	MARCHIVE	Bastien	M	15/07/1990	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 75	Nouvelle-Aquitaine	79	Deux-Sèvres	RIOU	Guillaume	M	15/01/1970	12	Agriculteur sur moyenne exploitation	02/07/2021	4ème Vice-président du conseil régional	02/07/2021
 75	Nouvelle-Aquitaine	86	Vienne	BALLET-BLU	Françoise	F	09/03/1964	31	Profession libérale	02/07/2021		
 75	Nouvelle-Aquitaine	86	Vienne	DESROSES	Karine	F	08/09/1972	21	Artisan	02/07/2021	3ème Vice-président du conseil régional	02/07/2021
@@ -1340,7 +1334,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 76	Occitanie	31	Haute-Garonne	PAROLIN	Marie-Christine	F	06/01/1962	54	Employé administratif d'entreprise	02/07/2021		
 76	Occitanie	31	Haute-Garonne	PELLEFIGUE	Nadia	F	03/12/1978	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	6ème Vice-président du conseil régional	02/07/2021
 76	Occitanie	31	Haute-Garonne	PINATEL	Emmanuelle	F	07/03/1973	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
-76	Occitanie	31	Haute-Garonne	PRADIÉ	Aurélien	M	14/03/1986	74	Ancien cadre	02/07/2021		
+76	Occitanie	31	Haute-Garonne	PRADIÉ	Aurélien	M	14/03/1986	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 76	Occitanie	31	Haute-Garonne	REGOURD	Serge	M	19/02/1948	74	Ancien cadre	02/07/2021		
 76	Occitanie	31	Haute-Garonne	ROMERO GAYO	Olivier	M	04/09/1974	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 76	Occitanie	31	Haute-Garonne	SENSE	Stéphanie	F	04/05/1973	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -1443,7 +1437,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	01	Ain	PERNOD BEAUDON	Stéphanie	F	13/10/1978	34	Professeur, profession scientifique	02/07/2021	1er Vice-président du conseil régional	02/07/2021
 84	Auvergne-Rhône-Alpes	01	Ain	PIROUX GIANNOTTI	Brigitte	F	04/11/1959	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 84	Auvergne-Rhône-Alpes	01	Ain	TIRREAU	Andrée	F	09/05/1950	74	Ancien cadre	02/07/2021		
-84	Auvergne-Rhône-Alpes	03	Allier	AGUILERA	Frédéric	M	10/04/1975	33	Cadre de la fonction publique	02/07/2021	14ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	03	Allier	AGUILERA	Frédéric	M	10/04/1975	33	Cadre de la fonction publique	02/07/2021	4ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	03	Allier	AUGUSTE	Benoît	M	15/02/1980	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	03	Allier	BABIAN-LHERMET	Anne	F	05/09/1961	33	Cadre de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	03	Allier	BARILLET	Carine	F	25/03/1973	69	Ouvrier agricole	02/07/2021		
@@ -1480,7 +1474,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	26	Drôme	MOURIER	Marlène	F	04/02/1962	33	Cadre de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	26	Drôme	PEROT	Sylvie	F	23/05/1961	33	Cadre de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	26	Drôme	PICARD	Patricia	F	12/01/1958	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-84	Auvergne-Rhône-Alpes	26	Drôme	POLLET	Lisette	F	04/01/1968	65	Ouvrier qualifié de la manutention, du magasinage et du transport	02/07/2021		
+84	Auvergne-Rhône-Alpes	26	Drôme	POLLET	Lisette	F	04/01/1968	62	Ouvrier qualifié de type industriel	02/07/2021		
 84	Auvergne-Rhône-Alpes	26	Drôme	ROMAGGI	Magali	F	17/07/1987	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	26	Drôme	ROYER	Olivier	M	16/02/1972	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 84	Auvergne-Rhône-Alpes	26	Drôme	THORAVAL	Marie-Hélène	F	03/06/1966	74	Ancien cadre	02/07/2021		
@@ -1488,7 +1482,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	38	Isère	BAILE	Henri	M	13/01/1950	74	Ancien cadre	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	BARDIN-RABATEL	Geraldine	F	04/02/1971	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	BATARAY	Zerrin	F	16/10/1979	31	Profession libérale	02/07/2021		
-84	Auvergne-Rhône-Alpes	38	Isère	BATTISTEL	Marie-Noëlle	F	20/08/1956	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
+84	Auvergne-Rhône-Alpes	38	Isère	BATTISTEL	Marie-Noëlle	F	20/08/1956	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	BOLZE	Catherine	F	12/03/1951	74	Ancien cadre	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	BONNIER	Eric	M	28/08/1962	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	BOUKAALA	Sarah	F	13/09/1979	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -1497,41 +1491,41 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	38	Isère	BÉRANGER	Nathalie	F	06/07/1967	22	Commerçant et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	CEDRIN	Michèle	F	16/07/1955	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	CHABERT	Gilles	M	05/08/1952	74	Ancien cadre	02/07/2021		
-84	Auvergne-Rhône-Alpes	38	Isère	CHAIX	Sandrine	F	16/05/1968	52	Employé civil et agent de service de la fonction publique	02/07/2021	15ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	38	Isère	CHAIX	Sandrine	F	16/05/1968	52	Employé civil et agent de service de la fonction publique	02/07/2021	3ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	38	Isère	DARLET	Jean-Claude	M	04/08/1964	13	Agriculteur sur grande exploitation	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	DEZARNAUD	Sylvie	F	23/02/1964	54	Employé administratif d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	DUPRÉ	Christel	F	13/09/1970	55	Employé de commerce	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	GEMMANI	Stéphane	M	20/02/1971	64	Chauffeur	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	GIRARD	Jean-Pierre	M	21/04/1951	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	JANOT	Pierre-Henri	M	02/02/1968	31	Profession libérale	02/07/2021		
-84	Auvergne-Rhône-Alpes	38	Isère	JOLLY	Alexis	M	22/12/1990	54	Employé administratif d'entreprise	02/07/2021		
-84	Auvergne-Rhône-Alpes	38	Isère	KOVACS	Thierry	M	29/01/1969	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
+84	Auvergne-Rhône-Alpes	38	Isère	JOLLY	Alexis	M	22/12/1990	22	Commerçant et assimilé	02/07/2021		
+84	Auvergne-Rhône-Alpes	38	Isère	KOVACS	Thierry	M	29/01/1969	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	12ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	38	Isère	LAÏDOUNI-DENIS	Myriam	F	06/07/1970	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	MOCELLIN	Raphaël	M	17/04/1962	38	Ingénieur et cadre technique d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	MOULIN-COMTE	Alexandre	M	29/09/1992	33	Cadre de la fonction publique	02/07/2021		
-84	Auvergne-Rhône-Alpes	38	Isère	NEUDER	Yannick	M	15/03/1969	34	Professeur, profession scientifique	02/07/2021	4ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	38	Isère	NEUDER	Yannick	M	15/03/1969	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	NOYREY	Jean-Yves	M	15/02/1958	31	Profession libérale	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	PEJU	Nathalie	F	25/10/1972	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	REY	Freddy	M	25/01/1973	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	SERRANO	Katia	F	01/06/1977	54	Employé administratif d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	VENTURINI	Martine	F	03/09/1961	31	Profession libérale	02/07/2021		
 84	Auvergne-Rhône-Alpes	38	Isère	VERMOREL	Véronique	F	13/06/1973	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
-84	Auvergne-Rhône-Alpes	42	Loire	BLANCHET	Jacques	M	13/04/1966	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
+84	Auvergne-Rhône-Alpes	42	Loire	BLANCHET	Jacques	M	13/04/1966	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021	14ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	42	Loire	BONY	Catherine	F	04/11/1966	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	BUSSIERE	Laurence	F	07/12/1958	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	CESA	Johann	M	09/07/1986	52	Employé civil et agent de service de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	CINIERI	Dino	M	09/07/1955	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	CUKIERMAN	Cécile	F	26/04/1976	33	Cadre de la fonction publique	02/07/2021		
-84	Auvergne-Rhône-Alpes	42	Loire	FAYOLLE	Sylvie	F	22/08/1960	34	Professeur, profession scientifique	02/07/2021	9ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	42	Loire	FAYOLLE	Sylvie	F	22/08/1960	34	Professeur, profession scientifique	02/07/2021	11ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	42	Loire	KEFI-JÉRÔME	Samy	M	23/10/1979	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	LONGEON	Olivier	M	19/02/1967	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	LUCAS	Michel	M	14/08/1949	75	Ancienne profession intermédiaire	02/07/2021		
-84	Auvergne-Rhône-Alpes	42	Loire	MANDON	Emmanuel	M	22/06/1965	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
+84	Auvergne-Rhône-Alpes	42	Loire	MANDON	Emmanuel	M	22/06/1965	46	Profession intermédiaire administrative et commerciale des entreprises	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	MOUSEGHIAN	Aline	F	01/11/1967	22	Commerçant et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	PEYCELON	Nicole	F	08/08/1953	74	Ancien cadre	02/07/2021		
-84	Auvergne-Rhône-Alpes	42	Loire	ROTKOPF	Sophie	F	19/10/1967	22	Commerçant et assimilé	02/07/2021	11ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	42	Loire	ROTKOPF	Sophie	F	19/10/1967	22	Commerçant et assimilé	02/07/2021	9ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	42	Loire	SURPLY	Isabelle	F	25/10/1984	47	Technicien	02/07/2021		
-84	Auvergne-Rhône-Alpes	42	Loire	TAITE	Jean-Pierre	M	14/03/1962	31	Profession libérale	02/07/2021	6ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	42	Loire	TAITE	Jean-Pierre	M	14/03/1962	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	VIAL	Raymond	M	20/12/1960	12	Agriculteur sur moyenne exploitation	02/07/2021		
 84	Auvergne-Rhône-Alpes	42	Loire	ZAPPA	Catherine	F	19/07/1968	33	Cadre de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	43	Haute-Loire	BARRE	Caroline	F	15/02/1968	31	Profession libérale	02/07/2021		
@@ -1544,14 +1538,14 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	43	Haute-Loire	WAUQUIEZ	Laurent	M	12/04/1975	33	Cadre de la fonction publique	02/07/2021	Président du conseil régional	02/07/2021
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	AUBOIS	Anna	F	20/05/1977	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BERNARD	Brice	M	22/09/1985	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BONNICHON	Frédéric	M	14/02/1962	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021	12ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BONNICHON	Frédéric	M	14/02/1962	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BONY	Yannick	F	25/03/1974	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BOUCHET	Boris	M	09/06/1980	42	Professeur des écoles, instituteur et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BRENAS	Jean-Pierre	M	02/11/1958	31	Profession libérale	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	BRUSSAT	Elisabeth	F	20/08/1960	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	DABERT	Marie-France	F	06/08/1972	11	Agriculteur sur petite exploitation	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	DESPRAT	Léa	F	06/03/1988	37	Cadre administratif et commercial d'entreprise	02/07/2021		
-84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	DUBESSY	Florence	F	31/12/1965	42	Professeur des écoles, instituteur et assimilé	02/07/2021	5ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	DUBESSY	Florence	F	31/12/1965	42	Professeur des écoles, instituteur et assimilé	02/07/2021	7ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	DUBOURG	Sébastien	M	09/06/1977	22	Commerçant et assimilé	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	DURIN	Sylvain	M	12/09/1977	52	Employé civil et agent de service de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	63	Puy-De-Dôme	FANGET	Michel	M	03/05/1950	31	Profession libérale	02/07/2021		
@@ -1571,7 +1565,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	PEIGNÉ	Claire	F	15/02/1957	31	Profession libérale	02/07/2021		
 84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	PERRUT	Bernard	M	24/01/1957	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	PFEFFER	Renaud	M	08/02/1980	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	8ème Vice-président du conseil régional	02/07/2021
-84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	STARON	Catherine	F	16/04/1966	37	Cadre administratif et commercial d'entreprise	02/07/2021		
+84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	STARON	Catherine	F	16/04/1966	37	Cadre administratif et commercial d'entreprise	02/07/2021	15ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	THIEN	Jérémy	M	24/06/1971	11	Agriculteur sur petite exploitation	02/07/2021		
 84	Auvergne-Rhône-Alpes	69	Rhône hors métropole de Lyon	VIDAL	Paul	M	08/09/1950	74	Ancien cadre	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	BLACHÈRE	Sophie	F	16/05/1964	31	Profession libérale	02/07/2021		
@@ -1581,7 +1575,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	CISTERNINO	Corine	F	14/12/1967	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	CROMBECQUE	Yann	M	05/11/1969	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	DÉCHAMPS	Véronique	F	16/01/1955	74	Ancien cadre	02/07/2021		
-84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	FAUTRA	Laurence	F	20/11/1965	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	3ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	FAUTRA	Laurence	F	20/11/1965	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021	5ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	GEOURJON	Christophe	M	24/08/1966	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	GIACALONE	Reynald	M	10/07/1971	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	KOTARAC	Andréa	M	07/05/1989	52	Employé civil et agent de service de la fonction publique	02/07/2021		
@@ -1603,12 +1597,12 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	VALLAUD-BELKACEM	Najat	F	04/10/1977	35	Profession de l'information, des arts et des spectacles	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	VUILLEMARD	Julien	M	06/03/1984	33	Cadre de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	69M	Métropole de Lyon	WIDIEZ	Anaïs	F	16/01/1982	55	Employé de commerce	02/07/2021		
-84	Auvergne-Rhône-Alpes	73	Savoie	BONNIVARD	Emilie	F	02/08/1980	33	Cadre de la fonction publique	02/07/2021		
+84	Auvergne-Rhône-Alpes	73	Savoie	BONNIVARD	Emilie	F	02/08/1980	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 84	Auvergne-Rhône-Alpes	73	Savoie	BÉGUIN	Jean-Pierre	M	18/05/1957	74	Ancien cadre	02/07/2021		
 84	Auvergne-Rhône-Alpes	73	Savoie	CHEMIN	François	M	03/07/1975	74	Ancien cadre	02/07/2021		
 84	Auvergne-Rhône-Alpes	73	Savoie	DAUCHY	Marie	F	05/02/1987	55	Employé de commerce	02/07/2021		
-84	Auvergne-Rhône-Alpes	73	Savoie	MONTORO-SADOUX	Marie-Pierre	F	07/10/1970	45	Profession intermédiaire administrative de la fonction publique	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
-84	Auvergne-Rhône-Alpes	73	Savoie	PANNEKOUCKE	Fabrice	M	14/05/1975	34	Professeur, profession scientifique	02/07/2021		
+84	Auvergne-Rhône-Alpes	73	Savoie	MONTORO-SADOUX	Marie-Pierre	F	07/10/1970	45	Profession intermédiaire administrative de la fonction publique	02/07/2021	13ème Vice-président du conseil régional	29/08/2022
+84	Auvergne-Rhône-Alpes	73	Savoie	PANNEKOUCKE	Fabrice	M	14/05/1975	34	Professeur, profession scientifique	02/07/2021	10ème Vice-président du conseil régional	29/08/2022
 84	Auvergne-Rhône-Alpes	73	Savoie	SANDRAZ	Eric	M	05/10/1963	38	Ingénieur et cadre technique d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	73	Savoie	TERNOY-LEGER	Claudie	F	16/04/1983	38	Ingénieur et cadre technique d'entreprise	02/07/2021		
 84	Auvergne-Rhône-Alpes	73	Savoie	TURNAR	Alexandra	F	16/03/1982	31	Profession libérale	02/07/2021		
@@ -1624,7 +1618,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	FOURNIER	Christophe	M	16/03/1965	12	Agriculteur sur moyenne exploitation	02/07/2021		
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	FOURNIER	Eric	M	13/04/1965	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	GREBERT	Fabienne	F	08/05/1965	31	Profession libérale	02/07/2021		
-84	Auvergne-Rhône-Alpes	74	Haute-Savoie	GUICHARD	Ségolène	F	01/01/1962	31	Profession libérale	02/07/2021	13ème Vice-président du conseil régional	02/07/2021
+84	Auvergne-Rhône-Alpes	74	Haute-Savoie	GUICHARD	Ségolène	F	01/01/1962	31	Profession libérale	02/07/2021		
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	JOYEUX	Benjamin	M	01/02/1980	31	Profession libérale	02/07/2021		
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	LÉCAILLON	Vincent	M	07/01/1963	34	Professeur, profession scientifique	02/07/2021		
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	MURACCIOLE	Natacha	F	27/01/1993	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -1634,7 +1628,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 84	Auvergne-Rhône-Alpes	74	Haute-Savoie	ROUPIOZ	Sylvia	F	20/06/1956	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	04	Alpes-De-Haute-Provence	BORGHINI	Jean-Charles	M	27/10/1965	33	Cadre de la fonction publique	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	04	Alpes-De-Haute-Provence	GEHANT	David	M	23/02/1989	38	Ingénieur et cadre technique d'entreprise	02/07/2021	5ème Vice-président du conseil régional	02/07/2021
-93	Provence-Alpes-Cote D'Azur	04	Alpes-De-Haute-Provence	GIRARD	Christian	M	07/05/1952	37	Cadre administratif et commercial d'entreprise	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	04	Alpes-De-Haute-Provence	GIRARD	Christian	M	07/05/1952	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	04	Alpes-De-Haute-Provence	VAGINAY-RICOURT	Sophie	F	18/12/1969	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	05	Hautes-Alpes	ALBRAND	Louis	M	08/10/1949	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	05	Hautes-Alpes	DIDIER	Roger	M	22/02/1951	74	Ancien cadre	02/07/2021		
@@ -1658,7 +1652,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	GALY	Richard	M	18/07/1954	31	Profession libérale	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	LEONELLI	Pierre-Paul	M	17/06/1957	33	Cadre de la fonction publique	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	MASSON	Alexandra	F	02/07/1971	31	Profession libérale	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	MASSON	Bryan	M	21/12/1996	31	Profession libérale	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	MASSON	Bryan	M	21/12/1996	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	MERENGONE	Laurent	M	24/02/1974	22	Commerçant et assimilé	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	PAIRE	Sandra	F	09/05/1969	22	Commerçant et assimilé	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	PALAZZETTI	Noëlle	F	24/12/1958	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -1667,8 +1661,8 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	SALLES-BARBOSA	Jennifer	F	04/06/1980	31	Profession libérale	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	TIVOLI	Lionel	M	29/02/1988	22	Commerçant et assimilé	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	06	Alpes-Maritimes	VARDON	Philippe	M	02/09/1980	22	Commerçant et assimilé	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	AGRESTI-ROUBACHE	Sabrina	F	13/10/1976	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	ALLISIO	Franck	M	04/08/1980	35	Profession de l'information, des arts et des spectacles	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	AGRESTI ROUBACHE	Sabrina	F	13/10/1976	31	Profession libérale	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	ALLISIO	Franck	M	04/08/1980	31	Profession libérale	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	AUGEY	Dominique	F	08/01/1956	34	Professeur, profession scientifique	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	AYOT	Suzelle	F	27/06/1971	48	Contremaître, agent de maîtrise	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	BAREILLE	Marion	F	13/11/1982	37	Cadre administratif et commercial d'entreprise	02/07/2021		
@@ -1715,15 +1709,15 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	SERRUS	Jean-Pierre	M	01/06/1960	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021	13ème Vice-président du conseil régional	02/07/2021
 93	Provence-Alpes-Cote D'Azur	13	Bouches-Du-Rhône	VIZIER	Alain	M	14/05/1954	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	ALEMAGNA	Claude	M	21/09/1957	74	Ancien cadre	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	83	Var	BALBIS	Rolland	M	04/06/1956	74	Ancien cadre	22/06/2022		
 93	Provence-Alpes-Cote D'Azur	83	Var	BOCCALETTI	Frédéric	M	23/11/1973	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	CHAMBON	Josy	F	15/09/1951	33	Cadre de la fonction publique	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	COLIN	Jean-Pierre	M	20/04/1962	31	Profession libérale	02/07/2021	7ème Vice-président du conseil régional	02/07/2021
 93	Provence-Alpes-Cote D'Azur	83	Var	DE CANSON	François	M	10/05/1965	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021	3ème Vice-président du conseil régional	02/07/2021
 93	Provence-Alpes-Cote D'Azur	83	Var	DELAUNAY	Philippe	M	04/11/1945	72	Ancien artisan, commerçant, chef d'entreprise	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	83	Var	DELFAUX	Véronique	F	15/11/1959	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	FIOL	Muriel	F	26/03/1954	31	Profession libérale	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	GARRON	André	M	21/01/1944	31	Profession libérale	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	83	Var	GILETTI	Frank	M	01/03/1973	33	Cadre de la fonction publique	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	83	Var	GILETTI	Frank	M	01/03/1973	55	Employé de commerce	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	HOUSSAYS	Coline	F	10/12/1998	84	Elève, étudiant	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	JOLY	Fabienne	F	04/03/1972	12	Agriculteur sur moyenne exploitation	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	KUNTZ	Sandra	F	07/09/1975	31	Profession libérale	02/07/2021		
@@ -1736,7 +1730,7 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 93	Provence-Alpes-Cote D'Azur	83	Var	NAVARRANNE	Amaury	M	14/03/1985	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	PIN	Virginie	F	24/07/1969	31	Profession libérale	02/07/2021	12ème Vice-président du conseil régional	02/07/2021
 93	Provence-Alpes-Cote D'Azur	83	Var	RACHLINE	David	M	02/12/1987	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	83	Var	RAMBAUD	Stéphane	M	05/04/1960	53	Policier et militaire	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	83	Var	RAMBAUD	Stephane	M	05/04/1960	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	SIRI	Sylvie	F	11/03/1961	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	STASSINOS	Hervé	M	30/01/1961	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	83	Var	STRAMBIO	Richard	M	02/04/1958	43	Profession intermédiaire de la santé et du travail social	02/07/2021		
@@ -1744,10 +1738,9 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	ADRIEN	Patrick	M	25/05/1952	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	AILLAUD	Jean	M	05/12/1950	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	ARAGONES	Claire	F	02/11/1961	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
-93	Provence-Alpes-Cote D'Azur	84	Vaucluse	AUZANOT	Bénédicte	F	05/08/1972	35	Profession de l'information, des arts et des spectacles	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	84	Vaucluse	AUZANOT	Bénédicte	F	05/08/1972	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	BISSIERE	Michel	M	26/10/1961	45	Profession intermédiaire administrative de la fonction publique	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	BOUYAC	Jacqueline	F	28/02/1947	74	Ancien cadre	02/07/2021	14ème Vice-président du conseil régional	02/07/2021
-93	Provence-Alpes-Cote D'Azur	84	Vaucluse	BROGI	Dominique	F	22/12/1965	23	Chef d'entreprise de 10 salariés ou plus	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	D'AIGREMONT	Thierry	M	12/06/1963	22	Commerçant et assimilé	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	MARIANI	Thierry	M	08/08/1958	74	Ancien cadre	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	MARTIN	Bénédicte	F	14/11/1969	33	Cadre de la fonction publique	02/07/2021	6ème Vice-président du conseil régional	02/07/2021
@@ -1755,3 +1748,4 @@ Code de la région	Libellé de la région	Code de la section départementale	Lib
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	RICHARD	Violaine	F	07/05/1972	37	Cadre administratif et commercial d'entreprise	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	RIGAULT	Anne-Sophie	F	23/03/1976	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	02/07/2021		
 93	Provence-Alpes-Cote D'Azur	84	Vaucluse	RIMBERT	Catherine	F	13/09/1968	35	Profession de l'information, des arts et des spectacles	02/07/2021		
+93	Provence-Alpes-Cote D'Azur	84	Vaucluse	RIPERT	Gilles	M	04/06/1958	31	Profession libérale	12/05/2022		
