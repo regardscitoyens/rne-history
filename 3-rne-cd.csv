@@ -155,7 +155,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 04	Alpes-De-Haute-Provence	0414	Sisteron	MORINEAUD	Isabelle	F	03/08/1960	43	Profession intermédiaire de la santé et du travail social	01/07/2021		
 04	Alpes-De-Haute-Provence	0415	Valensole	COTTRET	Michèle	F	23/07/1957	72	Ancien artisan, commerçant, chef d'entreprise	01/07/2021		
 04	Alpes-De-Haute-Provence	0415	Valensole	GOSSA	Marcel	M	08/08/1972	12	Agriculteur sur moyenne exploitation	01/07/2021	9ème Vice-président du conseil départemental	01/07/2021
-05	Hautes-Alpes	0501	L'Argentière-La-Bessée	MOREAU	Gaelle	F	15/06/1973	31	Profession libérale	01/07/2021		
+05	Hautes-Alpes	0501	L'Argentière-La-Bessée	MOREAU	Gaelle	F	15/06/1973	22	Commerçant et assimilé	01/07/2021		
 05	Hautes-Alpes	0501	L'Argentière-La-Bessée	ROUX	Rémi	M	13/05/1989	54	Employé administratif d'entreprise	01/07/2021		
 05	Hautes-Alpes	0502	Briançon-1	MICHEL	Marine	F	01/10/1986	22	Commerçant et assimilé	01/07/2021	3ème Vice-président du conseil départemental	01/07/2021
 05	Hautes-Alpes	0502	Briançon-1	MURGIA	Arnaud	M	16/11/1984	33	Cadre de la fonction publique	01/07/2021	5ème Vice-président du conseil départemental	01/07/2021
@@ -467,13 +467,13 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 13	Bouches-Du-Rhône	1305	Aubagne	GAZAY	Gérard	M	23/11/1957	74	Ancien cadre	01/07/2021	2ème Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1306	Berre-L'Etang	ARIAS	Julie	F	18/01/1982	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
 13	Bouches-Du-Rhône	1306	Berre-L'Etang	GUERIN	Yannick	M	09/03/1970	35	Profession de l'information, des arts et des spectacles	01/07/2021		
-13	Bouches-Du-Rhône	1307	Châteaurenard	CHABAUD	Corinne	F	14/10/1964	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021		
+13	Bouches-Du-Rhône	1307	Châteaurenard	CHABAUD	Corinne	F	14/10/1964	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021	15ème Vice-président du conseil départemental	21/10/2022
 13	Bouches-Du-Rhône	1307	Châteaurenard	LIMOUSIN	Lucien	M	19/10/1947	74	Ancien cadre	01/07/2021	4ème Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1308	La Ciotat	GHIGONETTO	Patrick	M	27/06/1962	21	Artisan	01/07/2021		
 13	Bouches-Du-Rhône	1308	La Ciotat	MILON	Danielle	F	27/01/1947	75	Ancienne profession intermédiaire	01/07/2021	1er Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1309	Gardanne	AMIEL	Agnès	F	23/11/1971	31	Profession libérale	01/07/2021		
 13	Bouches-Du-Rhône	1309	Gardanne	GRANIER	Hervé	M	08/11/1972	33	Cadre de la fonction publique	01/07/2021		
-13	Bouches-Du-Rhône	1310	Istres	HETSCH	Jean	M	10/10/1961	33	Cadre de la fonction publique	01/07/2021		
+13	Bouches-Du-Rhône	1310	Istres	GOYET	Vincent	M	18/07/1979	37	Cadre administratif et commercial d'entreprise	12/09/2022		
 13	Bouches-Du-Rhône	1310	Istres	JOULIA	Nicole	F	21/03/1948	75	Ancienne profession intermédiaire	01/07/2021	13ème Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1311	Marignane	GUARINO	Valérie	F	01/04/1965	77	Ancien employé	01/07/2021	3ème Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1311	Marignane	LE DISSES	Eric	M	05/07/1955	33	Cadre de la fonction publique	01/07/2021	6ème Vice-président du conseil départemental	01/07/2021
@@ -485,8 +485,8 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 13	Bouches-Du-Rhône	1314	Marseille-3	SPORTIELLO	Josette	F	12/01/1958	109	Commercant (obsolète)	01/07/2021		
 13	Bouches-Du-Rhône	1315	Marseille-4	GHALI	Samia	F	10/06/1968	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
 13	Bouches-Du-Rhône	1315	Marseille-4	KAZANDJIAN	Azad	M	28/03/1984	33	Cadre de la fonction publique	01/07/2021		
-13	Bouches-Du-Rhône	1316	Marseille-5	PREZIOSI	Nora	F	16/11/1960	33	Cadre de la fonction publique	01/07/2021	15ème Vice-président du conseil départemental	01/07/2021
-13	Bouches-Du-Rhône	1316	Marseille-5	ROSSI	Denis	M	14/01/1960	33	Cadre de la fonction publique	01/07/2021		
+13	Bouches-Du-Rhône	1316	Marseille-5	PREZIOSI	Nora	F	16/11/1960	33	Cadre de la fonction publique	01/07/2021		
+13	Bouches-Du-Rhône	1316	Marseille-5	ROSSI	Denis	M	14/01/1960	33	Cadre de la fonction publique	01/07/2021	8ème Vice-président du conseil départemental	21/10/2022
 13	Bouches-Du-Rhône	1317	Marseille-6	D'ANGIO	Sandrine	F	18/12/1981	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021		
 13	Bouches-Du-Rhône	1317	Marseille-6	DUDIEUZERE	Cédric	M	09/09/1972	38	Ingénieur et cadre technique d'entreprise	01/07/2021		
 13	Bouches-Du-Rhône	1318	Marseille-7	COLLART	Frédéric	M	22/05/1969	34	Professeur, profession scientifique	01/07/2021		
@@ -495,6 +495,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 13	Bouches-Du-Rhône	1319	Marseille-8	SANTELLI	Thierry	M	21/07/1970	54	Employé administratif d'entreprise	01/07/2021	14ème Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1320	Marseille-9	CARADEC	Laure Agnès	F	20/11/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021	11ème Vice-président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1320	Marseille-9	RÉAULT	Didier	M	22/12/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021	10ème Vice-président du conseil départemental	01/07/2021
+13	Bouches-Du-Rhône	1321	Marseille-10	DI GIOVANNI	Sylvain	M	06/06/1984	31	Profession libérale	19/07/2022		
 13	Bouches-Du-Rhône	1321	Marseille-10	VASSAL	Martine	F	29/03/1962	33	Cadre de la fonction publique	01/07/2021	Président du conseil départemental	01/07/2021
 13	Bouches-Du-Rhône	1322	Marseille-11	GARINO	Audrey	F	04/05/1984	37	Cadre administratif et commercial d'entreprise	01/07/2021		
 13	Bouches-Du-Rhône	1322	Marseille-11	OHANESSIAN	Yannick	M	08/05/1981	33	Cadre de la fonction publique	01/07/2021		
@@ -626,8 +627,8 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 16	Charente	1616	Touvre-Et-Braconne	ZIAD	Fatna	F	01/06/1959	77	Ancien employé	01/07/2021		
 16	Charente	1617	Tude-Et-Lavalette	GALLÈS	Patrick	M	17/02/1976	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 16	Charente	1617	Tude-Et-Lavalette	VERGEZ	Nelly	F	27/02/1972	34	Professeur, profession scientifique	01/07/2021	2ème Vice-président du conseil départemental	01/07/2021
-16	Charente	1618	Val De Nouère	BEAUGENDRE	Marie Henriette	F	24/02/1966	33	Cadre de la fonction publique	01/07/2021		
 16	Charente	1618	Val De Nouère	BONNEAU	François	M	08/02/1958	31	Profession libérale	01/07/2021		
+16	Charente	1618	Val De Nouère	BOUCHET	Sandra	F	12/01/1976	56	Personnel des services directs aux particuliers	18/03/2022		
 16	Charente	1619	Val De Tardoire	CANIT	Michaël	M	11/07/1975	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
 16	Charente	1619	Val De Tardoire	PRAGOUT	Marie	F	21/08/1979	35	Profession de l'information, des arts et des spectacles	01/07/2021	8ème Vice-président du conseil départemental	01/07/2021
 17	Charente-Maritime	1701	Aytré	KRABAL	Guillaume	M	13/04/1973	52	Employé civil et agent de service de la fonction publique	01/07/2021		
@@ -761,13 +762,14 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 19	Corrèze	1919	L'Yssandonnais	BOUZON	Christian	M	19/07/1959	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 21	Côte-D'Or	2101	Arnay-Le-Duc	COGNARD	Isabelle	F	21/09/1987	54	Employé administratif d'entreprise	01/07/2021		
 21	Côte-D'Or	2101	Arnay-Le-Duc	POILLOT	Pierre	M	25/11/1952	72	Ancien artisan, commerçant, chef d'entreprise	01/07/2021		
-21	Côte-D'Or	2102	Auxonne	BONNET-VALLET	Marie-Claire	F	28/06/1970	37	Cadre administratif et commercial d'entreprise	01/07/2021	8ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2102	Auxonne	BONNET-VALLET	Marie-Claire	F	28/06/1970	37	Cadre administratif et commercial d'entreprise	01/07/2021	7ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2102	Auxonne	SORDEL	Sebastien	M	01/03/1975	11	Agriculteur sur petite exploitation	01/07/2021		
-21	Côte-D'Or	2103	Beaune	BOLZE	Pierre	M	18/11/1976	31	Profession libérale	01/07/2021	10ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2103	Beaune	BOLZE	Pierre	M	18/11/1976	31	Profession libérale	01/07/2021	9ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2103	Beaune	FOUGERE	Charlotte	F	27/02/1987	31	Profession libérale	01/07/2021		
 21	Côte-D'Or	2104	Brazey-En-Plaine	COINT	Emmanuelle	F	10/03/1968	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021	1er Vice-président du conseil départemental	01/07/2021
 21	Côte-D'Or	2104	Brazey-En-Plaine	DELEPAU	Gilles	M	20/05/1963	37	Cadre administratif et commercial d'entreprise	01/07/2021		
 21	Côte-D'Or	2105	Châtillon-Sur-Seine	BOUCHARD	Valérie	F	25/04/1970	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
+21	Côte-D'Or	2105	Châtillon-Sur-Seine	VERDOT	Christophe	M	27/05/1969	12	Agriculteur sur moyenne exploitation	12/09/2022		
 21	Côte-D'Or	2106	Chenôve	AUDARD	Patrick	M	09/05/1961	31	Profession libérale	01/07/2021		
 21	Côte-D'Or	2106	Chenôve	CARLIER	Caroline	F	31/12/1972	34	Professeur, profession scientifique	01/07/2021		
 21	Côte-D'Or	2107	Chevigny-Saint-Sauveur	RUET	Guillaume	M	22/06/1983	33	Cadre de la fonction publique	01/07/2021		
@@ -784,23 +786,23 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 21	Côte-D'Or	2112	Dijon-5	PUGLIESE	Marie-Thérèse	F	15/02/1965	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 21	Côte-D'Or	2113	Dijon-6	MAGLICA	Céline	F	30/01/1976	34	Professeur, profession scientifique	01/07/2021		
 21	Côte-D'Or	2113	Dijon-6	N'DIAYE	Massar	M	18/06/1980	46	Profession intermédiaire administrative et commerciale des entreprises	01/07/2021		
-21	Côte-D'Or	2114	Fontaine-Lès-Dijon	CHAPUIS	Patrick	M	17/08/1955	37	Cadre administratif et commercial d'entreprise	01/07/2021	11ème Vice-président du conseil départemental	01/07/2021
-21	Côte-D'Or	2114	Fontaine-Lès-Dijon	GOURMAND	Patricia	F	29/04/1954	72	Ancien artisan, commerçant, chef d'entreprise	01/07/2021	12ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2114	Fontaine-Lès-Dijon	CHAPUIS	Patrick	M	17/08/1955	37	Cadre administratif et commercial d'entreprise	01/07/2021	10ème Vice-président du conseil départemental	12/09/2022
+21	Côte-D'Or	2114	Fontaine-Lès-Dijon	GOURMAND	Patricia	F	29/04/1954	72	Ancien artisan, commerçant, chef d'entreprise	01/07/2021	11ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2115	Genlis	MATHIRON	Martial	M	19/02/1970	34	Professeur, profession scientifique	01/07/2021		
 21	Côte-D'Or	2115	Genlis	THOMAS	Gaëlle	F	23/03/1981	34	Professeur, profession scientifique	01/07/2021		
-21	Côte-D'Or	2116	Is-Sur-Tille	BARRIERE	Charles	M	22/04/1956	31	Profession libérale	01/07/2021		
-21	Côte-D'Or	2116	Is-Sur-Tille	LOUIS	Catherine	F	16/07/1955	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	01/07/2021	4ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2116	Is-Sur-Tille	BARRIERE	Charles	M	22/04/1956	31	Profession libérale	01/07/2021	12ème Vice-président du conseil départemental	12/09/2022
+21	Côte-D'Or	2116	Is-Sur-Tille	LOUIS	Catherine	F	16/07/1955	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	01/07/2021	3ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2117	Ladoix-Serrigny	PARENT	Anne	F	27/03/1958	12	Agriculteur sur moyenne exploitation	01/07/2021		
-21	Côte-D'Or	2117	Ladoix-Serrigny	THOMAS	Denis	M	23/03/1954	74	Ancien cadre	01/07/2021	6ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2117	Ladoix-Serrigny	THOMAS	Denis	M	23/03/1954	74	Ancien cadre	01/07/2021	5ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2118	Longvic	LUCAND	Christophe	M	02/03/1969	34	Professeur, profession scientifique	01/07/2021		
 21	Côte-D'Or	2118	Longvic	TONOT	Céline	F	05/06/1968	55	Employé de commerce	01/07/2021		
-21	Côte-D'Or	2119	Montbard	FROT	Marc	M	04/03/1957	75	Ancienne profession intermédiaire	01/07/2021	5ème Vice-président du conseil départemental	01/07/2021
-21	Côte-D'Or	2119	Montbard	PORTE	Laurence	F	12/01/1970	34	Professeur, profession scientifique	01/07/2021	7ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2119	Montbard	FROT	Marc	M	04/03/1957	75	Ancienne profession intermédiaire	01/07/2021	4ème Vice-président du conseil départemental	12/09/2022
+21	Côte-D'Or	2119	Montbard	PORTE	Laurence	F	12/01/1970	34	Professeur, profession scientifique	01/07/2021	6ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2120	Nuits-Saint-Georges	DUREUIL	Valérie	F	15/12/1972	69	Ouvrier agricole	01/07/2021		
-21	Côte-D'Or	2120	Nuits-Saint-Georges	POULLOT	Hubert	M	05/01/1955	74	Ancien cadre	01/07/2021	9ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2120	Nuits-Saint-Georges	POULLOT	Hubert	M	05/01/1955	74	Ancien cadre	01/07/2021	8ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2121	Saint-Apollinaire	BLANC	Christine	F	22/04/1969	43	Profession intermédiaire de la santé et du travail social	01/07/2021		
 21	Côte-D'Or	2121	Saint-Apollinaire	THOMAS	Laurent	M	05/04/1965	31	Profession libérale	01/07/2021		
-21	Côte-D'Or	2122	Semur-En-Auxois	EAP-DUPIN	Martine	F	22/07/1952	72	Ancien artisan, commerçant, chef d'entreprise	01/07/2021	3ème Vice-président du conseil départemental	01/07/2021
+21	Côte-D'Or	2122	Semur-En-Auxois	EAP-DUPIN	Martine	F	22/07/1952	72	Ancien artisan, commerçant, chef d'entreprise	01/07/2021	2ème Vice-président du conseil départemental	12/09/2022
 21	Côte-D'Or	2122	Semur-En-Auxois	SAUVADET	François	M	20/04/1953	74	Ancien cadre	01/07/2021	Président du conseil départemental	01/07/2021
 21	Côte-D'Or	2123	Talant	LAMY	Alain	M	25/05/1968	23	Chef d'entreprise de 10 salariés ou plus	01/07/2021		
 21	Côte-D'Or	2123	Talant	VIALET	Céline	F	17/05/1981	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
@@ -1357,7 +1359,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 34	Hérault	3406	Clermont-L'Hérault	PASSIEUX	Marie	F	04/05/1956	75	Ancienne profession intermédiaire	01/07/2021	12ème Vice-président du conseil départemental	01/07/2021
 34	Hérault	3407	Le Crès	PELLET	Yvon	M	22/09/1952	74	Ancien cadre	01/07/2021	9ème Vice-président du conseil départemental	01/07/2021
 34	Hérault	3407	Le Crès	VASSAS MEJRI	Claudine	F	01/02/1961	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	01/07/2021	2ème Vice-président du conseil départemental	01/07/2021
-34	Hérault	3408	Frontignan	BOULDOIRE	Pierre	M	28/08/1957	75	Ancienne profession intermédiaire	01/07/2021	1er Vice-président du conseil départemental	01/07/2021
+34	Hérault	3408	Frontignan	CAPPELLINI	Jean-Franck	M	28/01/1966	34	Professeur, profession scientifique	06/09/2022		
 34	Hérault	3408	Frontignan	PRADELLE	Sylvie	F	31/01/1958	43	Profession intermédiaire de la santé et du travail social	01/07/2021		
 34	Hérault	3409	Gignac	MORERE	Nicole	F	31/01/1962	37	Cadre administratif et commercial d'entreprise	01/07/2021	10ème Vice-président du conseil départemental	01/07/2021
 34	Hérault	3409	Gignac	SOTO	Jean-François	M	24/01/1963	37	Cadre administratif et commercial d'entreprise	01/07/2021		
@@ -1387,6 +1389,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 34	Hérault	3421	Pézenas	GAUDY	Vincent	M	12/01/1973	37	Cadre administratif et commercial d'entreprise	01/07/2021	7ème Vice-président du conseil départemental	01/07/2021
 34	Hérault	3422	Pignan	CASSAR	Michelle	F	21/09/1956	74	Ancien cadre	01/07/2021		
 34	Hérault	3422	Pignan	MARTINIER	Jacques	M	18/04/1956	74	Ancien cadre	01/07/2021		
+34	Hérault	3423	Saint-Gély-Du-Fesc	LERNOUT	Michèle	F	28/05/1953	75	Ancienne profession intermédiaire	26/08/2022		
 34	Hérault	3423	Saint-Gély-Du-Fesc	LOPEZ	Jérôme	M	12/08/1965	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
 34	Hérault	3424	Saint-Pons-De-Thomières	MESQUIDA	Kléber	M	03/08/1945	74	Ancien cadre	01/07/2021	Président du conseil départemental	01/07/2021
 34	Hérault	3424	Saint-Pons-De-Thomières	PONS	Marie-Pierre	F	12/06/1961	54	Employé administratif d'entreprise	01/07/2021	6ème Vice-président du conseil départemental	01/07/2021
@@ -1526,8 +1529,8 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 38	Isère	3807	Fontaine-Vercors	LONGO	Franck	M	09/09/1988	33	Cadre de la fonction publique	01/07/2021		
 38	Isère	3808	Le Grand-Lemps	MADINIER	Cyrille	M	09/08/1971	23	Chef d'entreprise de 10 salariés ou plus	01/07/2021		
 38	Isère	3808	Le Grand-Lemps	MUGNIER	Isabelle	F	27/03/1967	37	Cadre administratif et commercial d'entreprise	01/07/2021		
+38	Isère	3809	Grenoble-1	BADOUARD	Thierry	M	07/01/1981	38	Ingénieur et cadre technique d'entreprise	20/10/2022		
 38	Isère	3809	Grenoble-1	ROMERA	Sophie	F	14/08/1971	21	Artisan	01/07/2021		
-38	Isère	3809	Grenoble-1	TROCMÉ	Benjamin	M	25/03/1974	34	Professeur, profession scientifique	01/07/2021		
 38	Isère	3810	Grenoble-2	CUCAROLLO	Jérôme	M	02/07/1987	22	Commerçant et assimilé	01/07/2021		
 38	Isère	3810	Grenoble-2	KAZAZIAN-BALESTAS	Éléonore	F	07/04/1994	84	Elève, étudiant	01/07/2021		
 38	Isère	3811	Grenoble-3	BILLOUET	Simon	M	10/11/1988	34	Professeur, profession scientifique	01/07/2021		
@@ -2317,8 +2320,6 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 57	Moselle	5718	Rombas	FOURNIER	Lionel	M	18/01/1955	74	Ancien cadre	01/07/2021		
 57	Moselle	5719	Saint-Avold	PILI	Flora	F	21/07/1997	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
 57	Moselle	5719	Saint-Avold	SCHULER	Emmanuel	M	11/05/1974	23	Chef d'entreprise de 10 salariés ou plus	01/07/2021		
-57	Moselle	5720	Sarralbe	CRISTINELLI-FRAIBOEUF	Sonya	F	12/07/1952	74	Ancien cadre	01/07/2021	2ème Vice-président du conseil départemental	01/07/2021
-57	Moselle	5720	Sarralbe	YAHIAOUI	Romuald	M	26/11/1972	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
 57	Moselle	5721	Sarrebourg	HERZOG	Christine	F	30/12/1968	23	Chef d'entreprise de 10 salariés ou plus	01/07/2021		
 57	Moselle	5721	Sarrebourg	SIMON	Bernard	M	29/09/1950	74	Ancien cadre	01/07/2021	11ème Vice-président du conseil départemental	01/07/2021
 57	Moselle	5722	Sarreguemines	CUNAT	Jean-Claude	M	18/06/1956	74	Ancien cadre	01/07/2021		
@@ -2421,6 +2422,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 59	Nord	5926	Lille-4	PERIN	Laurent	M	12/12/1974	33	Cadre de la fonction publique	01/07/2021		
 59	Nord	5927	Lille-5	GUIZIOU	Maël	M	20/07/1993	43	Profession intermédiaire de la santé et du travail social	01/07/2021		
 59	Nord	5927	Lille-5	MIKOLAJCZAK	Anne	F	22/05/1963	33	Cadre de la fonction publique	01/07/2021		
+59	Nord	5928	Lille-6	CAREMELLE	Olivier	M	27/09/1967	34	Professeur, profession scientifique	28/06/2022		
 59	Nord	5928	Lille-6	CONSEIL	Valérie	F	20/05/1966	34	Professeur, profession scientifique	01/07/2021		
 59	Nord	5929	Marly	DESCAMPS	Béatrice	F	24/04/1961	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 59	Nord	5929	Marly	VERFAILLIE	Jean-Noël	M	13/10/1983	33	Cadre de la fonction publique	01/07/2021	10ème Vice-président du conseil départemental	01/07/2021
@@ -2534,10 +2536,10 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 61	Orne	6121	Vimoutiers	LAIGRE	Agnès	F	19/10/1962	12	Agriculteur sur moyenne exploitation	01/07/2021		
 62	Pas-De-Calais	6201	Aire-Sur-La-Lys	DISSAUX	Jean-Claude	M	15/08/1942	74	Ancien cadre	01/07/2021	10ème Vice-président du conseil départemental	01/07/2021
 62	Pas-De-Calais	6201	Aire-Sur-La-Lys	WOZNY	Florence	F	11/04/1973	33	Cadre de la fonction publique	01/07/2021		
-62	Pas-De-Calais	6202	Arras-1	BOCQUILLET	Denise	F	12/08/1943	75	Ancienne profession intermédiaire	01/07/2021		
 62	Pas-De-Calais	6202	Arras-1	MATHISSART	Michel	M	13/07/1958	74	Ancien cadre	01/07/2021		
 62	Pas-De-Calais	6203	Arras-2	LAPOUILLE	Emmanuelle	F	03/07/1970	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 62	Pas-De-Calais	6203	Arras-2	MALFAIT	Alexandre	M	02/07/1983	37	Cadre administratif et commercial d'entreprise	01/07/2021		
+62	Pas-De-Calais	6203	Arras-2	OUAGUEF	Zohra	F	30/10/1968	37	Cadre administratif et commercial d'entreprise	01/10/2022		
 62	Pas-De-Calais	6204	Arras-3	CAUWET	Maryse	F	10/04/1961	33	Cadre de la fonction publique	01/07/2021	7ème Vice-président du conseil départemental	01/07/2021
 62	Pas-De-Calais	6204	Arras-3	COTTIGNY	Jean-Louis	M	12/09/1950	74	Ancien cadre	01/07/2021		
 62	Pas-De-Calais	6205	Auchel	IDZIAK	Ludovic	M	30/04/1974	45	Profession intermédiaire administrative de la fonction publique	01/07/2021		
@@ -2778,8 +2780,10 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 66	Pyrénées-Orientales	6608	Perpignan-3	LACAPERE	Rémi	M	19/12/1975	52	Employé civil et agent de service de la fonction publique	01/07/2021	9ème Vice-président du conseil départemental	01/07/2021
 66	Pyrénées-Orientales	6609	Perpignan-4	DE NOELL MARCHESAN	Isabelle	F	21/03/1955	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 66	Pyrénées-Orientales	6609	Perpignan-4	GRAU	Romain	M	21/06/1974	31	Profession libérale	01/07/2021		
+66	Pyrénées-Orientales	6610	Perpignan-5	ALIOT	Louis	M	04/09/1969	31	Profession libérale	04/12/2022		
 66	Pyrénées-Orientales	6610	Perpignan-5	BLANC	Mathias	M	20/06/1983	31	Profession libérale	01/07/2021		
 66	Pyrénées-Orientales	6610	Perpignan-5	CHATARD	Francoise	F	09/07/1959	75	Ancienne profession intermédiaire	01/07/2021		
+66	Pyrénées-Orientales	6610	Perpignan-5	MUTI	Carla	F	03/08/1997	84	Elève, étudiant	04/12/2022		
 66	Pyrénées-Orientales	6611	Perpignan-6	CALABRÈSE	Toussainte	F	21/02/1954	74	Ancien cadre	01/07/2021	2ème Vice-président du conseil départemental	01/07/2021
 66	Pyrénées-Orientales	6611	Perpignan-6	ROQUE	Jean	M	07/07/1952	74	Ancien cadre	01/07/2021	5ème Vice-président du conseil départemental	01/07/2021
 66	Pyrénées-Orientales	6612	La Plaine D'Illibéris	GARCIA	Nicolas	M	16/08/1960	74	Ancien cadre	01/07/2021	1er Vice-président du conseil départemental	01/07/2021
@@ -2823,6 +2827,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 6AE	Collectivité Européenne d'Alsace	6701	Bischwiller	ISSELÉ	Christelle	F	15/05/1978	22	Commerçant et assimilé	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6701	Bischwiller	LORENTZ	Michel	M	26/10/1978	33	Cadre de la fonction publique	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6702	Bouxwiller	LEHMANN	Marie-Paule	F	02/06/1955	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	01/07/2021		
+6AE	Collectivité Européenne d'Alsace	6702	Bouxwiller	VOGEL	Justin	M	24/02/1953	74	Ancien cadre	23/06/2022		
 6AE	Collectivité Européenne d'Alsace	6703	Brumath	WOLF	Etienne	M	18/12/1955	42	Professeur des écoles, instituteur et assimilé	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6703	Brumath	WOLFHUGEL	Christiane	F	22/09/1957	77	Ancien employé	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6704	Erstein	MULLER-BRONN	Laurence	F	04/11/1961	31	Profession libérale	01/07/2021		
@@ -2873,7 +2878,6 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 6AE	Collectivité Européenne d'Alsace	6803	Cernay	SCHELLENBERGER	Raphaël	M	14/02/1990	33	Cadre de la fonction publique	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6804	Colmar-1	DIETRICH	Martine	F	27/03/1955	77	Ancien employé	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6804	Colmar-1	HEMEDINGER	Yves	M	23/10/1965	37	Cadre administratif et commercial d'entreprise	01/07/2021		
-6AE	Collectivité Européenne d'Alsace	6805	Colmar-2	KLINKERT	Brigitte	F	22/07/1956	74	Ancien cadre	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6805	Colmar-2	STRAUMANN	Eric	M	17/08/1964	34	Professeur, profession scientifique	01/07/2021	5ème Vice-président du conseil départemental	01/07/2021
 6AE	Collectivité Européenne d'Alsace	6806	Ensisheim	ELMLINGER	Carole	F	01/11/1979	33	Cadre de la fonction publique	01/07/2021		
 6AE	Collectivité Européenne d'Alsace	6806	Ensisheim	KAMMERER	Joseph	M	20/03/1963	47	Technicien	01/07/2021		
@@ -3607,7 +3611,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 87	Haute-Vienne	8719	Saint-Junien	TUYERAS	Sylvie	F	06/02/1958	74	Ancien cadre	01/07/2021	7ème Vice-président du conseil départemental	01/07/2021
 87	Haute-Vienne	8720	Saint-Léonard-De-Noblat	AUPETIT-BERTHELEMOT	Christelle	F	25/08/1971	34	Professeur, profession scientifique	01/07/2021		
 87	Haute-Vienne	8720	Saint-Léonard-De-Noblat	LEBLOIS	Jean-Claude	M	23/06/1953	74	Ancien cadre	01/07/2021	Président du conseil départemental	01/07/2021
-87	Haute-Vienne	8721	Saint-Yrieix-La-Perche	DELAUTRETTE	Stéphane	M	20/09/1972	38	Ingénieur et cadre technique d'entreprise	01/07/2021		
+87	Haute-Vienne	8721	Saint-Yrieix-La-Perche	BOISSERIE	François	M	20/02/1972	33	Cadre de la fonction publique	05/10/2022		
 87	Haute-Vienne	8721	Saint-Yrieix-La-Perche	PLAZZI	Monique	F	26/03/1947	75	Ancienne profession intermédiaire	01/07/2021	9ème Vice-président du conseil départemental	01/07/2021
 88	Vosges	8801	La Bresse	MATHIEU	Jérôme	M	22/01/1974	11	Agriculteur sur petite exploitation	01/07/2021	8ème Vice-président du conseil départemental	01/07/2021
 88	Vosges	8801	La Bresse	VANSON	Brigitte	F	26/10/1962	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	01/07/2021		
@@ -3957,6 +3961,7 @@ Code du département	Libellé du département	Code du canton	Libellé du canton	
 971	Guadeloupe	97116	Saint-François	PERIAN	Jean-Luc	M	11/08/1967	46	Profession intermédiaire administrative et commerciale des entreprises	01/07/2021		
 971	Guadeloupe	97116	Saint-François	ROBIN	Sabrina	F	16/04/1986	42	Professeur des écoles, instituteur et assimilé	01/07/2021	12ème Vice-président du conseil départemental	01/07/2021
 971	Guadeloupe	97117	Sainte-Anne	FARO COURIOL	Lydia	F	12/01/1963	52	Employé civil et agent de service de la fonction publique	01/07/2021		
+971	Guadeloupe	97117	Sainte-Anne	LATCHOUMANIN	Eric	M	06/05/1964	37	Cadre administratif et commercial d'entreprise	27/09/2022		
 971	Guadeloupe	97118	Sainte-Rose-1	DE LA REBERDIERE-RAMILLON	Nicole	F	16/11/1959	22	Commerçant et assimilé	01/07/2021	10ème Vice-président du conseil départemental	01/07/2021
 971	Guadeloupe	97118	Sainte-Rose-1	GOUBIN	Fred	M	27/08/1964	37	Cadre administratif et commercial d'entreprise	01/07/2021		
 971	Guadeloupe	97119	Sainte-Rose-2	AMIREILLE-JOMIE	Isabelle	F	25/10/1973	33	Cadre de la fonction publique	01/07/2021		
