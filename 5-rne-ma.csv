@@ -50,7 +50,6 @@ Code de la région	Libellé de la région	Code du département	Libellé du  dép
 				987	Polynésie Française					TONG SANG	Gaston	M	07/08/1949	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	07/05/2018		
 				987	Polynésie Française					TOROMONA	John	M	09/04/1962	42	Professeur des écoles, instituteur et assimilé	07/05/2018		
 				987	Polynésie Française					TUHEIAVA	Richard	M	28/02/1974	156	Autre profession (obsolète)	07/05/2018		
-				987	Polynésie Française					TUPANA	Moihara	F	17/01/1982	33	Cadre de la fonction publique	23/05/2018		
 				987	Polynésie Française					TUUHIA	Augustine	F	01/11/1952	77	Ancien employé	07/05/2018		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	BUB	Jérôme	M	01/06/1972	46	Profession intermédiaire administrative et commerciale des entreprises	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	BUFFET	François-Noël	M	28/08/1963	31	Profession libérale	28/06/2020		
@@ -85,13 +84,13 @@ Code de la région	Libellé de la région	Code du département	Libellé du  dép
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	VACHER	Lucie	F	06/05/1989	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	28/06/2020	Vice-président de l'assemblée	02/07/2020
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BAGNON	Fabien	M	21/08/1975	38	Ingénieur et cadre technique d'entreprise	28/06/2020	Vice-président de l'assemblée	02/07/2020
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BAUME	Emeline	F	03/09/1977	34	Professeur, profession scientifique	28/06/2020	Vice-président de l'assemblée	02/07/2020
-84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BEN ITAH	Yves	M	12/12/1957	35	Profession de l'information, des arts et des spectacles	28/06/2020	Vice-président de l'assemblée	02/07/2020
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BEN ITAH	Yves	M	12/12/1957	35	Profession de l'information, des arts et des spectacles	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BOFFET	Laurence	F	02/01/1973	38	Ingénieur et cadre technique d'entreprise	28/06/2020	Vice-président de l'assemblée	02/07/2020
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BOUAGGA	Yasmine	F	12/10/1982	34	Professeur, profession scientifique	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	CABOT	Marie Agnès	F	06/01/1962	31	Profession libérale	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	CHAMBON	Pierre	M	17/07/1968	23	Chef d'entreprise de 10 salariés ou plus	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	GODINOT	Sylvain	M	24/10/1973	31	Profession libérale	28/06/2020		
-84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	GROULT	Florestan	M	23/12/1985	52	Employé civil et agent de service de la fonction publique	28/06/2020		
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	GROULT	Florestan	M	23/12/1985	52	Employé civil et agent de service de la fonction publique	28/06/2020	Vice-président de l'assemblée	26/09/2022
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	KIMELFELD	David	M	17/06/1961	72	Ancien artisan, commerçant, chef d'entreprise	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	LUNGENSTRASS	Valentin	M	15/07/1994	38	Ingénieur et cadre technique d'entreprise	28/06/2020		
 84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	BADOUARD	Benjamin	M	20/06/1983	46	Profession intermédiaire administrative et commerciale des entreprises	28/06/2020		
@@ -452,6 +451,7 @@ Code de la région	Libellé de la région	Code du département	Libellé du  dép
 				986	Wallis Et Futuna					VERGE	David	M	10/01/1972	109	Commercant (obsolète)	26/03/2017		
 				987	Polynésie Française					BOURGADE	Maeva	F	23/01/1949	77	Ancien employé	24/03/2021		
 				987	Polynésie Française					BOUTEAU	Nicole	F	20/01/1969	33	Cadre de la fonction publique	10/12/2021		
+				987	Polynésie Française					CROLAS-MAI EPOUSE SACHET	Isabelle	F	21/11/1958	74	Ancien cadre	22/03/2022	Autre membre	22/03/2022
 				987	Polynésie Française					FONG LOI	Charles	M	25/05/1949	34	Professeur, profession scientifique	18/05/2018		
 				987	Polynésie Française					MARE IRITI	Teura	F	07/01/1965	156	Autre profession (obsolète)	07/05/2018		
 				987	Polynésie Française					PEREZ	Antonio	M	02/09/1967	156	Autre profession (obsolète)	23/05/2018		
