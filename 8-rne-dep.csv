@@ -1,5 +1,6 @@
 Code du département	Libellé du département	Code de la collectivité à statut particulier	Libellé de la collectivité à statut particulier	Code de la circonscription législative	Libellé de la circonscription législative	Nom de l'élu	Prénom de l'élu	Code sexe	Date de naissance	Code de la catégorie socio-professionnelle	Libellé de la catégorie socio-professionnelle	Date de début du mandat
 01	Ain			0101	1Ère Circonscription	BRETON	Xavier	M	25/11/1962	33	Cadre de la fonction publique	22/06/2022
+01	Ain			0102	2Ème Circonscription	BERGANTZ	Anne	F	17/09/1968	43	Profession intermédiaire de la santé et du travail social	10/11/2022
 01	Ain			0102	2Ème Circonscription	DAUBIÉ	Romain	M	05/05/1980	31	Profession libérale	22/06/2022
 01	Ain			0103	3Ème Circonscription	GIVERNET	Olga	F	17/10/1981	38	Ingénieur et cadre technique d'entreprise	22/06/2022
 01	Ain			0104	4Ème Circonscription	BUISSON	Jérôme	M	15/01/1973	34	Professeur, profession scientifique	22/06/2022
@@ -66,7 +67,6 @@ Code du département	Libellé du département	Code de la collectivité à statut
 14	Calvados			1406	6Ème Circonscription	SERTIN	Freddy	M	07/02/1980	47	Technicien	23/07/2022
 15	Cantal			1501	1Ère Circonscription	DESCOEUR	Vincent	M	13/12/1962	34	Professeur, profession scientifique	22/06/2022
 15	Cantal			1502	2Ème Circonscription	BONY	Jean-Yves	M	11/03/1955	12	Agriculteur sur moyenne exploitation	22/06/2022
-16	Charente			1601	1Ère Circonscription	MESNIER	Thomas	M	04/03/1986	33	Cadre de la fonction publique	22/06/2022
 16	Charente			1602	2Ème Circonscription	MARSAUD	Sandra	F	02/01/1974	74	Ancien cadre	22/06/2022
 16	Charente			1603	3Ème Circonscription	COLOMBIER	Caroline	F	22/08/1957	74	Ancien cadre	22/06/2022
 17	Charente-Maritime			1701	1Ère Circonscription	FALORNI	Olivier	M	27/03/1972	34	Professeur, profession scientifique	22/06/2022
@@ -239,7 +239,6 @@ Code du département	Libellé du département	Code de la collectivité à statut
 50	Manche			5003	3Ème Circonscription	TRAVERT	Stéphane	M	12/10/1969	37	Cadre administratif et commercial d'entreprise	22/06/2022
 50	Manche			5004	4Ème Circonscription	PIC	Anna	F	04/06/1978	34	Professeur, profession scientifique	22/06/2022
 51	Marne			5101	1Ère Circonscription	ALBERTINI	Xavier	M	28/01/1970	31	Profession libérale	22/06/2022
-51	Marne			5102	2Ème Circonscription	FRIGOUT	Anne-Sophie	F	11/04/1971	34	Professeur, profession scientifique	22/06/2022
 51	Marne			5103	3Ème Circonscription	GIRARDIN	Eric	M	12/02/1962	72	Ancien artisan, commerçant, chef d'entreprise	22/06/2022
 51	Marne			5104	4Ème Circonscription	MAGNIER	Lise	F	31/12/1984	33	Cadre de la fonction publique	22/06/2022
 51	Marne			5105	5Ème Circonscription	DE COURSON	Charles	M	02/04/1952	74	Ancien cadre	22/06/2022
@@ -311,7 +310,6 @@ Code du département	Libellé du département	Code de la collectivité à statut
 62	Pas-De-Calais			6205	5Ème Circonscription	PONT	Jean-Pierre	M	09/05/1950	31	Profession libérale	22/06/2022
 62	Pas-De-Calais			6206	6Ème Circonscription	ENGRAND	Christine	F	07/05/1955	37	Cadre administratif et commercial d'entreprise	22/06/2022
 62	Pas-De-Calais			6207	7Ème Circonscription	DUMONT	Pierre-Henri	M	07/10/1987	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
-62	Pas-De-Calais			6208	8Ème Circonscription	PETIT	Bertrand	M	28/08/1964	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
 62	Pas-De-Calais			6209	9Ème Circonscription	PARMENTIER	Caroline	F	16/12/1965	45	Profession intermédiaire administrative de la fonction publique	22/06/2022
 62	Pas-De-Calais			6210	10Ème Circonscription	FRAPPÉ	Thierry	M	23/05/1952	31	Profession libérale	22/06/2022
 62	Pas-De-Calais			6211	11Ème Circonscription	LE PEN	Marine	F	05/08/1968	31	Profession libérale	22/06/2022
@@ -324,7 +322,7 @@ Code du département	Libellé du département	Code de la collectivité à statut
 64	Pyrénées-Atlantiques			6401	1Ère Circonscription	POUEYTO	Josy	F	13/01/1954	77	Ancien employé	22/06/2022
 64	Pyrénées-Atlantiques			6402	2Ème Circonscription	MATTEI	Jean-Paul	M	21/03/1954	31	Profession libérale	22/06/2022
 64	Pyrénées-Atlantiques			6403	3Ème Circonscription	HABIB	David	M	16/03/1961	37	Cadre administratif et commercial d'entreprise	22/06/2022
-64	Pyrénées-Atlantiques			6404	4Ème Circonscription	ECHANIZ	Inaki	M	02/09/1993	33	Cadre de la fonction publique	22/06/2022
+64	Pyrénées-Atlantiques			6404	4Ème Circonscription	ECHANIZ	Iñaki	M	02/09/1993	33	Cadre de la fonction publique	22/06/2022
 64	Pyrénées-Atlantiques			6405	5Ème Circonscription	LASSERRE	Florence	F	29/06/1974	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
 64	Pyrénées-Atlantiques			6406	6Ème Circonscription	BRU	Vincent	M	29/04/1955	34	Professeur, profession scientifique	22/06/2022
 65	Hautes-Pyrénées			6501	1Ère Circonscription	FERRER	Sylvie	F	06/11/1967	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	22/06/2022
