@@ -1,0 +1,638 @@
+code_region	libelle_region	code_departement	libelle_departement	code_collectivite_statut_particulier	libelle_collectivite_statut_particulier	code_section	libelle_section	code_circonscription_metropolitaine	libelle_circonscription_metropolitaine	nom_elu	prenom_elu	sexe_elu	date_naissance_elu	code_categorie_socio_professionnelle	libelle_categorie_socio_professionnelle	date_debut_mandat	libelle_fonction	date_debut_fonction	lieu_naissance_elu	code_nuance_mandat	libelle_nuance_mandat
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	BUB	Jérôme	M	1972-06-01 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			Saint-Étienne	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	BUFFET	François-Noël	M	1963-08-28 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			Lyon 6	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	CHARNAY	Christiane	F	1956-01-20 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00				COM	Parti communiste français
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	DA PASSANO	Jean-Luc	M	1949-04-14 00:00:00+00	22	Commerçant et assimilé	2020-06-28 00:00:00+00			AUMALE	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	DIOP	Moussa	M	1951-10-22 00:00:00+00	77	Ancien employé	2020-06-28 00:00:00+00			DAKAR (SENEGAL)	FI	La France insoumise
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	FRETY-PERRIER	Laurence	F	1976-04-30 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00				VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	GROSPERRIN	Anne	F	1959-05-19 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	Montbeliard	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	JANNOT	Brigitte	F	1958-04-25 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-06-28 00:00:00+00			Lyon 02	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	KOHLHAAS	Jean-Charles	M	1964-09-29 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	LYON 06	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	PEREZ	Eric	M	1980-12-16 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			LYON 07	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	POUZERGUE	Clotilde	F	1967-01-06 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-06-28 00:00:00+00			Lyon 6	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-01	Lones Et Coteaux	SECHAUD	Joëlle	F	1957-10-04 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			LYON 7	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	ARTIGNY	Bertrand	M	1961-01-06 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00		VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	AUGEY	Camille	F	1991-03-22 00:00:00+00	22	Commerçant et assimilé	2020-06-28 00:00:00+00			Valence	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	BENAHMED	Fatiha	F	1963-03-06 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			Lyon 2ème	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	BLANCHARD	Pascal	M	1962-03-06 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	Givors	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	COLLOMB	Gérard	M	1947-06-20 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			chalon-sur-saone	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	DEBÛ	Raphaël	M	1981-10-31 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			AIX EN PROVENCE 13	COM	Parti communiste français
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	GEORGEL	Nadine	F	1977-05-21 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			Marseille	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	POPOFF	Sophia	F	1988-08-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00				VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	PORTIER	Elie	M	1988-01-26 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			Saint-Brieuc	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	RUDIGOZ	Thomas	M	1971-01-11 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00			LYON 7EME	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-02	Lyon-Ouest	THEVENIEAU	François	M	1948-11-09 00:00:00+00	77	Ancien employé	2020-06-28 00:00:00+00				VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	CHIHI	Mohamed	M	1978-07-05 00:00:00+00	34	Professeur, profession scientifique	2020-10-09 00:00:00+00			LYON	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	DUBOT	Fanny	F	1989-03-02 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2020-06-28 00:00:00+00			Mende	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	GEOURJON	Christophe	M	1966-08-24 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			SAINT ETIENNE	UDI	Union des Démocrates et des Indépendants
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	MONOT	Vincent	M	1981-09-28 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			LYON 8 ème	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	PAYRE	Renaud	M	1975-04-24 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	Grenoble 38	DVG	Divers gauche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	PERRIN-GILBERT	Nathalie	F	1971-10-28 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00			LYON 7	DVG	Divers gauche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	PICOT	Myriam	F	1953-02-09 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			Lyon	DVG	Divers gauche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	TEST	Test	F	2000-01-01 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-01-11 00:00:00+00	Vice-président de l'assemblée	2021-01-11 00:00:00+00		RN	Rassemblement National
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-03	Lyon-Sud	VACHER	Lucie	F	1989-05-06 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	Firminy	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BAGNON	Fabien	M	1975-08-21 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	OULLINS	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BAUME	Emeline	F	1977-09-03 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	MACON	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BEN ITAH	Yves	M	1957-12-12 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2020-06-28 00:00:00+00			MARNIA	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BOFFET	Laurence	F	1973-01-02 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	CHAGNY 71	FI	La France insoumise
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	BOUAGGA	Yasmine	F	1982-10-12 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			PARIS	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	CABOT	Marie Agnès	F	1962-01-06 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			LYON	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	CHAMBON	Pierre	M	1968-07-17 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			STE COLLOMBE	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	GIVORD	Jean-Luc	M	1958-11-09 00:00:00+00	74	Ancien cadre	2021-12-01 00:00:00+00				DIV	Divers
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	GODINOT	Sylvain	M	1973-10-24 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			NANCY	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	GROULT	Florestan	M	1985-12-23 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2022-09-26 00:00:00+00		DVG	Divers gauche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	KIMELFELD	David	M	1961-06-17 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-06-28 00:00:00+00			LYON 3EME	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-04	Lyon-Centre	LUNGENSTRASS	Valentin	M	1994-07-15 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			SOLINGEN	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	BADOUARD	Benjamin	M	1983-06-20 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			firminy 42	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	BURILLON	Carole	F	1956-12-29 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			Lyon 4ème	DVG	Divers gauche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	CORAZZOL	Guy	M	1966-12-10 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			LYON 2ème	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	DUBOIS BERTRAND	Véronique	F	1966-01-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			sannois 95	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	GUERIN	Monique	F	1950-07-09 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			lyon 4	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	MAIRE	Michaël	M	1982-03-14 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			beaune	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-05	Lyon-Est	PETIOT	Isabelle	F	1983-04-13 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	saint-denis	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	BLACHE	Pascal	M	1965-04-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			VALENCE 26	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	BORBON	Delphine	F	1976-09-30 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			TOULOUSE 31	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	BRUMM	Richard	M	1946-10-26 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			LYON 6	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	CROIZIER	Laurence	F	1961-07-01 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			RUEIL MALMAISON	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	DELAUNAY	Florence	F	1962-07-22 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-06-28 00:00:00+00			RENNES	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	LASSAGNE	Lionel	M	1968-07-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			SAINT ETIENNE 42	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	MARGUIN	Christophe	M	1967-12-25 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			LYON 04	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	NACHURY	Dominique	F	1951-06-01 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			CHAMBÉRY	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-06	Lyon-Nord	PANASSIER	Catherine	F	1963-01-30 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00			LYON 2	MDM	Modem
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	AZCUÉ	Mathieu	M	1983-07-23 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2020-06-28 00:00:00+00			St Jean de Luz	FI	La France insoumise
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	DEHAN	Nathalie	F	1973-01-07 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2020-06-28 00:00:00+00			Rilleux-la-pape	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	DOUCET	Grégory	M	1973-08-22 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			paris	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	GUELPA-BONARO	Philippe	M	1985-03-10 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	chambéry	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	LE FAOU	Michel	M	1967-10-10 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			QUIMPER 29	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	PELAEZ	Louis	M	1967-10-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			TOURNON SUR RHONE	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	ROCH	Valérie	F	1961-05-14 00:00:00+00	48	Contremaître, agent de maîtrise	2020-06-28 00:00:00+00			lyon 6	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	RUNEL	Sandrine	F	1979-06-01 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			NIMES 30	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-07	Lyon-Sud-Est	ZDOROVTZOFF	Sonia	F	1987-05-25 00:00:00+00	54	Employé administratif d'entreprise	2020-06-28 00:00:00+00			bourg-en-bresse	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	CHADIER	Sandrine	F	1972-04-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			BRON (69500)	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	CHARMOT	Pascal	M	1962-09-02 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			NEVERS 58	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	DROMAIN	Hélène	F	1963-12-20 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	Lille	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	FONTANGES	Séverine	F	1965-07-05 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2020-06-28 00:00:00+00			lyon 6	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	GALLIANO	Alain	M	1946-06-06 00:00:00+00	77	Ancien employé	2020-06-28 00:00:00+00			LYON	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	MÔNE	Jean	M	1977-07-15 00:00:00+00	21	Artisan	2020-06-28 00:00:00+00			nantes 44	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	RANTONNET	Michel	M	1954-06-21 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			lyon 3	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	SARSELLI	Véronique	F	1968-12-18 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			biguglia 2B	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-08	Ouest	SEGUIN	Luc	M	1960-04-13 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			oullins	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	COCHET	Philippe	M	1961-05-23 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			Lyon 6	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	CRESPY	Chantal	F	1956-04-19 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2020-06-28 00:00:00+00			Oullins 69	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	DUPUY	Catherine	F	1970-01-29 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			Vannes 56	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	FONTAINE	Myriam	F	1952-09-10 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			Aix les bains	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	HEMAIN	Séverine	F	1977-03-31 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	LYON 7	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	PETIT	Gaël	M	1972-04-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			RILLIEUX	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	SMATI	Julien	M	1975-09-02 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			Lyon 4	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-09	Plateau Nord-Caluire	VINCENDET	Alexandre	M	1983-10-06 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00				LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	BRAMET-REYNAUD	Nathalie	F	1964-08-04 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			LYON 03	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	CARRIER	Marion	F	1996-11-12 00:00:00+00	84	Elève, étudiant	2021-07-28 00:00:00+00				DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	COHEN	Claude	M	1948-05-02 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-06-28 00:00:00+00			CASABLANCA	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	CORSALE	Doriane	F	1960-12-22 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			LYON 8	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	DOGANEL	Izzet	M	1981-05-05 00:00:00+00	22	Commerçant et assimilé	2020-06-28 00:00:00+00			LYON 3	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	EL FALOUSSI	Messaouda	F	1969-11-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00			BENI-FOUDA (ALGERIE)	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	GASCON	Gilles	M	1967-01-21 00:00:00+00	22	Commerçant et assimilé	2020-06-28 00:00:00+00			LYON 3	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	LONGUEVAL	Jean-Michel	M	1956-03-30 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	TUBINGEN	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	MOREIRA	Véronique	F	1960-05-29 00:00:00+00	75	Ancienne profession intermédiaire	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	OULLINS 69	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	PERCET	Joëlle	F	1951-03-19 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			BOURGOIN 38	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	SELLES	Jean Jacques	M	1955-03-23 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			ALGER (algerie)	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-10	Porte Des Alpes	SIBEUD	Nicole	F	1956-11-05 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			LYON 4	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	ATHANAZE	Pierre	M	1961-07-30 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	SAINT FONS	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	BLEIN	Yves	M	1954-10-12 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			Lyon	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	BOUMERTIT	Idir	M	1974-10-04 00:00:00+00	54	Employé administratif d'entreprise	2020-06-28 00:00:00+00			Lyon 3	FI	La France insoumise
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	BURRICAND	Marie-Christine	F	1957-11-14 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			LYON 7	COM	Parti communiste français
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	EDERY	Michèle	F	1956-03-30 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			SAINT-FONS	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	ETIENNE	Christine	F	1965-04-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-09 00:00:00+00				VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	FRIER	Nathalie	F	1966-08-01 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			LYON 4	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	GIRARD	Christophe	M	1966-09-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			CHAMBERY	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	GIROMAGNY	Veronique Denise	F	1963-11-08 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			LUXEUIL-LES-BAINS	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	MILLET	Pierre-Alain	M	1957-10-01 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			MACON	COM	Parti communiste français
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-11	Portes Du Sud	PICARD	Michèle	F	1967-01-19 00:00:00+00	54	Employé administratif d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	LYON 3	COM	Parti communiste français
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	BARGE	Lucien	M	1948-06-10 00:00:00+00	12	Agriculteur sur moyenne exploitation	2020-06-28 00:00:00+00			PONT DE CHERUY 38	DVC	Divers centre
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	BENZEGHIBA	Issam	M	1987-10-05 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			LYON 3	DVG	Divers gauche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	BROSSAUD	Claire	F	1968-03-18 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			louviers	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	CREDOZ	Dominique	F	1962-03-16 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			BENI-SAF (ALGERIE)	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	CREUZE	Catherine	F	1957-09-17 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2020-06-28 00:00:00+00			dijon 21	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	GEOFFROY	Hélène	F	1970-03-04 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	CREIL 60	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	GOMEZ	Stéphane	M	1975-10-02 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			LYON 3	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	LECERF	Muriel	F	1968-09-02 00:00:00+00	47	Technicien	2020-06-28 00:00:00+00			LAXOU 54	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	MARION	Richard	M	1987-12-15 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			lyon 8	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	PERRIET-ROUX	Isabelle	F	1974-08-21 00:00:00+00	31	Profession libérale	2021-07-26 00:00:00+00			VALENCE 26	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	QUINIOU	Christophe	M	1972-05-13 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-06-28 00:00:00+00			PARIS 14EME	LR	Les Républicains
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-12	Rhône Amont	VIEIRA	Matthieu	M	1997-05-06 00:00:00+00	84	Elève, étudiant	2020-06-28 00:00:00+00			lyon 4	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	ASTI-LAPPERRIERE	Florence	F	1964-08-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			CHAMBERY 73	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	CAMUS	Jérémy	M	1977-05-10 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	LANGRES	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	CARDONA	Corinne	F	1958-03-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			LYON 6	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	COIN	Gisèle	F	1973-02-15 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-06-28 00:00:00+00			LYON 6	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	COLLIN	Blandine	F	1969-12-26 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			SAINT PIERRE	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	DAVID	Pascal	M	1961-04-27 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			BOURGOIN 38	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	FOURNILLON	Rose-France	F	1944-09-21 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-06-28 00:00:00+00			RELIZANE (ALGERIE)	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	GRIVEL	Marc	M	1945-10-28 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-06-28 00:00:00+00			LYON 3 EME	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	PILLON	Gilles	M	1957-05-05 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			CRAPONNE 69	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	SAINT-CYR	Maryline	F	1976-09-20 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-06-28 00:00:00+00			LYON 4	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	UHLRICH	Yves-Marie	M	1950-05-22 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			HYERES 83	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	VERGIAT	Eric	M	1963-07-21 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			LYON 6	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	VINCENT	Max	M	1950-07-04 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			LYON 6	DVD	Divers droite
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-13	Val De Saône	VULLIEN	Michèle	F	1944-01-18 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			SAINT JUST SAUVAGE	UDI	Union des Démocrates et des Indépendants
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	ARTHAUD	Léna	F	1991-03-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-06-28 00:00:00+00			SAINT MARTIN d'HERES 38	COM	Parti communiste français
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	BARLA	Nicolas	M	1997-01-08 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			NICE 06	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	BERNARD	Bruno	M	1970-12-31 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00	Président de l'assemblée	2020-07-02 00:00:00+00	SAINTE-FOY-LES-LYON 69	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	BRUNEL VIEIRA	Vinciane	F	1978-08-21 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00			CARPENTRAS 84	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	DALBY	Hugo	M	1991-05-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-06-28 00:00:00+00			LIMOGES 87	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	DEVINAZ	Gilbert-Luc	M	1953-07-19 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			LYON 7	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	KABALO	Prosper	M	1955-08-26 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00			CASABLANCA	REM	La République en marche
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	KHELIFI	Zemorda	F	1974-10-01 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	El Merizit 99	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	LAGARDE	Caroline	F	1967-06-21 00:00:00+00	55	Employé de commerce	2020-06-28 00:00:00+00			BELFORT 90	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	LEGENDRE	Laurent	M	1983-05-29 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-06-28 00:00:00+00			CLERMONT-FERRAND 63	FI	La France insoumise
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	NOVAK	Floyd	M	1991-05-17 00:00:00+00	31	Profession libérale	2020-06-28 00:00:00+00			Vaison la Romaine 84	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	PROST	Emilie	F	1984-11-09 00:00:00+00	22	Commerçant et assimilé	2020-06-28 00:00:00+00			SAINT-MARTIN-D'HERES	MDM	Modem
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	RAY	Jean-Claude	M	1956-03-01 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			LYON 3	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	REVEYRAND	Anne	F	1953-03-01 00:00:00+00	74	Ancien cadre	2020-06-28 00:00:00+00			LYON 3	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	SUBAÏ	Corinne	F	1970-09-17 00:00:00+00	34	Professeur, profession scientifique	2020-06-28 00:00:00+00			Strasbourg	VEC	Europe Ecologie - Les Verts
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	VAN STYVENDAEL	Cédric	M	1973-10-15 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	LYON 4	SOC	Socialiste
+84	Auvergne-Rhône-Alpes	69	Rhône	69M	Métropole De Lyon			MPLY-14	Villeurbanne	VESSILLER	Béatrice	F	1962-12-08 00:00:00+00	33	Cadre de la fonction publique	2020-06-28 00:00:00+00	Vice-président de l'assemblée	2020-07-02 00:00:00+00	BOURGOIN 38	VEC	Europe Ecologie - Les Verts
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			CARIUS	Francine	F	1955-03-05 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			FRANCOIS	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			CLIO	Fred	M	1961-07-08 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		DIV	Divers
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			EDMOND-MARIETTE	Philippe	M	1955-10-15 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			ETIENNE NOTTE	Yannick	F	1970-05-24 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00			FORT-DE-FRANCE	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			MANIN	Josette	F	1950-03-16 00:00:00+00	161	Retraité salarié privé (obsolète)	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			MARIE-REINE	Olivier	M	1968-06-15 00:00:00+00	21	Artisan	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			MARIE-SAINTE	Daniel	M	1944-12-14 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	FORT-DE-FRANCE	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			ROSE	Johnny	M	1956-03-01 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00				DIV	Divers
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			TAUREL	Monette	F	1966-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			TAVERNIER	Samuel	M	1958-01-06 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			LE FRANCOIS	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			TELLE	Patricia	F	1959-12-12 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	Saint-Joseph	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			TINOT	Marie-Frantz	F	1959-05-07 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00			FRANCOIS	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB1	Martinique-Section Du Centre			ZOBDA	David	M	1959-05-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00	Membre de l'organe exécutif	2021-07-02 00:00:00+00		DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			AZEROT	Bruno Nestor	M	1961-07-22 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00			La Trinité	REM	La République en marche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			BEAULIEU	Lydia	F	1974-06-22 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			BERNABE	Kora	F	1989-06-04 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-07-02 00:00:00+00			Fort-de-France	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			BOUTRIN	Louis	M	1958-09-26 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			Fort-de-France	ECO	Ecologiste
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			CASIMIRIUS	Marie Thérèse	F	1954-05-29 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00	Membre de l'organe exécutif	2021-07-02 00:00:00+00	BASSE-POINTE	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			DUFEAL	Eric	M	1965-10-23 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			DULYS-PETIT	Jenny	F	1953-01-15 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			Saint-Pierre	DVD	Divers droite
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			ECANVIL	Jean-Claude	M	1952-10-06 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			LORRAIN	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			ISMAIN	Félix	M	1952-02-20 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			Fort-de-France	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			LARGEN-MARINE	Yolène	F	1958-09-30 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			LIMIER	Nadia Emilienne	F	1970-05-29 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-07-02 00:00:00+00			SAINT-PIERRE	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			LISLET	Claude	M	1963-08-16 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00				DVC	Divers centre
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			NADEAU	Marcellin	M	1962-11-02 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00			SAINT-PIERRE	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			PAMPHILE	Justin	M	1969-05-06 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00			lorrain	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB2	Martinique-Section Du Nord			SALIBER	Lucien	M	1951-10-24 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00	Président de l'assemblée	2021-07-02 00:00:00+00	SAINT-PIERRE	DVD	Divers droite
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			CAROLE	Francis	M	1958-10-19 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			Fort-de-France	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			CASANOVA	Sandra	F	1975-03-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00				DIV	Divers
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			CHAMMAS	Charles	M	1965-06-30 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			CONCONNE	Catherine	F	1963-05-18 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-07-02 00:00:00+00			Fort-de-France	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			DI GERONIMO	Bénédicte	F	1977-12-11 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00	Membre de l'organe exécutif	2021-07-02 00:00:00+00		DIV	Divers
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			DUVERGER	Jean-Claude	M	1948-06-14 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	Fort-de-France	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			EMMANUEL	Christiane	F	1962-09-30 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-07-02 00:00:00+00			Fort-de-France	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			LAGUERRE	Didier	M	1966-01-10 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00			Saint-Pierre	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			LETCHIMY	Serge	M	1953-01-13 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00	Président de l'organe exécutif	2021-07-02 00:00:00+00	GROS MORNE	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			MONROSE	Michelle	F	1984-11-07 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00			Fort-de-France	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			RAVIN	Marie-Ange	F	1951-05-05 00:00:00+00	21	Artisan	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB3	Martinique-Section De Fort-De-France			VENTADOUR	Alexandre	M	1981-04-13 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00				DIV	Divers
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			ACCUS ADAINE	Nadia	F	1975-07-17 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			FORT DE FRANCE	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			BEAUNOL	Jean François	M	1962-12-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			BEAUNOL	Jean-François Emmanuel	M	1962-12-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			CLEM-BERTHOLO	Manuella	F	1966-12-06 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00			FORT DE FRANCE	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			DINAL	David	M	1952-08-10 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			DUNON	Rosalie	F	1951-09-08 00:00:00+00	77	Ancien employé	2021-07-02 00:00:00+00			LE FRANCOIS	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			LARCHER	Eugène	M	1947-02-03 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			LES ANSES D'ARLET	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			MIRANDE	José	M	1958-08-31 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00			LE MARIN	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			NARCISSOT	Marius	M	1964-03-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00			LAMENTIN	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			NELLA	Aurélie	F	1985-05-04 00:00:00+00	54	Employé administratif d'entreprise	2021-07-02 00:00:00+00			BESANCON	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			NILOR	Jean-Philippe	M	1965-05-15 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00				REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			NORCA	Stéphanie	F	1983-01-11 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-07-02 00:00:00+00			PARIS 20	REG	Régionaliste
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			ODONNAT	Fernand Bruno	M	1965-10-06 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00			LE FRANCOIS	DVG	Divers gauche
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			PANZO	Jocelyne	F	1956-01-30 00:00:00+00	77	Ancien employé	2021-07-02 00:00:00+00			RIVIERE SALEE	DVD	Divers droite
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			TIRAULT	Fred Michel	M	1973-07-07 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				LR	Les Républicains
+		972	Martinique	972	Martinique	02ZB4	Martinique-Section Du Sud			VALENTIN	Sandra	F	1970-12-02 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00			SAINT-ESPRIT	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			ALEXANDRE	Rodolphe	M	1953-09-25 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			BARBE	Christiane	F	1968-07-01 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			BRIQUET	Muriel	F	1973-12-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			LE WEST	Jean-Luc	M	1965-08-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			LEONCE	Chester	M	1979-08-17 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	Marchand	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			LONG-HIM-NAM	Serge	M	1952-07-26 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			MARIE	Audrey	F	1974-07-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			Paris (14e)	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC1	Guyane-Section De Cayenne			SAINT-ORICE	Zadkiel	M	1983-12-15 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			ALCIN	Sherly	F	1976-04-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00			Aquin	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			ALEXANDER	Lucien	M	1955-10-22 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			BOUBA	Philippe	M	1980-05-10 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		EXG	Extrême gauche
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			BÉLIZAIRE	Julnor	M	1979-02-28 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			Aquin (Haïti)	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			CHAMBAUD	Aïssatou	F	1977-12-03 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	Neuilly sur Seine	DIV	Divers
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			MACHICHI PROST	Violaine	F	1985-06-05 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			PATIENT	Isabelle	F	1979-07-19 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00				DVD	Divers droite
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			PLENET	Claude	M	1965-05-24 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			RATTIER	Marie Lucienne	F	1971-01-11 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00			Majunga	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC3	Guyane-Section De La Grande Couronne			LABRADOR	Jean-Claude	M	1951-08-12 00:00:00+00	75	Ancienne profession intermédiaire	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC3	Guyane-Section De La Grande Couronne			NOKO	Christian	M	1957-03-06 00:00:00+00	55	Employé de commerce	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC3	Guyane-Section De La Grande Couronne			PRINCE	Emmanuel	M	1980-03-20 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	CAYENNE	REG	Régionaliste
+		973	Guyane	973	Guyane	03ZC4	Guyane-Section De L'Oyapock			DÉSERT	Pierre	M	1944-06-19 00:00:00+00	13	Agriculteur sur grande exploitation	2021-07-02 00:00:00+00				DVD	Divers droite
+		973	Guyane	973	Guyane	03ZC4	Guyane-Section De L'Oyapock			GEORGES	Léda	F	1984-02-06 00:00:00+00	55	Employé de commerce	2021-07-02 00:00:00+00			Saint-Georges	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC4	Guyane-Section De L'Oyapock			MONERVILLE	René	M	1974-02-12 00:00:00+00	21	Artisan	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC5	Guyane-Section Des Savanes			COSSET	Patrick	M	1959-11-11 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				REG	Régionaliste
+		973	Guyane	973	Guyane	03ZC5	Guyane-Section Des Savanes			RINGUET	François	M	1976-08-24 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00			CAYENNE	DVD	Divers droite
+		973	Guyane	973	Guyane	03ZC5	Guyane-Section Des Savanes			ROBINSON CHOCHO	Annie	F	1956-12-06 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC5	Guyane-Section Des Savanes			SOESANNA	Magda	F	1989-08-28 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00			CAYENNE	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC5	Guyane-Section Des Savanes			VERNET	Isabelle	F	1967-01-23 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			Le blanc Mesnil	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC5	Guyane-Section Des Savanes			WILLIAM	Enrico	M	1976-09-17 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00				DVD	Divers droite
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			BAGADI	François	M	1977-10-30 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			DADA	Félix	M	1977-03-24 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00			Stoelmanseiland	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			DANIEL	Juliette	F	1964-01-09 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			GRAND-SANTI	DVD	Divers droite
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			DEYE	Raymond	M	1979-02-07 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			GALIMOT	Denis	M	1972-07-19 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00			APATOU	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			TANI	Mirta	F	1984-06-05 00:00:00+00	77	Ancien employé	2021-07-02 00:00:00+00				DIV	Divers
+		973	Guyane	973	Guyane	03ZC6	Guyane-Section Du Haut-Maroni			TELON	Sergina	F	1990-03-23 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			FEREIRA	Jean Paul	M	1971-04-10 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		REG	Régionaliste
+		973	Guyane	973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			KEZZA	Crépin	M	1970-09-28 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00			Bangui (République centrafr.)	DVD	Divers droite
+		973	Guyane	973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			LE GALL	Gilles	M	1969-06-05 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			LÉO	Catherine	F	1961-07-14 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			PERLET	Keena	F	1978-05-30 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			WAARHEID	Benfelino	M	1989-01-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00				DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC8	Guyane-Section De Basse-Mana			BENTH	Albéric	M	1965-12-16 00:00:00+00	13	Agriculteur sur grande exploitation	2021-07-02 00:00:00+00			CAYENNE	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC8	Guyane-Section De Basse-Mana			STEENWINKEL	Tiarrah	F	1992-03-03 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	SAINT LAURENT DU MARONI	DVG	Divers gauche
+		973	Guyane	973	Guyane	03ZC8	Guyane-Section De Basse-Mana			THERESE	Jocelyn	M	1964-04-06 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00				DVG	Divers gauche
+				94	Corse					ACQUAVIVA	Jean-Félix	M	1973-03-19 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					ANGELINI	Jean-Christophe	M	1975-11-27 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00			Bastia (2B)	REG	Régionaliste
+				94	Corse					ANTONINI	Danielle	F	1957-09-05 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			MARSEILLE	REG	Régionaliste
+				94	Corse					ARENA	Jean-Baptiste	M	1980-07-01 00:00:00+00	12	Agriculteur sur moyenne exploitation	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					ARRIGHI	Véronique	F	1974-01-23 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					BATTESTINI	Serena	F	1977-08-20 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					BENEDETTI	Paul-Félix	M	1966-07-28 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-07-02 00:00:00+00			Poggio Mezzana (Haute-Corse)	REG	Régionaliste
+				94	Corse					BIANCUCCI	Jean	M	1948-05-08 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2021-07-02 00:00:00+00			AJACCIO	REG	Régionaliste
+				94	Corse					BICCHIERAY	Didier	M	1968-07-06 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					BORRI	Jean-Marc	M	1968-09-10 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			marseille	REG	Régionaliste
+				94	Corse					BORROMEI	Vanina	F	1978-08-10 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00			bastia	REG	Régionaliste
+				94	Corse					BOZZI	Valérie	F	1982-03-18 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			Forciolo	LR	Les Républicains
+				94	Corse					BRANCA	Marie-Claude	F	1961-11-16 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					CAITUCOLI	Paul-Joseph	M	1969-04-23 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00			Ajfaccio	REG	Régionaliste
+				94	Corse					CAMPANA	Françoise	F	1970-01-23 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			bastia	REG	Régionaliste
+				94	Corse					CASANOVA-SERVAS	Marie-Hélène	F	1969-01-04 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					CHIARELLI-LUZI	Vannina	F	1971-09-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					COGNETTI TURCHINI	Catherine	F	1964-05-20 00:00:00+00	56	Personnel des services directs aux particuliers	2021-07-02 00:00:00+00				DVG	Divers gauche
+				94	Corse					COLOMBANI	Anne-Marie	F	1947-09-16 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					COLONNA	Romain	M	1982-02-21 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					COMBETTE	Christelle	F	1972-03-16 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			Marseille (13)	DVD	Divers droite
+				94	Corse					DUVAL	Santa	F	1967-01-08 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					FAGNI	Muriel	F	1958-09-12 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					FILIPPI	Petru Antone	M	1991-07-24 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					FRANCISCI	Lisa Annie	F	1994-10-04 00:00:00+00	84	Elève, étudiant	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					GALLONI D'ISTRIA	Evelyne	F	1958-04-20 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					GHIONGA	Pierre	M	1957-09-05 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVG	Divers gauche
+				94	Corse					GIABICONI	Jean-Charles	M	1973-05-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00			BASTIA	REG	Régionaliste
+				94	Corse					GIACOMETTI-PINEDDA	Josepha	F	1983-08-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					GUIDONI	Pierre	M	1959-01-01 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					GUIDONI-DENSARI	Frédérique	F	1968-05-07 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					LACOMBE	Xavier	M	1965-06-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					LE BOMIN	Vanina	F	1966-03-12 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					LE MAO	Ghjuvan'Santu	M	1981-10-29 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			Bastia	REG	Régionaliste
+				94	Corse					LUCCHINI	Jean-Jacques	M	1964-04-13 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					LUCCIONI	Don Joseph	M	1999-07-05 00:00:00+00	84	Elève, étudiant	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					LUCIANI	Saveriu	M	1958-03-24 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					MARCHETTI	Sandra	F	1992-08-12 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-07-02 00:00:00+00			bastia	REG	Régionaliste
+				94	Corse					MARIOTTI	Marie Thérèse	F	1963-09-17 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-07-02 00:00:00+00			Penta di Casinca	DVD	Divers droite
+				94	Corse					MAUPERTUIS	Marie-Antoinette	F	1967-04-10 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00	Président de l'assemblée	2021-07-02 00:00:00+00		REG	Régionaliste
+				94	Corse					MELA	Georges	M	1960-04-29 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2021-07-02 00:00:00+00			PORTO-VECCHIO (2A)	DVD	Divers droite
+				94	Corse					MONDOLONI	Jean-Martin	M	1968-10-24 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					MOSCA	Paula	F	1976-11-25 00:00:00+00	34	Professeur, profession scientifique	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					NIVAGGIONI	Nadine	F	1962-02-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		REG	Régionaliste
+				94	Corse					PANZANI	Jean-Paul	M	1949-04-11 00:00:00+00	77	Ancien employé	2021-07-02 00:00:00+00			ALTAGENE	REG	Régionaliste
+				94	Corse					PEDINIELLI	Chantal	F	1964-07-02 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					PIERI	Marie-Anne	F	1959-02-24 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					PIETRI	Véronique	F	1969-05-30 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00			Ajaccio	REG	Régionaliste
+				94	Corse					POLI	Antoine	M	1968-09-16 00:00:00+00	48	Contremaître, agent de maîtrise	2021-07-02 00:00:00+00			Bobo-Dioulasso	REM	La République en marche
+				94	Corse					POLI	Pierre	M	1958-01-13 00:00:00+00	47	Technicien	2021-07-02 00:00:00+00			Ajaccio (2A)	REG	Régionaliste
+				94	Corse					PONZEVERA	Juliette	F	1982-03-17 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					POZZO DI BORGO	Louis	M	1977-04-24 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00			Bastia	DVG	Divers gauche
+				94	Corse					QUASTANA	Paul	M	1951-04-29 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00			ALBITRECCIA	REG	Régionaliste
+				94	Corse					SANTUCCI	Anne-Laure	F	1965-07-31 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					SAVELLI	Jean-Michel	M	1960-09-26 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					SAVELLI	Joseph	M	1986-03-27 00:00:00+00	55	Employé de commerce	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					SEATELLI	Jean-Louis	M	1947-02-22 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			San Nicolao	DVD	Divers droite
+				94	Corse					SIMEONI	Gilles	M	1967-04-20 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00	Président de l'organe exécutif	2021-07-02 00:00:00+00		REG	Régionaliste
+				94	Corse					SORBA	François	M	1972-07-28 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-02 00:00:00+00				REG	Régionaliste
+				94	Corse					TERRIGHI	Charlotte	F	1955-11-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00				DVD	Divers droite
+				94	Corse					TIBERI	Julia	F	1981-10-09 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			Nice (06)	REG	Régionaliste
+				94	Corse					VALDRIGHI	Hervé	M	1974-05-01 00:00:00+00	22	Commerçant et assimilé	2021-07-02 00:00:00+00			Bastia	REG	Régionaliste
+				94	Corse					VANNI	Hyacinthe	M	1968-10-27 00:00:00+00	47	Technicien	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		REG	Régionaliste
+				973	Guyane	03ZC1	Guyane-Section De Cayenne			CHONG-SIT	Boris	M	1972-04-11 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00				DVD	Divers droite
+				973	Guyane	03ZC1	Guyane-Section De Cayenne			DUCLONA-CONSTANT	Bernadette	F	1983-02-14 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		DVG	Divers gauche
+				973	Guyane	03ZC1	Guyane-Section De Cayenne			SAID	Patricia	F	1962-10-04 00:00:00+00	62	Ouvrier qualifié de type industriel	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	SAINT LAURENT DU MARONI	DVG	Divers gauche
+				973	Guyane	03ZC1	Guyane-Section De Cayenne			SERVILLE	Gabriel	M	1959-09-27 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00	Président de l'assemblée	2021-07-02 00:00:00+00		DVG	Divers gauche
+				973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			ARON	Roger	M	1954-04-25 00:00:00+00	74	Ancien cadre	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		SOC	Socialiste
+				973	Guyane	03ZC2	Guyane-Section De La Petite Couronne			LECHAT-VEGA	Thibault	M	1988-01-12 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		FI	La France insoumise
+				973	Guyane	03ZC3	Guyane-Section De La Grande Couronne			CRESSON-IBRIS	Karine	F	1974-06-17 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00		REG	Régionaliste
+				973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			AMERICAIN	Jessi	M	1989-04-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-07-02 00:00:00+00			SAINT LAURENT DU MARONI	DVG	Divers gauche
+				973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			CYRIAQUE	Samantha	F	1984-03-09 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-07-02 00:00:00+00	Vice-président de l'assemblée	2021-07-02 00:00:00+00	SAINT LAURENT DU MARONI	REG	Régionaliste
+				973	Guyane	03ZC7	Guyane-Section De Saint-Laurent-Du-Maroni			DESMANGLES	Nelly	F	1967-12-14 00:00:00+00	33	Cadre de la fonction publique	2021-07-02 00:00:00+00				DVG	Divers gauche
+				975	Saint-Pierre-Et-Miquelon					ABRAHAM	Yannick	M	1959-09-18 00:00:00+00	21	Artisan	2022-04-01 00:00:00+00	Vice-président de l'organe éxécutif	2022-04-01 00:00:00+00		DVD	Divers droite
+				975	Saint-Pierre-Et-Miquelon					ARROSSAMENA	Gael	M	1984-04-14 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-04-01 00:00:00+00				NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					BRIAND	Bernard	M	1974-07-05 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2017-03-19 00:00:00+00	Président de l'assemblée	2020-10-13 00:00:00+00		NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					CORMIER ANDRÉ	Jacqueline	F	1960-07-19 00:00:00+00	74	Ancien cadre	2022-04-01 00:00:00+00	Vice-président de l'organe éxécutif	2022-04-01 00:00:00+00		DVD	Divers droite
+				975	Saint-Pierre-Et-Miquelon					COSTE	Yannis	M	1970-08-20 00:00:00+00	109	Commercant (obsolète)	2022-04-01 00:00:00+00	Vice-président de l'organe éxécutif	2022-04-01 00:00:00+00		DVD	Divers droite
+				975	Saint-Pierre-Et-Miquelon					DAGORT	Allison	F	1992-08-20 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-04-01 00:00:00+00				NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					DAGORT	Jean-Louis	M	1964-03-28 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2017-03-19 00:00:00+00	Membre de l'organe exécutif	2017-10-24 00:00:00+00		NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					DESDOUETS	Nolwen	F	1998-08-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-04-01 00:00:00+00				NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					DETCHEVERRY	Franck	M	1984-07-07 00:00:00+00	11	Agriculteur sur petite exploitation	2022-04-01 00:00:00+00				DVG	Divers gauche
+				975	Saint-Pierre-Et-Miquelon					DETCHEVERRY	Michel	M	1959-06-01 00:00:00+00	77	Ancien employé	2018-05-07 00:00:00+00				NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					DETCHEVERRY-BILY	Roselle	F	1957-12-20 00:00:00+00	77	Ancien employé	2022-04-01 00:00:00+00				DVG	Divers gauche
+				975	Saint-Pierre-Et-Miquelon					GUIBERT	Corinne	F	1968-07-15 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-04-01 00:00:00+00				NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					HARAN	Naomi	F	1997-03-13 00:00:00+00	55	Employé de commerce	2022-04-01 00:00:00+00	Vice-président de l'organe éxécutif	2022-04-01 00:00:00+00		NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					LE BARS	André	M	1955-11-07 00:00:00+00	77	Ancien employé	2022-04-01 00:00:00+00				DVD	Divers droite
+				975	Saint-Pierre-Et-Miquelon					LEMOINE	Claude	M	1984-07-03 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2017-03-19 00:00:00+00	Vice-président de l'organe éxécutif	2020-10-13 00:00:00+00		NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					ORSINY	Arnaud	M	1974-02-05 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-04-01 00:00:00+00	Membre de l'organe exécutif	2022-04-01 00:00:00+00		DVG	Divers gauche
+				975	Saint-Pierre-Et-Miquelon					POIRIER ARROSSAMÉNA	Nathalie	F	1977-05-31 00:00:00+00	33	Cadre de la fonction publique	2022-04-01 00:00:00+00			SAINT-PIERRE	DVG	Divers gauche
+				975	Saint-Pierre-Et-Miquelon					SALOMON	Annick	F	1966-09-27 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-04-01 00:00:00+00				NC	Non connu
+				975	Saint-Pierre-Et-Miquelon					SKINNER	Sandy	F	1988-11-02 00:00:00+00	123	Salarié du secteur médical (obsolète)	2017-03-19 00:00:00+00				NC	Non connu
+				977	Saint-Barthélemy					AUBIN	Marie-Angèle	F	1964-05-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00	SAINT-BARTHÉLEMY	DVC	Divers centre
+				977	Saint-Barthélemy					BERNIER	Marie-Hélène	F	1974-10-09 00:00:00+00	22	Commerçant et assimilé	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00	SAINT-BARTHÉLEMY	DVG	Divers gauche
+				977	Saint-Barthélemy					BLANCHARD	David	M	1977-01-15 00:00:00+00	47	Technicien	2022-03-27 00:00:00+00				ECO	Ecologiste
+				977	Saint-Barthélemy					BRIN	Jonas	M	1984-11-28 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-03-27 00:00:00+00				ECO	Ecologiste
+				977	Saint-Barthélemy					COINTRE	Bettina	F	1981-06-12 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00	SAINT-BARTHÉLEMY	DVG	Divers gauche
+				977	Saint-Barthélemy					DESOUCHES	Maxime	M	1963-04-07 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00		DVG	Divers gauche
+				977	Saint-Barthélemy					FERNANDES PEREIRA	Sandra	F	1992-04-14 00:00:00+00	31	Profession libérale	2022-03-27 00:00:00+00				DVD	Divers droite
+				977	Saint-Barthélemy					GREAUX	Olivier	M	1980-08-07 00:00:00+00	33	Cadre de la fonction publique	2022-03-27 00:00:00+00				DVC	Divers centre
+				977	Saint-Barthélemy					JACQUES	Micheline	F	1971-10-08 00:00:00+00	75	Ancienne profession intermédiaire	2022-03-27 00:00:00+00				LR	Les Républicains
+				977	Saint-Barthélemy					LAKE	Melissa	F	1978-10-04 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-03-27 00:00:00+00				DVC	Divers centre
+				977	Saint-Barthélemy					LAPLACE	Rudy	M	1986-05-04 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-03-27 00:00:00+00				DVD	Divers droite
+				977	Saint-Barthélemy					LEDEE	Dimitri	M	1984-11-07 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-03-27 00:00:00+00				ECO	Ecologiste
+				977	Saint-Barthélemy					LEDEE	Xavier	M	1980-10-15 00:00:00+00	54	Employé administratif d'entreprise	2022-03-27 00:00:00+00	Président de l'assemblée	2022-03-27 00:00:00+00	SAINT-BARTHÉLEMY	DVG	Divers gauche
+				977	Saint-Barthélemy					LEDEE	Xavier	M	1980-10-15 00:00:00+00	54	Employé administratif d'entreprise	2022-03-27 00:00:00+00	Président de l'organe exécutif	2022-04-03 00:00:00+00	SAINT-BARTHÉLEMY	DVG	Divers gauche
+				977	Saint-Barthélemy					MAGRAS	Romaric	M	1979-11-18 00:00:00+00	47	Technicien	2022-03-27 00:00:00+00	Membre de l'organe exécutif	2022-03-27 00:00:00+00	SAINT-BARTHÉLEMY	LR	Les Républicains
+				977	Saint-Barthélemy					MATIGNON	Francius	M	1980-09-21 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00				LR	Les Républicains
+				977	Saint-Barthélemy					MAUREL	Caroline	F	1986-09-25 00:00:00+00	33	Cadre de la fonction publique	2022-03-27 00:00:00+00				DVC	Divers centre
+				977	Saint-Barthélemy					MINARRO	Pascale	F	1691-01-10 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00				ECO	Ecologiste
+				977	Saint-Barthélemy					QUERRARD	Fabrice	M	1988-03-27 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00				DVC	Divers centre
+				977	Saint-Barthélemy					QUESTEL	Alexandra	F	1993-10-01 00:00:00+00	81	Chômeur n'ayant jamais travaillé	2022-03-27 00:00:00+00	Membre de l'organe exécutif	2022-03-27 00:00:00+00		DVD	Divers droite
+				978	Saint-Martin					BELDOR	Martine	F	1990-04-09 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-03-27 00:00:00+00	Membre de l'organe exécutif	2022-03-27 00:00:00+00		DVG	Divers gauche
+				978	Saint-Martin					CHARVILLE	Jules	M	1952-11-21 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00			SAINT-MARTIN	DVG	Divers gauche
+				978	Saint-Martin					COCKS	Steven	M	1994-02-22 00:00:00+00	31	Profession libérale	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					DAMASEAU	Valérie	F	1983-11-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00			SAINT-MARTIN	DVG	Divers gauche
+				978	Saint-Martin					DANIEL	Arnel	M	1962-12-27 00:00:00+00	31	Profession libérale	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					DAVIS	Bernadette	F	1949-11-08 00:00:00+00	77	Ancien employé	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-07-15 00:00:00+00		DVG	Divers gauche
+				978	Saint-Martin					FONROSE	Valérie	F	1969-03-10 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					GIBBS	Daniel	M	1968-01-08 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-03-27 00:00:00+00	Membre de l'organe exécutif	2022-03-27 00:00:00+00	SINT-MAARTEN	UDI	Union des Démocrates et des Indépendants
+				978	Saint-Martin					GIL	Audrey	F	1979-10-12 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					GROS-DESORMEAUX	Alain	M	1968-07-19 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2022-03-27 00:00:00+00				UDI	Union des Démocrates et des Indépendants
+				978	Saint-Martin					GUMBS	Frantz	M	1954-01-21 00:00:00+00	74	Ancien cadre	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					LAURENCE	Angeline	F	1988-10-21 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					LOUISY	Dominique	F	1954-05-04 00:00:00+00	33	Cadre de la fonction publique	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00		DVG	Divers gauche
+				978	Saint-Martin					MENARD	Marc-Gerald	M	1978-09-22 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					MUSSINGTON	Louis	M	1961-11-09 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-03-27 00:00:00+00	Président de l'assemblée	2022-03-27 00:00:00+00	Saint-Martin	DVG	Divers gauche
+				978	Saint-Martin					NICOLAS-REMBOTTE	Melissa	F	1976-02-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-27 00:00:00+00				UDI	Union des Démocrates et des Indépendants
+				978	Saint-Martin					PETIT	Michel	M	1950-02-09 00:00:00+00	74	Ancien cadre	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00		DVG	Divers gauche
+				978	Saint-Martin					PHILIDOR	Philippe	M	1991-03-18 00:00:00+00	31	Profession libérale	2022-03-27 00:00:00+00				UDI	Union des Démocrates et des Indépendants
+				978	Saint-Martin					PÉTRUS	Annick	F	1961-01-05 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					RAMPHORT	Marie Dominique	F	1956-10-28 00:00:00+00	31	Profession libérale	2022-03-27 00:00:00+00				UDI	Union des Démocrates et des Indépendants
+				978	Saint-Martin					RICHARDSON	Alain	M	1963-08-31 00:00:00+00	54	Employé administratif d'entreprise	2022-03-27 00:00:00+00	Vice-président de l'assemblée	2022-03-27 00:00:00+00		DVG	Divers gauche
+				978	Saint-Martin					SANCHEZ OROSCO	Raphael	M	1994-02-10 00:00:00+00	55	Employé de commerce	2022-03-27 00:00:00+00				DVG	Divers gauche
+				978	Saint-Martin					VENTHOU DUMAINE	Bernadette	F	1982-06-12 00:00:00+00	33	Cadre de la fonction publique	2022-03-27 00:00:00+00				DVG	Divers gauche
+				986	Wallis Et Futuna					BAUDRY	Frédéric	M	1967-10-01 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2017-03-26 00:00:00+00				REM	La République en marche
+				986	Wallis Et Futuna					FIAKAIFONU	Palatina	F	1967-12-30 00:00:00+00	33	Cadre de la fonction publique	2022-03-20 00:00:00+00				DVG	Divers gauche
+				986	Wallis Et Futuna					GAVEAU	Charles	M	1969-07-02 00:00:00+00	22	Commerçant et assimilé	2023-02-05 00:00:00+00				DIV	Divers
+				986	Wallis Et Futuna					KELETOLONA	Samuele	M	1981-01-12 00:00:00+00	34	Professeur, profession scientifique	2023-02-05 00:00:00+00				DIV	Divers
+				986	Wallis Et Futuna					KULIMOETOKE	Mikaele	M	1963-06-17 00:00:00+00	53	Policier et militaire	2017-03-26 00:00:00+00				DVG	Divers gauche
+				986	Wallis Et Futuna					LAGIKULA	Malia Kialiki	F	1981-09-19 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-03-20 00:00:00+00				DIV	Divers
+				986	Wallis Et Futuna					LELEIVAI	Petelo	M	1968-04-05 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-03-20 00:00:00+00				DIV	Divers
+				986	Wallis Et Futuna					MAILAGI	Soane Paulo	M	1978-10-17 00:00:00+00	152	Employé (autres entrep. publiques) (obsolète)	2017-03-26 00:00:00+00			WALLIS	DVC	Divers centre
+				986	Wallis Et Futuna					MOTUKU	Sosefo	M	1965-08-03 00:00:00+00	120	Employé (secteur privé) (obsolète)	2017-03-26 00:00:00+00			FUTUNA	DVD	Divers droite
+				986	Wallis Et Futuna					MULIAKAAKA	Munipoese	M	1974-04-11 00:00:00+00	152	Employé (autres entrep. publiques) (obsolète)	2017-03-26 00:00:00+00	Président de l'assemblée	2022-03-25 00:00:00+00	WALLIS	SOC	Socialiste
+				986	Wallis Et Futuna					SEO	Mikaele	M	1971-12-27 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2017-03-26 00:00:00+00			Uvea	DIV	Divers
+				986	Wallis Et Futuna					TAGANE	Lavinia	F	1989-05-09 00:00:00+00	157	Sans profession déclarée (obsolète)	2017-03-26 00:00:00+00			WALLIS	DVD	Divers droite
+				986	Wallis Et Futuna					TAUHAVILI	Ronny	M	1989-03-24 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-03-20 00:00:00+00				DIV	Divers
+				986	Wallis Et Futuna					TAUKOLO	Soane	M	1972-11-21 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2023-02-05 00:00:00+00				DVG	Divers gauche
+				986	Wallis Et Futuna					TOLUAFE	Sosefo	M	1981-04-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-03-20 00:00:00+00				DVG	Divers gauche
+				986	Wallis Et Futuna					TUKUMULI	Lafaele	M	1972-11-05 00:00:00+00	156	Autre profession (obsolète)	2017-03-26 00:00:00+00			FUTUNA	DVG	Divers gauche
+				986	Wallis Et Futuna					UGATAI	Sandrine	F	1976-06-23 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-03-20 00:00:00+00				DVC	Divers centre
+				986	Wallis Et Futuna					VAITOOTAI	Atelea	M	1962-12-12 00:00:00+00	111	Entrepreneur en batiments (obsolète)	2017-03-26 00:00:00+00			NOUMÉA - NLLE - CALÉDONIE	DVD	Divers droite
+				986	Wallis Et Futuna					VANAI	Paino	M	1964-08-23 00:00:00+00	33	Cadre de la fonction publique	2022-03-20 00:00:00+00	Vice-président de l'assemblée	2022-11-30 00:00:00+00		DVG	Divers gauche
+				986	Wallis Et Futuna					VERGÉ	Lauriane	F	1980-07-04 00:00:00+00	22	Commerçant et assimilé	2022-03-20 00:00:00+00				DIV	Divers
+				987	Polynésie Française					ARAIPU	Vetea I Te Rai	M	1976-06-13 00:00:00+00	34	Professeur, profession scientifique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					ATGER-HOI	Teumere	F	1966-12-24 00:00:00+00	109	Commercant (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					BARSINAS	Félix	M	1968-08-14 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	VAITAHU-TAHUATA	NC	Non connu
+				987	Polynésie Française					BOUDOUANI EPSE CHAUMETTE	Teave Leocadia	F	1969-01-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					BOUISSOU	Jean-Christophe	M	1960-10-28 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	VAITUPA - FAAA	NC	Non connu
+				987	Polynésie Française					BOURGEOIS	Frangelica	F	1978-04-13 00:00:00+00	120	Employé (secteur privé) (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					BROTHERSON	Moetai	M	1969-10-22 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2023-05-11 00:00:00+00	Président de l'organe exécutif	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					BROWN	Tahia	F	1970-12-06 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					BRUANT	Virginie	F	1979-11-28 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					BUILLARD	Michel	M	1950-09-09 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					BUTCHER	Yseult	F	1968-03-04 00:00:00+00	22	Commerçant et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Hao	NC	Non connu
+				987	Polynésie Française					CHAILLOUX	Steve	M	1985-11-04 00:00:00+00	34	Professeur, profession scientifique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					COWAN	Mike	M	1980-02-20 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					CROSS EPSE MORGANT	Hinamoeura	F	1988-09-04 00:00:00+00	31	Profession libérale	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					DOOM	Georges	M	1975-08-17 00:00:00+00	54	Employé administratif d'entreprise	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					DROLLET	John Antonio Tefa	M	1954-11-15 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					FAATAU	Luc	M	1959-10-20 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					FAIVRE TUAHU	Vahinetua	F	1963-04-16 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					FLOHR	Henri	M	1952-01-04 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	UTUROA RAIATEA	NC	Non connu
+				987	Polynésie Française					FLORES	Bruno	M	1969-09-09 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2023-05-11 00:00:00+00	Vice-président de l'assemblée	2023-05-11 00:00:00+00	Raivavae	NC	Non connu
+				987	Polynésie Française					FLORES	Rachelle Maire Nui	F	1979-05-02 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Bora Bora	NC	Non connu
+				987	Polynésie Française					FONG LOI	Charles	M	1949-05-25 00:00:00+00	34	Professeur, profession scientifique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					FRITCH	Edouard	M	1952-01-04 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					GALENON	Minarii	F	1956-02-13 00:00:00+00	156	Autre profession (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	PAPEETE	NC	Non connu
+				987	Polynésie Française					GARBUTT-HAREHOE	Thilda	F	1953-12-11 00:00:00+00	75	Ancienne profession intermédiaire	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					GEROS	Antony Daniel Teva	M	1956-07-22 00:00:00+00	21	Artisan	2023-05-11 00:00:00+00	Président de l'assemblée	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					GOODING	Vai Vianello	M	1959-05-10 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Rikitea	NC	Non connu
+				987	Polynésie Française					HAITI	Pascale	F	1972-04-03 00:00:00+00	31	Profession libérale	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Nuku Hiva	NC	Non connu
+				987	Polynésie Française					HAMBLIN	Ueva	M	1958-06-17 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2023-05-11 00:00:00+00	Vice-président de l'assemblée	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					HARUA	Monette	F	1957-04-15 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					HAUATA EPSE AH-MIN	Lana Maite	F	1971-01-26 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					HAUMANI	Evans	M	1962-07-31 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papetoai	NC	Non connu
+				987	Polynésie Française					HOIORE	Tevaipaea	M	1987-03-05 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					KAIHA	Joseph	M	1960-12-07 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Ua Pou	NC	Non connu
+				987	Polynésie Française					KAUTAI	Benoît	M	1960-11-28 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					KOHUMOETINI	Marielle	F	1976-10-18 00:00:00+00	22	Commerçant et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Hakahau	NC	Non connu
+				987	Polynésie Française					KOHUMOETINI-RURUA	Teremuura	F	1974-06-28 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					LAUREY	Nuihau	M	1964-12-29 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					LE CAILL	Heinui	M	1976-08-16 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					LE GAYIC	Tematai	M	2000-10-11 00:00:00+00	84	Elève, étudiant	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					LEGAYIC	Béatrice	F	1967-05-23 00:00:00+00	63	Ouvrier qualifié de type artisanal	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					LISSANT	Simplicio	M	1962-08-02 00:00:00+00	74	Ancien cadre	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					MAAMAATUAIAHUTAPU	Maurea	F	1974-09-25 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					MAONO	Vincent Manutahi	M	1952-04-05 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					MARAEURA	Tahuhu	M	1972-03-27 00:00:00+00	22	Commerçant et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					MARE IRITI	Teura	F	1965-01-07 00:00:00+00	156	Autre profession (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					MARO	Etienne	M	1959-11-01 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					NIVA	Pauline	F	1960-06-30 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Tikehau	NC	Non connu
+				987	Polynésie Française					PAHIO JENNINGS	Patricia	F	1961-11-08 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					POMARE-TIXIER	Yvannah	F	1950-04-19 00:00:00+00	75	Ancienne profession intermédiaire	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					PUCHON	Cathy	F	1957-05-31 00:00:00+00	74	Ancien cadre	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Santo Vanuatu	NC	Non connu
+				987	Polynésie Française					PUHETINI	Sylvana	F	1962-11-10 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Ua Huka- Marquises	NC	Non connu
+				987	Polynésie Française					PUNUA	Sonia	F	1959-02-06 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papara	NC	Non connu
+				987	Polynésie Française					RAUZY ÉPSE FREBAULT	Joëlle	F	1964-08-07 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Hiva oa	NC	Non connu
+				987	Polynésie Française					RIVETA	Frédéric	M	1954-07-19 00:00:00+00	74	Ancien cadre	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Rurutu	NC	Non connu
+				987	Polynésie Française					SALMON	Allen	M	1956-07-14 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	PAPEETE	NC	Non connu
+				987	Polynésie Française					SAMIN	Odette	F	1981-09-26 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Papeete	NC	Non connu
+				987	Polynésie Française					SANQUER	Nicole	F	1972-06-16 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2023-05-11 00:00:00+00	Vice-président de l'assemblée	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					SHIRO-ABE	Edwin	M	1950-06-05 00:00:00+00	75	Ancienne profession intermédiaire	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					TAPATI	Mitema Dit Tafai	M	1960-07-06 00:00:00+00	69	Ouvrier agricole	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Ua Pou	NC	Non connu
+				987	Polynésie Française					TEAGAI	Ernest Igino	M	1971-02-08 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	TATAKOTO	NC	Non connu
+				987	Polynésie Française					TEARIKI	Ronald	M	1970-12-30 00:00:00+00	22	Commerçant et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Afareaitu	NC	Non connu
+				987	Polynésie Française					TEMARU	Oscar Manutahi	M	1944-11-01 00:00:00+00	74	Ancien cadre	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Faa'a	NC	Non connu
+				987	Polynésie Française					TEMEHARO	René	M	1972-02-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					TERAIARUE	Tevahiarii	M	1990-02-05 00:00:00+00	22	Commerçant et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Uturoa	NC	Non connu
+				987	Polynésie Française					TERIITAHI	Tepuaraurii Marcella	F	1977-12-01 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	PAPEETE	NC	Non connu
+				987	Polynésie Française					TERIITERAAHAUMEA	Patricia	F	1957-08-31 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					TEROU	Pierre	M	1952-07-10 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Uturoa	NC	Non connu
+				987	Polynésie Française					TETUA	Félix	M	1964-02-14 00:00:00+00	22	Commerçant et assimilé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	Rangiroa	NC	Non connu
+				987	Polynésie Française					TETUANUI	Lana	F	1970-02-23 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	UTUROA RAIATEA	NC	Non connu
+				987	Polynésie Française					TEVAITAU EPSE VAIANUI	Jeanne	F	1967-09-19 00:00:00+00	31	Profession libérale	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					TIATOA ÉPSE PUAHIO	Sylvana	F	1965-04-07 00:00:00+00	157	Sans profession déclarée (obsolète)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					TONG SANG	Gaston	M	1949-08-07 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00	NUNUE	NC	Non connu
+				987	Polynésie Française					TUPANA	Moihara	F	1982-01-17 00:00:00+00	33	Cadre de la fonction publique	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					VANAA	Elise	F	1962-09-20 00:00:00+00	77	Ancien employé	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				987	Polynésie Française					YON YUE CHONG	Anna	F	1989-01-22 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2023-05-11 00:00:00+00	Autre membre	2023-05-11 00:00:00+00		NC	Non connu
+				988	Nouvelle-Calédonie					BACKES	Sonia	F	1976-05-21 00:00:00+00	113	Ingénieur (obsolète)	2019-05-12 00:00:00+00	Président de l'assemblée	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					BACKES	Sonia	F	1976-05-21 00:00:00+00	113	Ingénieur (obsolète)	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					BARBIER-PONTONI	Marie-Jo	F	1962-03-14 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					BARBIER-PONTONI	Marie-Jo	F	1962-03-14 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					BLAISE	Philippe	M	1969-08-04 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					BLAISE	Philippe	M	1969-08-04 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					BOUANOU	Ivana	F	1975-12-09 00:00:00+00	114	Agent technique et technicien (obsolète)	2019-05-12 00:00:00+00			Hienghène	NC	Non connu
+				988	Nouvelle-Calédonie					BOUANOU	Ivana	F	1975-12-09 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Hienghène	DIV	Divers
+				988	Nouvelle-Calédonie					BRIAL	Gil	M	1973-11-27 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00	nouméa	DIV	Divers
+				988	Nouvelle-Calédonie					BRIAL	Gil	M	1973-11-27 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00			nouméa	NC	Non connu
+				988	Nouvelle-Calédonie					BRINON	Lionnel	M	1970-10-08 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					BRINON	Lionnel	M	1970-10-08 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					CHIARA EPOUSE MONTAGNAT	Pascale	F	1980-05-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					CHIARA EPOUSE MONTAGNAT	Pascale	F	1980-05-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					CITRE	Basile Cici	M	1952-01-01 00:00:00+00	152	Employé (autres entrep. publiques) (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	MARE	DIV	Divers
+				988	Nouvelle-Calédonie					CITRE	Basile Cici	M	1952-01-01 00:00:00+00	152	Employé (autres entrep. publiques) (obsolète)	2019-05-12 00:00:00+00			MARE	NC	Non connu
+				988	Nouvelle-Calédonie					COURTOT	Robert	M	1961-10-18 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					COURTOT	Robert	M	1961-10-18 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					CREUGNET	Jean Christophe Pierre	M	1973-12-15 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					CREUGNET	Jean Christophe Pierre	M	1973-12-15 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					CUENOT	Guy-Olivier	M	1966-07-06 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					CUENOT	Guy-Olivier	M	1966-07-06 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					DARRAS	Amandine	F	1988-01-12 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-02-19 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					DJAIWE	Jean-Pierre	M	1955-09-03 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2021-07-16 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					DJAIWE	Jean-Pierre	M	1955-09-03 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2022-04-20 00:00:00+00	Autre membre	2022-04-20 00:00:00+00		NC	Non connu
+				988	Nouvelle-Calédonie					DUNOYER	Philippe	M	1968-01-11 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					DUNOYER	Philippe	M	1968-01-11 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					EURISOUKE	Valentine	F	1961-07-23 00:00:00+00	47	Technicien	2021-08-06 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					EURISOUKE	Valentine	F	1961-07-23 00:00:00+00	47	Technicien	2022-04-20 00:00:00+00	Autre membre	2022-04-20 00:00:00+00		NC	Non connu
+				988	Nouvelle-Calédonie					FALAEO	Veylma	F	1982-08-24 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					FALAEO	Veylma	F	1982-08-24 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					FAVREAU	Jean-Gabriel	M	1985-01-05 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					FAVREAU	Jean-Gabriel	M	1985-01-05 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					FROGIER	Brieuc	M	1981-09-11 00:00:00+00	31	Profession libérale	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					FROGIER	Brieuc	M	1981-09-11 00:00:00+00	31	Profession libérale	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					GOA	Daniel	M	1953-06-14 00:00:00+00	11	Agriculteur sur petite exploitation	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	HIENGHÈNE	DIV	Divers
+				988	Nouvelle-Calédonie					GOA	Daniel	M	1953-06-14 00:00:00+00	11	Agriculteur sur petite exploitation	2019-05-12 00:00:00+00			HIENGHÈNE	NC	Non connu
+				988	Nouvelle-Calédonie					GOA	Patricia Marie-Andrée	F	1969-12-04 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					GOMES	Philippe	M	1958-10-27 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Alger	DIV	Divers
+				988	Nouvelle-Calédonie					GOMES	Philippe	M	1958-10-27 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00			Alger	NC	Non connu
+				988	Nouvelle-Calédonie					GOROMIDO	Apangou	M	1959-02-09 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Koné	DIV	Divers
+				988	Nouvelle-Calédonie					GOROMIDO	Apangou	M	1959-02-09 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2019-05-12 00:00:00+00			Koné	NC	Non connu
+				988	Nouvelle-Calédonie					HEO	Nadia	F	1967-12-20 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	POUÉBO	DIV	Divers
+				988	Nouvelle-Calédonie					HEO	Nadia	F	1967-12-20 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2019-05-12 00:00:00+00			POUÉBO	NC	Non connu
+				988	Nouvelle-Calédonie					HERLIN EPOUSE JALABERT	Nadine	F	1965-10-04 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					HERLIN EPOUSE JALABERT	Nadine	F	1965-10-04 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					JULIÉ	Nina	F	1979-12-08 00:00:00+00	34	Professeur, profession scientifique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Nouméa	DIV	Divers
+				988	Nouvelle-Calédonie					JULIÉ	Nina	F	1979-12-08 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					KALOI EP BEARUNE	Isabelle	F	1970-08-22 00:00:00+00	120	Employé (secteur privé) (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	MARE	DIV	Divers
+				988	Nouvelle-Calédonie					KALOI EP BEARUNE	Isabelle	F	1970-08-22 00:00:00+00	120	Employé (secteur privé) (obsolète)	2019-05-12 00:00:00+00			MARE	NC	Non connu
+				988	Nouvelle-Calédonie					KAPOERI	Robert	M	1954-10-28 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					KAPOERI	Robert	M	1954-10-28 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					KAYS	Jean	M	1975-11-15 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					KAYS	Jean	M	1975-11-15 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					KHAC	Emmanuelle	F	1988-09-25 00:00:00+00	11	Agriculteur sur petite exploitation	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					KHAC	Emmanuelle	F	1988-09-25 00:00:00+00	11	Agriculteur sur petite exploitation	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					KOUATHE	Inès	F	1975-05-31 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					KOUATHE	Inès	F	1975-05-31 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					KUIESINE EP WRIGHT	Kadrilé	F	1965-10-14 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	KONÉ	DIV	Divers
+				988	Nouvelle-Calédonie					KUIESINE EP WRIGHT	Kadrilé	F	1965-10-14 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2019-05-12 00:00:00+00			KONÉ	NC	Non connu
+				988	Nouvelle-Calédonie					LALIE	Jacques	M	1954-12-06 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-12 00:00:00+00	Président de l'assemblée	2019-05-12 00:00:00+00	LIFOU	DIV	Divers
+				988	Nouvelle-Calédonie					LALIE	Jacques	M	1954-12-06 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-12 00:00:00+00			LIFOU	NC	Non connu
+				988	Nouvelle-Calédonie					LAVELLOI	Julienne Marie-Josée	F	1971-08-16 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00	OUVÉA	DIV	Divers
+				988	Nouvelle-Calédonie					LAVELLOI	Julienne Marie-Josée	F	1971-08-16 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00			OUVÉA	NC	Non connu
+				988	Nouvelle-Calédonie					MACHORO EP REIGNIER	Caroline	F	1952-10-19 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Canala	DIV	Divers
+				988	Nouvelle-Calédonie					MACHORO EP REIGNIER	Caroline	F	1952-10-19 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2019-05-12 00:00:00+00			Canala	NC	Non connu
+				988	Nouvelle-Calédonie					MALFAR	Muriel	F	1968-01-26 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					MALFAR	Muriel	F	1968-01-26 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					MANUOHALALO	Magali	F	1971-11-04 00:00:00+00	31	Profession libérale	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	CRETEIL	DIV	Divers
+				988	Nouvelle-Calédonie					MANUOHALALO	Magali	F	1971-11-04 00:00:00+00	31	Profession libérale	2019-05-12 00:00:00+00			CRETEIL	NC	Non connu
+				988	Nouvelle-Calédonie					MAPOU	Louis	M	1958-11-14 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					METZDORF	Nicolas	M	1988-05-20 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					METZDORF	Nicolas	M	1988-05-20 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					MICHEL	Philippe	M	1960-01-10 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					MICHEL	Philippe	M	1960-01-10 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					NAISSELINE	Omayra	F	1986-03-17 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					NAISSELINE	Omayra	F	1986-03-17 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					NEAOUTYINE	Paul Tyaou	M	1951-10-12 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2019-05-12 00:00:00+00	Président de l'assemblée	2019-05-12 00:00:00+00	POINDIMIE	DIV	Divers
+				988	Nouvelle-Calédonie					NEAOUTYINE	Paul Tyaou	M	1951-10-12 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2019-05-12 00:00:00+00			POINDIMIE	NC	Non connu
+				988	Nouvelle-Calédonie					OUASSAOUA EP HONEME	Christiane	F	1979-10-22 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	OUVEA	DIV	Divers
+				988	Nouvelle-Calédonie					OUASSAOUA EP HONEME	Christiane	F	1979-10-22 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-12 00:00:00+00			OUVEA	NC	Non connu
+				988	Nouvelle-Calédonie					PAAGALUA	Lionel	M	1972-07-26 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					PAAGALUA	Lionel	M	1972-07-26 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					PABOUTY	Sylvain	M	1963-02-03 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					PABOUTY	Sylvain	M	1963-02-03 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					PONGA	Alcide	M	1975-05-23 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					PONGA	Alcide	M	1975-05-23 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					QAEZE	Jinezi Annie	F	1988-10-07 00:00:00+00	113	Ingénieur (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					QAEZE	Jinezi Annie	F	1988-10-07 00:00:00+00	113	Ingénieur (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					RUFFENACH	Virginie	F	1973-09-19 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					RUFFENACH	Virginie	F	1973-09-19 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					SAKILIA	Marilyn Yvonne	F	1971-03-06 00:00:00+00	31	Profession libérale	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					SAKILIA	Marilyn Yvonne	F	1971-03-06 00:00:00+00	31	Profession libérale	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					SAKO	Aloisio	M	1948-08-30 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	WALLIS	DIV	Divers
+				988	Nouvelle-Calédonie					SAKO	Aloisio	M	1948-08-30 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2019-05-12 00:00:00+00			WALLIS	NC	Non connu
+				988	Nouvelle-Calédonie					SAKO	Aloisio	M	1948-08-30 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2021-02-19 00:00:00+00			WALLIS	NC	Non connu
+				988	Nouvelle-Calédonie					SALIGA	Alesio	M	1962-05-13 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					SALIGA	Alesio	M	1962-05-13 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					SALIGA ÉP LUTOVIKA	Maria Isabella	F	1971-12-09 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					SALIGA ÉP LUTOVIKA	Maria Isabella	F	1971-12-09 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					SANTA	Thierry	M	1967-08-29 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00	Président de l'assemblée	2019-06-13 00:00:00+00	PAPEETE	NC	Non connu
+				988	Nouvelle-Calédonie					SAO	Petelo Maximino	M	1980-10-10 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					SAO	Petelo Maximino	M	1980-10-10 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					SARIDJAN	Christiane	F	1967-07-20 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Nouméa	DIV	Divers
+				988	Nouvelle-Calédonie					SARIDJAN	Christiane	F	1967-07-20 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			Nouméa	NC	Non connu
+				988	Nouvelle-Calédonie					SAWA	Pascal	M	1982-03-10 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMEA	DIV	Divers
+				988	Nouvelle-Calédonie					SAWA	Pascal	M	1982-03-10 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMEA	NC	Non connu
+				988	Nouvelle-Calédonie					SUVE	Françoise	F	1962-12-28 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Nouméa	DIV	Divers
+				988	Nouvelle-Calédonie					SUVE	Françoise	F	1962-12-28 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			Nouméa	NC	Non connu
+				988	Nouvelle-Calédonie					TEIN ÉP WENENINA	Jessica	F	1983-04-28 00:00:00+00	64	Chauffeur	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					TEIN-TAOUVA	Hervé Maguei	M	1976-07-24 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	KOUMAC	DIV	Divers
+				988	Nouvelle-Calédonie					TEIN-TAOUVA	Hervé Maguei	M	1976-07-24 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2019-05-12 00:00:00+00			KOUMAC	NC	Non connu
+				988	Nouvelle-Calédonie					TIDJINE EP HMAE	Henriette	F	1966-08-04 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					TIDJINE EP HMAE	Henriette	F	1966-08-04 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					TIEOUE	Ithupane	F	1958-03-14 00:00:00+00	114	Agent technique et technicien (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	THIO	DIV	Divers
+				988	Nouvelle-Calédonie					TIEOUE	Ithupane	F	1958-03-14 00:00:00+00	114	Agent technique et technicien (obsolète)	2019-05-12 00:00:00+00			THIO	NC	Non connu
+				988	Nouvelle-Calédonie					TINGAL	Magalie	F	1979-10-18 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					TINGAL	Magalie	F	1979-10-18 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					TRAN AP	Julien	M	1983-10-26 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					TRAN AP	Julien	M	1983-10-26 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					TRIPODI	Léa	F	1977-01-25 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	KOUMAC	DIV	Divers
+				988	Nouvelle-Calédonie					TRIPODI	Léa	F	1977-01-25 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2019-05-12 00:00:00+00			KOUMAC	NC	Non connu
+				988	Nouvelle-Calédonie					TUFELE	Aniseta	F	1963-04-21 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					TUFELE	Aniseta	F	1963-04-21 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					TUKUMULI	Milakulo	M	1984-01-19 00:00:00+00	74	Ancien cadre	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00	THIO	DIV	Divers
+				988	Nouvelle-Calédonie					TUKUMULI	Milakulo	M	1984-01-19 00:00:00+00	74	Ancien cadre	2019-05-12 00:00:00+00			THIO	NC	Non connu
+				988	Nouvelle-Calédonie					TUTUGORO	Pierre Chanel	M	1967-12-31 00:00:00+00	77	Ancien employé	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	PONÉRIHOUEN	DIV	Divers
+				988	Nouvelle-Calédonie					TUTUGORO	Pierre Chanel	M	1967-12-31 00:00:00+00	77	Ancien employé	2019-05-12 00:00:00+00			PONÉRIHOUEN	NC	Non connu
+				988	Nouvelle-Calédonie					TUTUGORO	Victor	M	1956-05-01 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					VENDEGOU	Laura	F	1983-12-04 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Nouméa	DIV	Divers
+				988	Nouvelle-Calédonie					VENDEGOU	Laura	F	1983-12-04 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2019-05-12 00:00:00+00			Nouméa	NC	Non connu
+				988	Nouvelle-Calédonie					VENDEGOU-HUE	Reine	F	1956-06-16 00:00:00+00	77	Ancien employé	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	ILE DES PINS	DIV	Divers
+				988	Nouvelle-Calédonie					VENDEGOU-HUE	Reine	F	1956-06-16 00:00:00+00	77	Ancien employé	2019-05-12 00:00:00+00			ILE DES PINS	NC	Non connu
+				988	Nouvelle-Calédonie					WACKENTHALER EP FAIVRE	Nadège	F	1963-01-03 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-12 00:00:00+00	Vice-président de l'assemblée	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					WACKENTHALER EP FAIVRE	Nadège	F	1963-01-03 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-12 00:00:00+00				NC	Non connu
+				988	Nouvelle-Calédonie					WAHETRA ÉPOUSE TEWANUI	Louise Walisaune	F	1970-04-06 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	LIFOU	DIV	Divers
+				988	Nouvelle-Calédonie					WAHETRA ÉPOUSE TEWANUI	Louise Walisaune	F	1970-04-06 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2019-05-12 00:00:00+00			LIFOU	NC	Non connu
+				988	Nouvelle-Calédonie					WAKA	Maria	F	1976-09-27 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	KONÉ	DIV	Divers
+				988	Nouvelle-Calédonie					WAKA	Maria	F	1976-09-27 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-12 00:00:00+00			KONÉ	NC	Non connu
+				988	Nouvelle-Calédonie					WAMYTAN	Roch	M	1950-12-13 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	NOUMÉA	DIV	Divers
+				988	Nouvelle-Calédonie					WAMYTAN	Roch	M	1950-12-13 00:00:00+00	154	Permanent politique (obsolète)	2019-05-12 00:00:00+00			NOUMÉA	NC	Non connu
+				988	Nouvelle-Calédonie					WANEUX	Mathias	M	1955-10-16 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	OUVEA	DIV	Divers
+				988	Nouvelle-Calédonie					WANEUX	Mathias	M	1955-10-16 00:00:00+00	149	Fonctionnaire de catégorie C (obsolète)	2019-05-12 00:00:00+00			OUVEA	NC	Non connu
+				988	Nouvelle-Calédonie					WASHETINE	Charles	M	1956-11-04 00:00:00+00	151	Cadre (entreprises publiques) (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	MARE	DIV	Divers
+				988	Nouvelle-Calédonie					WASHETINE	Charles	M	1956-11-04 00:00:00+00	151	Cadre (entreprises publiques) (obsolète)	2019-05-12 00:00:00+00			MARE	NC	Non connu
+				988	Nouvelle-Calédonie					WATEOU	Naïa	F	1984-04-16 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	Nouméa	DIV	Divers
+				988	Nouvelle-Calédonie					WATEOU	Naïa	F	1984-04-16 00:00:00+00	33	Cadre de la fonction publique	2019-05-12 00:00:00+00			Nouméa	NC	Non connu
+				988	Nouvelle-Calédonie					WEA	Anselme	M	1979-04-13 00:00:00+00	11	Agriculteur sur petite exploitation	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	OUVÉA	DIV	Divers
+				988	Nouvelle-Calédonie					WEA	Anselme	M	1979-04-13 00:00:00+00	11	Agriculteur sur petite exploitation	2019-05-12 00:00:00+00			OUVÉA	NC	Non connu
+				988	Nouvelle-Calédonie					WEISS	Wilfrid	M	1957-03-31 00:00:00+00	77	Ancien employé	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00	KOUMAC	DIV	Divers
+				988	Nouvelle-Calédonie					WEISS	Wilfrid	M	1957-03-31 00:00:00+00	77	Ancien employé	2019-05-12 00:00:00+00			KOUMAC	NC	Non connu
+				988	Nouvelle-Calédonie					YEIWENE	Charles	M	1966-05-04 00:00:00+00	120	Employé (secteur privé) (obsolète)	2019-05-12 00:00:00+00	Autre membre	2019-05-12 00:00:00+00		DIV	Divers
+				988	Nouvelle-Calédonie					YEIWENE	Charles	M	1966-05-04 00:00:00+00	120	Employé (secteur privé) (obsolète)	2019-05-12 00:00:00+00				NC	Non connu

@@ -1,0 +1,454 @@
+code_circonscription_consulaire	libelle_circonscription_consulaire	nom_elu	prenom_elu	sexe_elu	date_naissance_elu	code_categorie_socio_professionnelle	libelle_categorie_socio_professionnelle	date_debut_mandat	libelle_fonction	date_debut_fonction	lieu_naissance_elu
+0101	Canada - 1re circonscription	DELLAPINA	Cindy	F	1979-02-12 00:00:00+00	65	Ouvrier qualifié de la manutention, du magasinage et du transport	2021-05-31 00:00:00+00	Président du conseil consulaire	2022-10-24 00:00:00+00	
+0101	Canada - 1re circonscription	DELLAPINA	Olivier	M	1975-09-17 00:00:00+00	54	Employé administratif d'entreprise	2021-05-31 00:00:00+00			PARIS10
+0101	Canada - 1re circonscription	GALLET	Aloïs	M	1985-09-23 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			
+0101	Canada - 1re circonscription	POINT	Franck	M	1966-03-23 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			LYON 6E ARRONDISSEMENT
+0102	Canada - 2e circonscription	ADENOT-OWUSU	Delphine	F	1985-06-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0102	Canada - 2e circonscription	BIDERMAN	Séverine	F	1972-06-19 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-11-01 00:00:00+00			PARIS 9ème
+0102	Canada - 2e circonscription	GIFFAUX	Olivier	M	1973-03-05 00:00:00+00	54	Employé administratif d'entreprise	2021-05-31 00:00:00+00			
+0102	Canada - 2e circonscription	WATKINS	Francine	F	1949-12-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	
+0103	Canada - 3e circonscription	BERT	Laetitia	F	1992-04-02 00:00:00+00	84	Elève, étudiant	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-08 00:00:00+00	
+0103	Canada - 3e circonscription	LECOMTE	Guillaume	M	1996-10-28 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+0103	Canada - 3e circonscription	SILVE	Arthur	M	1982-04-20 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2022-01-25 00:00:00+00	
+0103	Canada - 3e circonscription	TROUSSIER	Richard	M	1972-08-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-10-22 00:00:00+00			
+0104	Canada - 4e circonscription	BOURGOIN	Alaric	M	1984-08-23 00:00:00+00	34	Professeur, profession scientifique	2022-10-23 00:00:00+00			
+0104	Canada - 4e circonscription	CHAINEL	Sophie	F	1987-01-20 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-10-23 00:00:00+00			
+0104	Canada - 4e circonscription	FROEHLICH	Thibault	M	1997-10-04 00:00:00+00	31	Profession libérale	2022-10-23 00:00:00+00			
+0104	Canada - 4e circonscription	IMBEAU	Lucie	F	1988-10-04 00:00:00+00	33	Cadre de la fonction publique	2022-10-23 00:00:00+00	Président du conseil consulaire	2022-11-02 00:00:00+00	
+0104	Canada - 4e circonscription	OLIVIÉ	Gwenaelle	F	1969-09-04 00:00:00+00	34	Professeur, profession scientifique	2022-10-23 00:00:00+00			
+0104	Canada - 4e circonscription	PIGEYRE	Florent	M	1977-06-18 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-10-23 00:00:00+00			
+0104	Canada - 4e circonscription	SFEIR	Ramzi	M	1986-02-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-10-23 00:00:00+00			JERUSALEM
+0201	Etats-Unis - 1re circonscription	LEMOINE	Dominique	M	1959-10-15 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-25 00:00:00+00	
+0201	Etats-Unis - 1re circonscription	NDIAYE	Ndeye Penda	F	1975-03-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			SÉNÉGAL
+0201	Etats-Unis - 1re circonscription	OLIVERES-ALAIN	Michèle	F	1948-12-27 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2021-05-31 00:00:00+00			
+0202	Etats-Unis - 2e circonscription	CAVANAGH	Julien	M	1979-10-10 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			PARIS 14E ARRONDISSEMENT
+0202	Etats-Unis - 2e circonscription	HULOT	Sandrine	F	1972-07-31 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-25 00:00:00+00	
+0202	Etats-Unis - 2e circonscription	ROCHE	Anne-Clotilde	F	1975-05-14 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+0202	Etats-Unis - 2e circonscription	RUEDA	Maria José	F	1968-09-08 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			COLOMBIE
+0203	Etats-Unis - 3e circonscription	BEVIERRE	Véronique	F	1970-10-27 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00			LIBYE
+0203	Etats-Unis - 3e circonscription	BONNETE	Jean-François	M	1974-04-23 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	
+0203	Etats-Unis - 3e circonscription	GROSDIDIER	Pierre	M	1958-08-30 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			CAMEROUN
+0203	Etats-Unis - 3e circonscription	JAKUBOWICZ	Yves	M	1966-03-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			PARIS 16E ARRONDISSEMENT
+0204	Etats-Unis - 4e circonscription	BOURBON	Patrick	M	1977-01-11 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+0204	Etats-Unis - 4e circonscription	DELPIERRE	Aline	F	1965-06-19 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0204	Etats-Unis - 4e circonscription	LARAICHI	Oussama	M	1988-01-13 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			MAROC
+0204	Etats-Unis - 4e circonscription	LAURENS	Khadija	F	1977-09-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-02-02 00:00:00+00			
+0205	Etats-Unis - 5e circonscription	BONDRILLE	Franck	M	1967-05-18 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-09 00:00:00+00	
+0205	Etats-Unis - 5e circonscription	GAULT	Axelle	F	1979-09-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0205	Etats-Unis - 5e circonscription	MARTIN-O'BRIEN	Aline	F	1975-10-14 00:00:00+00	31	Profession libérale	2021-07-12 00:00:00+00			
+0205	Etats-Unis - 5e circonscription	PALLEZ	Laure	F	1981-02-19 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS 14E ARRONDISSEMENT
+0206	Etats-Unis - 6e circonscription	CHANTEPIE	Blandine	F	1983-03-11 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0206	Etats-Unis - 6e circonscription	CURIONI	Monique	F	1953-02-11 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	PARIS 17E ARRONDISSEMENT
+0206	Etats-Unis - 6e circonscription	LEYDIER	Béatrice	F	1993-09-17 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0206	Etats-Unis - 6e circonscription	PITON	Olivier	M	1966-08-03 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS17
+0207	Etats-Unis - 7e circonscription	CARACO	Patrick	M	1949-11-16 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			LYON 6E ARRONDISSEMENT
+0207	Etats-Unis - 7e circonscription	DEMEESTERE	Hélène	F	1955-10-12 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0207	Etats-Unis - 7e circonscription	HAJJAR	Cynthia	F	1974-03-04 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			LIBAN
+0207	Etats-Unis - 7e circonscription	MICHON	Gérard	M	1956-03-29 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0207	Etats-Unis - 7e circonscription	ORAND	Stanislas	M	1963-09-04 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	
+0208	Etats-Unis - 8e circonscription	BERNARD	Jean-Pierre	M	1953-10-31 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+0208	Etats-Unis - 8e circonscription	LARTILLEUX SUBERVILLE	Sophie	F	1963-10-12 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			MEXIQUE
+0208	Etats-Unis - 8e circonscription	LE GLAND	Loïc	M	1977-03-30 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+0208	Etats-Unis - 8e circonscription	MOREL	Serge	M	1963-03-18 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			
+0208	Etats-Unis - 8e circonscription	SOUIHI	Warda	F	1987-04-17 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			
+0209	Etats-Unis - 9e circonscription	EPELBAUM	Gérard	M	1958-03-11 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-17 00:00:00+00	PARIS11
+0209	Etats-Unis - 9e circonscription	MICHEL	Annie	F	1950-05-24 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0209	Etats-Unis - 9e circonscription	ORTOLI	Richard	M	1949-11-11 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			SYDNEY
+0209	Etats-Unis - 9e circonscription	PAGNI	Patrick	M	1949-07-15 00:00:00+00	31	Profession libérale	2021-07-02 00:00:00+00			
+0209	Etats-Unis - 9e circonscription	RICHARD	Pascale	F	1958-11-08 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			
+0301	Argentine	DUBOIS	Christophe	M	1965-07-22 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0301	Argentine	GUILLOT	Jérôme	M	1961-05-24 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			PARIS 16E ARRONDISSEMENT
+0301	Argentine	PRESTAT	Cédric	M	1982-10-21 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2023-01-24 00:00:00+00			
+0301	Argentine	WAKSMANN	Laurent	M	1985-09-16 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2022-11-17 00:00:00+00	PARIS 16E ARRONDISSEMENT
+0302	Bolivie	MANÇO-QUIROGA	Maurice	M	1964-09-05 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	BELGIQUE
+0303	Brésil - 1re circonscription ( avec Suriname )	CAVIGNAC	Julie	F	1965-01-22 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-12-07 00:00:00+00	
+0303	Brésil - 1re circonscription ( avec Suriname )	DELUCHEY	Jean-François	M	1972-03-10 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0303	Brésil - 1re circonscription ( avec Suriname )	NOËL-BOUTON	Xavier	M	1947-11-04 00:00:00+00	75	Ancienne profession intermédiaire	2021-05-31 00:00:00+00			
+0304	Brésil - 2e circonscription	GODEFROY	Marie	F	1952-01-19 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00			SÉNÉGAL
+0304	Brésil - 2e circonscription	MATENCIO	Tulio	M	1962-11-03 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0304	Brésil - 2e circonscription	MONTINARD	Mélanie	F	1981-08-14 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+0305	Brésil - 3e circonscription	DUPONT	Bertrand	M	1970-09-28 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0305	Brésil - 3e circonscription	FERRAZ MARTINS	Ana Fabia	F	1969-12-02 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2023-04-04 00:00:00+00	BRÉSIL
+0305	Brésil - 3e circonscription	LAPLACE	Frédéric	M	1969-05-18 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0306	Chili	BESNIER	Jean-Marc	M	1957-11-23 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0306	Chili	BLANCHE	Catherine	F	1981-12-04 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			PARIS 18E ARRONDISSEMENT
+0306	Chili	COLAS	Daniel	M	1953-10-20 00:00:00+00	75	Ancienne profession intermédiaire	2021-05-31 00:00:00+00			
+0306	Chili	HARITÇALDE	Marie Christine	F	1948-10-13 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	CHILI
+0307	Colombie	GAVIGNET	Colin	M	1974-07-18 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0307	Colombie	LAVERGNE	Cécile	F	1984-08-20 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	
+0307	Colombie	MARTIQUET	Cyril	M	1971-10-06 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0308	Costa Rica, Honduras, Nicaragua	GLOCK	Denis	M	1964-03-27 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+0308	Costa Rica, Honduras, Nicaragua	RABIA	Malika	F	1956-09-22 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0308	Costa Rica, Honduras, Nicaragua	STERNER	Fanny	F	1964-01-18 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2021-05-31 00:00:00+00			
+0309	Equateur	ANDRES	François	M	1949-11-17 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			ESPAGNE
+0309	Equateur	BRICARD	Tannya	F	1965-04-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	EQUATEUR
+0309	Equateur	DU PARC	Yves	M	1984-04-08 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			PARIS 14E ARRONDISSEMENT
+0310	Guatemala, Salvador	KAHN	Alain	M	1970-02-24 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-09-18 00:00:00+00	SALVADOR
+0311	Haïti	CHIGNARD ÉPOUSE PAUL	Christelle	F	1975-04-18 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-25 00:00:00+00	HAÏTI
+0312	Mexique	CHARRIER-ARGAILLOT	Rémy	M	1983-03-08 00:00:00+00	31	Profession libérale	2021-11-12 00:00:00+00			
+0312	Mexique	LARROUQUIS	Benoît	M	1969-11-18 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2021-05-31 00:00:00+00			
+0312	Mexique	RAMON-DÉCHELETTE	Véronique	F	1970-05-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			PARAGUAY
+0312	Mexique	SIGNORET	Gérard	M	1960-06-09 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			MEXICO
+0312	Mexique	SUBERVILLE	Geneviève	F	1957-10-18 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-03 00:00:00+00	MEXICO
+0313	Panama, Cuba, Jamaïque	GIRALDOU	Marion	F	1980-10-13 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0313	Panama, Cuba, Jamaïque	GOERGLER	Xavier	M	1984-06-29 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	
+0313	Panama, Cuba, Jamaïque	LOMBARDO	Florent Marc	M	1986-03-07 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	LYON 8E ARRONDISSEMENT
+0314	Paraguay	SUCHET	Edmond	M	1948-07-09 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			PARIS 12E ARRONDISSEMENT
+0315	Pérou	BERTHIER	Pierre	M	1959-07-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			GABON
+0315	Pérou	SICET	Vincent	M	1990-11-16 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			
+0315	Pérou	WEBER	Didier	M	1972-01-29 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2021-05-31 00:00:00+00	Président du conseil consulaire	2023-03-17 00:00:00+00	
+0316	République Dominicaine	BREHM	Nicolas	M	1970-10-24 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-21 00:00:00+00	PARIS 12E ARRONDISSEMENT
+0316	République Dominicaine	DEMOUY	Yves	M	1980-06-11 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0316	République Dominicaine	JACOB	Emmanuelle	F	1966-09-22 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			
+0317	Uruguay	BIURRUN	Martin	M	1991-10-28 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	URUGUAY
+0317	Uruguay	DELABRE	Jacques	M	1955-06-23 00:00:00+00	75	Ancienne profession intermédiaire	2021-05-31 00:00:00+00			CROISILLES
+0317	Uruguay	RAMAZZI	Frédérique	F	1977-02-12 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			URUGUAY
+0318	Venezuela, Sainte-Lucie, Trinité-et-Tobago	CHOSSERIE	Liliane	F	1951-12-02 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			ALGÉRIE
+0318	Venezuela, Sainte-Lucie, Trinité-et-Tobago	FORTER-CHEE-A-TOW	Ninon	F	1996-04-12 00:00:00+00	31	Profession libérale	2021-11-22 00:00:00+00			
+0318	Venezuela, Sainte-Lucie, Trinité-et-Tobago	FREYCHET	Stéphane	M	1957-07-25 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-12-05 00:00:00+00	Président du conseil consulaire	2023-02-01 00:00:00+00	
+0401	Danemark	BADACHE	Pascal	M	1968-02-23 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	PARIS 14E ARRONDISSEMENT
+0401	Danemark	CARON	Marie-José	F	1952-10-11 00:00:00+00	54	Employé administratif d'entreprise	2021-05-31 00:00:00+00			CASTRES
+0401	Danemark	DE VISME	Luc	M	1945-07-04 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+0402	Finlande, Lituanie, Lettonie, Estonie	BERNARD	Chloé	F	1982-01-24 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+0402	Finlande, Lituanie, Lettonie, Estonie	PLAGNOL	Hugo	M	1987-06-13 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+0402	Finlande, Lituanie, Lettonie, Estonie	RUA	Philippe	M	1959-11-26 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	MONTREUIL
+0403	Irlande	HELAILI-CHAPUIS	Laurence	F	1985-08-07 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	
+0403	Irlande	KHEMIRA ÉPOUSE AIT EL HADJ	Saïda	F	1975-12-01 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00			
+0403	Irlande	MARIN-CUDRAZ	Benoit	M	1956-11-17 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			PARIS8
+0403	Irlande	NOUELLE-PARRAT	Nicolas	M	1974-06-04 00:00:00+00	64	Chauffeur	2023-03-02 00:00:00+00			
+0404	Norvège, Islande	BASSETTO	Thomas	M	1988-02-24 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+0404	Norvège, Islande	BLISSON	Natacha	F	1985-02-27 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-01-18 00:00:00+00			
+0404	Norvège, Islande	HERRERA	Marion	F	1973-04-07 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			
+0405	Royaume-Uni - 1re circonscription	ALBUISSON	Christian	M	1958-07-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	
+0405	Royaume-Uni - 1re circonscription	GUÉNIER	Brigitte	F	1955-12-16 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0405	Royaume-Uni - 1re circonscription	MILLER	Véronique	F	1967-01-21 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			RUMILLY
+0406	Royaume-Uni - 2e circonscription	AHMAR	Samy	M	1986-02-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			LYON3
+0406	Royaume-Uni - 2e circonscription	BERTIN	Olivier	M	1968-07-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0406	Royaume-Uni - 2e circonscription	BLANCHOT	Isabelle	F	1970-02-22 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+0406	Royaume-Uni - 2e circonscription	CONNELL	Patricia	F	1961-02-01 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			SAINT-DENIS
+0406	Royaume-Uni - 2e circonscription	HATTON	Nicolas	M	1970-03-02 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0406	Royaume-Uni - 2e circonscription	MAIGNE	Enguerran	M	1982-10-09 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			
+0406	Royaume-Uni - 2e circonscription	MALLET	Amelie	F	1972-08-23 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			STOCKHOLM
+0406	Royaume-Uni - 2e circonscription	SPARROW	Marie-Claire	F	1947-08-01 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS 14E ARRONDISSEMENT
+0406	Royaume-Uni - 2e circonscription	VAZEILLE	Rémi	M	1966-05-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0407	Suède	ALTSCHUL	Noémie	F	1983-02-09 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			PARIS 13E ARRONDISSEMENT
+0407	Suède	MOKRANI	Hicham	M	1953-04-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00			TUNISIE
+0407	Suède	PARMEGIANI	Nathalie	F	1961-12-03 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	PARIS14
+0407	Suède	PRIPP	Nadine	F	1959-01-22 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-05-31 00:00:00+00			PARIS 19E ARRONDISSEMENT
+0501	Belgique	BISCH	Anthony	M	1980-01-20 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0501	Belgique	CHARLET	Léa	F	1989-10-12 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0501	Belgique	GONDARD	Cécilia	F	1980-06-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0501	Belgique	MASSON	Thierry	M	1983-08-11 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			
+0501	Belgique	MICHEL	Jérémy	M	1975-04-30 00:00:00+00	56	Personnel des services directs aux particuliers	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	
+0501	Belgique	WANDELST	Isabelle	F	1963-03-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0501	Belgique	WERT	Bertrand	M	1975-06-14 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			SAINT-PRIEST
+0502	Luxembourg	CHATEAU-DUCOS	Alexandre	M	1969-01-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0502	Luxembourg	DERUDDER	Vincent	M	1948-02-23 00:00:00+00	54	Employé administratif d'entreprise	2021-05-31 00:00:00+00			
+0502	Luxembourg	HUGON	Christine	F	1963-11-17 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0502	Luxembourg	SCHAULI	Frédéric	M	1978-08-15 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+0502	Luxembourg	THÉRET	Bruno	M	1956-10-09 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	MALO-LES-BAINS
+0503	Pays-Bas	DEGRYSE	Hélène	F	1977-03-11 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0503	Pays-Bas	KOK ESCALLE	Marie-Christine	F	1948-09-24 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			PARIS 8E ARRONDISSEMENT
+0503	Pays-Bas	LAVEANT	Pierre	M	1973-07-06 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			PARIS11
+0503	Pays-Bas	LE BRETON	Tanguy	M	1965-06-21 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0503	Pays-Bas	LIBEAUT	Catherine	F	1963-09-26 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	
+0601	Allemagne - 1re circonscription	KLIESS	Marie-Christine	F	1945-08-29 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			PARIS 15E ARRONDISSEMENT
+0601	Allemagne - 1re circonscription	LOISEAU	Philippe	M	1964-06-24 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0601	Allemagne - 1re circonscription	MAIGNÉ	Stéphan	M	1969-07-02 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	
+0601	Allemagne - 1re circonscription	RAFFIN-WEINLEIN	Camille	F	1970-06-07 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			PARIS 15E ARRONDISSEMENT
+0601	Allemagne - 1re circonscription	ZELLER	Henri	M	1970-09-09 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			BELGIQUE
+0602	Allemagne - 2e circonscription	BAUMANN	Alicia	F	1989-07-01 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-12-20 00:00:00+00			Carcasonne
+0602	Allemagne - 2e circonscription	KLAINE	Olivia	F	1987-09-26 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-07-01 00:00:00+00			
+0602	Allemagne - 2e circonscription	LANGLET	Jean-Marie	M	1944-11-08 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	PARIS 20E ARRONDISSEMENT
+0602	Allemagne - 2e circonscription	OUAMMAR	Saliha	F	1964-01-03 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			ALGÉRIE
+0602	Allemagne - 2e circonscription	PASCAL	Olivier	M	1985-11-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0602	Allemagne - 2e circonscription	RENOLLAUD	Jean-Pierre	M	1954-08-28 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+0603	Allemagne - 3e circonscription	BOUVERET	Ellen	F	1958-03-08 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0603	Allemagne - 3e circonscription	FOUQUES-WEISS	Nadine	F	1949-11-21 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS16
+0603	Allemagne - 3e circonscription	GROMIER-HEIM	Laurence	F	1957-12-01 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+0603	Allemagne - 3e circonscription	LECLERC	Audrey	F	1987-01-06 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			
+0603	Allemagne - 3e circonscription	PLUDERMACHER	Bruno	M	1961-05-26 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS14
+0603	Allemagne - 3e circonscription	ZUCCO	Frédéric	M	1958-07-27 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			PARIS 13E ARRONDISSEMENT
+0604	Autriche, Slovaquie, Slovénie	LE VOUEDEC-GUEGANNO	Frédéric	M	1975-03-18 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-10-11 00:00:00+00	Président du conseil consulaire	2022-10-17 00:00:00+00	
+0604	Autriche, Slovaquie, Slovénie	OLLIVIER	Mathilde	F	1994-06-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	
+0604	Autriche, Slovaquie, Slovénie	TRESSARD	Fabrice	M	1974-09-19 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	
+0604	Autriche, Slovaquie, Slovénie	UGO	Patrick	M	1965-12-03 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0605	Suisse - 1re circonscription	AVEZOU	Odile	F	1967-10-21 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+0605	Suisse - 1re circonscription	COL	Alexandre	M	1963-08-16 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00			LAUSANNE
+0605	Suisse - 1re circonscription	KEIL	Jean-Philippe	M	1967-09-17 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0605	Suisse - 1re circonscription	LEMER	François	M	1976-09-12 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00			
+0605	Suisse - 1re circonscription	PORTAL	Louis	M	1992-02-21 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0606	Suisse - 2e circonscription	CHEVALIER	Linda	F	1952-04-15 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			MAROC
+0606	Suisse - 2e circonscription	COLLETTE	Marlène	F	1974-10-27 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	
+0606	Suisse - 2e circonscription	CREGUT	Remy	M	1960-09-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-27 00:00:00+00			
+0606	Suisse - 2e circonscription	DE ZIEGLER	Nicolas	M	1954-09-21 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0606	Suisse - 2e circonscription	FOTI	Laura	F	1987-01-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00			
+0606	Suisse - 2e circonscription	GROSSO	Guillaume	M	1974-12-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0606	Suisse - 2e circonscription	ISLER	Margaux	F	1984-07-09 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			SUISSE
+0606	Suisse - 2e circonscription	KOKOT	Guilhem	M	1995-07-14 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-05-31 00:00:00+00			
+0606	Suisse - 2e circonscription	LANG	Nicolas	M	1968-08-21 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2021-05-31 00:00:00+00			
+0701	Arménie, Géorgie	BARDON-HAMBARDZUMYAN	Lusine	F	1971-11-22 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-07-01 00:00:00+00	ARMÉNIE
+0702	Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro	BOTEVA-MALO	Tatiana	F	1950-06-10 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-09-13 00:00:00+00	BULGARIE
+0702	Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro	LECLERCQ	Amélie	F	1964-04-13 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			
+0702	Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro	PASCAL	Patrick	M	1961-06-04 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-09-14 00:00:00+00	
+0703	Croatie	PESTOTNIK PREBEG	Tea	F	1980-05-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	CROATIE
+0704	Hongrie	DOSSO	Namory	M	1974-06-30 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			PARIS 13E ARRONDISSEMENT
+0704	Hongrie	DUBARD-KAJTAR	Jeanne	F	1963-09-22 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+0704	Hongrie	LIEGEY	Vincent	M	1979-07-08 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0705	Pologne	CHAUVEAU	Frédéric	M	1970-03-16 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0705	Pologne	ROSSI	Jean	M	1965-05-23 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS 14E ARRONDISSEMENT
+0705	Pologne	SALVAT	Eric	M	1961-12-28 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	LYON 2E ARRONDISSEMENT
+0706	République tchèque	GUICHARD BUSZMAN	Aude	F	1989-08-07 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0706	République tchèque	LE MOIGNE	Vassili	M	1966-11-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+0706	République tchèque	LENORMANT-MALCOTTI	Stéphanie	F	1975-11-25 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			
+0707	Roumanie, Moldavie	GRUIA DUFAUT	Dana	F	1960-03-27 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			ROUMANIE
+0707	Roumanie, Moldavie	LEMAÎTRE	Christian	M	1959-02-05 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-04 00:00:00+00	
+0707	Roumanie, Moldavie	MAYRAND	Benoît	M	1966-09-10 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0708	Russie, Biélorussie	BURLOTTE	Olivier	M	1964-01-09 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-07 00:00:00+00	
+0708	Russie, Biélorussie	FERRARI	Franck	M	1972-01-03 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0708	Russie, Biélorussie	MEGRELIS	Nicolas	M	1969-02-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+0709	Serbie	GRASSER	Eric	M	1971-02-10 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+0710	Ukraine	FRANCK	David	M	1968-03-11 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-04 00:00:00+00	
+0801	Chypre	KYPRIANIDOU	Hélène	F	1952-10-08 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-07-05 00:00:00+00	CHYPRE
+0802	Grèce	BROCHARD	Guy	M	1970-06-09 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			CROIX
+0802	Grèce	DESCHAMPS	Françoise	F	1952-03-07 00:00:00+00	54	Employé administratif d'entreprise	2021-05-31 00:00:00+00			
+0802	Grèce	MULLER	Nelly	F	1947-04-03 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	ALGÉRIE
+0802	Grèce	PICHARLES	Chantal	F	1958-01-13 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			
+0803	Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )	BARRE	Gaëlle	F	1972-08-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-07 00:00:00+00	
+0803	Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )	CHORAINE	Pierre	M	1967-02-14 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			LYON 8E ARRONDISSEMENT
+0803	Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )	DE BLESSON	Carole	F	1967-07-18 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS 16E ARRONDISSEMENT
+0803	Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )	HOFFMANN	Peggy	F	1972-05-15 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2021-05-31 00:00:00+00			
+0803	Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )	SPIESSER	Olivier	M	1967-09-23 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0804	Italie - 2e circonscription	AMICO	Marie-Ange	F	1950-03-30 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			ITALIE
+0804	Italie - 2e circonscription	BEZARDIN	Alexandre	M	1972-12-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0804	Italie - 2e circonscription	CALLOT	Sylvain	M	1971-07-20 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0804	Italie - 2e circonscription	LE CARDINAL	Hugues	M	1967-06-28 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	
+0804	Italie - 2e circonscription	REA	Annie	F	1961-08-18 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			LYON7
+0805	Monaco	MAUDUIT-PALLANCA	Michelle	F	1943-09-24 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			MÉZIDON-CANON
+0805	Monaco	MOTILLON	Géraldine	F	1970-01-22 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			MONACO
+0805	Monaco	PISCIOTTA	Christophe	M	1966-03-23 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	MONACO
+0806	Turquie	JAUBERTY	Michel	M	1945-07-11 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+0806	Turquie	KORO	Marie-Rose	F	1957-03-02 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			COLMAR (68)
+0806	Turquie	OGUTGEN	Florence	F	1960-08-07 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	
+0806	Turquie	OZDILMEN	Belgin	F	1980-09-19 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0901	Andorre	METAYER	Catherine	F	1956-01-19 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	
+0902	Espagne - 1re circonscription	BOURBON	Pascal	M	1965-01-18 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0902	Espagne - 1re circonscription	DE MARCELLUS	Baudouin	M	1972-11-18 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			DAKAR
+0902	Espagne - 1re circonscription	LE BERRE	Renaud	M	1967-09-27 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0902	Espagne - 1re circonscription	OGONOWSKI	Philippe	M	1966-08-04 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00	Président du conseil consulaire	2022-01-13 00:00:00+00	
+0902	Espagne - 1re circonscription	SAINT-DIZIER	Ana	F	1979-07-10 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-05-31 00:00:00+00			
+0903	Espagne - 2e circonscription	HUSS	Francis	M	1933-01-05 00:00:00+00	74	Ancien cadre	2021-10-19 00:00:00+00			
+0903	Espagne - 2e circonscription	LE VAILLANT	Stéphanie	F	1979-02-12 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+0903	Espagne - 2e circonscription	LECOMTE	Gaëlle	F	1988-12-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+0903	Espagne - 2e circonscription	QUINTANA	Pablo	M	1965-12-13 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2022-01-20 00:00:00+00	CHILI
+0903	Espagne - 2e circonscription	RALLE	François	M	1974-01-18 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+0903	Espagne - 2e circonscription	SERVANTON	Gilles	M	1958-03-17 00:00:00+00	74	Ancien cadre	2022-08-01 00:00:00+00			
+0904	Portugal	CARDON	Hervé	M	1951-05-21 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			PARIS 15E ARRONDISSEMENT
+0904	Portugal	FEUNTEUN CONESTABILE	Françoise	F	1948-11-23 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+0904	Portugal	GOATER	Laurent	M	1969-03-20 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	
+0904	Portugal	LETARTRE	Julien	M	1973-04-01 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1001	Algérie - 1re circonscription	BELATRECHE	Mehdi	M	1973-08-01 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00			
+1001	Algérie - 1re circonscription	HENNI	Ahmed	M	1962-08-29 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-03 00:00:00+00	
+1001	Algérie - 1re circonscription	MATEO	Yolande	F	1946-03-22 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+1001	Algérie - 1re circonscription	YOUNSI	Ouassini	M	1981-09-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1002	Algérie - 2e circonscription	BOUTALEB	Abdelghani	M	1976-03-24 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-06 00:00:00+00	ALGÉRIE
+1002	Algérie - 2e circonscription	HASNAOUI	Fwad	M	1963-11-04 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			ALGÉRIE
+1002	Algérie - 2e circonscription	MÊLE	Sabri	M	1970-09-01 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-05-31 00:00:00+00			ALGÉRIE
+1003	Algérie - 3e circonscription	DENDÈNE	Karim	M	1959-05-20 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1003	Algérie - 3e circonscription	HAMMOUTENE	Djamal	M	1958-05-22 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			ALGÉRIE
+1003	Algérie - 3e circonscription	LAHLOUH NÉE AOUN	Nadia	F	1958-03-05 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2021-05-31 00:00:00+00			
+1003	Algérie - 3e circonscription	RAHAL	Radya	F	1965-10-27 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-17 00:00:00+00	
+1003	Algérie - 3e circonscription	ZIRIAT	Reda	M	1964-04-09 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-12-20 00:00:00+00			
+1004	Egypte	MAJIDIER	Hervé	M	1955-04-12 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			IRAN
+1004	Egypte	PASCAL	Catherine	F	1961-03-29 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1004	Egypte	URVOY	Marianick	F	1944-01-08 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-09 00:00:00+00	
+1005	Maroc - 1re circonscription	BENNANI	Myriem	F	1962-01-08 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-03 00:00:00+00	MAROC
+1005	Maroc - 1re circonscription	GARTI	Ismaël	M	1976-12-02 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			MAROC
+1005	Maroc - 1re circonscription	RIO	Anna-Gael	F	1973-09-05 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1006	Maroc - 2e circonscription	AUBERT	Jacky	M	1945-07-07 00:00:00+00	75	Ancienne profession intermédiaire	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-11 00:00:00+00	ALGÉRIE
+1006	Maroc - 2e circonscription	BEN KERROUM DEVIDET	Myriam Geneviève	F	1947-10-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1006	Maroc - 2e circonscription	GRATTEPANCHE	Martine	F	1955-01-18 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1007	Maroc - 3e circonscription	REBECCHINI	Martine	F	1951-10-04 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			MAROC
+1007	Maroc - 3e circonscription	ROZIER	Jean-Claude	M	1943-11-17 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			TUNISIE
+1007	Maroc - 3e circonscription	TRIBOUART	Catherine	F	1960-02-20 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	
+1008	Maroc - 4e circonscription	GEORGANDELIS	Max	M	1944-03-05 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			MAROC
+1008	Maroc - 4e circonscription	GERVEREAU	Caryl	M	1972-07-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+1008	Maroc - 4e circonscription	HOUSNI	Fouad	M	1975-02-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2023-01-01 00:00:00+00			
+1009	Maroc - 5e circonscription	ARNULF	Nicolas	M	1969-07-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			SAINT MAUR DES FOSSES
+1009	Maroc - 5e circonscription	BELBACHIR-BELCAID	Khadija	F	1957-01-02 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	KENITRA
+1009	Maroc - 5e circonscription	FREJ	Isabelle	F	1959-11-27 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-05-31 00:00:00+00			
+1009	Maroc - 5e circonscription	LESCRAINIER	Mathieu	M	1986-02-26 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			CANADA
+1010	Maroc - 6e circonscription	DAGESCY	Gilles	M	1939-03-02 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-21 00:00:00+00	MAROC
+1010	Maroc - 6e circonscription	EL OUAFI	Ghislaine	F	1961-05-10 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			MAROC
+1010	Maroc - 6e circonscription	OULKHOUIR	Mohamed	M	1977-08-26 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			MAROC
+1010	Maroc - 6e circonscription	REDDAD	Mehdi	M	1981-10-02 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			MAROC
+1010	Maroc - 6e circonscription	YOUMNI	Abdelghani	M	1965-12-10 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			CASABLANCA
+1011	Tunisie, Libye	BERGER-BEN NACEUR	Madeleine	F	1955-12-25 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			TUNISIE
+1011	Tunisie, Libye	CAIZERGUES	Laurent	M	1975-05-31 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1011	Tunisie, Libye	JEMMALI	Aïda	F	1977-04-21 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			TUNISIE
+1011	Tunisie, Libye	VAUTRIN DJEDIDI	Martine	F	1954-07-16 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+1011	Tunisie, Libye	ZUCCHERO	Michel	M	1951-06-11 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	TUNISIE
+1101	Bénin	ADJOVI ÉPOUSE AGBO	Josiane	F	1967-05-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	BENIN
+1101	Bénin	ATINDEHOU	Arsène	M	1988-07-19 00:00:00+00	47	Technicien	2021-05-31 00:00:00+00			BENIN
+1101	Bénin	DORSO	Luc	M	1955-08-28 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			DAHOMEY
+1102	Burkina Faso	LE LOSQ OUEDRAOGO	Françoise	F	1955-04-02 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+1102	Burkina Faso	OUÉDRAOGO	Ousmane	M	1976-07-19 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-17 00:00:00+00	HAUTE-VOLTA
+1102	Burkina Faso	VORON	Martine	F	1963-05-05 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1103	Côte d'Ivoire	BERTHO	Jackie	F	1955-08-04 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1103	Côte d'Ivoire	CHAPMAN	Jacqueline	F	1949-05-01 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			CÔTE D'IVOIRE
+1103	Côte d'Ivoire	HEINTZ	Baptiste	M	1985-12-27 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1103	Côte d'Ivoire	MARTINATO	Bruno	M	1989-03-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1103	Côte d'Ivoire	RUELLE	Jean-Luc	M	1952-04-01 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-25 00:00:00+00	
+1104	Guinée	BOUZIGUES	Frédéric	M	1967-02-12 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	
+1105	Mali	BEILVERT	Valérie	F	1966-12-25 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1105	Mali	KANOUTE	Elisabeth	F	1951-09-01 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	
+1105	Mali	SUKHO	Guy	M	1967-11-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			MALI
+1106	Mauritanie	SYLLA	Boubou	M	1968-01-01 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	MAURITANIE
+1107	Niger	JULLIEN	Stéphane Romain	M	1959-07-20 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-21 00:00:00+00	
+1108	Sénégal, Guinée-Bissau, Cap Vert	BAHSOUN	Hassan	M	1944-12-20 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			SÉNÉGAL
+1108	Sénégal, Guinée-Bissau, Cap Vert	KAOUK	Balkis	F	1949-10-02 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	MAROC
+1108	Sénégal, Guinée-Bissau, Cap Vert	LICCIONI	Marie-Thérèse Dite Anne-Marie	F	1962-07-13 00:00:00+00	22	Commerçant et assimilé	2022-01-01 00:00:00+00			
+1108	Sénégal, Guinée-Bissau, Cap Vert	SENAC	Gérard	M	1951-06-30 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1108	Sénégal, Guinée-Bissau, Cap Vert	SOYERE	Nicolas	M	1979-03-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1109	Togo, Ghana	BÉGUÉ	Jean-Christophe	M	1966-09-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-09 00:00:00+00	
+1109	Togo, Ghana	MAIZOUE	Jean-Philippe	M	1971-10-03 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+1109	Togo, Ghana	MENSAH ATTOH	Sylvain	M	1961-02-17 00:00:00+00	31	Profession libérale	2022-12-17 00:00:00+00			
+1201	Afrique du Sud, Mozambique, Namibie, Bostwana	BARRIERE-IZARD	Alexandre	M	1990-03-15 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+1201	Afrique du Sud, Mozambique, Namibie, Bostwana	CLAQUIN	Gaël	M	1970-04-17 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+1201	Afrique du Sud, Mozambique, Namibie, Bostwana	LASSERRE	Nathalie	F	1967-05-16 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+1202	Angola	BENHAIM	Avraham	M	1958-11-19 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	RABAT
+1203	Cameroun, Guinée équatoriale	DUPLEIX	Thierry	M	1968-06-20 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			CAMEROUN
+1203	Cameroun, Guinée équatoriale	LELOUSTRE	Olivier	M	1974-07-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			PARIS 16E ARRONDISSEMENT
+1203	Cameroun, Guinée équatoriale	PIALOT MVOT	Esther	F	1961-05-15 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-28 00:00:00+00	CAMEROUN
+1204	Comores	MZÉ	Djaouad	M	1979-10-01 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-03 00:00:00+00	COMORES
+1205	Congo	BOULO	Anne	F	1976-04-16 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-17 00:00:00+00	LA ROCHELLE
+1205	Congo	CHANGARNIER	Cyril	M	1983-04-27 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1205	Congo	MARINI	René	M	1963-10-24 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-17 00:00:00+00	CONGO
+1206	Djibouti	MEUNIER	Jean	M	1945-12-07 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			
+1206	Djibouti	PARDINA	Eva	F	1981-01-27 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			
+1206	Djibouti	SADEQUE	Vincent	M	1961-02-21 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-08-30 00:00:00+00	DJIBOUTI
+1207	Ethiopie, Soudan, Soudan du Sud	GLEYZE	Michel	M	1971-01-11 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	DJIBOUTI
+1208	Gabon	LESPINAS	Didier	M	1954-12-15 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			
+1208	Gabon	REYNAUD	Eliane	F	1948-10-25 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2021-05-31 00:00:00+00			
+1208	Gabon	RIBERT	Corine	F	1961-09-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	CONGO
+1209	Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe	DEMOUSTIER	Aude	F	1954-09-28 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-17 00:00:00+00	
+1209	Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe	DOMELEVO ENTFELLNER	Jean-Baka	M	1982-08-30 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-21 00:00:00+00	PARIS12
+1209	Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe	WAIDE	Daniel	M	1975-09-09 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-07-01 00:00:00+00	Président du conseil consulaire	2022-08-04 00:00:00+00	
+1210	Madagascar	CHAOUI	Jean-Daniel	M	1947-06-06 00:00:00+00	77	Ancien employé	2021-11-07 00:00:00+00			ROCHEFORT
+1210	Madagascar	ELU-DIX	Elu-Dix	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1210	Madagascar	ELU-HUIT	Elu-Huit	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1210	Madagascar	ELU-NEUF	Elu-Neuf	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1210	Madagascar	ELU-SEPT	Elu-Sept	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1210	Madagascar	FIDALY	Houssen	M	1981-10-08 00:00:00+00	22	Commerçant et assimilé	2021-11-07 00:00:00+00			
+1210	Madagascar	FRASLIN	Jean-Hervé	M	1961-07-01 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-11-07 00:00:00+00	Président du conseil consulaire	2021-11-09 00:00:00+00	PARIS18
+1210	Madagascar	TADJER-FARAJALLAH	Geneviève	F	1961-10-18 00:00:00+00	22	Commerçant et assimilé	2021-11-07 00:00:00+00			
+1211	Maurice, Seychelles	DE LOPPINOT	Charles	M	1965-07-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1211	Maurice, Seychelles	DUBOURG DE LA TOUR	Xavier	M	1960-07-09 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			CAUDÉRAN
+1211	Maurice, Seychelles	GIRAUD-MALIVEL	Michèle	F	1942-04-13 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	ROSE HILL
+1211	Maurice, Seychelles	MACTOOM	Parveen	F	1968-07-17 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			MAURICE
+1212	Nigéria	GILBERT	Yann	M	1974-12-24 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-24 00:00:00+00	
+1213	République centrafricaine	GILBERT	Jean-Charles	M	1972-09-23 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-01 00:00:00+00	
+1214	République démocratique du Congo	KATENDE	Madeleine	F	1961-11-28 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-09 00:00:00+00	GUINÉE
+1214	République démocratique du Congo	MÉRIAU	Franck	M	1963-05-14 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+1214	République démocratique du Congo	WAZNE	Henry Yoan	M	1970-10-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			LIBÉRIA
+1215	Tchad	MIALLIER	Thierry	M	1951-04-20 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	
+1301	Arabie saoudite - 1re circonscription ( avec Yémen )	BOUTHENET	Elise	F	1985-01-01 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+1301	Arabie saoudite - 1re circonscription ( avec Yémen )	CHAAYA	Nadia	F	1964-07-02 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	CHIAH
+1301	Arabie saoudite - 1re circonscription ( avec Yémen )	EL AMERI	Abdeljabbar	M	1968-05-20 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			MAROC
+1302	Arabie saoudite - 2e circonscription ( avec Koweït )	ABI RAMIA	Mira	F	1975-07-02 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-05-31 00:00:00+00			TUNISIE
+1302	Arabie saoudite - 2e circonscription ( avec Koweït )	LETANCHE	Hugues	M	1980-09-19 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	LYON 4E ARRONDISSEMENT
+1302	Arabie saoudite - 2e circonscription ( avec Koweït )	SLAIMAN	Zaïda	F	1963-03-07 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-07 00:00:00+00	GOURDON
+1303	Emirats arabes unis, Oman	GRIMA	Gilles	M	1964-06-20 00:00:00+00	74	Ancien cadre	2021-05-31 00:00:00+00			LYON 3E ARRONDISSEMENT
+1303	Emirats arabes unis, Oman	MORIOU	Isabelle	F	1970-09-07 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			
+1303	Emirats arabes unis, Oman	NASSIF	Guillaume	M	1983-10-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			PARIS 5E ARRONDISSEMENT
+1303	Emirats arabes unis, Oman	RIGAUD	Laurent	M	1964-08-20 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	
+1303	Emirats arabes unis, Oman	SEROL	Hervé	M	1970-05-19 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1304	Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan	FRANCAIS	Anne-Sophie	F	1974-09-16 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			MAROC
+1304	Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan	MANECHE	Baki	M	1969-09-05 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			IRAN
+1304	Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan	MEIMAND	Armand	M	1969-04-28 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-23 00:00:00+00	IRAN
+1305	Jordanie, Irak	LEDGER-MOUSSALLAM	Laurence	F	1956-10-01 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-07-08 00:00:00+00	JORDANIE
+1306	Liban, Syrie	ASSI	Rola Marianne	F	1983-06-12 00:00:00+00	31	Profession libérale	2023-01-11 00:00:00+00			
+1306	Liban, Syrie	AYOUB	Ghassan	M	1954-02-22 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	BEYROUTH
+1306	Liban, Syrie	LAMAH	Lucas	M	1975-03-15 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			LIBAN
+1306	Liban, Syrie	NASSOUR	Ziad	M	1959-09-27 00:00:00+00	31	Profession libérale	2021-10-23 00:00:00+00			
+1306	Liban, Syrie	REVERS-HADDAD	Denise	F	1940-03-26 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2021-05-31 00:00:00+00			
+1307	Qatar, Bahreïn	HOUNGBO-MONTEVERDE	Rosiane	F	1981-10-08 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS15
+1307	Qatar, Bahreïn	SALHA	Guillaume	M	1968-11-19 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-07-08 00:00:00+00	LIBAN
+1307	Qatar, Bahreïn	TORRIJOS	Elena	F	1980-06-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			PARIS 14E ARRONDISSEMENT
+1401	Israël et Territoires palestiniens - 1re circonscription	ASSOUS	Winston	M	1945-05-24 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2021-05-31 00:00:00+00			TUNISIE
+1401	Israël et Territoires palestiniens - 1re circonscription	ASSULI	Samantha	F	1975-03-01 00:00:00+00	55	Employé de commerce	2021-05-31 00:00:00+00			PARIS 12E ARRONDISSEMENT
+1401	Israël et Territoires palestiniens - 1re circonscription	BELLAÏCHE	Eric	M	1958-12-10 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	PARIS 10E ARRONDISSEMENT
+1401	Israël et Territoires palestiniens - 1re circonscription	KAMOUN	Paul	M	1953-08-21 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			
+1401	Israël et Territoires palestiniens - 1re circonscription	SEMHOUN	Hélène	F	1954-07-19 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-05-31 00:00:00+00			ALGÉRIE
+1402	Israël et Territoires palestiniens - 2e circonscription	ALLOUCHE	Robert	M	1952-07-09 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2021-05-31 00:00:00+00			ALGÉRIE
+1402	Israël et Territoires palestiniens - 2e circonscription	HABIB	Johann	M	1974-09-07 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS12
+1402	Israël et Territoires palestiniens - 2e circonscription	LEVY	Claude	M	1956-05-26 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS10
+1402	Israël et Territoires palestiniens - 2e circonscription	LEVY	Elie	M	1947-02-20 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2021-05-31 00:00:00+00			ALEXANDRIE
+1402	Israël et Territoires palestiniens - 2e circonscription	MIMOUNI	Pascale	F	1973-09-30 00:00:00+00	33	Cadre de la fonction publique	2021-05-31 00:00:00+00			PARIS 11E ARRONDISSEMENT
+1402	Israël et Territoires palestiniens - 2e circonscription	POZNANSKI	Daphna	F	1950-06-03 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	ORAN
+1501	Australie, Fidji, Papouasie-Nouvelle-Guinée	BRUNEL	Caroline	F	1978-05-31 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1501	Australie, Fidji, Papouasie-Nouvelle-Guinée	GRANGE	Jean-Philippe	M	1968-07-13 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-29 00:00:00+00	
+1501	Australie, Fidji, Papouasie-Nouvelle-Guinée	LEGER	Elise	F	1989-02-13 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			GOURDON
+1501	Australie, Fidji, Papouasie-Nouvelle-Guinée	THOMANN	Serge	M	1960-03-24 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00			
+1501	Australie, Fidji, Papouasie-Nouvelle-Guinée	VILLIÈRE	Valérie	F	1963-10-12 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2021-05-31 00:00:00+00			
+1502	Cambodge	BOHEME	Florian	M	1984-11-20 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1502	Cambodge	LESTIENNE	Jean	M	1951-07-04 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00			
+1502	Cambodge	REMIGI	Victor	M	1950-04-16 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	
+1503	Chine - 1re circonscription	BASSIR	David	M	1971-08-10 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			MAROC
+1503	Chine - 1re circonscription	CRESSARD	Blandine	F	1962-12-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-12-30 00:00:00+00			La Garenne Colombes
+1503	Chine - 1re circonscription	PARELLADA	Christina	F	1981-12-27 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2022-01-05 00:00:00+00	
+1504	Chine - 2e circonscription ( avec Mongolie et Corée du Nord )	BODIN	Ludovic	M	1979-01-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-10-25 00:00:00+00			
+1504	Chine - 2e circonscription ( avec Mongolie et Corée du Nord )	ONILLON	Françoise	F	1948-02-02 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1504	Chine - 2e circonscription ( avec Mongolie et Corée du Nord )	PAJOT	Franck	M	1965-09-30 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-30 00:00:00+00	
+1505	Chine - 3e circonscription	DUPUIS	Pierre-Yves	M	1982-10-27 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1505	Chine - 3e circonscription	GUYON	Marc	M	1984-03-21 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00			
+1505	Chine - 3e circonscription	MARTIN	Catya	F	1969-05-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-25 00:00:00+00	
+1505	Chine - 3e circonscription	TRAN-SAUTEDÉ	Emilie	F	1975-03-03 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			CAMBODGE
+1506	Chine - 4e circonscription	COUPÉ	Gwenola	F	1968-05-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1506	Chine - 4e circonscription	MALLET	Guillaume	M	1985-08-17 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-11 00:00:00+00	
+1506	Chine - 4e circonscription	VUATTOUX	Romain	M	1983-02-15 00:00:00+00	34	Professeur, profession scientifique	2022-05-13 00:00:00+00			
+1507	Corée du Sud, Taïwan	JOINAU	Benjamin	M	1969-10-19 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-07 00:00:00+00	FLOIRAC
+1507	Corée du Sud, Taïwan	ORY	Pierre	M	1967-04-24 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-07-05 00:00:00+00			
+1507	Corée du Sud, Taïwan	PROVENZANO	Julien	M	1981-09-14 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-07-16 00:00:00+00			
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	BARTHELEMY	Franck	M	1969-01-09 00:00:00+00	31	Profession libérale	2021-11-07 00:00:00+00	Président du conseil consulaire	2021-11-10 00:00:00+00	
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	D'ASCOLI	Cécile	F	1969-11-14 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-11-07 00:00:00+00			
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	ELU-DEUX	Elu-Deux	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	ELU-TROIS	Elu-Trois	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	ELU-UN	Elu-Un	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	ELU-UN	Elu-Un	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-07-01 00:00:00+00			
+1508	Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )	FAUCHILLE	Jean-Baptiste	M	1979-12-08 00:00:00+00	34	Professeur, profession scientifique	2021-11-07 00:00:00+00			
+1509	Inde - 2e circonscription	BICHAT	Balaramin	M	1941-11-03 00:00:00+00	74	Ancien cadre	2021-11-07 00:00:00+00			
+1509	Inde - 2e circonscription	ELU-CINQ	Elu-Cinq	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1509	Inde - 2e circonscription	ELU-QUATRE	Elu-Quatre	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1509	Inde - 2e circonscription	ELU-SIX	Elu-Six	F	1970-01-01 00:00:00+00	11	Agriculteur sur petite exploitation	2021-05-31 00:00:00+00			
+1509	Inde - 2e circonscription	SAMUEL-DAVID	Chantal	F	1964-05-25 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-11-07 00:00:00+00	Président du conseil consulaire	2021-11-12 00:00:00+00	
+1509	Inde - 2e circonscription	SIVA	Prédibane	M	1962-08-16 00:00:00+00	74	Ancien cadre	2021-11-07 00:00:00+00			PARIS10
+1510	Indonésie	LE TOUZEY	Hélène	F	1950-12-15 00:00:00+00	54	Employé administratif d'entreprise	2021-05-31 00:00:00+00			VIETNAM
+1510	Indonésie	LUÇON	Jacques	M	1954-10-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1510	Indonésie	MIGNON	Alain Pierre	M	1947-03-18 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-16 00:00:00+00	
+1511	Japon	CONSIGNY	Thierry	M	1960-03-12 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-15 00:00:00+00	
+1511	Japon	MARIE	Marie-José	F	1956-05-03 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2021-05-31 00:00:00+00			
+1511	Japon	MOSCHETTI	Valérie	F	1965-10-27 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-07 00:00:00+00			
+1511	Japon	ROUSSEL	François	M	1962-01-28 00:00:00+00	34	Professeur, profession scientifique	2021-05-31 00:00:00+00			MARSEILLE 6E ARRONDISSEMENT
+1512	Laos	BOULOM	Daniel	M	1973-10-21 00:00:00+00	55	Employé de commerce	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	LAOS
+1513	Malaisie, Brunei	CLOAREC	Quentin	M	1987-12-25 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS 12E ARRONDISSEMENT
+1513	Malaisie, Brunei	GICQUEL	Jean-Yves	M	1955-08-13 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1513	Malaisie, Brunei	RIVES-GEORGES	Olivier	M	1958-01-15 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-25 00:00:00+00	PARIS 16E ARRONDISSEMENT
+1514	Nouvelle-Zélande	GUILLEMOT-PEACOCK	Géraldine	F	1978-11-14 00:00:00+00	56	Personnel des services directs aux particuliers	2021-05-31 00:00:00+00			
+1514	Nouvelle-Zélande	LEDUCQ	Pierre	M	1961-06-22 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1514	Nouvelle-Zélande	PLET	Nadine	F	1957-02-28 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	
+1515	Philippines	D'ABOVILLE	Hubert	M	1954-07-05 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2021-05-31 00:00:00+00			PARIS 16E ARRONDISSEMENT
+1515	Philippines	LABBÉ	Kévin	M	1980-02-25 00:00:00+00	55	Employé de commerce	2021-10-20 00:00:00+00			
+1515	Philippines	LEJEUNE	Christophe	M	1965-05-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-11 00:00:00+00	
+1516	Singapour	COGNON	Aurélien	M	1979-12-19 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			PARIS 8E ARRONDISSEMENT
+1516	Singapour	HURET	Laurence	F	1967-03-05 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1516	Singapour	PROVENDIER	Remi	M	1971-12-24 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00			PARIS 12E ARRONDISSEMENT
+1516	Singapour	YEBKA	Belma	F	1976-02-02 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	YOUGOSLAVIE
+1517	Thaïlande, Birmanie	BANCHONG	Thatsanavanh Kai	F	1982-05-16 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			LAOS
+1517	Thaïlande, Birmanie	BAUCHET	Claude	M	1951-10-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00			
+1517	Thaïlande, Birmanie	CHEVRIER	Christian Henri	M	1950-11-17 00:00:00+00	77	Ancien employé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-18 00:00:00+00	
+1517	Thaïlande, Birmanie	MINÉ	Éric	M	1960-12-15 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			PARIS 12E ARRONDISSEMENT
+1518	Vanuatu	CUMBO	Georges	M	1966-05-09 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-21 00:00:00+00	MAROC
+1519	Vietnam	FISCHER	Laurent	M	1965-12-27 00:00:00+00	22	Commerçant et assimilé	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-22 00:00:00+00	
+1519	Vietnam	POLLET	Sébastien	M	1977-01-08 00:00:00+00	31	Profession libérale	2021-05-31 00:00:00+00			
+1519	Vietnam	VILLARD	Marc	M	1951-03-26 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-05-31 00:00:00+00	Président du conseil consulaire	2021-06-10 00:00:00+00	

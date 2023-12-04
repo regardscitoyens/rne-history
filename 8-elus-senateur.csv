@@ -1,0 +1,354 @@
+code_departement	libelle_departement	code_collectivite_statut_particulier	libelle_collectivite_statut_particulier	nom_elu	prenom_elu	sexe_elu	date_naissance_elu	code_categorie_socio_professionnelle	libelle_categorie_socio_professionnelle	date_debut_mandat	lieu_naissance_elu	code_nuance_mandat	libelle_nuance_mandat
+01	Ain			BLATRIX CONTAT	Florence	F	1966-03-30 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	bourg en bresse	SOC	Socialiste
+01	Ain			CHAIZE	Patrick	M	1963-03-22 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00		LR	Les Républicains
+01	Ain			GOY-CHAVENT	Sylvie	F	1963-05-23 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	DUNKERQUE	LR	Les Républicains
+02	Aisne			GRUNY	Pascale	F	1960-02-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	Cambrai (59)	LR	Les Républicains
+02	Aisne			LEFEVRE	Antoine	M	1966-02-18 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	DUSSELDORF	LR	Les Républicains
+02	Aisne			VERZELEN	Pierre-Jean	M	1983-08-29 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	LAON	DVD	Divers droite
+03	Allier			MALHURET	Claude	M	1950-03-08 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	Strasbourg	DVD	Divers droite
+03	Allier			ROJOUAN	Bruno	M	1957-03-06 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		DVD	Divers droite
+04	Alpes-De-Haute-Provence			ROUX	Jean-Yves	M	1970-01-18 00:00:00+00	77	Ancien employé	2020-10-01 00:00:00+00	DIGNE	DVG	Divers gauche
+05	Hautes-Alpes			ARNAUD	Jean-Michel	M	1966-04-28 00:00:00+00	11	Agriculteur sur petite exploitation	2020-10-01 00:00:00+00	GAP	DVC	Divers centre
+06	Alpes-Maritimes			BORCHIO FONTIMP	Alexandra	F	1981-10-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	ANTIBES (06)	LR	Les Républicains
+06	Alpes-Maritimes			DEMAS	Patricia	F	1966-09-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	NICE (06)	LR	Les Républicains
+06	Alpes-Maritimes			ESTROSI-SASSONE	Dominique	F	1958-11-14 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2020-10-01 00:00:00+00	NICE (06)	LR	Les Républicains
+06	Alpes-Maritimes			LEROY	Henri	M	1945-03-31 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	BEYROUTH (LIBAN)	LR	Les Républicains
+06	Alpes-Maritimes			TABAROT	Philippe	M	1970-11-25 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2020-10-01 00:00:00+00	CANNES (06)	LR	Les Républicains
+07	Ardèche			DARNAUD	Mathieu	M	1975-07-11 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-10-01 00:00:00+00	VALENCE	LR	Les Républicains
+07	Ardèche			VENTALON	Anne	F	1972-01-07 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	Aubenas	DVD	Divers droite
+08	Ardennes			JOSEPH	Else	F	1961-12-24 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	Villers Semeuse	LR	Les Républicains
+08	Ardennes			LAMÉNIE	Marc	M	1956-07-11 00:00:00+00	56	Personnel des services directs aux particuliers	2020-10-01 00:00:00+00	Givet	LR	Les Républicains
+09	Ariège			MICHAU	Jean-Jacques	M	1956-07-23 00:00:00+00	75	Ancienne profession intermédiaire	2020-10-01 00:00:00+00	LAVELANET	SOC	Socialiste
+10	Aube			PAOLI-GAGIN	Vanina	F	1967-01-25 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		DVD	Divers droite
+10	Aube			PERROT	Evelyne	F	1951-06-22 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2020-10-01 00:00:00+00	PARIS 6° (75)	DVD	Divers droite
+11	Aude			JOURDA	Gisèle	F	1955-03-24 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	MABURG-SUR-LAHN	SOC	Socialiste
+11	Aude			PLA	Sebastien	M	1977-07-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	NARBONNE(11)	SOC	Socialiste
+12	Aveyron			ANGLARS	Jean-Claude	M	1961-02-20 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-10-01 00:00:00+00	RODEZ (12)	DVD	Divers droite
+12	Aveyron			MARC	Alain	M	1957-01-29 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	PARIS14 (75)	DVD	Divers droite
+13	Bouches-Du-Rhône			BACCHI	Jérémy	M	1986-03-08 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2020-10-01 00:00:00+00		COM	Parti communiste français
+13	Bouches-Du-Rhône			BENARROCHE	Guy	M	1954-07-25 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	ORAN	VEC	Europe Ecologie - Les Verts
+13	Bouches-Du-Rhône			BOYER	Valérie	F	1962-06-11 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	Bourges (18)	LR	Les Républicains
+13	Bouches-Du-Rhône			CARLOTTI	Marie-Arlette	F	1952-01-21 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	BEZIERS (34)	SOC	Socialiste
+13	Bouches-Du-Rhône			DEVESA	Brigitte	F	1960-03-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2021-07-06 00:00:00+00	Oran (Algérie)	UDI	Union des Démocrates et des Indépendants
+13	Bouches-Du-Rhône			GUERINI	Jean-Noël	M	1951-01-01 00:00:00+00	75	Ancienne profession intermédiaire	2020-10-01 00:00:00+00	CALENZANA (2B)	DIV	Divers
+13	Bouches-Du-Rhône			LE RUDULIER	Stéphane	M	1973-12-09 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	Lille	LR	Les Républicains
+13	Bouches-Du-Rhône			RAVIER	Stéphane	M	1969-08-04 00:00:00+00	54	Employé administratif d'entreprise	2020-10-01 00:00:00+00	GAP	RN	Rassemblement National
+14	Calvados			ALLIZARD	Pascal	M	1962-12-19 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	PARIS (17ème)	LR	Les Républicains
+14	Calvados			DE LA PROVÔTÉ	Sonia	F	1968-12-25 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2020-10-01 00:00:00+00	CAEN (14)	DVC	Divers centre
+14	Calvados			FÉRET	Corinne	F	1961-09-17 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	CAEN (14)	SOC	Socialiste
+15	Cantal			DELCROS	Bernard	M	1953-02-12 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	SAINT FLOUR (15)	DVC	Divers centre
+15	Cantal			SAUTAREL	Stéphane	M	1965-01-29 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		DVD	Divers droite
+16	Charente			BONNEAU	François	M	1958-02-08 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	Rouillac	DVD	Divers droite
+16	Charente			BONNEFOY	Nicole	F	1958-08-11 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00		SOC	Socialiste
+17	Charente-Maritime			IMBERT	Corinne	F	1958-11-20 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	VERSAILLES (78)	DVD	Divers droite
+17	Charente-Maritime			LAURENT	Daniel	M	1949-02-04 00:00:00+00	71	Ancien agriculteur exploitant	2020-10-01 00:00:00+00	BLAYE	LR	Les Républicains
+17	Charente-Maritime			VALLET	Mickaël	M	1979-05-26 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	Limoges	SOC	Socialiste
+18	Cher			POINTEREAU	Rémy	M	1953-03-30 00:00:00+00	71	Ancien agriculteur exploitant	2020-10-01 00:00:00+00		LR	Les Républicains
+18	Cher			RICHER	Marie-Pierre	F	1963-04-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	PARIS 10ème (75)	LR	Les Républicains
+19	Corrèze			CHASSEING	Daniel	M	1945-04-10 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	Le lonzac	DVD	Divers droite
+19	Corrèze			NOUGEIN	Claude	M	1946-12-04 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-10-01 00:00:00+00		LR	Les Républicains
+21	Côte-D'Or			HOUPERT	Alain	M	1957-08-13 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	DIJON (21)	LR	Les Républicains
+21	Côte-D'Or			LOISIER	Anne-Catherine	F	1969-03-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	CAYENNE (GUYANE)	UDI	Union des Démocrates et des Indépendants
+21	Côte-D'Or			PATRIAT	François	M	1943-03-21 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	Semur-en-Auxois (21)	REM	La République en marche
+22	Côtes-D'Armor			CADEC	Alain	M	1953-06-21 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		DVD	Divers droite
+22	Côtes-D'Armor			LAHELLEC	Gérard	M	1954-04-04 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		COM	Parti communiste français
+22	Côtes-D'Armor			LE HOUEROU	Annie	F	1960-03-31 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	plougonver	SOC	Socialiste
+23	Creuse			JEANSANNETAS	Eric	M	1962-10-21 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-10-01 00:00:00+00		SOC	Socialiste
+23	Creuse			LOZACH	Jean-Jacques	M	1954-02-08 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	BOURGANEUF	SOC	Socialiste
+24	Dordogne			MERILLOU	Serge	M	1952-02-14 00:00:00+00	77	Ancien employé	2020-10-01 00:00:00+00	BERGERAC	SOC	Socialiste
+24	Dordogne			VARAILLAS	Marie-Claude	F	1950-12-18 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	BASSILLAC	COM	Parti communiste français
+25	Doubs			GROSPERRIN	Jacques	M	1955-10-17 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	Baden Baden	LR	Les Républicains
+25	Doubs			JACQUEMET	Annick	F	1956-01-20 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-10-01 00:00:00+00	STRASBOURG	DVD	Divers droite
+25	Doubs			LONGEOT	Jean-François	M	1956-12-27 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	REIMS	DVD	Divers droite
+26	Drôme			BOUCHET	Gilbert	M	1947-01-08 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-10-01 00:00:00+00	LA VOULTE SUR RHONE (07)	LR	Les Républicains
+26	Drôme			BUIS	Bernard	M	1956-06-23 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	DIE (26)	REM	La République en marche
+26	Drôme			MONIER	Marie-Pierre	F	1958-02-28 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	VAISON LA ROMAINE	SOC	Socialiste
+27	Eure			DURANTON	Nicole	F	1958-10-13 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2020-11-02 00:00:00+00	BRETEUIL	LR	Les Républicains
+27	Eure			MAUREY	Hervé	M	1961-05-07 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	Paris VIII	UDI	Union des Démocrates et des Indépendants
+27	Eure			PLUCHET	Kristina	F	1973-05-01 00:00:00+00	12	Agriculteur sur moyenne exploitation	2020-10-01 00:00:00+00	Amiens	LR	Les Républicains
+28	Eure-Et-Loir			DE MONTGOLFIER	Albéric	M	1964-07-06 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	NEUILLY-SUR-SEINE	LR	Les Républicains
+28	Eure-Et-Loir			DESEYNE	Chantal	F	1957-01-29 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	orléans	LR	Les Républicains
+28	Eure-Et-Loir			GUERET	Daniel	M	1961-04-17 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	Illiers-Combray	DVD	Divers droite
+29	Finistère			CANEVET	Michel	M	1960-12-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	PONT L ABBE (29)	UDI	Union des Démocrates et des Indépendants
+29	Finistère			FICHET	Jean-Luc	M	1953-07-15 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	ST BRIEUC DE MAURON (56)	SOC	Socialiste
+29	Finistère			HAVET	Nadège	F	1975-12-30 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00		DVC	Divers centre
+29	Finistère			PAUL	Philippe	M	1965-01-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	DOUARNENEZ (29)	LR	Les Républicains
+2A	Corse-Du-Sud	94	Corse	PANUNZI	Jean-Jacques	M	1956-04-05 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-10-01 00:00:00+00	AJACCIO (2A)	LR	Les Républicains
+2B	Haute-Corse	94	Corse	PARIGI	Paul Toussaint	M	1966-04-07 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	CORTE	REG	Régionaliste
+30	Gard			BOUAD	Denis	M	1952-11-01 00:00:00+00	71	Ancien agriculteur exploitant	2020-10-01 00:00:00+00	LANSARGUES (30)	SOC	Socialiste
+30	Gard			BURGOA	Laurent	M	1969-02-04 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	NIMES (30)	LR	Les Républicains
+30	Gard			LOPEZ	Vivette	F	1954-12-27 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	SAINT-MANDE (94)	LR	Les Républicains
+31	Haute-Garonne			CHATILLON	Alain	M	1943-03-15 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	REVEL (31)	DVD	Divers droite
+31	Haute-Garonne			MEDEVIELLE	Pierre	M	1960-04-17 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		DVD	Divers droite
+31	Haute-Garonne			MICOULEAU	Brigitte	F	1951-09-10 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	MAZAMET	LR	Les Républicains
+31	Haute-Garonne			POUMIROL	Emilienne	F	1950-07-25 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	VARILHES (09)	SOC	Socialiste
+31	Haute-Garonne			RAYNAL	Claude	M	1957-10-10 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	TOULOUSE (31)	SOC	Socialiste
+32	Gers			DUFFOURG	Alain	M	1950-01-22 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		DVD	Divers droite
+32	Gers			MONTAUGE	Franck	M	1961-09-14 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-10-01 00:00:00+00	Condom	SOC	Socialiste
+33	Gironde			CAZABONNE	Alain	M	1944-08-25 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2020-10-01 00:00:00+00		MDM	Modem
+33	Gironde			DE MARCO	Monique	F	1953-11-12 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00		VEC	Europe Ecologie - Les Verts
+33	Gironde			DELATTRE	Nathalie	F	1968-12-02 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+33	Gironde			GILLÉ	Hervé	M	1960-10-09 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		SOC	Socialiste
+33	Gironde			HARRIBEY	Laurence	F	1953-02-08 00:00:00+00	77	Ancien employé	2020-10-01 00:00:00+00		SOC	Socialiste
+33	Gironde			LASSARADE	Florence	F	1957-08-18 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	CAUDERAN	LR	Les Républicains
+34	Hérault			BILHAC	Christian	M	1955-04-10 00:00:00+00	75	Ancienne profession intermédiaire	2020-10-01 00:00:00+00		DVG	Divers gauche
+34	Hérault			BOURGI	Hussein	M	1973-10-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	Dakar	SOC	Socialiste
+34	Hérault			CABANEL	Henri	M	1959-03-09 00:00:00+00	12	Agriculteur sur moyenne exploitation	2020-10-01 00:00:00+00	Béziers	DVG	Divers gauche
+34	Hérault			GRAND	Jean-Pierre	M	1950-11-18 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		LR	Les Républicains
+35	Ille-Et-Vilaine			DE LEGGE	Dominique	M	1952-02-18 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	LE PERTRE	LR	Les Républicains
+35	Ille-Et-Vilaine			GATEL	Françoise	F	1953-03-14 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	ROCHEFORT-EN-TERRE	UDI	Union des Démocrates et des Indépendants
+35	Ille-Et-Vilaine			ROBERT	Sylvie	F	1963-08-28 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2020-10-01 00:00:00+00		SOC	Socialiste
+35	Ille-Et-Vilaine			SALMON	Daniel	M	1962-10-21 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		VEC	Europe Ecologie - Les Verts
+36	Indre			BELLUROT	Nadine	F	1965-04-05 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	La Châtre	LR	Les Républicains
+36	Indre			GERBAUD	Frédérique	F	1959-07-03 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	NEUILLY SUR SEINE	LR	Les Républicains
+37	Indre-Et-Loire			BABARY	Serge	M	1946-07-16 00:00:00+00	159	Retr.artis.commerc.chef d'entrep. (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+37	Indre-Et-Loire			LOUAULT	Pierre	M	1949-05-03 00:00:00+00	71	Ancien agriculteur exploitant	2017-10-02 00:00:00+00	Loches (37)	UDI	Union des Démocrates et des Indépendants
+37	Indre-Et-Loire			PAVERO-RAIMOND	Isabelle	F	1961-02-23 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2017-10-02 00:00:00+00		LR	Les Républicains
+38	Isère			GONTARD	Guillaume	M	1971-03-11 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00	Tours	DVG	Divers gauche
+38	Isère			PUISSAT	Frédérique	F	1967-11-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2017-10-02 00:00:00+00	Vif (38)	LR	Les Républicains
+38	Isère			RAMBAUD	Didier	M	1959-05-12 00:00:00+00	156	Autre profession (obsolète)	2017-10-02 00:00:00+00	GRENOBLE	REM	La République en marche
+38	Isère			SAVIN	Michel	M	1958-11-25 00:00:00+00	77	Ancien employé	2017-10-02 00:00:00+00	GRENOBLE	LR	Les Républicains
+38	Isère			VALLINI	André	M	1956-07-15 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00	Tullins (38)	SOC	Socialiste
+39	Jura			CHAUVIN	Marie-Christine	F	1954-11-20 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	SALINS LES BAINS	DVD	Divers droite
+39	Jura			VERMEILLET	Sylvie	F	1967-06-10 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2017-10-02 00:00:00+00	SALINS LES BAINS	UDI	Union des Démocrates et des Indépendants
+40	Landes			KERROUCHE	Eric	M	1967-10-02 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2017-10-02 00:00:00+00		SOC	Socialiste
+40	Landes			LUBIN	Monique	F	1963-07-16 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	Mont de Marsan	SOC	Socialiste
+41	Loir-Et-Cher			JANSSENS	Jean-Marie	M	1953-03-19 00:00:00+00	158	Retraité agricole (obsolète)	2017-10-02 00:00:00+00	CHISSAY EN TOURAINE - 41	UDI	Union des Démocrates et des Indépendants
+41	Loir-Et-Cher			PRINCE	Jean-Paul	M	1944-07-08 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2017-10-01 00:00:00+00		MDM	Modem
+42	Loire			BONNE	Bernard	M	1948-09-18 00:00:00+00	124	Médecin (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+42	Loire			CUKIERMAN	Cécile	F	1976-04-26 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	Bagneux	COM	Parti communiste français
+42	Loire			FOURNIER	Bernard	M	1946-09-13 00:00:00+00	156	Autre profession (obsolète)	2017-10-02 00:00:00+00	ST ETIENNE	LR	Les Républicains
+42	Loire			TISSOT	Jean-Claude	M	1963-09-22 00:00:00+00	12	Agriculteur sur moyenne exploitation	2017-10-02 00:00:00+00	SAINT CHAMOND	SOC	Socialiste
+43	Haute-Loire			CIGOLOTTI	Olivier	M	1963-08-16 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+43	Haute-Loire			DUPLOMB	Laurent	M	1971-10-24 00:00:00+00	13	Agriculteur sur grande exploitation	2017-10-02 00:00:00+00	rive de gier	LR	Les Républicains
+44	Loire-Atlantique			DANTEC	Ronan	M	1963-08-05 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00		ECO	Ecologiste
+44	Loire-Atlantique			GARNIER	Laurence	F	1978-04-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-11-01 00:00:00+00		LR	Les Républicains
+44	Loire-Atlantique			GUERRIAU	Joël	M	1957-11-09 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2017-10-02 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+44	Loire-Atlantique			MEUNIER	Michelle	F	1956-01-24 00:00:00+00	144	Profession rattachée à enseignt. (obsolète)	2017-10-02 00:00:00+00		SOC	Socialiste
+44	Loire-Atlantique			VAUGRENARD	Yannick	M	1950-06-25 00:00:00+00	161	Retraité salarié privé (obsolète)	2017-10-02 00:00:00+00	Trignac (44)	SOC	Socialiste
+45	Loiret			CARDOUX	Jean-Noël	M	1946-12-18 00:00:00+00	160	Retraité des professions libérales (obsolète)	2017-10-02 00:00:00+00	Paris	LR	Les Républicains
+45	Loiret			SAURY	Hugues	M	1958-11-12 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00		DVD	Divers droite
+45	Loiret			SUEUR	Jean-Pierre	M	1947-02-28 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00	Boulogne sur mer	SOC	Socialiste
+46	Lot			PREVILLE	Angèle	F	1955-11-23 00:00:00+00	75	Ancienne profession intermédiaire	2017-10-02 00:00:00+00	offenbourg	SOC	Socialiste
+46	Lot			REQUIER	Jean-Claude	M	1947-10-04 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00	MARTEL (46)	RDG	Parti radical de gauche
+47	Lot-Et-Garonne			BONFANTI-DOSSAT	Christine	F	1956-05-25 00:00:00+00	139	Autre profession libérale (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+47	Lot-Et-Garonne			MOGA	Jean-Pierre	M	1947-05-19 00:00:00+00	164	Retraité des entreprises publiques (obsolète)	2017-10-02 00:00:00+00		DVD	Divers droite
+48	Lozère			PANTEL	Guylene	F	1963-12-14 00:00:00+00	33	Cadre de la fonction publique	2020-03-03 00:00:00+00	Alès	SOC	Socialiste
+49	Maine-Et-Loire			BIGOT	Joël	M	1949-02-05 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00		SOC	Socialiste
+49	Maine-Et-Loire			CAPUS	Emmanuel	M	1974-06-23 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00	ANGERS	LR	Les Républicains
+49	Maine-Et-Loire			DEROCHE	Catherine	F	1953-02-24 00:00:00+00	157	Sans profession déclarée (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+49	Maine-Et-Loire			PIEDNOIR	Stéphane	M	1970-02-25 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+50	Manche			BAS	Philippe	M	1958-07-20 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00	PARIS 17	LR	Les Républicains
+50	Manche			GOSSELIN	Béatrice	F	1958-03-27 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-12-04 00:00:00+00	SARTILLY (50)	DVD	Divers droite
+50	Manche			HOULLEGATTE	Jean-Michel	M	1958-05-30 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2017-10-02 00:00:00+00	Cherbourg (50)	SOC	Socialiste
+51	Marne			DETRAIGNE	Yves	M	1954-12-21 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	reims	UDI	Union des Démocrates et des Indépendants
+51	Marne			FERAT	Françoise	F	1949-03-05 00:00:00+00	157	Sans profession déclarée (obsolète)	2017-10-02 00:00:00+00	Epernay	UDI	Union des Démocrates et des Indépendants
+51	Marne			SAVARY	René-Paul	M	1953-01-03 00:00:00+00	124	Médecin (obsolète)	2017-10-02 00:00:00+00	Alger - Algérie	LR	Les Républicains
+52	Haute-Marne			GUENE	Charles	M	1952-04-06 00:00:00+00	160	Retraité des professions libérales (obsolète)	2017-10-02 00:00:00+00	PUTEAUX (92)	LR	Les Républicains
+52	Haute-Marne			SIDO	Bruno	M	1951-02-19 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+53	Mayenne			CHEVROLLIER	Guillaume	M	1974-10-27 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+53	Mayenne			DOINEAU	Elisabeth	F	1961-04-07 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+54	Meurthe-Et-Moselle			DEL FABRO	Véronique	F	1961-10-25 00:00:00+00	34	Professeur, profession scientifique	2023-01-01 00:00:00+00		DIV	Divers
+54	Meurthe-Et-Moselle			GUILLOTIN	Véronique	F	1962-11-03 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00	VILLERUPT	UDI	Union des Démocrates et des Indépendants
+54	Meurthe-Et-Moselle			HUSSON	Jean-François	M	1961-04-17 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00	LAXOU	LR	Les Républicains
+54	Meurthe-Et-Moselle			JACQUIN	Olivier	M	1964-05-08 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2017-10-02 00:00:00+00	NANCY	SOC	Socialiste
+55	Meuse			LONGUET	Gérard	M	1946-02-24 00:00:00+00	106	Administrateur de sociétés (obsolète)	2017-10-02 00:00:00+00	NEUILLY-SUR-SEINE (92)	LR	Les Républicains
+55	Meuse			MENONVILLE	Franck	M	1972-10-03 00:00:00+00	13	Agriculteur sur grande exploitation	2017-10-02 00:00:00+00	VITRY LE FRANCOIS	DVD	Divers droite
+56	Morbihan			JOURDA	Muriel	F	1967-10-27 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00		LR	Les Républicains
+56	Morbihan			LABBE	Joël	M	1952-10-18 00:00:00+00	148	Fonctionnaire de catégorie B (obsolète)	2017-10-02 00:00:00+00	VANNES (56)	DVG	Divers gauche
+56	Morbihan			LE NAY	Jacques	M	1949-11-19 00:00:00+00	71	Ancien agriculteur exploitant	2017-10-02 00:00:00+00	PLOUAY (56)	UDI	Union des Démocrates et des Indépendants
+57	Moselle			BELRHITI	Catherine	F	1962-08-10 00:00:00+00	34	Professeur, profession scientifique	2020-07-14 00:00:00+00		LR	Les Républicains
+57	Moselle			HERZOG	Christine	F	1968-12-30 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2017-10-02 00:00:00+00		DVD	Divers droite
+57	Moselle			MASSON	Jean-Louis	M	1947-03-25 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	METZ (57)	DVD	Divers droite
+57	Moselle			MIZZON	Jean-Marie	M	1956-03-31 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	Thionville	UDI	Union des Démocrates et des Indépendants
+57	Moselle			TODESCHINI	Jean-Marc	M	1952-03-12 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	LONGWY (54)	SOC	Socialiste
+58	Nièvre			JOLY	Patrice	M	1957-05-05 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	PARIS 11 éme	SOC	Socialiste
+58	Nièvre			SOLLOGOUB	Nadia	F	1961-11-09 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2017-10-02 00:00:00+00	nevers	DVD	Divers droite
+59	Nord			BOCQUET	Eric	M	1957-11-08 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00	LA BASSEE (59)	COM	Parti communiste français
+59	Nord			DAUBRESSE	Marc-Philippe	M	1953-08-01 00:00:00+00	154	Permanent politique (obsolète)	2017-10-02 00:00:00+00	LILLE (59)	LR	Les Républicains
+59	Nord			DECOOL	Jean-Pierre	M	1952-10-19 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00	BOURBOURG (59)	DVD	Divers droite
+59	Nord			FILLEUL	Martine	F	1953-06-06 00:00:00+00	163	Retraité fonct.publique (sf enseig.) (obsolète)	2017-10-02 00:00:00+00	Jeumont (59)	SOC	Socialiste
+59	Nord			GRÉAUME	Michelle	F	1967-10-30 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	valenciennes	COM	Parti communiste français
+59	Nord			HENNO	Olivier	M	1962-04-21 00:00:00+00	154	Permanent politique (obsolète)	2017-10-02 00:00:00+00	ROUBAIX (59)	UDI	Union des Démocrates et des Indépendants
+59	Nord			KANNER	Patrick	M	1957-04-29 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2017-10-02 00:00:00+00	LILLE (59)	SOC	Socialiste
+59	Nord			LETARD	Valérie	F	1962-10-13 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	ORCHIES (59)	UDI	Union des Démocrates et des Indépendants
+59	Nord			LHERBIER	Brigitte	F	1956-06-21 00:00:00+00	75	Ancienne profession intermédiaire	2017-10-02 00:00:00+00	HENIN-BEAUMONT (62)	LR	Les Républicains
+59	Nord			MARCHAND	Frédéric	M	1965-05-31 00:00:00+00	106	Administrateur de sociétés (obsolète)	2017-10-02 00:00:00+00	LILLE (59)	REM	La République en marche
+59	Nord			WATTEBLED	Dany	M	1951-11-22 00:00:00+00	159	Retr.artis.commerc.chef d'entrep. (obsolète)	2017-10-02 00:00:00+00	LESQUIN (59)	DVD	Divers droite
+60	Oise			BASCHER	Jérôme	M	1973-05-31 00:00:00+00	33	Cadre de la fonction publique	2017-09-24 00:00:00+00	SENLIS	LR	Les Républicains
+60	Oise			COURTIAL	Edouard	M	1973-06-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2017-10-02 00:00:00+00	Neuilly sur Seine	LR	Les Républicains
+60	Oise			PACCAUD	Olivier	M	1969-04-13 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00	Le Blanc Mesnil	LR	Les Républicains
+60	Oise			ROSSIGNOL	Laurence	F	1957-12-22 00:00:00+00	132	Conseiller juridique (obsolète)	2017-10-02 00:00:00+00		SOC	Socialiste
+61	Orne			GOULET	Nathalie	F	1958-05-24 00:00:00+00	129	Avocat (obsolète)	2017-10-02 00:00:00+00	BOULOGNE BILLANCOURT (92)	UDI	Union des Démocrates et des Indépendants
+61	Orne			SEGOUIN	Vincent	M	1972-07-01 00:00:00+00	31	Profession libérale	2018-07-01 00:00:00+00		LR	Les Républicains
+62	Pas-De-Calais			APOURCEAU-POLY	Cathy	F	1965-04-18 00:00:00+00	47	Technicien	2018-07-01 00:00:00+00	AVION	COM	Parti communiste français
+62	Pas-De-Calais			CORBISEZ	Jean-Pierre	M	1960-03-07 00:00:00+00	113	Ingénieur (obsolète)	2017-10-02 00:00:00+00	DOUAI	DVG	Divers gauche
+62	Pas-De-Calais			DAGBERT	Michel	M	1962-01-28 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2017-10-02 00:00:00+00		SOC	Socialiste
+62	Pas-De-Calais			GACQUERRE DAHOU	Amel	F	1976-12-20 00:00:00+00	31	Profession libérale	2021-12-08 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+62	Pas-De-Calais			RAPIN	Jean-François	M	1966-05-11 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00	Boulogne sur Mer	LR	Les Républicains
+62	Pas-De-Calais			VAN HEGHE	Sabine	F	1960-09-08 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	ST POL SUR TERNOISE	DVG	Divers gauche
+63	Puy-De-Dôme			BOYER	Jean-Marc	M	1954-02-24 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	BAGNOLS	LR	Les Républicains
+63	Puy-De-Dôme			GOLD	Eric	M	1964-06-07 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00		REM	La République en marche
+63	Puy-De-Dôme			MAGNER	Jacques-Bernard	M	1952-06-01 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	Riom	SOC	Socialiste
+64	Pyrénées-Atlantiques			BRISSON	Max	M	1957-03-08 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	Bayonne	LR	Les Républicains
+64	Pyrénées-Atlantiques			ESPAGNAC	Frédérique	F	1972-04-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2017-10-02 00:00:00+00		SOC	Socialiste
+64	Pyrénées-Atlantiques			SAINT-PE	Denise	F	1951-01-05 00:00:00+00	157	Sans profession déclarée (obsolète)	2017-10-02 00:00:00+00	Abitain	MDM	Modem
+65	Hautes-Pyrénées			ARTIGALAS	Viviane	F	1956-10-22 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2017-10-02 00:00:00+00	LOURDES (65)	SOC	Socialiste
+65	Hautes-Pyrénées			CARRÈRE	Maryse	F	1967-04-08 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	estaing	RDG	Parti radical de gauche
+66	Pyrénées-Orientales			CALVET	François	M	1953-04-01 00:00:00+00	157	Sans profession déclarée (obsolète)	2017-10-02 00:00:00+00	PERPIGNAN (66)	LR	Les Républicains
+66	Pyrénées-Orientales			SOL	Jean	M	1952-06-03 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	NGAOUNDERE	LR	Les Républicains
+67	Bas-Rhin			FERNIQUE	Jacques	M	1961-11-13 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	HAGUENAU	VEC	Europe Ecologie - Les Verts
+67	Bas-Rhin			KERN	Claude	M	1959-03-13 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	BISCHWILLER	UDI	Union des Démocrates et des Indépendants
+67	Bas-Rhin			MULLER-BRONN	Laurence	F	1961-11-04 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	NANTES	LR	Les Républicains
+67	Bas-Rhin			REICHARDT	André	M	1949-12-05 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	WISSEMBOURG (67)	LR	Les Républicains
+67	Bas-Rhin			SCHALCK	Elsa	F	1986-12-04 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	STRASBOURG	LR	Les Républicains
+68	Haut-Rhin			DREXLER	Sabine	F	1963-08-17 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-10-01 00:00:00+00	MULHOUSE (68)	LR	Les Républicains
+68	Haut-Rhin			HAYE	Ludovic	M	1975-01-18 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00		DVD	Divers droite
+68	Haut-Rhin			KLINGER	Christian	M	1968-12-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	COLMAR (68)	LR	Les Républicains
+68	Haut-Rhin			SCHILLINGER	Patricia	F	1963-01-18 00:00:00+00	77	Ancien employé	2020-10-01 00:00:00+00	STRASBOURG (67)	REM	La République en marche
+69	Rhône			BLANC	Étienne	M	1954-08-29 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	GIVORS 69	LR	Les Républicains
+69	Rhône			BUFFET	François-Noël	M	1963-08-28 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	Lyon 6	LR	Les Républicains
+69	Rhône			DEVINAZ	Gilbert-Luc	M	1953-07-19 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	LYON 7	SOC	Socialiste
+69	Rhône			DI FOLCO	Catherine	F	1960-11-30 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	LYON 6	DVD	Divers droite
+69	Rhône			DOSSUS	Thomas	M	1982-07-28 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-10-01 00:00:00+00	DIJON	VEC	Europe Ecologie - Les Verts
+69	Rhône			FIALAIRE	Bernard	M	1957-09-13 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		DVC	Divers centre
+69	Rhône			PONCET	Raymonde	F	1951-08-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00		VEC	Europe Ecologie - Les Verts
+70	Haute-Saône			JOYANDET	Alain	M	1954-01-15 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-10-01 00:00:00+00		LR	Les Républicains
+70	Haute-Saône			RIETMANN	Olivier	M	1971-11-22 00:00:00+00	12	Agriculteur sur moyenne exploitation	2020-10-01 00:00:00+00	BESANCON	LR	Les Républicains
+71	Saône-Et-Loire			DURAIN	Jérôme	M	1969-06-02 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00		SOC	Socialiste
+71	Saône-Et-Loire			GENET	Fabien	M	1975-03-22 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2020-10-01 00:00:00+00	Paray le Monial	DVD	Divers droite
+71	Saône-Et-Loire			MERCIER	Marie	F	1958-06-16 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	COUTANCES	LR	Les Républicains
+72	Sarthe			COZIC	Thierry	M	1973-02-09 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	LE MANS	SOC	Socialiste
+72	Sarthe			DE NICOLAY	Louis-Jean	M	1949-09-18 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2020-10-01 00:00:00+00	LE MANS	LR	Les Républicains
+72	Sarthe			VOGEL	Jean Pierre	M	1956-08-07 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	Mayenne (Mayenne)	LR	Les Républicains
+73	Savoie			BERTHET	Martine	F	1961-03-27 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2020-10-01 00:00:00+00		LR	Les Républicains
+73	Savoie			VIAL	Cédric	M	1978-03-25 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	Chambéry	DVD	Divers droite
+74	Haute-Savoie			HERVÉ	Loïc	M	1980-06-08 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	Vénissieux	DVC	Divers centre
+74	Haute-Savoie			NOEL	Sylviane	F	1978-01-27 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	Bonneville	LR	Les Républicains
+74	Haute-Savoie			PELLEVAT	Cyril	M	1981-02-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00		LR	Les Républicains
+75	Paris			ASSOULINE	David	M	1959-06-16 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2017-10-02 00:00:00+00	Safrou (Maroc)	SOC	Socialiste
+75	Paris			BARGETON	Julien	M	1973-03-29 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	PARIS 11	REM	La République en marche
+75	Paris			BENBASSA	Esther	F	1950-03-27 00:00:00+00	141	Professeur de faculté (obsolète)	2017-10-02 00:00:00+00		ECO	Ecologiste
+75	Paris			BOULAY-ESPERONNIER	Céline	F	1970-12-18 00:00:00+00	154	Permanent politique (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+75	Paris			CHARON	Pierre	M	1951-03-01 00:00:00+00	159	Retr.artis.commerc.chef d'entrep. (obsolète)	2017-10-02 00:00:00+00	Paris	LR	Les Républicains
+75	Paris			DE LA GONTRIE	Marie-Pierre	F	1958-12-18 00:00:00+00	139	Autre profession libérale (obsolète)	2017-10-02 00:00:00+00	Chambery (73)	SOC	Socialiste
+75	Paris			DOMINATI	Philippe	M	1954-04-12 00:00:00+00	106	Administrateur de sociétés (obsolète)	2017-10-02 00:00:00+00	Paris	LR	Les Républicains
+75	Paris			DUMAS	Catherine	F	1957-07-13 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00	Lyon	LR	Les Républicains
+75	Paris			FERAUD	Rémi	M	1971-08-24 00:00:00+00	78	Ancien ouvrier	2017-10-02 00:00:00+00	Versailles	SOC	Socialiste
+75	Paris			JOMIER	Bernard	M	1963-10-09 00:00:00+00	124	Médecin (obsolète)	2017-10-02 00:00:00+00	Clermont-Ferrand (63)	ECO	Ecologiste
+75	Paris			LAURENT	Pierre	M	1957-07-01 00:00:00+00	137	Journaliste et autre média (obsolète)	2017-10-02 00:00:00+00	PARIS 11ème	COM	Parti communiste français
+75	Paris			LIENEMANN	Marie-Noëlle	F	1951-07-12 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00	BELFORT (90)	SOC	Socialiste
+76	Seine-Maritime			BRULIN	Céline	F	1970-03-04 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	SAINTE-ADRESSE (76)	COM	Parti communiste français
+76	Seine-Maritime			CANAYER	Agnès	F	1965-09-21 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	sainte-adresse	LR	Les Républicains
+76	Seine-Maritime			CHAUVET	Patrick	M	1958-03-27 00:00:00+00	12	Agriculteur sur moyenne exploitation	2020-10-01 00:00:00+00	BUCHY (76)	DVD	Divers droite
+76	Seine-Maritime			MARIE	Didier	M	1960-05-19 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-10-01 00:00:00+00	LE PETIT QUEVILLY	SOC	Socialiste
+76	Seine-Maritime			MARTIN	Pascal	M	1960-03-07 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	MONTVILLE (76)	UDI	Union des Démocrates et des Indépendants
+76	Seine-Maritime			MORIN-DESAILLY	Catherine	F	1960-07-06 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	Petit-Quevilly	UDI	Union des Démocrates et des Indépendants
+77	Seine-Et-Marne			CHAIN-LARCHÉ	Anne	F	1958-04-11 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00	Paris	LR	Les Républicains
+77	Seine-Et-Marne			CUYPERS	Pierre	M	1944-03-23 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+77	Seine-Et-Marne			DE BELENET	Arnaud	M	1975-03-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2017-10-02 00:00:00+00	CHEVREUSE	REM	La République en marche
+77	Seine-Et-Marne			MELOT	Colette	F	1947-04-20 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00		REM	La République en marche
+77	Seine-Et-Marne			THOMAS	Claudine	F	1961-08-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2017-10-02 00:00:00+00	Epinal	LR	Les Républicains
+77	Seine-Et-Marne			ÉBLÉ	Vincent	M	1957-10-15 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00		SOC	Socialiste
+78	Yvelines			BOURRAT	Toine	F	1968-11-28 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	HENIN LIETARD	LR	Les Républicains
+78	Yvelines			DE CIDRAC	Marta	F	1964-06-13 00:00:00+00	31	Profession libérale	2017-10-02 00:00:00+00	BANKYA	LR	Les Républicains
+78	Yvelines			LARCHER	Gérard	M	1949-09-14 00:00:00+00	127	Vétérinaire (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+78	Yvelines			LAUGIER	Michel	M	1956-07-11 00:00:00+00	137	Journaliste et autre média (obsolète)	2017-10-02 00:00:00+00	AIX EN PROVENCE 13	DVD	Divers droite
+78	Yvelines			LÉVRIER	Martin	M	1962-10-30 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2017-10-02 00:00:00+00		REM	La République en marche
+78	Yvelines			PRIMAS	Sophie	F	1962-06-07 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2017-10-02 00:00:00+00	St Mandé (94)	LR	Les Républicains
+79	Deux-Sèvres			FAVREAU	Gilbert	M	1949-05-04 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	la rochelle	LR	Les Républicains
+79	Deux-Sèvres			MOUILLER	Philippe	M	1969-09-20 00:00:00+00	33	Cadre de la fonction publique	2020-10-01 00:00:00+00	roanne	LR	Les Républicains
+80	Somme			CARDON	Rémi	M	1994-05-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	Amiens	SOC	Socialiste
+80	Somme			DEMILLY	Stéphane	M	1963-06-26 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	ALBERT	UDI	Union des Démocrates et des Indépendants
+80	Somme			SOMON	Laurent	M	1957-12-28 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		LR	Les Républicains
+81	Tarn			BONNECARRERE	Philippe	M	1955-07-12 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00		DVC	Divers centre
+81	Tarn			FOLLIOT	Philippe	M	1963-07-14 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00		DVC	Divers centre
+82	Tarn-Et-Garonne			BONHOMME	François	M	1969-05-05 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	MONTAUBAN ( 82 )	DVD	Divers droite
+82	Tarn-Et-Garonne			LEVI	Pierre-Antoine	M	1965-05-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00	BATNA (Algérie)	DVC	Divers centre
+83	Var			BACCI	Jean	M	1951-03-17 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	MARSEILLE	LR	Les Républicains
+83	Var			BONNUS	Michel	M	1965-04-14 00:00:00+00	22	Commerçant et assimilé	2020-10-01 00:00:00+00	TOULON	LR	Les Républicains
+83	Var			DUMONT	Françoise	F	1965-04-09 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	NICE (06)	LR	Les Républicains
+83	Var			GUIOL	André	M	1954-06-28 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	NEOULES	DVG	Divers gauche
+84	Vaucluse			BLANC	Jean-Baptiste	M	1972-09-03 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	avignon	LR	Les Républicains
+84	Vaucluse			MILON	Alain	M	1947-09-16 00:00:00+00	75	Ancienne profession intermédiaire	2020-10-01 00:00:00+00	BULLY LES MINES (62)	LR	Les Républicains
+84	Vaucluse			STANZIONE	Lucien	M	1950-08-19 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00		SOC	Socialiste
+85	Vendée			BILLON	Annick	F	1967-08-03 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+85	Vendée			MANDELLI	Didier	M	1964-08-07 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-10-01 00:00:00+00		LR	Les Républicains
+85	Vendée			RETAILLEAU	Bruno	M	1960-11-20 00:00:00+00	74	Ancien cadre	2020-10-01 00:00:00+00	Cholet (49)	LR	Les Républicains
+86	Vienne			BELIN	Bruno	M	1962-06-08 00:00:00+00	31	Profession libérale	2020-10-01 00:00:00+00	Versailles	DVD	Divers droite
+86	Vienne			BOULOUX	Yves	M	1960-08-30 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2020-10-01 00:00:00+00	Montmorillon (86)	LR	Les Républicains
+87	Haute-Vienne			BRIQUET	Isabelle	F	1967-09-04 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00		SOC	Socialiste
+87	Haute-Vienne			REDON-SARRAZY	Christian	M	1959-11-18 00:00:00+00	34	Professeur, profession scientifique	2020-10-01 00:00:00+00	MEUZAC(87)	SOC	Socialiste
+88	Vosges			GREMILLET	Daniel	M	1953-07-31 00:00:00+00	71	Ancien agriculteur exploitant	2020-10-01 00:00:00+00	BRUYERES (88)	LR	Les Républicains
+88	Vosges			HINGRAY	Jean	M	1986-07-19 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2020-10-01 00:00:00+00	NANCY	UDI	Union des Démocrates et des Indépendants
+89	Yonne			LEMOYNE	Jean-Baptiste	M	1977-09-15 00:00:00+00	33	Cadre de la fonction publique	2022-06-21 00:00:00+00	BOURG LA REINE	REM	La République en marche
+89	Yonne			VERIEN	Dominique	F	1965-08-29 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2020-10-01 00:00:00+00	l'Hay les Roses (94)	UDI	Union des Démocrates et des Indépendants
+90	Territoire De Belfort			PERRIN	Cédric	M	1974-01-20 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00		LR	Les Républicains
+91	Essonne			DARCOS	Laure	F	1970-11-27 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	Neuilly-sur-Seine 92	LR	Les Républicains
+91	Essonne			DELAHAYE	Vincent	M	1959-08-23 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	L'Isle-Adam 95	UDI	Union des Démocrates et des Indépendants
+91	Essonne			GUIDEZ	Jocelyne	F	1956-09-26 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	Toulouse 31	DVD	Divers droite
+91	Essonne			HUGONET	Jean-Raymond	M	1958-01-10 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2017-10-02 00:00:00+00	Palaiseau 91	DVD	Divers droite
+91	Essonne			RACT-MADOUX	Daphné	F	1972-05-13 00:00:00+00	33	Cadre de la fonction publique	2022-02-03 00:00:00+00	Suresnes 92	MDM	Modem
+92	Hauts-De-Seine			GATTOLIN	André	M	1960-06-24 00:00:00+00	135	Ingénieur conseil (obsolète)	2017-10-02 00:00:00+00		REM	La République en marche
+92	Hauts-De-Seine			IACOVELLI	Xavier	M	1981-03-31 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	suresnes (92)	SOC	Socialiste
+92	Hauts-De-Seine			KAROUTCHI	Roger	M	1951-08-26 00:00:00+00	146	Grands corps de l'état (obsolète)	2017-10-02 00:00:00+00	CASABLANCA (MAROC)	LR	Les Républicains
+92	Hauts-De-Seine			LAVARDE	Christine	F	1984-10-16 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	nancy	DVD	Divers droite
+92	Hauts-De-Seine			MARSEILLE	Hervé	M	1954-08-20 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	Abbeville (80)	UDI	Union des Démocrates et des Indépendants
+92	Hauts-De-Seine			OUZOULIAS	Pierre	M	1964-01-28 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2017-10-02 00:00:00+00	AMIENS (SOMME)	COM	Parti communiste français
+92	Hauts-De-Seine			PEMEZEC	Philippe	M	1955-09-25 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00	GRANVILLE	DVD	Divers droite
+93	Seine-Saint-Denis			ASSASSI	Eliane	F	1958-10-02 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2017-10-02 00:00:00+00		COM	Parti communiste français
+93	Seine-Saint-Denis			CAPO-CANELLAS	Vincent	M	1967-05-04 00:00:00+00	33	Cadre de la fonction publique	2017-10-02 00:00:00+00	Nimes 30	UDI	Union des Démocrates et des Indépendants
+93	Seine-Saint-Denis			DELMONT-KOROPOULIS	Annie	F	1947-07-13 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2017-10-02 00:00:00+00	Aulnay-sous-Bois	LR	Les Républicains
+93	Seine-Saint-Denis			GAY	Fabien	M	1984-01-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2017-10-02 00:00:00+00	Bordeaux	COM	Parti communiste français
+93	Seine-Saint-Denis			MEIGNEN	Thierry	M	1957-05-17 00:00:00+00	31	Profession libérale	2021-07-28 00:00:00+00		LR	Les Républicains
+93	Seine-Saint-Denis			ROGER	Gilbert	M	1953-11-09 00:00:00+00	161	Retraité salarié privé (obsolète)	2017-10-02 00:00:00+00	Bondy 93	SOC	Socialiste
+94	Val-De-Marne			BREUILLER	Daniel	M	1953-02-26 00:00:00+00	154	Permanent politique (obsolète)	2022-07-04 00:00:00+00		ECO	Ecologiste
+94	Val-De-Marne			CAMBON	Christian	M	1948-03-08 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2017-10-02 00:00:00+00	Saint Mandé	LR	Les Républicains
+94	Val-De-Marne			COHEN	Laurence	F	1953-01-15 00:00:00+00	160	Retraité des professions libérales (obsolète)	2017-10-02 00:00:00+00	PARIS 14	COM	Parti communiste français
+94	Val-De-Marne			LAFON	Laurent	M	1965-11-18 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00	Saint Germain en Laye (78)	UDI	Union des Démocrates et des Indépendants
+94	Val-De-Marne			PROCACCIA	Catherine	F	1949-10-13 00:00:00+00	161	Retraité salarié privé (obsolète)	2017-10-02 00:00:00+00	Paris 19ème	LR	Les Républicains
+94	Val-De-Marne			SAVOLDELLI	Pascal	M	1961-01-14 00:00:00+00	157	Sans profession déclarée (obsolète)	2017-10-02 00:00:00+00	Paris 13ème	COM	Parti communiste français
+95	Val-D'Oise			BAZIN	Arnaud	M	1959-01-10 00:00:00+00	127	Vétérinaire (obsolète)	2017-10-02 00:00:00+00	Rouen (76)	LR	Les Républicains
+95	Val-D'Oise			EUSTACHE-BRINIO	Jacqueline	F	1956-09-05 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00	Houilles (78)	LR	Les Républicains
+95	Val-D'Oise			MEURANT	Sébastien	M	1971-03-18 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2017-10-02 00:00:00+00	Enghien (95)	DVD	Divers droite
+95	Val-D'Oise			RICHARD	Alain	M	1945-08-29 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	Paris	REM	La République en marche
+95	Val-D'Oise			TEMAL	Rachid	M	1973-03-29 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2017-10-02 00:00:00+00	Eaubonne (95)	SOC	Socialiste
+971	Guadeloupe			JASMIN	Victoire	F	1955-12-23 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	MORNE A L'EAU	SOC	Socialiste
+971	Guadeloupe			LUREL	Victorin	M	1951-08-20 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00		SOC	Socialiste
+971	Guadeloupe			THEOPHILE	Dominique	M	1960-08-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2017-10-02 00:00:00+00		REM	La République en marche
+974	La Réunion			DENNEMONT	Michel	M	1949-02-11 00:00:00+00	160	Retraité des professions libérales (obsolète)	2017-10-02 00:00:00+00	Les Avirons (974)	MDM	Modem
+974	La Réunion			DINDAR	Nassimah	F	1960-01-20 00:00:00+00	34	Professeur, profession scientifique	2017-10-02 00:00:00+00	Saint-Louis	UDI	Union des Démocrates et des Indépendants
+974	La Réunion			LAGOURGUE	Jean-Louis	M	1947-08-05 00:00:00+00	74	Ancien cadre	2017-10-02 00:00:00+00	Sainte-Marie	DVD	Divers droite
+974	La Réunion			MALET	Viviane	F	1954-10-28 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2017-10-02 00:00:00+00	BARCELONNETTE	LR	Les Républicains
+976	Mayotte			HASSANI	Abdallah	M	1954-07-02 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2017-10-02 00:00:00+00		DVG	Divers gauche
+976	Mayotte			MOHAMED SOILIHI	Thani	M	1972-06-20 00:00:00+00	129	Avocat (obsolète)	2017-10-02 00:00:00+00		REM	La République en marche
+ZZ	Français Établis Hors De France			BANSARD	Jean-Pierre	M	1940-05-15 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2021-09-26 00:00:00+00		DVD	Divers droite
+ZZ	Français Établis Hors De France			BANSARD	Jean-Pierre	M	1940-05-15 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2021-10-01 00:00:00+00		DVD	Divers droite
+ZZ	Français Établis Hors De France			CADIC	Olivier	M	1962-04-22 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2021-09-26 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+ZZ	Français Établis Hors De France			CADIC	Olivier	M	1962-04-22 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2021-10-01 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+ZZ	Français Établis Hors De France			CAZEBONNE	Samantha	F	1971-08-10 00:00:00+00	144	Profession rattachée à enseignt. (obsolète)	2021-09-26 00:00:00+00		REM	La République en marche
+ZZ	Français Établis Hors De France			CAZEBONNE	Samantha	F	1971-08-10 00:00:00+00	144	Profession rattachée à enseignt. (obsolète)	2021-10-01 00:00:00+00		REM	La République en marche
+ZZ	Français Établis Hors De France			CHANTREL	Yan	M	1979-04-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-09-26 00:00:00+00		SOC	Socialiste
+ZZ	Français Établis Hors De France			CHANTREL	Yan	M	1979-04-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2021-10-01 00:00:00+00		SOC	Socialiste
+ZZ	Français Établis Hors De France			CONWAY-MOURET	Hélène	F	1960-09-13 00:00:00+00	141	Professeur de faculté (obsolète)	2017-10-02 00:00:00+00		SOC	Socialiste
+ZZ	Français Établis Hors De France			FRASSA	Christophe-André	M	1968-02-04 00:00:00+00	132	Conseiller juridique (obsolète)	2021-09-26 00:00:00+00		LR	Les Républicains
+ZZ	Français Établis Hors De France			FRASSA	Christophe-André	M	1968-02-04 00:00:00+00	132	Conseiller juridique (obsolète)	2021-10-01 00:00:00+00		LR	Les Républicains
+ZZ	Français Établis Hors De France			GARRIAUD MAYLAM	Joëlle	F	1955-03-20 00:00:00+00	139	Autre profession libérale (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+ZZ	Français Établis Hors De France			LE GLEUT	Ronan	M	1976-08-21 00:00:00+00	113	Ingénieur (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+ZZ	Français Établis Hors De France			LECONTE	Jean-Yves	M	1966-10-31 00:00:00+00	113	Ingénieur (obsolète)	2017-10-02 00:00:00+00		SOC	Socialiste
+ZZ	Français Établis Hors De France			REGNARD	Damien	M	1966-02-24 00:00:00+00	156	Autre profession (obsolète)	2018-07-28 00:00:00+00		DVD	Divers droite
+ZZ	Français Établis Hors De France			RENAUD-GARABEDIAN	Evelyne	F	1950-06-18 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2017-10-02 00:00:00+00		DVD	Divers droite
+ZZ	Français Établis Hors De France			VOGEL	Mélanie	F	1985-05-22 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-09-26 00:00:00+00		ECO	Ecologiste
+ZZ	Français Établis Hors De France			VOGEL	Mélanie	F	1985-05-22 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2021-10-01 00:00:00+00		ECO	Ecologiste
+		972	Martinique	ANTISTE	Maurice	M	1953-06-22 00:00:00+00	162	Retraité de l'enseignement (obsolète)	2017-10-02 00:00:00+00	LE FRANCOIS	DVG	Divers gauche
+		972	Martinique	CONCONNE	Catherine	F	1963-05-18 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2017-10-02 00:00:00+00	Fort-de-France	DVG	Divers gauche
+		973	Guyane	PATIENT	Georges	M	1949-04-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-10-01 00:00:00+00		DVG	Divers gauche
+		973	Guyane	PHINÉRA-HORTH	Marie-Laure	F	1957-06-28 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2020-10-01 00:00:00+00		DVG	Divers gauche
+		975	Saint-Pierre-Et-Miquelon	ARTANO	Stéphane	M	1973-03-09 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2017-10-02 00:00:00+00	Saint-Pierre	DIV	Divers
+		977	Saint-Barthélemy	JACQUES	Micheline	F	1971-10-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-10-01 00:00:00+00	SAINT-BARTHÉLEMY	LR	Les Républicains
+		978	Saint-Martin	PÉTRUS	Annick	F	1961-01-05 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2020-10-01 00:00:00+00		LR	Les Républicains
+		986	Wallis Et Futuna	KULIMOETOKE	Mikaele	M	1963-06-17 00:00:00+00	53	Policier et militaire	2020-10-01 00:00:00+00		DVG	Divers gauche
+		987	Polynésie Française	ROHFRITSCH	Teva	M	1975-02-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2020-10-01 00:00:00+00		DVC	Divers centre
+		987	Polynésie Française	TETUANUI	Lana	F	1970-02-23 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2020-10-01 00:00:00+00	UTUROA RAIATEA	DVC	Divers centre
+		988	Nouvelle-Calédonie	FROGIER	Pierre	M	1950-11-16 00:00:00+00	108	Agent immobilier (obsolète)	2017-10-02 00:00:00+00		LR	Les Républicains
+		988	Nouvelle-Calédonie	POADJA	Gérard	M	1963-09-30 00:00:00+00	154	Permanent politique (obsolète)	2017-10-02 00:00:00+00		UDI	Union des Démocrates et des Indépendants

@@ -1,0 +1,576 @@
+code_departement	libelle_departement	code_collectivite_statut_particulier	libelle_collectivite_statut_particulier	code_circonscription_legislative	libelle_circonscription_legislative	nom_elu	prenom_elu	sexe_elu	date_naissance_elu	code_categorie_socio_professionnelle	libelle_categorie_socio_professionnelle	date_debut_mandat	lieu_naissance_elu	code_nuance_mandat	libelle_nuance_mandat
+01	Ain			0101	1Ère Circonscription	BRETON	Xavier	M	1962-11-25 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	DARNEY (Vosges)	LR	Les Républicains
+01	Ain			0101	1Ère Circonscription	PILATO	René	M	1962-08-31 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2023-01-30 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+01	Ain			0102	2Ème Circonscription	DAUBIÉ	Romain	M	1980-05-05 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+01	Ain			0102	2Ème Circonscription	HEYDEL-GRILLERE	Laurence	F	1968-11-18 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+01	Ain			0103	3Ème Circonscription	GIVERNET	Olga	F	1981-10-17 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00	SAINT GERMAIN EN LAYE	ENS	Ensemble ! (Majorité présidentielle)
+01	Ain			0104	4Ème Circonscription	BUISSON	Jérôme	M	1973-01-15 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		RN	Rassemblement National
+01	Ain			0105	5Ème Circonscription	ABAD	Damien	M	1980-04-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	NIMES (30)	DVD	Divers droite
+02	Aisne			0201	1Ère Circonscription	DRAGON	Nicolas	M	1977-04-19 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+02	Aisne			0202	2Ème Circonscription	DIVE	Julien	M	1985-05-21 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	saint quentin	LR	Les Républicains
+02	Aisne			0203	3Ème Circonscription	BRICOUT	Jean-Louis	M	1957-12-27 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+02	Aisne			0204	4Ème Circonscription	BEAURAIN	José	M	1971-07-27 00:00:00+00	21	Artisan	2022-06-22 00:00:00+00		RN	Rassemblement National
+02	Aisne			0205	5Ème Circonscription	DESSIGNY	Jocelyn	M	1981-06-29 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+03	Allier			0301	1Ère Circonscription	MONNET	Yannick	M	1975-10-07 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	MOULINS	NUP	Nouvelle union populaire écologique et sociale
+03	Allier			0302	2Ème Circonscription	BOVET	Jorys	M	1993-03-30 00:00:00+00	64	Chauffeur	2022-06-22 00:00:00+00	SAINT MARTIN D'HERES	RN	Rassemblement National
+03	Allier			0303	3Ème Circonscription	RAY	Nicolas	M	1981-05-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+04	Alpes-De-Haute-Provence			0401	1Ère Circonscription	GIRARD	Christian	M	1952-05-07 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		RN	Rassemblement National
+04	Alpes-De-Haute-Provence			0402	2Ème Circonscription	WALTER	Léo	M	1972-04-14 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+05	Hautes-Alpes			0501	1Ère Circonscription	BOYER	Pascale	F	1965-09-28 00:00:00+00	48	Contremaître, agent de maîtrise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+05	Hautes-Alpes			0502	2Ème Circonscription	GIRAUD	Joel	M	1959-10-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+06	Alpes-Maritimes			0601	1Ère Circonscription	CIOTTI	Eric	M	1965-09-28 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Nice (06)	LR	Les Républicains
+06	Alpes-Maritimes			0602	2Ème Circonscription	TIVOLI	Lionel	M	1988-02-29 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		RN	Rassemblement National
+06	Alpes-Maritimes			0603	3Ème Circonscription	PRADAL	Philippe	M	1963-02-01 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+06	Alpes-Maritimes			0604	4Ème Circonscription	MASSON	Alexandra	F	1971-07-02 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+06	Alpes-Maritimes			0605	5Ème Circonscription	D'INTORNI	Christelle	F	1985-05-02 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+06	Alpes-Maritimes			0606	6Ème Circonscription	MASSON	Bryan	M	1996-12-21 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00	CAGNES SUR MER	RN	Rassemblement National
+06	Alpes-Maritimes			0607	7Ème Circonscription	PAUGET	Eric	M	1970-08-18 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00	ANTIBES (06)	LR	Les Républicains
+06	Alpes-Maritimes			0608	8Ème Circonscription	MARTIN	Alexandra	F	1968-10-25 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+06	Alpes-Maritimes			0609	9Ème Circonscription	TABAROT	Michèle	F	1962-10-13 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	ALICANTE (ESPAGNE)	LR	Les Républicains
+07	Ardèche			0701	1Ère Circonscription	SAULIGNAC	Hervé	M	1970-11-06 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		DVG	Divers gauche
+07	Ardèche			0702	2Ème Circonscription	HEYDEL-GRILLERE	Laurence	F	1968-11-18 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+07	Ardèche			0703	3Ème Circonscription	BRUN	Fabrice	M	1968-04-02 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		LR	Les Républicains
+08	Ardennes			0801	1Ère Circonscription	VUIBERT	Lionel	M	1968-08-31 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+08	Ardennes			0802	2Ème Circonscription	CORDIER	Pierre	M	1972-05-27 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+08	Ardennes			0803	3Ème Circonscription	WARSMANN	Jean-Luc	M	1965-10-22 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00		DVD	Divers droite
+09	Ariège			0902	2Ème Circonscription	PANIFOUS	Laurent	M	1976-12-21 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		DVG	Divers gauche
+10	Aube			1001	1Ère Circonscription	GUITTON	Jordan	M	1995-01-30 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+10	Aube			1002	2Ème Circonscription	BAZIN-MALGRAS	Valérie	F	1969-10-31 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Romilly sur Seine	LR	Les Républicains
+10	Aube			1003	3Ème Circonscription	RANC	Angélique	F	1988-03-16 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		RN	Rassemblement National
+11	Aude			1101	1Ère Circonscription	BARTHÈS	Christophe	M	1966-10-12 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		RN	Rassemblement National
+11	Aude			1102	2Ème Circonscription	FALCON	Frédéric	M	1985-11-21 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		RN	Rassemblement National
+11	Aude			1103	3Ème Circonscription	RANCOULE	Julien	M	1993-07-31 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+12	Aveyron			1201	1Ère Circonscription	MAZARS	Stéphane	M	1969-03-25 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	SAINT-YRIEIX LA PERCHE (87)	ENS	Ensemble ! (Majorité présidentielle)
+12	Aveyron			1202	2Ème Circonscription	ALEXANDRE	Laurent	M	1973-06-09 00:00:00+00	62	Ouvrier qualifié de type industriel	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+12	Aveyron			1203	3Ème Circonscription	ROUSSET	Jean-François	M	1952-09-09 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1301	1Ère Circonscription	AGRESTI ROUBACHE	Sabrina	F	1976-10-13 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1302	2Ème Circonscription	PITOLLAT	Claire	F	1979-09-17 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1303	3Ème Circonscription	LELOUIS	Gisèle	F	1952-03-10 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00		RN	Rassemblement National
+13	Bouches-Du-Rhône			1304	4Ème Circonscription	BOMPARD	Manuel	M	1986-03-30 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+13	Bouches-Du-Rhône			1305	5Ème Circonscription	DAVI	Hendrik	M	1977-12-21 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	ATHIS MONS	NUP	Nouvelle union populaire écologique et sociale
+13	Bouches-Du-Rhône			1306	6Ème Circonscription	ROYER-PERREAUT	Lionel	M	1972-11-13 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1307	7Ème Circonscription	DELOGU	Sébastien	M	1987-06-08 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+13	Bouches-Du-Rhône			1308	8Ème Circonscription	ZULESI	Jean-Marc	M	1988-06-06 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1309	9Ème Circonscription	MÉLIN	Joëlle	F	1950-03-26 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+13	Bouches-Du-Rhône			1310	10Ème Circonscription	GONZALEZ	José	M	1943-04-28 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00	ORAN	RN	Rassemblement National
+13	Bouches-Du-Rhône			1311	11Ème Circonscription	LAQHILA	Mohamed	M	1959-08-03 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Oulmes (Maroc)	ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1312	12Ème Circonscription	ALLISIO	Franck	M	1980-08-04 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+13	Bouches-Du-Rhône			1313	13Ème Circonscription	DHARRÉVILLE	Pierre	M	1975-06-15 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+13	Bouches-Du-Rhône			1314	14Ème Circonscription	PETEL	Anne-Laurence	F	1970-02-08 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Saint-Raphaël	ENS	Ensemble ! (Majorité présidentielle)
+13	Bouches-Du-Rhône			1315	15Ème Circonscription	BAUBRY	Romain	M	1989-01-28 00:00:00+00	53	Policier et militaire	2022-06-22 00:00:00+00		RN	Rassemblement National
+13	Bouches-Du-Rhône			1316	16Ème Circonscription	TACHE DE LA PAGERIE	Emmanuel	M	1975-02-20 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	MONTREUIL	RN	Rassemblement National
+14	Calvados			1401	1Ère Circonscription	LE VIGOUREUX	Fabrice	M	1969-08-27 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+14	Calvados			1402	2Ème Circonscription	DELAPORTE	Arthur	M	1991-10-07 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+14	Calvados			1403	3Ème Circonscription	PATRIER-LEITUS	Jérémie	M	1989-03-07 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+14	Calvados			1404	4Ème Circonscription	BLANCHET	Christophe	M	1973-04-09 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+14	Calvados			1405	5Ème Circonscription	BOUYX	Bertrand	M	1970-05-26 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	JUVISY-SUR-ORGES	ENS	Ensemble ! (Majorité présidentielle)
+14	Calvados			1406	6Ème Circonscription	SERTIN	Freddy	M	1980-02-07 00:00:00+00	47	Technicien	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+15	Cantal			1501	1Ère Circonscription	DESCOEUR	Vincent	M	1962-12-13 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		LR	Les Républicains
+15	Cantal			1502	2Ème Circonscription	BONY	Jean-Yves	M	1955-03-11 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00	AURILLAC 15	LR	Les Républicains
+16	Charente			1602	2Ème Circonscription	MARSAUD	Sandra	F	1974-01-02 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	Périgueux (24)	ENS	Ensemble ! (Majorité présidentielle)
+16	Charente			1603	3Ème Circonscription	COLOMBIER	Caroline	F	1957-08-22 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	AUTUN (71)	RN	Rassemblement National
+17	Charente-Maritime			1701	1Ère Circonscription	FALORNI	Olivier	M	1972-03-27 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	ROCHEFORT	DVG	Divers gauche
+17	Charente-Maritime			1702	2Ème Circonscription	BABAULT	Anne-Laure	F	1982-01-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+17	Charente-Maritime			1703	3Ème Circonscription	ARDOUIN	Jean-Philippe	M	1964-03-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+17	Charente-Maritime			1704	4Ème Circonscription	GERARD	Raphaël	M	1968-10-17 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	CIREY SUR VEZOUZE	ENS	Ensemble ! (Majorité présidentielle)
+17	Charente-Maritime			1705	5Ème Circonscription	PLASSARD	Christophe	M	1967-11-19 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	LA GARENNES COLOMBES	ENS	Ensemble ! (Majorité présidentielle)
+18	Cher			1801	1Ère Circonscription	CORMIER BOULIGEON	François	M	1972-11-19 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	BOURGES (18)	ENS	Ensemble ! (Majorité présidentielle)
+18	Cher			1802	2Ème Circonscription	SANSU	Nicolas	M	1968-06-17 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	VIERZON (18)	NUP	Nouvelle union populaire écologique et sociale
+18	Cher			1803	3Ème Circonscription	KERVRAN	Loïc	M	1984-02-11 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	MOULINS (03)	ENS	Ensemble ! (Majorité présidentielle)
+19	Corrèze			1901	1Ère Circonscription	DUBOIS	Francis	M	1961-11-28 00:00:00+00	47	Technicien	2022-06-22 00:00:00+00		LR	Les Républicains
+19	Corrèze			1902	2Ème Circonscription	MEUNIER	Frédérique	F	1960-12-08 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Paris 16ème	LR	Les Républicains
+21	Côte-D'Or			2101	1Ère Circonscription	MARTIN	Didier	M	1956-08-20 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00	clichy la garenne	ENS	Ensemble ! (Majorité présidentielle)
+21	Côte-D'Or			2102	2Ème Circonscription	BORDAT	Benoît	M	1984-02-07 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+21	Côte-D'Or			2103	3Ème Circonscription	KHATTABI	Fadila	F	1962-02-23 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Montbéliard (25)	ENS	Ensemble ! (Majorité présidentielle)
+21	Côte-D'Or			2104	4Ème Circonscription	BRIGAND	Hubert	M	1952-07-28 00:00:00+00	75	Ancienne profession intermédiaire	2022-06-22 00:00:00+00	chatillon sur seine	LR	Les Républicains
+21	Côte-D'Or			2105	5Ème Circonscription	PARIS	Didier	M	1954-02-14 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+22	Côtes-D'Armor			2201	1Ère Circonscription	COSSON	Mickaël	M	1975-11-29 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+22	Côtes-D'Armor			2202	2Ème Circonscription	BOULOUX	Chantal	F	1961-06-23 00:00:00+00	33	Cadre de la fonction publique	2022-08-04 00:00:00+00	Lamballe (22)	ENS	Ensemble ! (Majorité présidentielle)
+22	Côtes-D'Armor			2203	3Ème Circonscription	LE FUR	Marc	M	1956-11-28 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Dakar	LR	Les Républicains
+22	Côtes-D'Armor			2204	4Ème Circonscription	LEPVRAUD	Murielle	F	1974-07-15 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+22	Côtes-D'Armor			2205	5Ème Circonscription	BOTHOREL	Eric	M	1966-10-20 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+23	Creuse			2301	1Ère Circonscription	COUTURIER	Catherine France Nadine	F	1959-02-27 00:00:00+00	75	Ancienne profession intermédiaire	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+24	Dordogne			2401	1Ère Circonscription	MARTIN	Pascale	F	1961-08-24 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+24	Dordogne			2402	2Ème Circonscription	MULLER	Serge	M	1976-02-26 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		RN	Rassemblement National
+24	Dordogne			2403	3Ème Circonscription	CUBERTAFON	Jean-Pierre	M	1948-02-05 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+24	Dordogne			2404	4Ème Circonscription	PEYTAVIE	Sébastien	M	1982-04-17 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+25	Doubs			2501	1Ère Circonscription	CROIZIER	Laurent	M	1975-01-29 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+25	Doubs			2502	2Ème Circonscription	ALAUZET	Eric	M	1958-06-07 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+25	Doubs			2503	3Ème Circonscription	PACQUOT	Nicolas	M	1978-12-12 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+25	Doubs			2504	4Ème Circonscription	GRANGIER	Géraldine	F	1975-02-13 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+25	Doubs			2505	5Ème Circonscription	GENEVARD	Annie	F	1956-09-07 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		LR	Les Républicains
+26	Drôme			2601	1Ère Circonscription	CLAPOT	Mireille	F	1963-10-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+26	Drôme			2602	2Ème Circonscription	POLLET	Lisette	F	1968-01-04 00:00:00+00	62	Ouvrier qualifié de type industriel	2022-06-22 00:00:00+00		RN	Rassemblement National
+26	Drôme			2603	3Ème Circonscription	POCHON	Marie	F	1990-05-04 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+26	Drôme			2604	4Ème Circonscription	ANTHOINE	Emmanuelle	F	1964-07-02 00:00:00+00	75	Ancienne profession intermédiaire	2022-06-22 00:00:00+00	SAINT-VALLIER-SUR-RHONE	LR	Les Républicains
+27	Eure			2701	1Ère Circonscription	LOIR	Christine	F	1977-02-22 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		RN	Rassemblement National
+27	Eure			2702	2Ème Circonscription	LEVAVASSEUR	Katiana	F	1970-12-09 00:00:00+00	67	Ouvrier non qualifié de type industriel	2022-06-22 00:00:00+00		RN	Rassemblement National
+27	Eure			2703	3Ème Circonscription	MAUVIEUX	Kévin	M	1991-09-09 00:00:00+00	55	Employé de commerce	2022-06-22 00:00:00+00	pont audemer	RN	Rassemblement National
+27	Eure			2704	4Ème Circonscription	BRUN	Philippe	M	1991-10-16 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+27	Eure			2705	5Ème Circonscription	HOUSSIN	Timothée	M	1988-05-29 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+28	Eure-Et-Loir			2801	1Ère Circonscription	KASBARIAN	Guillaume	M	1987-02-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+28	Eure-Et-Loir			2802	2Ème Circonscription	MARLEIX	Olivier	M	1971-02-06 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Boulogne Billancourt	LR	Les Républicains
+28	Eure-Et-Loir			2803	3Ème Circonscription	LAMIRAULT	Luc	M	1962-05-12 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+28	Eure-Et-Loir			2804	4Ème Circonscription	VIGIER	Philippe	M	1958-02-03 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	valence	ENS	Ensemble ! (Majorité présidentielle)
+29	Finistère			2901	1Ère Circonscription	LE MEUR	Annaïg	F	1973-04-29 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+29	Finistère			2902	2Ème Circonscription	LARSONNEUR	Jean-Charles	M	1984-01-24 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		DVC	Divers centre
+29	Finistère			2903	3Ème Circonscription	LE GAC	Didier	M	1965-07-19 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00	CASTRES (81)	ENS	Ensemble ! (Majorité présidentielle)
+29	Finistère			2904	4Ème Circonscription	LE FEUR	Sandrine	F	1991-03-18 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+29	Finistère			2905	5Ème Circonscription	MELCHIOR	Graziella	F	1960-04-06 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+29	Finistère			2906	6Ème Circonscription	THOMIN	Mélanie	F	1984-06-04 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+29	Finistère			2907	7Ème Circonscription	TANGUY	Liliana	F	1967-03-12 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	PANCEVO	ENS	Ensemble ! (Majorité présidentielle)
+29	Finistère			2908	8Ème Circonscription	BALANANT	Erwan	M	1971-02-21 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+2A	Corse-Du-Sud	94	Corse	2A01	1Ère Circonscription	MARCANGELI	Laurent	M	1980-12-10 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+2A	Corse-Du-Sud	94	Corse	2A02	2Ème Circonscription	COLOMBANI	Paul-André	M	1967-08-17 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		REG	Régionaliste
+2B	Haute-Corse	94	Corse	2B01	1Ère Circonscription	CASTELLANI	Michel	M	1945-09-28 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		REG	Régionaliste
+2B	Haute-Corse	94	Corse	2B02	2Ème Circonscription	ACQUAVIVA	Jean-Félix	M	1973-03-19 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		REG	Régionaliste
+30	Gard			3001	1Ère Circonscription	GILLET	Yoann	M	1986-08-29 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	RENNES (35)	RN	Rassemblement National
+30	Gard			3002	2Ème Circonscription	MEIZONNET	Nicolas	M	1983-12-22 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	NIMES (30)	RN	Rassemblement National
+30	Gard			3003	3Ème Circonscription	BORDES	Pascale	F	1961-10-15 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	BAGNOLS SUR CEZEZ (30)	RN	Rassemblement National
+30	Gard			3004	4Ème Circonscription	MEURIN	Pierre	M	1989-11-30 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	PARIS (14ème)	RN	Rassemblement National
+30	Gard			3005	5Ème Circonscription	SALA	Michel	M	1954-05-13 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00	ORAN (ALGERIE)	NUP	Nouvelle union populaire écologique et sociale
+30	Gard			3006	6Ème Circonscription	BERTA	Philippe	M	1960-04-11 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+31	Haute-Garonne			3101	1Ère Circonscription	CLOUET	Hadrien	M	1991-07-13 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Aix en Provence	NUP	Nouvelle union populaire écologique et sociale
+31	Haute-Garonne			3102	2Ème Circonscription	STAMBACH-TERRENOIR	Anne	F	1980-06-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+31	Haute-Garonne			3103	3Ème Circonscription	VIGNON	Corinne	F	1963-06-10 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+31	Haute-Garonne			3104	4Ème Circonscription	PIQUEMAL	François	M	1984-12-28 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+31	Haute-Garonne			3105	5Ème Circonscription	PORTARRIEU	Jean-François	M	1965-10-14 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+31	Haute-Garonne			3106	6Ème Circonscription	IBORRA	Monique	F	1945-03-08 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	MAISON-CARREE (ALGERIE)	ENS	Ensemble ! (Majorité présidentielle)
+31	Haute-Garonne			3107	7Ème Circonscription	BEX	Christophe	M	1961-11-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+31	Haute-Garonne			3108	8Ème Circonscription	AVIRAGNET	Joël	M	1956-06-16 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	ENCAUSSE LES THERMES	NUP	Nouvelle union populaire écologique et sociale
+31	Haute-Garonne			3109	9Ème Circonscription	ARRIGHI	Christine	F	1959-09-19 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+31	Haute-Garonne			3110	10Ème Circonscription	ESQUENET	Laurent	M	1962-08-23 00:00:00+00	156	Autre profession (obsolète)	2022-08-04 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+32	Gers			3201	1Ère Circonscription	CAZENEUVE	Jean-René	M	1958-06-09 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	PARIS XII	ENS	Ensemble ! (Majorité présidentielle)
+32	Gers			3202	2Ème Circonscription	TAUPIAC	David	M	1975-05-13 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		DVG	Divers gauche
+33	Gironde			3301	1Ère Circonscription	CAZENAVE	Thomas	M	1978-03-06 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+33	Gironde			3302	2Ème Circonscription	THIERRY	Nicolas	M	1975-12-08 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+33	Gironde			3303	3Ème Circonscription	PRUD'HOMME	Loïc	M	1969-08-19 00:00:00+00	47	Technicien	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+33	Gironde			3304	4Ème Circonscription	DAVID	Alain	M	1949-06-02 00:00:00+00	164	Retraité des entreprises publiques (obsolète)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+33	Gironde			3305	5Ème Circonscription	DE FOURNAS	Grégoire	M	1985-03-19 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		RN	Rassemblement National
+33	Gironde			3306	6Ème Circonscription	POULLIAT	Eric	M	1974-07-09 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+33	Gironde			3307	7Ème Circonscription	ZGAINSKI	Frédéric	M	1972-10-30 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-08-04 00:00:00+00	Lyon IX	ENS	Ensemble ! (Majorité présidentielle)
+33	Gironde			3308	8Ème Circonscription	PANONACLE	Sophie	F	1968-12-16 00:00:00+00	157	Sans profession déclarée (obsolète)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+33	Gironde			3309	9Ème Circonscription	METTE	Sophie	F	1959-09-13 00:00:00+00	157	Sans profession déclarée (obsolète)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+33	Gironde			3310	10Ème Circonscription	BOUDIÉ	Florent	M	1973-09-22 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	SAINTE FOY LA GRANDE	ENS	Ensemble ! (Majorité présidentielle)
+33	Gironde			3311	11Ème Circonscription	DIAZ	Edwige	F	1987-10-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+33	Gironde			3312	12Ème Circonscription	LAVERGNE	Pascal	M	1967-08-28 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+34	Hérault			3401	1Ère Circonscription	SOREZ	Philippe	M	1961-05-20 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2022-08-04 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+34	Hérault			3402	2Ème Circonscription	OZIOL	Nathalie	F	1990-02-18 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+34	Hérault			3403	3Ème Circonscription	CRISTOL	Laurence	F	1967-11-08 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+34	Hérault			3404	4Ème Circonscription	ROME	Sébastien	M	1978-10-12 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+34	Hérault			3405	5Ème Circonscription	GALZY	Stéphanie	F	1981-10-21 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+34	Hérault			3406	6Ème Circonscription	MÉNARD	Emmanuelle	F	1968-08-15 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		DVD	Divers droite
+34	Hérault			3407	7Ème Circonscription	LOPEZ LIGUORI	Aurélien	M	1993-05-17 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	AIX EN PROVENCE	RN	Rassemblement National
+34	Hérault			3408	8Ème Circonscription	CARRIERE	Sylvain	M	1991-05-21 00:00:00+00	55	Employé de commerce	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+34	Hérault			3409	9Ème Circonscription	VIGNAL	Patrick	M	1958-01-22 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+35	Ille-Et-Vilaine			3501	1Ère Circonscription	MATHIEU	Frédéric	M	1977-11-06 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+35	Ille-Et-Vilaine			3502	2Ème Circonscription	MAILLART-MÉHAIGNERIE	Laurence	F	1967-04-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	Paris 12eme	ENS	Ensemble ! (Majorité présidentielle)
+35	Ille-Et-Vilaine			3503	3Ème Circonscription	ROUAUX	Claudia	F	1963-10-13 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00	Sainte Gemmes d'Andigné	NUP	Nouvelle union populaire écologique et sociale
+35	Ille-Et-Vilaine			3504	4Ème Circonscription	HIGNET	Mathilde	F	1993-06-10 00:00:00+00	69	Ouvrier agricole	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+35	Ille-Et-Vilaine			3505	5Ème Circonscription	LE NABOUR-CLOAREC	Christine	F	1964-10-28 00:00:00+00	55	Employé de commerce	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+35	Ille-Et-Vilaine			3506	6Ème Circonscription	BENOIT	Thierry	M	1966-09-13 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+35	Ille-Et-Vilaine			3507	7Ème Circonscription	BOURGEAUX	Jean-Luc	M	1963-04-10 00:00:00+00	11	Agriculteur sur petite exploitation	2022-06-22 00:00:00+00	Parame	LR	Les Républicains
+35	Ille-Et-Vilaine			3508	8Ème Circonscription	BOULOUX	Mickaël	M	1972-08-16 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+36	Indre			3601	1Ère Circonscription	JOLIVET	François	M	1966-03-21 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+36	Indre			3602	2Ème Circonscription	FORISSIER	Nicolas	M	1961-02-17 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00	paris 15	LR	Les Républicains
+37	Indre-Et-Loire			3701	1Ère Circonscription	FOURNIER	Charles	M	1968-03-10 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Romorantin	NUP	Nouvelle union populaire écologique et sociale
+37	Indre-Et-Loire			3702	2Ème Circonscription	LABARONNE	Daniel	M	1955-07-16 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	Paris 15e (75)	ENS	Ensemble ! (Majorité présidentielle)
+37	Indre-Et-Loire			3703	3Ème Circonscription	ALFANDARI	Henri	M	1979-10-02 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00	Cambray-les-Tours	ENS	Ensemble ! (Majorité présidentielle)
+37	Indre-Et-Loire			3704	4Ème Circonscription	COLBOC	Fabienne	F	1971-08-09 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+37	Indre-Et-Loire			3705	5Ème Circonscription	THILLAYE	Sabine	F	1959-05-18 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00	Remscheid	ENS	Ensemble ! (Majorité présidentielle)
+38	Isère			3801	1Ère Circonscription	HUGUES	Servane	F	1976-06-28 00:00:00+00	33	Cadre de la fonction publique	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+38	Isère			3802	2Ème Circonscription	CHATELAIN	Cyrielle	F	1987-07-15 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	MONTBELIARD 25	NUP	Nouvelle union populaire écologique et sociale
+38	Isère			3803	3Ème Circonscription	MARTIN	Élisa	F	1972-05-15 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	NANCY 54	NUP	Nouvelle union populaire écologique et sociale
+38	Isère			3804	4Ème Circonscription	BATTISTEL	Marie-Noëlle	F	1956-08-20 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+38	Isère			3805	5Ème Circonscription	IORDANOFF	Jérémie	M	1983-02-02 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00	LAXOU 54	NUP	Nouvelle union populaire écologique et sociale
+38	Isère			3806	6Ème Circonscription	JOLLY	Alexis	M	1990-12-22 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00	BESANCON 25	RN	Rassemblement National
+38	Isère			3807	7Ème Circonscription	NEUDER	Yannick	M	1969-03-15 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	TULLINS 38	LR	Les Républicains
+38	Isère			3808	8Ème Circonscription	ABADIE	Caroline	F	1976-09-07 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00	ST MARTIN D'HERES 38	ENS	Ensemble ! (Majorité présidentielle)
+38	Isère			3809	9Ème Circonscription	JACQUIER-LAFORGE	Elodie	F	1978-04-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+38	Isère			3810	10Ème Circonscription	MEYNIER-MILLEFERT	Marjolaine	F	1982-09-30 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00	ECHIROLLES 38	ENS	Ensemble ! (Majorité présidentielle)
+39	Jura			3901	1Ère Circonscription	BRULEBOIS	Danielle	F	1947-07-04 00:00:00+00	75	Ancienne profession intermédiaire	2022-06-22 00:00:00+00	LONGWY SUR LE DOUBS	ENS	Ensemble ! (Majorité présidentielle)
+39	Jura			3902	2Ème Circonscription	DALLOZ	Marie-Christine	F	1958-01-10 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2022-06-22 00:00:00+00	SAINT-CLAUDE	LR	Les Républicains
+39	Jura			3903	3Ème Circonscription	GRUET	Justine	F	1989-10-23 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+40	Landes			4001	1Ère Circonscription	LAINÉ	Fabien	M	1976-04-15 00:00:00+00	31	Profession libérale	2022-08-04 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+40	Landes			4002	2Ème Circonscription	CAUSSE	Lionel	M	1971-05-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+40	Landes			4003	3Ème Circonscription	VALLAUD	Boris	M	1975-07-25 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Beyrouth	NUP	Nouvelle union populaire écologique et sociale
+41	Loir-Et-Cher			4101	1Ère Circonscription	DESJONQUÈRES	Mathilde	F	1980-09-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+41	Loir-Et-Cher			4102	2Ème Circonscription	CHUDEAU	Roger	M	1949-09-28 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	berlin	RN	Rassemblement National
+41	Loir-Et-Cher			4103	3Ème Circonscription	MARION	Christophe	M	1973-04-25 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+42	Loire			4201	1Ère Circonscription	BATAILLON	Quentin	M	1993-09-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+42	Loire			4202	2Ème Circonscription	TAURINYA	Andrée	F	1963-06-03 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+42	Loire			4203	3Ème Circonscription	MANDON	Emmanuel	M	1965-06-22 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+42	Loire			4204	4Ème Circonscription	CINIERI	Dino	M	1955-07-09 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		LR	Les Républicains
+42	Loire			4205	5Ème Circonscription	VERMOREL-MARQUES	Antoine	M	1993-02-17 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		LR	Les Républicains
+42	Loire			4206	6Ème Circonscription	TAITE	Jean-Pierre	M	1962-03-14 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		LR	Les Républicains
+43	Haute-Loire			4301	1Ère Circonscription	VALENTIN	Isabelle	F	1962-01-20 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		LR	Les Républicains
+43	Haute-Loire			4302	2Ème Circonscription	VIGIER	Jean-Pierre	M	1969-10-22 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+44	Loire-Atlantique			4401	1Ère Circonscription	BELHAMITI	Mounir	M	1985-03-08 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+44	Loire-Atlantique			4402	2Ème Circonscription	KERBRAT	Andy	M	1990-10-01 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+44	Loire-Atlantique			4403	3Ème Circonscription	AMIOT	Ségolène	F	1986-02-23 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+44	Loire-Atlantique			4404	4Ème Circonscription	LAERNOES	Julie	F	1982-07-03 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	DELFT	NUP	Nouvelle union populaire écologique et sociale
+44	Loire-Atlantique			4405	5Ème Circonscription	GEISMAR	Luc	M	1966-11-01 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2022-08-04 00:00:00+00	Colmar (68)	ENS	Ensemble ! (Majorité présidentielle)
+44	Loire-Atlantique			4406	6Ème Circonscription	RAUX	Jean-Claude	M	1967-01-18 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+44	Loire-Atlantique			4407	7Ème Circonscription	JOSSO	Sandrine	F	1975-09-19 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	LA BAULE	ENS	Ensemble ! (Majorité présidentielle)
+44	Loire-Atlantique			4408	8Ème Circonscription	TAVEL	Matthias	M	1987-07-06 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+44	Loire-Atlantique			4409	9Ème Circonscription	HAURY	Yannick	M	1954-06-12 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+44	Loire-Atlantique			4410	10Ème Circonscription	ERRANTE	Sophie	F	1971-07-22 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+45	Loiret			4501	1Ère Circonscription	RIST	Stéphanie	F	1973-08-06 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+45	Loiret			4502	2Ème Circonscription	JANVIER	Caroline	F	1982-03-09 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+45	Loiret			4503	3Ème Circonscription	PARIS	Mathilde	F	1985-01-14 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	EPINAY SUR SEINE	RN	Rassemblement National
+45	Loiret			4504	4Ème Circonscription	MÉNAGÉ	Thomas	M	1992-01-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+45	Loiret			4505	5Ème Circonscription	BROSSE	Anthony	M	1980-11-04 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00	SAINT CALAIS	ENS	Ensemble ! (Majorité présidentielle)
+45	Loiret			4506	6Ème Circonscription	RAMOS	Richard	M	1968-03-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+46	Lot			4601	1Ère Circonscription	PRADIÉ	Aurélien	M	1986-03-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		LR	Les Républicains
+46	Lot			4602	2Ème Circonscription	TIEGNA	Huguette	F	1982-04-01 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00	Bangassogo - Burkina Fasso	ENS	Ensemble ! (Majorité présidentielle)
+47	Lot-Et-Garonne			4701	1Ère Circonscription	LAUZZANA	Michel	M	1957-03-20 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+47	Lot-Et-Garonne			4702	2Ème Circonscription	LAPORTE	Hélène	F	1978-12-29 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		RN	Rassemblement National
+47	Lot-Et-Garonne			4703	3Ème Circonscription	COUSIN	Annick	F	1973-08-07 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+48	Lozère			4801	1Ère Circonscription	MOREL A L'HUISSIER	Pierre	M	1958-12-21 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		UDI	Union des Démocrates et des Indépendants
+49	Maine-Et-Loire			4901	1Ère Circonscription	GERNIGON	François	M	1961-04-02 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+49	Maine-Et-Loire			4902	2Ème Circonscription	DUPONT	Stella	F	1973-11-03 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+49	Maine-Et-Loire			4903	3Ème Circonscription	BLIN	Anne-Laure	F	1983-06-12 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		LR	Les Républicains
+49	Maine-Et-Loire			4904	4Ème Circonscription	SAINT-PAUL	Laëtitia	F	1981-01-21 00:00:00+00	83	Militaire du contingent	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+49	Maine-Et-Loire			4905	5Ème Circonscription	MASSEGLIA	Denis	M	1981-04-11 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+49	Maine-Et-Loire			4906	6Ème Circonscription	DUBRE CHIRAT	Nicole	F	1951-12-18 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+49	Maine-Et-Loire			4907	7Ème Circonscription	BOLO	Philippe	M	1967-03-25 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+50	Manche			5001	1Ère Circonscription	GOSSELIN	Philippe	M	1966-10-23 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	CARENTAN	LR	Les Républicains
+50	Manche			5002	2Ème Circonscription	SORRE	Bertrand	M	1965-05-08 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00	CHERBOURG 50	ENS	Ensemble ! (Majorité présidentielle)
+50	Manche			5003	3Ème Circonscription	TRAVERT	Stéphane	M	1969-10-12 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	CARENTAN (50)	ENS	Ensemble ! (Majorité présidentielle)
+50	Manche			5004	4Ème Circonscription	PIC	Anna	F	1978-06-04 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+51	Marne			5101	1Ère Circonscription	ALBERTINI	Xavier	M	1970-01-28 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+51	Marne			5102	2Ème Circonscription	MILLER	Laure	F	1983-12-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2023-01-30 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+51	Marne			5103	3Ème Circonscription	GIRARDIN	Eric	M	1962-02-12 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+51	Marne			5104	4Ème Circonscription	MAGNIER	Lise	F	1984-12-31 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Châlons-sur-Marne	ENS	Ensemble ! (Majorité présidentielle)
+51	Marne			5105	5Ème Circonscription	DE COURSON	Charles	M	1952-04-02 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	Paris 16	DVD	Divers droite
+52	Haute-Marne			5201	1Ère Circonscription	BENTZ	Christophe	M	1987-07-04 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		RN	Rassemblement National
+52	Haute-Marne			5202	2Ème Circonscription	ROBERT-DEHAULT	Laurence	F	1964-01-17 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+53	Mayenne			5301	1Ère Circonscription	GAROT	Guillaume	M	1966-05-29 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+53	Mayenne			5302	2Ème Circonscription	BANNIER	Géraldine	F	1979-11-22 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+53	Mayenne			5303	3Ème Circonscription	FAVENNEC	Yannick	M	1958-08-12 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	CHAUDRON-EN-MAUGES (49)	ENS	Ensemble ! (Majorité présidentielle)
+54	Meurthe-Et-Moselle			5401	1Ère Circonscription	GUILLEMARD	Philippe	M	1975-04-28 00:00:00+00	31	Profession libérale	2022-07-03 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+54	Meurthe-Et-Moselle			5402	2Ème Circonscription	LACRESSE	Emmanuel	M	1971-07-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+54	Meurthe-Et-Moselle			5403	3Ème Circonscription	ETIENNE	Martine	F	1956-06-22 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00	MONT SAINT MARTIN	NUP	Nouvelle union populaire écologique et sociale
+54	Meurthe-Et-Moselle			5404	4Ème Circonscription	BAZIN	Thibault	M	1984-10-27 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		LR	Les Républicains
+54	Meurthe-Et-Moselle			5405	5Ème Circonscription	POTIER	Dominique	M	1964-03-17 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		DVG	Divers gauche
+54	Meurthe-Et-Moselle			5406	6Ème Circonscription	FIAT	Caroline	F	1977-01-28 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00	VERDUN	NUP	Nouvelle union populaire écologique et sociale
+55	Meuse			5501	1Ère Circonscription	PANCHER	Bertrand	M	1958-06-05 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	St Mihiel	DVD	Divers droite
+55	Meuse			5502	2Ème Circonscription	GOULET	Florence	F	1961-06-30 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Le Mêles sur Sarthe	RN	Rassemblement National
+56	Morbihan			5601	1Ère Circonscription	LE HÉNANFF	Anne	F	1969-07-22 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+56	Morbihan			5602	2Ème Circonscription	PAHUN	Jimmy	M	1962-05-15 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+56	Morbihan			5603	3Ème Circonscription	LE PEIH	Nicole	F	1959-09-28 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+56	Morbihan			5604	4Ème Circonscription	MOLAC	Paul	M	1962-05-21 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		REG	Régionaliste
+56	Morbihan			5605	5Ème Circonscription	MÉTAYER	Lysiane	F	1963-08-07 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	ABIDJAN	ENS	Ensemble ! (Majorité présidentielle)
+56	Morbihan			5606	6Ème Circonscription	JACQUES	Jean-Michel	M	1968-02-29 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+57	Moselle			5701	1Ère Circonscription	BELHADDAD	Belkhir	M	1969-07-09 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	Timgad	ENS	Ensemble ! (Majorité présidentielle)
+57	Moselle			5702	2Ème Circonscription	MENDES	Ludovic	M	1987-04-11 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+57	Moselle			5703	3Ème Circonscription	LEDUC	Charlotte	F	1980-06-18 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Senlis	NUP	Nouvelle union populaire écologique et sociale
+57	Moselle			5704	4Ème Circonscription	DI FILIPPO	Fabien	M	1986-08-23 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		LR	Les Républicains
+57	Moselle			5705	5Ème Circonscription	SEITLINGER	Vincent	M	1987-01-18 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+57	Moselle			5706	6Ème Circonscription	PFEFFER	Kévin	M	1990-07-09 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+57	Moselle			5707	7Ème Circonscription	LOUBET	Alexandre	M	1994-07-07 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+57	Moselle			5708	8Ème Circonscription	JACOBELLI	Laurent	M	1969-10-13 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		RN	Rassemblement National
+57	Moselle			5709	9Ème Circonscription	RAUCH	Isabelle	F	1968-08-10 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+58	Nièvre			5801	1Ère Circonscription	GOULET	Perrine	F	1978-03-19 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+58	Nièvre			5802	2Ème Circonscription	PERROT	Patrice	M	1964-02-24 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5901	1Ère Circonscription	QUATENNENS	Adrien	M	1990-05-23 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+59	Nord			5902	2Ème Circonscription	BERNALICIS	Ugo	M	1989-09-25 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+59	Nord			5903	3Ème Circonscription	SAINT-HUILE	Benjamin	M	1983-05-10 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		DVG	Divers gauche
+59	Nord			5904	4Ème Circonscription	LISO	Brigitte	F	1959-07-29 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5905	5Ème Circonscription	CATTEAU	Victor	M	1995-09-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+59	Nord			5906	6Ème Circonscription	PARMENTIER-LECOCQ	Charlotte	F	1977-07-17 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	POINTE A PITRE	ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5907	7Ème Circonscription	GÉRARD	Félicie	F	1974-01-28 00:00:00+00	48	Contremaître, agent de maîtrise	2022-06-22 00:00:00+00	SAINT QUENTIN	ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5908	8Ème Circonscription	GUIRAUD	David	M	1992-11-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	PARIS 13	NUP	Nouvelle union populaire écologique et sociale
+59	Nord			5909	9Ème Circonscription	SPILLEBOUT	Violette	F	1972-09-02 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5910	10Ème Circonscription	LEDOUX	Vincent	M	1966-06-21 00:00:00+00	34	Professeur, profession scientifique	2022-07-23 00:00:00+00	WATERMAEL-BOISFORT (Belgique)	ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5911	11Ème Circonscription	VICOT	Roger	M	1963-06-01 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+59	Nord			5912	12Ème Circonscription	TAVERNE	Michaël	M	1979-03-10 00:00:00+00	53	Policier et militaire	2022-06-22 00:00:00+00		RN	Rassemblement National
+59	Nord			5913	13Ème Circonscription	DECODTS	Christine	F	1966-05-19 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5914	14Ème Circonscription	CHRISTOPHE	Paul	M	1971-02-10 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	LES SABLES D'OLONNE	ENS	Ensemble ! (Majorité présidentielle)
+59	Nord			5915	15Ème Circonscription	BERTELOOT	Pierrick	M	1999-01-11 00:00:00+00	55	Employé de commerce	2022-06-22 00:00:00+00		RN	Rassemblement National
+59	Nord			5916	16Ème Circonscription	MARCHIO	Matthieu	M	1993-06-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+59	Nord			5917	17Ème Circonscription	FRANCOIS	Thibaut	M	1989-12-10 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+59	Nord			5918	18Ème Circonscription	BRICOUT	Guy	M	1944-02-18 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	CAUDRY (59)	UDI	Union des Démocrates et des Indépendants
+59	Nord			5919	19Ème Circonscription	CHENU	Sébastien	M	1973-04-13 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+59	Nord			5920	20Ème Circonscription	ROUSSEL	Fabien	M	1969-04-16 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+59	Nord			5921	21Ème Circonscription	DESCAMPS	Béatrice	F	1961-04-24 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		DVD	Divers droite
+60	Oise			6001	1Ère Circonscription	HABERT-DASSAULT	Victor	M	1992-07-12 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+60	Oise			6002	2Ème Circonscription	BALLARD	Philippe	M	1960-11-24 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	Champigny sur Marne	RN	Rassemblement National
+60	Oise			6003	3Ème Circonscription	SABATOU	Alexandre	M	1993-02-18 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+60	Oise			6004	4Ème Circonscription	WOERTH	Eric	M	1956-01-29 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+60	Oise			6005	5Ème Circonscription	VATIN	Pierre	M	1967-08-21 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	SAINT QUENTIN	LR	Les Républicains
+60	Oise			6006	6Ème Circonscription	GUINIOT	Michel	M	1954-11-29 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		RN	Rassemblement National
+60	Oise			6007	7Ème Circonscription	MINOT	Maxime	M	1987-07-20 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00	CLERMONT	LR	Les Républicains
+61	Orne			6101	1Ère Circonscription	JOURDAN	Chantal	F	1958-09-02 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+61	Orne			6102	2Ème Circonscription	LOUWAGIE	Véronique	F	1961-03-20 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+61	Orne			6103	3Ème Circonscription	NURY	Jérôme	M	1972-08-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Valence	LR	Les Républicains
+62	Pas-De-Calais			6201	1Ère Circonscription	BLAIRY	Emmanuel	M	1986-03-14 00:00:00+00	48	Contremaître, agent de maîtrise	2022-06-22 00:00:00+00		RN	Rassemblement National
+62	Pas-De-Calais			6202	2Ème Circonscription	MAQUET	Jacqueline	F	1949-05-13 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	ESTREE BLANCHE (62)	ENS	Ensemble ! (Majorité présidentielle)
+62	Pas-De-Calais			6203	3Ème Circonscription	TELLIER	Jean-Marc	M	1969-08-23 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+62	Pas-De-Calais			6204	4Ème Circonscription	FAIT	Philippe	M	1969-06-24 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+62	Pas-De-Calais			6205	5Ème Circonscription	PONT	Jean-Pierre	M	1950-05-09 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+62	Pas-De-Calais			6206	6Ème Circonscription	ENGRAND	Christine	F	1955-05-07 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	BOULOGNE SUR MER	RN	Rassemblement National
+62	Pas-De-Calais			6207	7Ème Circonscription	DUMONT	Pierre-Henri	M	1987-10-07 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	GRANDE SYNTHE	LR	Les Républicains
+62	Pas-De-Calais			6208	8Ème Circonscription	PETIT	Bertrand	M	1964-08-28 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2023-01-30 00:00:00+00	SAINT-OMER	DVG	Divers gauche
+62	Pas-De-Calais			6209	9Ème Circonscription	PARMENTIER	Caroline	F	1965-12-16 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+62	Pas-De-Calais			6210	10Ème Circonscription	FRAPPÉ	Thierry	M	1952-05-23 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	FORESTSUR MARQUE	RN	Rassemblement National
+62	Pas-De-Calais			6211	11Ème Circonscription	LE PEN	Marine	F	1968-08-05 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Neuilly sur Seine	RN	Rassemblement National
+62	Pas-De-Calais			6212	12Ème Circonscription	BILDE	Bruno	M	1976-09-22 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+63	Puy-De-Dôme			6301	1Ère Circonscription	MAXIMI	Marianne	F	1985-11-13 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+63	Puy-De-Dôme			6302	2Ème Circonscription	PIRES-BEAUNE	Christine	F	1964-10-06 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2022-06-22 00:00:00+00	mons	NUP	Nouvelle union populaire écologique et sociale
+63	Puy-De-Dôme			6303	3Ème Circonscription	VICHNIEVSKY	Laurence	F	1955-02-05 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+63	Puy-De-Dôme			6304	4Ème Circonscription	LINGEMANN	Delphine	F	1972-11-14 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+63	Puy-De-Dôme			6305	5Ème Circonscription	CHASSAIGNE	André	M	1950-07-02 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+64	Pyrénées-Atlantiques			6401	1Ère Circonscription	POUEYTO	Josy	F	1954-01-13 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+64	Pyrénées-Atlantiques			6402	2Ème Circonscription	MATTEI	Jean-Paul	M	1954-03-21 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Saarburg	ENS	Ensemble ! (Majorité présidentielle)
+64	Pyrénées-Atlantiques			6403	3Ème Circonscription	HABIB	David	M	1961-03-16 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		DVG	Divers gauche
+64	Pyrénées-Atlantiques			6404	4Ème Circonscription	ECHANIZ	Iñaki	M	1993-09-02 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+64	Pyrénées-Atlantiques			6405	5Ème Circonscription	LASSERRE	Florence	F	1974-06-29 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+64	Pyrénées-Atlantiques			6406	6Ème Circonscription	BRU	Vincent	M	1955-04-29 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+65	Hautes-Pyrénées			6501	1Ère Circonscription	FERRER	Sylvie	F	1967-11-06 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+65	Hautes-Pyrénées			6502	2Ème Circonscription	MOURNET	Benoit	M	1986-01-16 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	bagnères de Bigorre	ENS	Ensemble ! (Majorité présidentielle)
+66	Pyrénées-Orientales			6601	1Ère Circonscription	BLANC	Sophie	F	1968-02-20 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+66	Pyrénées-Orientales			6602	2Ème Circonscription	SABATINI	Anaïs	F	1990-03-10 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+66	Pyrénées-Orientales			6603	3Ème Circonscription	DOGOR-SUCH	Sandrine	F	1970-11-08 00:00:00+00	55	Employé de commerce	2022-06-22 00:00:00+00		RN	Rassemblement National
+66	Pyrénées-Orientales			6604	4Ème Circonscription	MARTINEZ	Michèle	F	1968-06-06 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+67	Bas-Rhin			6701	1Ère Circonscription	REGOL	Sandra	F	1978-04-13 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+67	Bas-Rhin			6702	2Ème Circonscription	FERNANDES	Emmanuel	M	1980-08-10 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+67	Bas-Rhin			6703	3Ème Circonscription	STUDER	Bruno	M	1978-06-18 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+67	Bas-Rhin			6704	4Ème Circonscription	BUFFET	Françoise	F	1953-12-11 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+67	Bas-Rhin			6705	5Ème Circonscription	SITZENSTUHL	Charles	M	1988-12-03 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+67	Bas-Rhin			6706	6Ème Circonscription	MOREL	Louise	F	1995-10-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+67	Bas-Rhin			6707	7Ème Circonscription	HETZEL	Patrick	M	1964-07-02 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		LR	Les Républicains
+67	Bas-Rhin			6708	8Ème Circonscription	KOCHERT	Stéphanie	F	1975-08-12 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+67	Bas-Rhin			6709	9Ème Circonscription	THIEBAUT	Vincent	M	1972-05-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+68	Haut-Rhin			6801	1Ère Circonscription	KLINKERT	Brigitte	F	1956-07-22 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+68	Haut-Rhin			6802	2Ème Circonscription	OTT	Hubert	M	1964-06-06 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	COLMAR (68)	ENS	Ensemble ! (Majorité présidentielle)
+68	Haut-Rhin			6803	3Ème Circonscription	LEMAIRE	Didier	M	1975-07-23 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+68	Haut-Rhin			6804	4Ème Circonscription	SCHELLENBERGER	Raphaël	M	1990-02-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	MULHOUSE (68)	LR	Les Républicains
+68	Haut-Rhin			6805	5Ème Circonscription	BOLOGNESE	Charlotte	F	1990-07-21 00:00:00+00	54	Employé administratif d'entreprise	2022-08-04 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+68	Haut-Rhin			6806	6Ème Circonscription	FUCHS	Bruno	M	1959-04-07 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6901	1Ère Circonscription	RUDIGOZ	Thomas	M	1971-01-11 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	LYON 7EME	ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6902	2Ème Circonscription	JULIEN-LAFERRIERE	Hubert	M	1966-02-27 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+69	Rhône			6903	3Ème Circonscription	GARIN	Marie-Charlotte	F	1995-09-02 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	Vernon	NUP	Nouvelle union populaire écologique et sociale
+69	Rhône			6904	4Ème Circonscription	BRUGNERA	Anne	F	1970-11-28 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6905	5Ème Circonscription	BROCARD	Blandine	F	1981-11-03 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6906	6Ème Circonscription	AMARD	Gabriel	M	1967-05-05 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+69	Rhône			6907	7Ème Circonscription	VINCENDET	Alexandre	M	1983-10-06 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		LR	Les Républicains
+69	Rhône			6908	8Ème Circonscription	SERRE	Nathalie	F	1968-08-17 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00	BESANCON 25	LR	Les Républicains
+69	Rhône			6909	9Ème Circonscription	PORTIER	Alexandre	M	1990-04-21 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		LR	Les Républicains
+69	Rhône			6910	10Ème Circonscription	GASSILLOUD	Thomas	M	1981-05-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6911	11Ème Circonscription	FUGIT	Jean-Luc	M	1969-11-27 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6912	12Ème Circonscription	ISAAC-SIBILLE	Cyrille	M	1958-04-30 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	LYON 6	ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6913	13Ème Circonscription	TANZILLI	Sarah	F	1985-01-23 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	VALENCE	ENS	Ensemble ! (Majorité présidentielle)
+69	Rhône			6914	14Ème Circonscription	BOUMERTIT	Idir	M	1974-10-04 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00	Lyon 3	NUP	Nouvelle union populaire écologique et sociale
+70	Haute-Saône			7001	1Ère Circonscription	VILLEDIEU	Antoine	M	1989-03-08 00:00:00+00	53	Policier et militaire	2022-06-22 00:00:00+00	Lure	RN	Rassemblement National
+70	Haute-Saône			7002	2Ème Circonscription	SALMON	Emeric	M	1973-11-26 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+71	Saône-Et-Loire			7101	1Ère Circonscription	DIRX	Benjamin	M	1979-01-25 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	VILLEFRANCHE SUR SAONE	ENS	Ensemble ! (Majorité présidentielle)
+71	Saône-Et-Loire			7102	2Ème Circonscription	CORNELOUP	Josiane	F	1959-09-30 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+71	Saône-Et-Loire			7103	3Ème Circonscription	REBEYROTTE	Rémy	M	1966-03-27 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+71	Saône-Et-Loire			7104	4Ème Circonscription	UNTERMAIER	Cécile	F	1951-12-28 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+71	Saône-Et-Loire			7105	5Ème Circonscription	MARGUERITTE	Louis	M	1984-09-10 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	PARIS 12	ENS	Ensemble ! (Majorité présidentielle)
+72	Sarthe			7201	1Ère Circonscription	DELPECH	Julie	F	1989-09-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+72	Sarthe			7202	2Ème Circonscription	KARAMANLI	Marietta	F	1964-12-18 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Athènes (Grèce)	NUP	Nouvelle union populaire écologique et sociale
+72	Sarthe			7203	3Ème Circonscription	MARTINEAU	Eric	M	1968-05-08 00:00:00+00	12	Agriculteur sur moyenne exploitation	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+72	Sarthe			7204	4Ème Circonscription	LEBOUCHER	Elise	F	1982-10-09 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+72	Sarthe			7205	5Ème Circonscription	GRELIER	Jean-Carles	M	1966-03-15 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+73	Savoie			7301	1Ère Circonscription	FERRARI	Marina	F	1973-10-10 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+73	Savoie			7302	2Ème Circonscription	ROLLAND	Vincent	M	1970-02-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Moûtiers	LR	Les Républicains
+73	Savoie			7303	3Ème Circonscription	BONNIVARD	Emilie	F	1980-08-02 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+73	Savoie			7304	4Ème Circonscription	COULOMME	Jean-François	M	1966-04-01 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+74	Haute-Savoie			7401	1Ère Circonscription	RIOTTON	Véronique	F	1969-11-02 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	bonneville	ENS	Ensemble ! (Majorité présidentielle)
+74	Haute-Savoie			7402	2Ème Circonscription	ARMAND	Antoine	M	1991-09-10 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+74	Haute-Savoie			7403	3Ème Circonscription	PETEX-LEVET	Christelle	F	1980-09-02 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		LR	Les Républicains
+74	Haute-Savoie			7404	4Ème Circonscription	DUBY-MULLER	Virginie	F	1979-08-16 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	bonneville	LR	Les Républicains
+74	Haute-Savoie			7405	5Ème Circonscription	VIOLLAND	Anne-Cécile	F	1973-06-10 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+74	Haute-Savoie			7406	6Ème Circonscription	ROSEREN	Xavier	M	1970-01-12 00:00:00+00	22	Commerçant et assimilé	2022-06-22 00:00:00+00	CHAMONIX MONT BLANC (74)	ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7501	1Ère Circonscription	MAILLARD	Sylvain	M	1974-04-28 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7502	2Ème Circonscription	LE GENDRE	Gilles	M	1958-05-13 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7503	3Ème Circonscription	YADAN	Caroline	F	1968-08-14 00:00:00+00	31	Profession libérale	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7504	4Ème Circonscription	PANOSYAN-BOUVET	Astrid	F	1971-08-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Paris 14ème	ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7505	5Ème Circonscription	BAYOU	Julien	M	1980-06-11 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Paris 11ème	NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7506	6Ème Circonscription	CHIKIROU	Sophia	F	1979-06-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	Bonneville 74	NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7507	7Ème Circonscription	CHASSANIOL	Clara	F	1993-07-26 00:00:00+00	33	Cadre de la fonction publique	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7508	8Ème Circonscription	SAS	Eva	F	1970-08-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7509	9Ème Circonscription	ROUSSEAU	Sandrine	F	1972-03-08 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Maison-Alfort	NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7510	10Ème Circonscription	ARENAS	Rodrigo	M	1974-04-24 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	El Almendral	NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7511	11Ème Circonscription	GATEL	Maud	F	1979-04-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7512	12Ème Circonscription	BERETE	Fanta	F	1975-05-31 00:00:00+00	33	Cadre de la fonction publique	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7513	13Ème Circonscription	AMIEL	David	M	1992-11-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Paris 17ème	ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7514	14Ème Circonscription	HADDAD	Benjamin	M	1985-10-23 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Paris 16ème	ENS	Ensemble ! (Majorité présidentielle)
+75	Paris			7515	15Ème Circonscription	SIMONNET	Danielle	F	1971-07-02 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7516	16Ème Circonscription	LEGRAIN	Sarah	F	1985-11-17 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Paris 14ème	NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7517	17Ème Circonscription	OBONO	Danièle	F	1980-07-12 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2022-06-22 00:00:00+00	Libreville	NUP	Nouvelle union populaire écologique et sociale
+75	Paris			7518	18Ème Circonscription	CARON	Aymeric	M	1971-12-04 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+76	Seine-Maritime			7601	1Ère Circonscription	ADAM	Damien	M	1989-06-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+76	Seine-Maritime			7602	2Ème Circonscription	VIDAL	Annie	F	1956-09-17 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+76	Seine-Maritime			7603	3Ème Circonscription	WULFRANC	Hubert	M	1956-12-17 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+76	Seine-Maritime			7604	4Ème Circonscription	DUFOUR	Alma	F	1990-05-06 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+76	Seine-Maritime			7605	5Ème Circonscription	LESEUL	Gérard	M	1960-08-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	LE MESNILS-ESNARD	NUP	Nouvelle union populaire écologique et sociale
+76	Seine-Maritime			7606	6Ème Circonscription	JUMEL	Sébastien	M	1971-12-20 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+76	Seine-Maritime			7607	7Ème Circonscription	CAREL	Agnès	F	1968-06-09 00:00:00+00	34	Professeur, profession scientifique	2022-08-04 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+76	Seine-Maritime			7608	8Ème Circonscription	LECOQ	Jean-Paul	M	1958-10-13 00:00:00+00	47	Technicien	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+76	Seine-Maritime			7609	9Ème Circonscription	POUSSIER-WINSBACK	Marie-Agnès	F	1967-03-25 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+76	Seine-Maritime			7610	10Ème Circonscription	BATUT	Xavier	M	1976-12-26 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7701	1Ère Circonscription	LUQUET	Aude	F	1967-08-18 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7702	2Ème Circonscription	VALLETOUX	Frédéric	M	1966-08-23 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00	Paris 15eme	ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7703	3Ème Circonscription	THIÉRIOT	Jean-Louis	M	1969-06-26 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	PARIS 14EME	LR	Les Républicains
+77	Seine-Et-Marne			7704	4Ème Circonscription	PERIGAULT	Isabelle	F	1971-09-04 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+77	Seine-Et-Marne			7705	5Ème Circonscription	LEMOINE	Patricia	F	1961-12-30 00:00:00+00	157	Sans profession déclarée (obsolète)	2022-07-23 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7705	5Ème Circonscription	RIESTER	Franck	M	1974-01-03 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	PARIS 15EME	ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7706	6Ème Circonscription	ROULLAUD	Béatrice	F	1960-06-09 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+77	Seine-Et-Marne			7707	7Ème Circonscription	SOUDAIS	Ersilia	F	1988-05-21 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+77	Seine-Et-Marne			7708	8Ème Circonscription	GHOMI	Hadrien	M	1989-04-06 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	NOGENT SUR MARNE	ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7709	9Ème Circonscription	PEYRON	Michèle	F	1961-07-22 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+77	Seine-Et-Marne			7710	10Ème Circonscription	LAISNEY	Maxime	M	1981-01-19 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+77	Seine-Et-Marne			7711	11Ème Circonscription	FAURE	Olivier	M	1968-08-18 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+78	Yvelines			7801	1Ère Circonscription	RODWELL	Charles	M	1996-07-26 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	LONDRES	ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7802	2Ème Circonscription	BERGANTZ	Anne	F	1968-09-17 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-11-10 00:00:00+00	CHALON SUR SAONE	ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7803	3Ème Circonscription	PIRON	Béatrice	F	1965-08-30 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7804	4Ème Circonscription	LEBEC	Marie	F	1990-12-17 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	VERNON	ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7805	5Ème Circonscription	BRAUN-PIVET	Yaël	F	1970-12-07 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7806	6Ème Circonscription	POUZYREFF	Natalia	F	1961-02-18 00:00:00+00	86	Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7807	7Ème Circonscription	HAI	Nadia	F	1980-03-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7808	8Ème Circonscription	LUCAS	Benjamin	M	1990-10-08 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+78	Yvelines			7809	9Ème Circonscription	MILLIENNE	Bruno	M	1959-11-28 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7810	10Ème Circonscription	BERGÉ	Aurore	F	1986-11-13 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	PARIS 8	ENS	Ensemble ! (Majorité présidentielle)
+78	Yvelines			7811	11Ème Circonscription	MARTINET	William	M	1988-09-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	PARIS 14	NUP	Nouvelle union populaire écologique et sociale
+78	Yvelines			7812	12Ème Circonscription	OLIVE	Karl	M	1969-03-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+79	Deux-Sèvres			7901	1Ère Circonscription	MARCHIVE	Bastien	M	1990-07-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+79	Deux-Sèvres			7902	2Ème Circonscription	BATHO	Delphine	F	1973-03-23 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Paris 12ème	NUP	Nouvelle union populaire écologique et sociale
+79	Deux-Sèvres			7903	3Ème Circonscription	FIÉVET	Jean-Marie	M	1964-06-19 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+80	Somme			8001	1Ère Circonscription	RUFFIN	François	M	1975-10-18 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+80	Somme			8002	2Ème Circonscription	POMPILI	Barbara	F	1975-06-13 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+80	Somme			8003	3Ème Circonscription	MAQUET	Emmanuel	M	1968-06-02 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		LR	Les Républicains
+80	Somme			8004	4Ème Circonscription	TANGUY	Jean-Philippe	M	1986-03-25 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Boulogne sur Mer	RN	Rassemblement National
+80	Somme			8005	5Ème Circonscription	MENACHE	Yael	F	1985-05-12 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Péronne	RN	Rassemblement National
+81	Tarn			8101	1Ère Circonscription	CABROLIER	Frédéric	M	1966-10-12 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+81	Tarn			8102	2Ème Circonscription	ERODI	Karen	F	1977-02-04 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+81	Tarn			8103	3Ème Circonscription	TERLIER	Jean	M	1977-03-02 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+82	Tarn-Et-Garonne			8201	1Ère Circonscription	RABAULT	Valérie	F	1973-04-25 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00	L'Hay les Roses	NUP	Nouvelle union populaire écologique et sociale
+82	Tarn-Et-Garonne			8202	2Ème Circonscription	HAMELET	Marine	F	1967-07-13 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2022-06-22 00:00:00+00	SAVIGNY/ORGE	RN	Rassemblement National
+83	Var			8301	1Ère Circonscription	CHENEVARD	Yannick	M	1959-11-27 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+83	Var			8302	2Ème Circonscription	LAVALETTE	Laure	F	1976-04-16 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		RN	Rassemblement National
+83	Var			8303	3Ème Circonscription	RAMBAUD	Stephane	M	1960-04-05 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	ALGER	RN	Rassemblement National
+83	Var			8304	4Ème Circonscription	LOTTIAUX	Philippe	M	1966-08-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		RN	Rassemblement National
+83	Var			8305	5Ème Circonscription	LECHANTEUX	Julie	F	1977-12-22 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		RN	Rassemblement National
+83	Var			8306	6Ème Circonscription	GILETTI	Frank	M	1973-03-01 00:00:00+00	55	Employé de commerce	2022-06-22 00:00:00+00		RN	Rassemblement National
+83	Var			8307	7Ème Circonscription	BOCCALETTI	Frédéric	M	1973-11-23 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		RN	Rassemblement National
+83	Var			8308	8Ème Circonscription	SCHRECK	Philippe	M	1972-02-02 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	verdun	RN	Rassemblement National
+84	Vaucluse			8401	1Ère Circonscription	HEBRARD	Joris	M	1982-05-31 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		RN	Rassemblement National
+84	Vaucluse			8402	2Ème Circonscription	AUZANOT	Bénédicte	F	1972-08-05 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		RN	Rassemblement National
+84	Vaucluse			8403	3Ème Circonscription	DE LÉPINAU	Hervé	M	1969-06-08 00:00:00+00	129	Avocat (obsolète)	2022-06-22 00:00:00+00		RN	Rassemblement National
+84	Vaucluse			8404	4Ème Circonscription	LORHO	Marie-France	F	1964-12-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+84	Vaucluse			8405	5Ème Circonscription	LOVISOLO	Jean-François	M	1968-11-15 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+85	Vendée			8501	1Ère Circonscription	LATOMBE	Philippe	M	1975-04-21 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Paris (14ème)	ENS	Ensemble ! (Majorité présidentielle)
+85	Vendée			8502	2Ème Circonscription	BELLAMY	Béatrice	F	1966-10-20 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	NANTES (44)	ENS	Ensemble ! (Majorité présidentielle)
+85	Vendée			8503	3Ème Circonscription	BUCHOU	Stéphane	M	1974-03-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+85	Vendée			8504	4Ème Circonscription	BESSE	Véronique	F	1963-08-11 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	LA ROCHE SUR YON (85)	DVD	Divers droite
+85	Vendée			8505	5Ème Circonscription	HENRIET	Pierre	M	1991-11-26 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	FONTENAY LE COMTE (85)	ENS	Ensemble ! (Majorité présidentielle)
+86	Vienne			8601	1Ère Circonscription	BELLUCO	Lisa	F	1988-07-20 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+86	Vienne			8602	2Ème Circonscription	HOULIÉ	Sacha	M	1988-10-08 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+86	Vienne			8603	3Ème Circonscription	LECAMP	Pascal	M	1958-04-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Civray	ENS	Ensemble ! (Majorité présidentielle)
+86	Vienne			8604	4Ème Circonscription	TURQUOIS	Nicolas	M	1972-07-26 00:00:00+00	13	Agriculteur sur grande exploitation	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+87	Haute-Vienne			8701	1Ère Circonscription	MAUDET	Damien	M	1996-11-14 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Brive la Gaillarde	NUP	Nouvelle union populaire écologique et sociale
+87	Haute-Vienne			8702	2Ème Circonscription	DELAUTRETTE	Stéphane	M	1972-09-20 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+87	Haute-Vienne			8703	3Ème Circonscription	MEUNIER	Manon	F	1996-03-30 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+88	Vosges			8801	1Ère Circonscription	VIRY	Stéphane	M	1969-10-14 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+88	Vosges			8802	2Ème Circonscription	VALENCE	David	M	1981-10-07 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+88	Vosges			8803	3Ème Circonscription	NAEGELEN	Christophe	M	1983-12-30 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00		DVD	Divers droite
+88	Vosges			8804	4Ème Circonscription	GAULTIER	Jean-Jacques	M	1963-07-13 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	EPINAL (88)	LR	Les Républicains
+89	Yonne			8901	1Ère Circonscription	GRENON	Daniel	M	1948-07-31 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00	SAINT FARGEAU 89	RN	Rassemblement National
+89	Yonne			8902	2Ème Circonscription	VILLIERS	André	M	1954-12-13 00:00:00+00	13	Agriculteur sur grande exploitation	2022-06-22 00:00:00+00	Avallon 89	ENS	Ensemble ! (Majorité présidentielle)
+89	Yonne			8903	3Ème Circonscription	ODOUL	Julien	M	1985-05-08 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		RN	Rassemblement National
+90	Territoire De Belfort			9001	1Ère Circonscription	BOUCARD	Ian	M	1988-05-05 00:00:00+00	77	Ancien employé	2022-06-22 00:00:00+00		LR	Les Républicains
+90	Territoire De Belfort			9002	2Ème Circonscription	CHAUCHE	Florian	M	1984-01-22 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+91	Essonne			9101	1Ère Circonscription	AMRANI	Farida	F	1976-09-03 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+91	Essonne			9102	2Ème Circonscription	DA CONCEICAO CARVALHO	Nathalie	F	1966-03-31 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Blois 45	RN	Rassemblement National
+91	Essonne			9103	3Ème Circonscription	IZARD	Alexis	M	1992-06-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Sèvres 92	ENS	Ensemble ! (Majorité présidentielle)
+91	Essonne			9104	4Ème Circonscription	RIXAIN	Marie-Pierre	F	1977-01-18 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	Saint-Cyr-l'École 78	ENS	Ensemble ! (Majorité présidentielle)
+91	Essonne			9105	5Ème Circonscription	MIDY	Paul	M	1983-01-25 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	Fontainebleau 77	ENS	Ensemble ! (Majorité présidentielle)
+91	Essonne			9106	6Ème Circonscription	GUEDJ	Jérôme	M	1972-01-23 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Pantin 93	NUP	Nouvelle union populaire écologique et sociale
+91	Essonne			9107	7Ème Circonscription	REDA	Robin	M	1991-05-10 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	Savigny-sur-Orge 91	ENS	Ensemble ! (Majorité présidentielle)
+91	Essonne			9108	8Ème Circonscription	DUPONT-AIGNAN	Nicolas	M	1961-03-07 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Paris 15e 75	DSV	Droite souverainiste
+91	Essonne			9109	9Ème Circonscription	GUÉVENOUX	Marie	F	1976-11-02 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	Amiens 80	ENS	Ensemble ! (Majorité présidentielle)
+91	Essonne			9110	10Ème Circonscription	LÉAUMENT	Antoine	M	1989-09-04 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Châteauroux 36	NUP	Nouvelle union populaire écologique et sociale
+92	Hauts-De-Seine			9201	1Ère Circonscription	FAUCILLON	Elsa	F	1981-08-06 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	amiens (80)	NUP	Nouvelle union populaire écologique et sociale
+92	Hauts-De-Seine			9202	2Ème Circonscription	PASQUINI	Francesca	F	1981-12-27 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00	Viterbo, Italie	NUP	Nouvelle union populaire écologique et sociale
+92	Hauts-De-Seine			9203	3Ème Circonscription	JUVIN	Philippe	M	1964-02-01 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		LR	Les Républicains
+92	Hauts-De-Seine			9204	4Ème Circonscription	SEBAIHI	Sabrina	F	1981-05-10 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+92	Hauts-De-Seine			9205	5Ème Circonscription	CALVEZ	Céline	F	1979-07-24 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9206	6Ème Circonscription	LE GRIP	Constance	F	1960-11-14 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9207	7Ème Circonscription	CAZENEUVE	Pierre	M	1995-03-11 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9208	8Ème Circonscription	THEVENOT	Prisca	F	1985-03-01 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9209	9Ème Circonscription	PELLERIN	Emmanuel	M	1970-08-20 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9210	10Ème Circonscription	GUICHARD	Claire	F	1967-05-30 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-07-23 00:00:00+00	ST-PIERRE-ET-MIQUELON(975)	ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9211	11Ème Circonscription	SAINTOUL	Aurélien	M	1988-05-26 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+92	Hauts-De-Seine			9212	12Ème Circonscription	BOURLANGES	Jean-Louis	M	1946-07-13 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+92	Hauts-De-Seine			9213	13Ème Circonscription	BREGEON	Maud	F	1991-02-11 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+93	Seine-Saint-Denis			9301	1Ère Circonscription	COQUEREL	Eric	M	1958-12-30 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00	Courbevoie (92)	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9302	2Ème Circonscription	PEU	Stéphane	M	1962-07-24 00:00:00+00	54	Employé administratif d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9303	3Ème Circonscription	PORTES	Thomas	M	1985-11-18 00:00:00+00	52	Employé civil et agent de service de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9304	4Ème Circonscription	BOUROUAHA	Soumya	F	1964-03-16 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	GHAZAOUET (ALGERIE)	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9305	5Ème Circonscription	GARRIDO	Raquel	F	1974-04-23 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	CHILI	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9306	6Ème Circonscription	LACHAUD	Bastien	M	1980-08-05 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9307	7Ème Circonscription	CORBIÈRE	Alexis	M	1968-08-17 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	Béziers (34)	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9308	8Ème Circonscription	KELOUA HACHI	Fatiha	F	1971-06-05 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	PARIS 10	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9309	9Ème Circonscription	TROUVÉ	Aurélie	F	1979-09-20 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9310	10Ème Circonscription	ABOMANGOLI	Nadège	F	1975-09-15 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	BRAZZAVILLE (CONGO)	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9311	11Ème Circonscription	AUTAIN	Clémentine	F	1973-05-26 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00	St-Cloud	NUP	Nouvelle union populaire écologique et sociale
+93	Seine-Saint-Denis			9312	12Ème Circonscription	LEGAVRE	Jérôme	M	1972-08-20 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+94	Val-De-Marne			9401	1Ère Circonscription	DESCROZAILLE	Frédéric	M	1967-04-16 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+94	Val-De-Marne			9402	2Ème Circonscription	GUETTÉ	Clémence	F	1991-03-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+94	Val-De-Marne			9403	3Ème Circonscription	BOYARD	Louis	M	2000-08-26 00:00:00+00	84	Elève, étudiant	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+94	Val-De-Marne			9404	4Ème Circonscription	PETIT	Maud	F	1971-11-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00	Paris (15e)	ENS	Ensemble ! (Majorité présidentielle)
+94	Val-De-Marne			9405	5Ème Circonscription	LEFEVRE	Mathieu	M	1986-10-27 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+94	Val-De-Marne			9406	6Ème Circonscription	GOUFFIER-CHA	Guillaume	M	1986-02-01 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+94	Val-De-Marne			9407	7Ème Circonscription	KEKE	Rachel	F	1974-05-30 00:00:00+00	56	Personnel des services directs aux particuliers	2022-06-22 00:00:00+00	Abobo	NUP	Nouvelle union populaire écologique et sociale
+94	Val-De-Marne			9408	8Ème Circonscription	HERBILLON	Michel	M	1951-03-06 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		LR	Les Républicains
+94	Val-De-Marne			9409	9Ème Circonscription	SANTIAGO	Isabelle	F	1965-09-20 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+94	Val-De-Marne			9410	10Ème Circonscription	PANOT	Mathilde	F	1989-01-15 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+94	Val-De-Marne			9411	11Ème Circonscription	TAILLE-POLIAN	Sophie	F	1974-10-04 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	Ermont	NUP	Nouvelle union populaire écologique et sociale
+95	Val-D'Oise			9501	1Ère Circonscription	CHANDLER	Emilie	F	1983-04-29 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	charleville mezières	ENS	Ensemble ! (Majorité présidentielle)
+95	Val-D'Oise			9502	2Ème Circonscription	VUILLETET	Guillaume	M	1967-06-20 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+95	Val-D'Oise			9503	3Ème Circonscription	RILHAC	Cécile	F	1974-04-21 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+95	Val-D'Oise			9504	4Ème Circonscription	MOUTCHOU	Naïma	F	1980-11-04 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+95	Val-D'Oise			9505	5Ème Circonscription	VANNIER	Paul	M	1985-09-19 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	vitry sur seine	NUP	Nouvelle union populaire écologique et sociale
+95	Val-D'Oise			9506	6Ème Circonscription	FOLEST	Estelle	F	1976-06-17 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00	vitry sur seine	ENS	Ensemble ! (Majorité présidentielle)
+95	Val-D'Oise			9507	7Ème Circonscription	DA SILVA	Dominique	M	1968-06-30 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00	l'isle adam	ENS	Ensemble ! (Majorité présidentielle)
+95	Val-D'Oise			9508	8Ème Circonscription	BILONGO	Carlos Martens	M	1990-12-31 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00	villiers le bel	NUP	Nouvelle union populaire écologique et sociale
+95	Val-D'Oise			9509	9Ème Circonscription	LE GALL	Arnaud	M	1980-11-29 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	carhaix plouguer	NUP	Nouvelle union populaire écologique et sociale
+95	Val-D'Oise			9510	10Ème Circonscription	TACHÉ	Aurélien	M	1984-05-26 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		NUP	Nouvelle union populaire écologique et sociale
+971	Guadeloupe			971	1Ère Circonscription	SERVA	Olivier	M	1974-06-21 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		DVG	Divers gauche
+971	Guadeloupe			97102	2Ème Circonscription	BAPTISTE	Christian	M	1962-06-18 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		DVG	Divers gauche
+971	Guadeloupe			97103	3Ème Circonscription	MATHIASIN	Max	M	1956-02-24 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		DVG	Divers gauche
+971	Guadeloupe			97104	4Ème Circonscription	CALIFER	Elie	M	1954-04-19 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	Saint-Claude	DVG	Divers gauche
+972	Martinique	972	Martinique	972	1Ère Circonscription	WILLIAM	Jiovanny	M	1985-06-03 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		DVG	Divers gauche
+972	Martinique	972	Martinique	97202	2Ème Circonscription	NADEAU	Marcellin	M	1962-11-02 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00	SAINT-PIERRE	REG	Régionaliste
+972	Martinique	972	Martinique	97203	3Ème Circonscription	HAJJAR	Johnny	M	1973-01-17 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00		DVG	Divers gauche
+972	Martinique	972	Martinique	97204	4Ème Circonscription	NILOR	Jean-Philippe	M	1965-05-15 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00		REG	Régionaliste
+973	Guyane	973	Guyane	973	1Ère Circonscription	CASTOR	Jean-Victor	M	1962-04-21 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		REG	Régionaliste
+973	Guyane	973	Guyane	97302	2Ème Circonscription	RIMANE	Davy	M	1979-12-15 00:00:00+00	47	Technicien	2022-06-22 00:00:00+00		DVG	Divers gauche
+974	La Réunion			974	1Ère Circonscription	NAILLET	Philippe	M	1960-08-14 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-06-22 00:00:00+00	Saint-Denis (974)	DVG	Divers gauche
+974	La Réunion			97402	2Ème Circonscription	LEBON	Karine	F	1985-06-09 00:00:00+00	42	Professeur des écoles, instituteur et assimilé	2022-06-22 00:00:00+00	LE PORT	DVG	Divers gauche
+974	La Réunion			97403	3Ème Circonscription	BASSIRE	Nathalie	F	1968-01-22 00:00:00+00	75	Ancienne profession intermédiaire	2022-06-22 00:00:00+00		DVD	Divers droite
+974	La Réunion			97404	4Ème Circonscription	KBIDI	Emeline	F	1987-05-13 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	SAINT-DENIS	DVG	Divers gauche
+974	La Réunion			97405	5Ème Circonscription	RATENON	Jean-Hugues	M	1967-06-25 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2022-06-22 00:00:00+00	SAINT BENOIT	DVG	Divers gauche
+974	La Réunion			97406	6Ème Circonscription	MAILLOT	Frédéric	M	1986-11-15 00:00:00+00	56	Personnel des services directs aux particuliers	2022-06-22 00:00:00+00	SAINT-PIERRE	DVG	Divers gauche
+974	La Réunion			97407	7Ème Circonscription	GAILLARD	Perceval	M	1983-04-24 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2022-06-22 00:00:00+00		DVG	Divers gauche
+976	Mayotte			976	1Ère Circonscription	YOUSSOUFFA	Estelle	F	1978-07-31 00:00:00+00	35	Profession de l'information, des arts et des spectacles	2022-06-22 00:00:00+00	CHATENAY MALABRY	DIV	Divers
+976	Mayotte			97602	2Ème Circonscription	KAMARDINE	Mansour	M	1959-03-23 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00		LR	Les Républicains
+ZZ	Français Établis Hors De France			ZZ01	1Ère Circonscription	WEISSBERG	Christopher	M	1985-11-26 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-08-04 00:00:00+00	neuilly sur seine	ENS	Ensemble ! (Majorité présidentielle)
+ZZ	Français Établis Hors De France			ZZ03	3Ème Circonscription	HOLROYD	Alexandre	M	1987-05-17 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	Bâle	ENS	Ensemble ! (Majorité présidentielle)
+ZZ	Français Établis Hors De France			ZZ04	4Ème Circonscription	ANGLADE	Pieyre-Alexandre	M	1986-11-02 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+ZZ	Français Établis Hors De France			ZZ05	5Ème Circonscription	VOJETTA	Stéphane	M	1974-07-19 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2022-06-22 00:00:00+00		DVC	Divers centre
+ZZ	Français Établis Hors De France			ZZ06	6Ème Circonscription	FERRACCI	Marc	M	1977-12-19 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+ZZ	Français Établis Hors De France			ZZ07	7Ème Circonscription	PETIT	Frédéric	M	1961-02-10 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+ZZ	Français Établis Hors De France			ZZ10	10Ème Circonscription	LAKRAFI	Amélia	F	1978-03-20 00:00:00+00	72	Ancien artisan, commerçant, chef d'entreprise	2022-06-22 00:00:00+00	Maroc	ENS	Ensemble ! (Majorité présidentielle)
+ZZ	Français Établis Hors De France			ZZ11	11Ème Circonscription	GENETET	Anne	F	1963-04-20 00:00:00+00	31	Profession libérale	2022-06-22 00:00:00+00	NEUILLY	ENS	Ensemble ! (Majorité présidentielle)
+		975	Saint-Pierre-Et-Miquelon	975	Saint-Pierre-Et-Miquelon	LENORMAND	Stéphane	M	1964-08-13 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	SAINT-PIERRE	DVD	Divers droite
+		986	Wallis Et Futuna	986	1Ère Circonscription	SEO	Mikaele	M	1971-12-27 00:00:00+00	45	Profession intermédiaire administrative de la fonction publique	2022-06-22 00:00:00+00	Uvea	DVC	Divers centre
+		987	Polynésie Française	987	1Ère Circonscription	LE GAYIC	Tematai	M	2000-10-11 00:00:00+00	84	Elève, étudiant	2022-06-22 00:00:00+00		REG	Régionaliste
+		987	Polynésie Française	98702	2Ème Circonscription	CHAILLOUX	Steve	M	1985-11-04 00:00:00+00	34	Professeur, profession scientifique	2022-06-22 00:00:00+00		REG	Régionaliste
+		987	Polynésie Française	98703	3Ème Circonscription	BROTHERSON	Moetai	M	1969-10-22 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		REG	Régionaliste
+		988	Nouvelle-Calédonie	988	1Ère Circonscription	DUNOYER	Philippe	M	1968-01-11 00:00:00+00	33	Cadre de la fonction publique	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+		988	Nouvelle-Calédonie	98802	2Ème Circonscription	METZDORF	Nicolas	M	1988-05-20 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2022-06-22 00:00:00+00		ENS	Ensemble ! (Majorité présidentielle)
+		ZX	Saint-Martin / Saint-Barthélémy	977	1Ère Circonscription	GUMBS	Frantz	M	1954-01-21 00:00:00+00	74	Ancien cadre	2022-06-22 00:00:00+00	saint-martin	DVC	Divers centre

@@ -1,0 +1,80 @@
+nom_elu	prenom_elu	sexe_elu	date_naissance_elu	code_categorie_socio_professionnelle	libelle_categorie_socio_professionnelle	date_debut_mandat	lieu_naissance_elu	code_nuance_mandat	libelle_nuance_mandat
+ALFONSI	François	M	1953-09-14 00:00:00+00	38	Ingénieur et cadre technique d'entreprise	2019-05-26 00:00:00+00	AJACCIO	REG	Régionaliste
+ANDRIEU	Éric	M	1960-04-14 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00		SOC	Socialiste
+ANDROUËT	Mathilde	F	1984-07-03 00:00:00+00	120	Employé (secteur privé) (obsolète)	2019-05-26 00:00:00+00		RN	Rassemblement National
+AUBRY	Manon	F	1989-12-22 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2019-05-26 00:00:00+00	FREJUS	FI	La France insoumise
+BARDELLA	Jordan	M	1995-09-13 00:00:00+00	33	Cadre de la fonction publique	2019-05-26 00:00:00+00	Drancy	RN	Rassemblement National
+BAY	Nicolas	M	1977-12-21 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-26 00:00:00+00	SAINT-GERMAIN-EN-LAYE (78)	RN	Rassemblement National
+BEIGNEUX	Aurélia	F	1980-06-02 00:00:00+00	43	Profession intermédiaire de la santé et du travail social	2019-05-26 00:00:00+00	RILLE	RN	Rassemblement National
+BELLAMY	François-Xavier	M	1985-10-11 00:00:00+00	142	Professeur du secondaire et techn. (obsolète)	2019-05-26 00:00:00+00	PARIS 13	LR	Les Républicains
+BIJOUX	Stéphane	M	1970-10-08 00:00:00+00	137	Journaliste et autre média (obsolète)	2019-05-26 00:00:00+00	Saint-Denis	REM	La République en marche
+BILDE	Dominique	F	1953-08-01 00:00:00+00	139	Autre profession libérale (obsolète)	2019-05-26 00:00:00+00	Nancy	RN	Rassemblement National
+BITEAU	Benoît	M	1967-04-07 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-26 00:00:00+00		DVG	Divers gauche
+BOYER	Gilles	M	1971-07-04 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	Paris	DVD	Divers droite
+BRUNA	Annika	F	1956-11-26 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	Versailles	RN	Rassemblement National
+BRUNET	Sylvie	F	1959-03-12 00:00:00+00	34	Professeur, profession scientifique	2019-05-26 00:00:00+00	VERSAILLES	MDM	Modem
+CANFIN	Pascal	M	1974-08-22 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2019-05-26 00:00:00+00	Arras	ECO	Ecologiste
+CAREME	Damien	M	1960-11-16 00:00:00+00	156	Autre profession (obsolète)	2019-05-26 00:00:00+00	Joeuf	VEC	Europe Ecologie - Les Verts
+CHABAUD	Catherine	F	1962-11-29 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-26 00:00:00+00	Bron	MDM	Modem
+CHAGNON	Patricia	F	1963-11-20 00:00:00+00	31	Profession libérale	2022-08-04 00:00:00+00	Eindhoven	RN	Rassemblement National
+CHAIBI	Leïla	F	1982-10-05 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-26 00:00:00+00	Dijon	FI	La France insoumise
+CICUREL	Ilana	F	1972-02-08 00:00:00+00	31	Profession libérale	2020-02-01 00:00:00+00	PARIS 16ÈME	REM	La République en marche
+COLIN-OESTERLÉ	Nathalie	F	1965-05-05 00:00:00+00	31	Profession libérale	2019-05-26 00:00:00+00	Ollioules	UDI	Union des Démocrates et des Indépendants
+COLLARD	Gilbert	M	1948-02-03 00:00:00+00	129	Avocat (obsolète)	2019-05-26 00:00:00+00	Vauvert	RN	Rassemblement National
+CORMAND	David	M	1974-11-30 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-26 00:00:00+00		VEC	Europe Ecologie - Les Verts
+DANJEAN	Arnaud	M	1971-02-11 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-26 00:00:00+00	Louhans	LR	Les Républicains
+DAUCHY	Marie	F	1987-02-05 00:00:00+00	55	Employé de commerce	2022-08-04 00:00:00+00		RN	Rassemblement National
+DECERLE	Jérémy	M	1984-07-01 00:00:00+00	12	Agriculteur sur moyenne exploitation	2019-05-26 00:00:00+00	Saint-Rémy	REM	La République en marche
+DELBOS-CORFIELD	Gwendoline	F	1977-03-08 00:00:00+00	150	Cadre sup. (entreprises publiques) (obsolète)	2019-05-26 00:00:00+00	Solihull, Midlands (RU)	VEC	Europe Ecologie - Les Verts
+DELLI	Karima	F	1979-03-04 00:00:00+00	33	Cadre de la fonction publique	2019-05-26 00:00:00+00	Roubaix	VEC	Europe Ecologie - Les Verts
+DIDIER	Geoffroy	M	1976-04-12 00:00:00+00	31	Profession libérale	2019-05-26 00:00:00+00	BOULOGNE BILLANCOURT	LR	Les Républicains
+DURAND	Pascal	M	1960-10-03 00:00:00+00	129	Avocat (obsolète)	2019-05-26 00:00:00+00	Montreuil	ECO	Ecologiste
+EVREN	Agnès	F	1970-12-27 00:00:00+00	56	Personnel des services directs aux particuliers	2019-05-26 00:00:00+00	PARIS 12E	LR	Les Républicains
+FARRENG	Laurence	F	1966-09-06 00:00:00+00	85	Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)	2019-05-26 00:00:00+00	NIMES	MDM	Modem
+GARRAUD	Jean-Paul	M	1956-02-27 00:00:00+00	33	Cadre de la fonction publique	2019-05-26 00:00:00+00	Toulouse	RN	Rassemblement National
+GLUCKSMANN	Raphaël	M	1979-10-15 00:00:00+00	138	Homme de lettres et Artiste (obsolète)	2019-05-26 00:00:00+00	BOULOGNE-BILLANCOURT	DVG	Divers gauche
+GOZI	Sandro	M	1968-03-25 00:00:00+00	33	Cadre de la fonction publique	2020-02-01 00:00:00+00	SOGLIANO AL RUBICONE (99)	REM	La République en marche
+GRISET	Catherine	F	1972-08-20 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	Boulogne-sur-Mer	RN	Rassemblement National
+GRUDLER	Christophe	M	1965-04-09 00:00:00+00	22	Commerçant et assimilé	2019-05-26 00:00:00+00	Belfort 90	MDM	Modem
+GRUFFAT	Claude	M	1957-09-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2020-02-01 00:00:00+00	RUMILLY	VEC	Europe Ecologie - Les Verts
+GUETTA	Bernard	M	1951-01-28 00:00:00+00	137	Journaliste et autre média (obsolète)	2019-05-26 00:00:00+00	Boulogne-Billancourt	REM	La République en marche
+GUILLAUME	Sylvie	F	1962-06-11 00:00:00+00	157	Sans profession déclarée (obsolète)	2019-05-26 00:00:00+00	Antony	SOC	Socialiste
+HAYER	Valérie	F	1986-04-06 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2019-05-26 00:00:00+00	Château-Gontier	REM	La République en marche
+HORTEFEUX	Brice	M	1958-05-11 00:00:00+00	33	Cadre de la fonction publique	2019-05-26 00:00:00+00	NEUILLY SUR SEINE	LR	Les Républicains
+JADOT	Yannick	M	1967-07-27 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2019-05-26 00:00:00+00	Clacy-et-Thierret	VEC	Europe Ecologie - Les Verts
+JALKH	Jean-François	M	1957-05-23 00:00:00+00	137	Journaliste et autre média (obsolète)	2019-05-26 00:00:00+00	Tournan-en-Brie	RN	Rassemblement National
+JAMET	France	F	1961-02-05 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	Paris 15	RN	Rassemblement National
+JORON	Virginie	F	1973-12-11 00:00:00+00	119	Autre cadre (secteur privé) (obsolète)	2019-05-26 00:00:00+00	Troyes	RN	Rassemblement National
+JUVIN	Hervé	M	1956-01-29 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2019-05-26 00:00:00+00		RN	Rassemblement National
+KARLESKIND	Pierre	M	1979-10-19 00:00:00+00	156	Autre profession (obsolète)	2019-05-26 00:00:00+00	Melun	REM	La République en marche
+KELLER	Fabienne	F	1959-10-20 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-26 00:00:00+00	Sélestat	DVD	Divers droite
+LACAPELLE	Jean-Lin	M	1967-04-17 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2020-02-01 00:00:00+00		RN	Rassemblement National
+LALUCQ	Aurore	F	1979-04-17 00:00:00+00	118	Cadre supérieur (secteur privé) (obsolète)	2019-05-26 00:00:00+00	Longjumeau	DVG	Divers gauche
+LARROUTUROU	Pierre	M	1964-10-19 00:00:00+00	156	Autre profession (obsolète)	2019-05-26 00:00:00+00	Périgueux	DVG	Divers gauche
+LEBRETON	Gilles	M	1958-10-11 00:00:00+00	141	Professeur de faculté (obsolète)	2019-05-26 00:00:00+00	Brest	RN	Rassemblement National
+LOISEAU	Nathalie	F	1964-06-01 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-26 00:00:00+00	Neuilly-sur-Seine	REM	La République en marche
+MARIANI	Thierry	M	1958-08-08 00:00:00+00	74	Ancien cadre	2019-05-26 00:00:00+00	Orange	RN	Rassemblement National
+MAUREL	Emmanuel	M	1973-05-10 00:00:00+00	144	Profession rattachée à enseignt. (obsolète)	2019-05-26 00:00:00+00		DVG	Divers gauche
+MEBAREK	Nora	F	1972-07-22 00:00:00+00	151	Cadre (entreprises publiques) (obsolète)	2020-02-01 00:00:00+00	Port-Saint-Louis-du-Rhône (13)	SOC	Socialiste
+MESURE	Marina	F	1977-07-12 00:00:00+00	55	Employé de commerce	2022-08-04 00:00:00+00		FI	La France insoumise
+MINARDI	Eric	M	1956-03-18 00:00:00+00	23	Chef d'entreprise de 10 salariés ou plus	2022-08-04 00:00:00+00		RN	Rassemblement National
+MORANO	Nadine	F	1963-11-06 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2019-05-26 00:00:00+00	NANCY	LR	Les Républicains
+OLIVIER	Philippe	M	1961-08-30 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	Juvisy-sur-Orge	RN	Rassemblement National
+OMARJEE	Younous	M	1969-09-30 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	SAINT-DENIS (974)	FI	La France insoumise
+ORVILLE	Max	M	1959-01-01 00:00:00+00	143	Enseignant 1er deg.-directeur école (obsolète)	2022-06-06 00:00:00+00		MDM	Modem
+PELLETIER	Anne-Sophie	F	1976-02-05 00:00:00+00	121	Ouvrier (secteur privé) (obsolète)	2019-05-26 00:00:00+00	Besançon	FI	La France insoumise
+PIRBAKAS	Maxette	F	1975-04-14 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-26 00:00:00+00		RN	Rassemblement National
+RIQUET	Dominique	M	1946-09-18 00:00:00+00	165	Autre retraité (obsolète)	2019-05-26 00:00:00+00	VALENCIENNES (59)	DVD	Divers droite
+RIVASI	Michèle	F	1953-02-09 00:00:00+00	151	Cadre (entreprises publiques) (obsolète)	2019-05-26 00:00:00+00	MONTELIMAR	VEC	Europe Ecologie - Les Verts
+RIVIERE	Jérôme	M	1964-07-08 00:00:00+00	105	Industriel-Chef entreprise (obsolète)	2019-05-26 00:00:00+00	Suresnes	RN	Rassemblement National
+ROOSE	Caroline	F	1968-11-10 00:00:00+00	110	Artisan (obsolète)	2019-05-26 00:00:00+00	Ostende (Belgique)	VEC	Europe Ecologie - Les Verts
+ROUGÉ	André	M	1961-12-23 00:00:00+00	156	Autre profession (obsolète)	2019-05-26 00:00:00+00	Paris	RN	Rassemblement National
+SANDER	Anne	F	1973-10-01 00:00:00+00	46	Profession intermédiaire administrative et commerciale des entreprises	2019-05-26 00:00:00+00		LR	Les Républicains
+SATOURI	Mounir	M	1975-05-25 00:00:00+00	156	Autre profession (obsolète)	2019-05-26 00:00:00+00	Casablanca (Maroc)	VEC	Europe Ecologie - Les Verts
+SÉJOURNÉ	Stéphane	M	1985-03-26 00:00:00+00	154	Permanent politique (obsolète)	2019-05-26 00:00:00+00	Versailles	REM	La République en marche
+TOLLERET	Irène	F	1967-08-17 00:00:00+00	101	Agriculteur propriétaire exploit. (obsolète)	2019-05-26 00:00:00+00	Béziers	REM	La République en marche
+TOUSSAINT	Marie	F	1987-05-27 00:00:00+00	156	Autre profession (obsolète)	2019-05-26 00:00:00+00	Lille	VEC	Europe Ecologie - Les Verts
+TRILLET-LENOIR	Véronique	F	1957-06-12 00:00:00+00	141	Professeur de faculté (obsolète)	2019-05-26 00:00:00+00	Lyon	REM	La République en marche
+VEDRENNE	Marie-Pierre	F	1982-12-13 00:00:00+00	37	Cadre administratif et commercial d'entreprise	2019-05-26 00:00:00+00	Limoges	MDM	Modem
+YENBOU	Salima	F	1971-03-14 00:00:00+00	147	Fonctionnaire de catégorie A (obsolète)	2019-05-26 00:00:00+00		VEC	Europe Ecologie - Les Verts
+YON-COURTIN	Stéphanie	F	1974-03-28 00:00:00+00	31	Profession libérale	2019-05-26 00:00:00+00	Coutances	DVD	Divers droite
